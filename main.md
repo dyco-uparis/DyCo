@@ -668,7 +668,7 @@ $$\begin{aligned}
 \label{FLUXES1}\Phi_{+}  &  = \frac{F_{\mathrm{iso}}I_{M}/{\eta}_{\mathrm{C}%
 }+B}{I_{T}+I_{M}}~I_{T}\\
 \label{FLUXES2}\Phi_{-}  &  = R_{M}I_{M}^{2}+\frac{R_{\mathrm{fb}}I_{M}^{2}+{F_{\mathrm{iso}%
-}}\left(  \frac{1}{{\eta}_{\mathrm{C}}}-1\right)  I_{M}+B}{I_{T}+I_{M}}~I_{T}%\end{aligned}$$
+}}\left(  \frac{1}{{\eta}}_{\mathrm{C}}}-1\right)  I_{M}+B}{I_{T}+I_{M}}~I_{T}%\end{aligned}$$
 
 where all the quantities are defined in Table
 [\[table2\]](#table2){reference-type="ref" reference="table2"}. In order
