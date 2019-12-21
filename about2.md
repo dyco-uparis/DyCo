@@ -3,4 +3,4 @@ layout: page
 title: About sans histoire
 ---
 
-NOUVEL ESSAI !
+$y = x^2 \hbox{ when $x > 2$}$
