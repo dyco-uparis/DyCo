@@ -929,7 +929,7 @@ rejection side, by minimizing \(R_{-}\), is now of equal importance.
 ## Internal dissipation devices
 
 For internally dissipated devices, the term \(R_{2}\) produces a
-quadratic dissipation \(R_{2}I_{2}{{n}^{2}}\). We have seen before that
+quadratic dissipation \(R_{2}I_{2}^{2}\). We have seen before that
 the presence of \(R_{2}\) never brings any advantage in terms of energy
 conversion since it only contributes to lowering the power available at
 the output of the system. As this dissipation diffuses into the system,
