@@ -2,7 +2,7 @@
 markdown:         kramdown
 pygments:         false
 highlighter:	  rouge
-
+math_engine:    true
 
 # Permalinks
 permalink:        pretty
