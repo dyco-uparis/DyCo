@@ -4,7 +4,9 @@ title: About sans histoire
 ---
 
 
-avant
+Je veux une équation en ligne par exemple \$$\Delat E_c = \frac{1}{2}mv^2$$ et une équation séparée:
+
+
 
 $$
 \begin{align*}
