@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About sans histoire
-use_math: true
 ---
 
 
