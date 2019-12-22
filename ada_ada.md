@@ -1,3 +1,8 @@
+---
+layout: page
+title: Adaptable adapte
+---
+
 # Introduction
 
 The issue of energy conversion is the subject of historical debate.
