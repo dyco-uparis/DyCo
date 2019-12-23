@@ -31,4 +31,7 @@ $$
 $$
 
 
-après
+après on met une belle image
+
+![le titre !](/images/Image1.png){:class="img-responsive"}
+
