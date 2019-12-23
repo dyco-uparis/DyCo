@@ -33,5 +33,5 @@ $$
 
 après on met une belle image
 
-![le titre !](/images/Image1.png){:height="360px" width="360px"}
+![le titre !](/images/Image1.png){: width="600px"}
 
