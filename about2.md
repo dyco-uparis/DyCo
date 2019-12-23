@@ -4,7 +4,13 @@ title: About sans histoire
 ---
 
 
-Je veux une équation en ligne par exemple $$ \Delta E_c = \frac{1}{2}mv^2 $$ et une équation séparée et ça alors \( \Delta E_c = \frac{1}{2}mv^2 \) ou alors ça
+Je veux une équation en ligne par exemple $$ \Delta E_c = \frac{1}{2}mv^2 $$ et une équation séparée et ça alors \\( \Delta E_c = \frac{1}{2}mv^2 \\) ou alors ça
+
+
+Je veux une équation en bloc par exemple 
+$$ \Delta E_c = \frac{1}{2}mv^2 $$ 
+et une équation séparée \\[ \Delta E_c = \frac{1}{2}mv^2 \\] ou alors ça
+
 
 
 $$
