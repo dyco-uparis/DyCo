@@ -4,38 +4,28 @@ title: Thermodynamique à temps fini
 ---
 
 
-Je veux une équation en ligne par exemple $$ \Delta E_c = \frac{1}{2}mv^2 $$ et une équation séparée 
+<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+</p>
 
-$$ \Delta E_c = \frac{1}{2}mv^2 $$
+In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
+There are currently two themes built on Poole:
 
+* [Hyde](http://hyde.getpoole.com)
+* [Lanyon](http://lanyon.getpoole.com)
 
-Je veux une équation en ligne par exemple \( \Delta E_c = \frac{1}{2}mv^2 \) et une équation séparée 
-\[ \Delta E_c = \frac{1}{2}mv^2 \]
+Learn more and contribute on [GitHub](https://github.com/poole).
 
-Je veux une équation en ligne par exemple \\( \Delta E_c = \frac{1}{2}mv^2 \\) et une équation séparée 
-\\[ \Delta E_c = \frac{1}{2}mv^2 \\]
+## Setup
 
+Some fun facts about the setup of this project include:
 
-$$
-\begin{align*}
-  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
-  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
-  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
-      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
-      \vdots & \ddots & \vdots \\
-      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
-    \end{array} \right)
-  \left( \begin{array}{c}
-      y_1 \\
-      \vdots \\
-      y_n
-    \end{array} \right)
-\end{align*}
-$$
+* Built for [Jekyll](http://jekyllrb.com)
+* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
+* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
-après on met une belle image
-
-![le titre !](/images/Image1.png){: width="600px"}
-
+Thanks for reading!
