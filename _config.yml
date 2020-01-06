@@ -9,21 +9,21 @@ mathjax:          true
 permalink:        pretty
 
 # Setup
-title:            Lanyon
-tagline:          'A Jekyll theme'
+title:            Dyco 
+tagline:          '-- Dynamiques Couplées --'
 description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              http://lanyon.getpoole.com
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'DyCo'
+  url:            http://dyco.lied.univ-paris-diderot.fr/
 
 paginate:         5
 
 # Custom vars
-version:          2.0.0
+version:          0.1
 
 github:
-  repo:           https://github.com/poole/lanyon
+  repo:           https://github.com/dyco-uparis/DyCo
 
 theme: jekyll-theme-slate
