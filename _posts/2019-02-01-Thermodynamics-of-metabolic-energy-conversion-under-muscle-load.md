@@ -4,7 +4,7 @@ title: Thermodynamics of metabolic energy conversion under muscle load
 ---
 
 This paper is part of the analysis of the metabolic behaviour of living system. 
-It constitutes the theoretical side of our approach, which relies on the formalism of finite time thermodynamics to give a solid basis to the phenomenological behaviours observed in the case of muscle. This work is directly related to the notion of the range of adaptation of a living organism to its environment, which we are developing in a series of other articles currently being written. 
+It constitutes the theoretical side of our approach, which relies on the formalism of [finite time thermodynamics](/FTT) to give a solid basis to the phenomenological behaviours observed in the case of muscle. This work is directly related to the notion of the range of adaptation of a living organism to its environment, which we are developing in a series of other articles currently being written. 
 
 
 ### Author
