@@ -21,5 +21,5 @@ The metabolic processes complexity is at the heart of energy conversion in livin
 
 | ![imageNJP](/images/NJP6.jpg){: width="600px"} |
 |:--:| 
-| *Space* |
+| *Légende à ajouter* |
 
