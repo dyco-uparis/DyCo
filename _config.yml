@@ -9,7 +9,7 @@ mathjax:          true
 permalink:        pretty
 
 # Setup
-title:            "/public/apple-touch-icon-144-precomposed.png" DyCo 
+title:            DyCo 
 tagline:          'Dynamiques Couplées -- Coupled Dynamics'
 description:      'METTRE À JOUR LA DESCRIPTION ICI'
 url:              http://lanyon.getpoole.com
