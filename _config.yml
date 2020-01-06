@@ -17,6 +17,7 @@ url:              http://lanyon.getpoole.com
 author:
   name:           'DyCo'
   url:            http://dyco.lied.univ-paris-diderot.fr/
+  avatar:         "/public/apple-touch-icon-144-precomposed.png"
 
 paginate:         5
 
