@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About sans histoire
+title: Éric Herbert
 ---
 
 
