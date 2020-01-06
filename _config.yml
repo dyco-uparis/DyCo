@@ -13,7 +13,7 @@ title:            DyCo
 tagline:          'Dynamiques Couplées -- Coupled Dynamics'
 description:      'METTRE À JOUR LA DESCRIPTION ICI'
 url:              http://lanyon.getpoole.com
-logo:             "/public/apple-touch-icon-144-precomposed.png"
+#logo:             "/public/apple-touch-icon-144-precomposed.png"
 
 author:
   name:           'DyCo'
