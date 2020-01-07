@@ -3,7 +3,23 @@ layout: page
 title: Éric Herbert
 ---
 
-Il y a aussi bien sur [cette page](/_other_pages/hidden.md) à voir 
+Dans cette page on trouvera des [publications](#Publications) et des [équations](#Équations)
+
+
+### Contenu
+- [publications](#Publications)
+- [équations](#Équations)
+    - [première partie](#partie 1)
+    - [seconde partie](#partie 2)
+
+ailleurs sur le site il il y a aussi bien sur [cette page](/_other_pages/hidden) à voir 
+
+### Publications
+
+
+### Équations
+
+#### partie 1
 
 Je veux une équation en ligne par exemple $$ \Delta E_c = \frac{1}{2}mv^2 $$ et une équation séparée 
 
@@ -35,6 +51,7 @@ $$
 \end{align*}
 $$
 
+#### partie 2
 
 après on met une belle image
 
