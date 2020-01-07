@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thermodynamics of metabolic energy conversion under muscle load
+title: Adapted or Adaptable: How to Manage Entropy Production ? 
 ---
 
 This paper is a second part of the analysis of the metabolic behaviour of living system.
