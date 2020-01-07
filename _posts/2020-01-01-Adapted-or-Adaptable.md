@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: Thermodynamics of metabolic energy conversion under muscle load
 ---
 
 This paper is a second part of the analysis of the metabolic behaviour of living system.
