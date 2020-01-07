@@ -3,8 +3,6 @@ layout: page
 title: Éric Herbert
 ---
 
-Dans cette page on trouvera des [publications](#Publications) et des [équations](#Équations)
-
 
 ### Contenu
 - [publications](#Publications)
