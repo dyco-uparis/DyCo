@@ -3,7 +3,6 @@ layout: page
 title: Éric Herbert
 ---
 
-Il y a aussi bien sur [cette page](/_other_pages/hidden.md) à voir 
 
 Je veux une équation en ligne par exemple $$ \Delta E_c = \frac{1}{2}mv^2 $$ et une équation séparée 
 
