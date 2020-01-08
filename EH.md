@@ -10,7 +10,7 @@ title: Éric Herbert
     - [première partie](#partie 1)
     - [seconde partie](#partie 2)
 
-ailleurs sur le site il il y a aussi bien sur [cette page](/README) à voir 
+ailleurs sur le site il il y a aussi bien sur [cette page](/README.md) à voir 
 
 ### Publications
 
