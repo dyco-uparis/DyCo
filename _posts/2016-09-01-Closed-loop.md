@@ -28,7 +28,7 @@ provides a versatile and economical, hence fairly efficient, tool for the study 
 for which a feedback factor can be defined.
 
 
-| ![imageNJP](/images/ClosedLoop8.pdf){: width="600px"} |
+| ![imageclosedloop](/images/ClosedLoop8.jpg){: width="600px"} |
 |:--:| 
 | *Légende à ajouter* |
 
