@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Éric Herbert
+layout: hidden_page
+title: test de page cachée
 ---
 
 
@@ -9,8 +9,6 @@ title: Éric Herbert
 - [équations](#Équations)
     - [première partie](#partie 1)
     - [seconde partie](#partie 2)
-
-ailleurs sur le site il il y a aussi bien sur [cette page](/hidden_EH.md) à voir 
 
 ### Publications
 
