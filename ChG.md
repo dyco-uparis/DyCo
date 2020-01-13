@@ -4,7 +4,7 @@ title: Christophe Goupil
 ---
 
 
-Je veux une équation en ligne par exemple $$ \Delta E_c = \frac{1}{2}mv^2 $$ et une équation séparée 
+Je veux toto, $$\frac{A}{\alpha}$$ une équation en ligne par exemple $$ \Delta E_c = \frac{1}{2}mv^2 $$ et une équation séparée 
 
 $$ \Delta E_c = \frac{1}{2}mv^2 $$
 
