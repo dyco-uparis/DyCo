@@ -3,30 +3,40 @@ layout: page
 title: Christophe Goupil
 ---
 
-## Résumé
+# Résumé
 Christophe Goupil est professeur de Physique à l'Université de Paris. Son activité de recherche est principalement axée sur la  thermodynamique hors équilibre linéaire et la physique de la matière condensée. 
 
-## Formation
+# Formation
 Agrégation de Physique. (1990)
 Doctorat de Physique.  
 
-### Enseignement
+## Enseignement
 
-### Recherche
+## Recherche
 
-#### Conversion énergie-matière
+### Conversion énergie-matière
 
-#### Approche thermodynamique du métabolisme à l'effort
+### Approche thermodynamique du métabolisme à l'effort
 
-#### Macro-Economie
+### Macro-Economie
 
-#### Approche thermodynamique du métabolisme
+### Approche thermodynamique du métabolisme
 
-#### Capteur de fond diffus Cosmologique, MKIDS
+### Capteur de fond diffus Cosmologique, MKIDS
 
-### Enseignement
+## Enseignement
 
-### Diffusion Grand Public
+## Diffusion Grand Public
+
+## Enseignement
+
+### Introduction à la physique des semiconducteurs
+
+### Electronique analogique
+
+### Thermodynamique
+
+### Thermoélectricité
 
 
 Je veux toto, $$\frac{A}{\alpha}$$ une équation en ligne par exemple $$ \Delta E_c = \frac{1}{2}mv^2 $$ et une équation séparée 
