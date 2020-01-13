@@ -6,7 +6,7 @@ title: Christophe Goupil
 # Gros
 ## plus petit
 ### petit
-##### minus
+##### minuser
 
 Je veux toto, $$\frac{A}{\alpha}$$ une équation en ligne par exemple $$ \Delta E_c = \frac{1}{2}mv^2 $$ et une équation séparée 
 
