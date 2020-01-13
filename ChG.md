@@ -4,7 +4,8 @@ title: Christophe Goupil
 ---
 
 # Résumé
-Christophe Goupil est professeur de Physique à l'Université de Paris. Son activité de recherche est principalement axée sur la  thermodynamique hors équilibre linéaire et la physique de la matière condensée. 
+Je suis professeur de Physique à l'Université de Paris (Diderot). Mon activité de recherche est principalement axée sur la  thermodynamique hors équilibre linéaire et la physique de la matière condensée. Je travaille au sein du laboratoire LIED dont je suis le directeur-adjoint. Mes travaux concernent la conversion énergie-matière basée sur une approche de type Onsager. Les développements de ces recherches concernent plusieurs domaines,  thermodynamique du métabolisme, mais aussi la Modélisation Macroéconomique dans un monde fini. Tous ces travaux nourrissent mon engagement au sein du Campus de la Transition Ecologique dont la la mission est la formation et l'acquisition de compétences interdisciplinaires. Par ailleurs, je poursuis des travaux en physique de la matière condensée dans les domaines de la Thermoélectricité, et la supraconductivité, via le développement de capteurs du fond diffus cosmologique de type MKIDS ajustables.
+
 
 # Formation
 Agrégation de Physique. (1990)
@@ -19,8 +20,6 @@ Doctorat de Physique.
 ### Approche thermodynamique du métabolisme à l'effort
 
 ### Macro-Economie
-
-### Approche thermodynamique du métabolisme
 
 ### Capteur de fond diffus Cosmologique, MKIDS
 
