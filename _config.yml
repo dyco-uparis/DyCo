@@ -4,6 +4,8 @@ pygments:         false
 highlighter:      rouge
 mathjax:          true
 
+scholar:
+  style: mla
 
 # Permalinks
 permalink:        pretty
