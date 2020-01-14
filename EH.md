@@ -5,7 +5,7 @@ csl: ieee.csl
 bibliography: doc_eh/herbert.bib
 ---
 
-test de ref {% cite caupin_cavitation_2006 %}
+[//]: test de ref {% cite caupin_cavitation_2006 %}
 
 ### Contenu
 - [publications](#Publications)
@@ -17,11 +17,11 @@ ailleurs sur le site il il y a aussi bien sur [cette page](/hidden_EH.md) à voi
 
 ### Publications
 
-{% bibliography --cited %}
+[//]: {% bibliography --cited %}
 
 ### Équations
 
-{% bibliography %}
+[//]: {% bibliography %}
 
 #### partie 1
 
