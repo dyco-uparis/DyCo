@@ -1,8 +1,11 @@
 ---
 layout: page
 title: Éric Herbert
+csl: ieee.csl
+bibliography: doc_eh/herbert.bib
 ---
 
+test de ref {% cite caupin_cavitation_2006 %}
 
 ### Contenu
 - [publications](#Publications)
@@ -14,8 +17,11 @@ ailleurs sur le site il il y a aussi bien sur [cette page](/hidden_EH.md) à voi
 
 ### Publications
 
+{% bibliography --cited %}
 
 ### Équations
+
+{% bibliography %}
 
 #### partie 1
 
@@ -24,12 +30,13 @@ Je veux une équation en ligne par exemple $$ \Delta E_c = \frac{1}{2}mv^2 $$ et
 $$ \Delta E_c = \frac{1}{2}mv^2 $$
 
 
-
 Je veux une équation en ligne par exemple \( \Delta E_c = \frac{1}{2}mv^2 \) et une équation séparée 
 \[ \Delta E_c = \frac{1}{2}mv^2 \]
 
 Je veux une équation en ligne par exemple \\( \Delta E_c = \frac{1}{2}mv^2 \\) et une équation séparée 
 \\[ \Delta E_c = \frac{1}{2}mv^2 \\]
+
+#Bibliographie
 
 
 $$
