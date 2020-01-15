@@ -4,8 +4,6 @@ pygments:         false
 highlighter:      rouge
 mathjax:          true
 
-scholar:
-  style: mla
 
 # Permalinks
 permalink:        pretty
@@ -22,7 +20,14 @@ author:
   url:            http://dyco.lied.univ-paris-diderot.fr/
   avatar:         "/public/apple-touch-icon-144-precomposed.png"
 
+plugins:
+  - jekyll-paginate
+  - jekyll-scholar    
+
 paginate:         5
+
+scholar:
+   style: apa
 
 # Custom vars
 version:          0.1
