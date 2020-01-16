@@ -17,11 +17,11 @@ ailleurs sur le site il il y a aussi bien sur [cette page](/hidden_EH) à voir
 ### Publications
 une citation qui marche {% cite caupin_comment_2008 --file herbert_publis %}
 
-### Équations
+### Publications filtrées
 
 {% bibliography --file herbert_publis --cited %}
 
-### biblio complete
+### biblio complete 
 
 {% bibliography --file herbert_publis %}
 
