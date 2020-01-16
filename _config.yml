@@ -22,12 +22,9 @@ author:
 
 plugins:
   - jekyll-paginate
-  - jekyll-scholar    
 
 paginate:         5
 
-scholar:
-   style: apa
 
 # Custom vars
 version:          0.1
