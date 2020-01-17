@@ -9,12 +9,12 @@ bibliography: doc_eh/herbert.bib
 
 ### Contenu
 - [Présentation](#presentation)
-- [recherche](#recherche)
+- [Recherche](#recherche)
     - [Thermodynamique](#thermo)
         - [Systèmes vivants](#livingsystems)
         - [Économie](#eco)
     - [Croissance réseau fongique](#thalle)
-
+    - [Impact des énergies de flux sur la production agricole](#poulets)
 
 ## Présentation succinte <a name="presentation"></a>
 
@@ -50,13 +50,25 @@ Actuellement mes recherches sont essentiellement axées sur la thermodynamique e
 ### Thermodynamique <a name="thermo"></a>
 Avec [Christophe Goupil](/ChG).
 
+#### Thermodynamique modale
+ici on parle du [loop](/2016/09/01/Closed-loop)
+On trouvera plus de détails sur la [page](/FTT)
+
 #### Systèmes vivants <a name="livingsystems"></a>
+ici on parle du [NJP](/2019/02/01/Thermodynamics-of-metabolic-energy-conversion-under-muscle-load) et du [entropy](/2020/01/01/Adapted-or-Adaptable/)
+On trouvera plus de détails sur la [page](/thermo_metabo)
 
 #### Économie <a name="eco"></a>
+On trouvera plus de détails sur la [page](/EcoDyco)
+
+
 
 ### Croissance réseau fongique <a name="thalle"></a>
 Avec les biologistes de l'équipe [B2C](http://www.lied-pieri.univ-paris-diderot.fr/spip.php?article242)
 
-### Impact des conditions aux bords dans la production de systèmes agricoles.
-Avec [Petros Chatzimpiros](http://www.lied-pieri.univ-paris-diderot.fr/?emd_person=brouillon-auto-16). 
+Ici on parle du [SciRep](). On trouvera plus de détails sur la [page](/fungus_growth)
+
+
+### Impact du remplacement des énergies de stock aux énergies de flux sur la production agricole <a name="poulets"></a>
+Avec [Petros Chatzimpiros](http://www.lied-pieri.univ-paris-diderot.fr/?emd_person=brouillon-auto-16).
 
