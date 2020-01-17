@@ -6,19 +6,25 @@ bibliography: doc_eh/herbert.bib
 ---
 
 
+
 ### Contenu
-- [publications](#Publications)
-- [équations](#Équations)
-    - [première partie](#partie 1)
-    - [seconde partie](#partie 2)
+- [Présentation](#presentation)
+- [recherche](#recherche)
+    - [Thermodynamique](#thermo)
+        - [Systèmes vivants](#livingsystems)
+        - [Économie](#eco)
+    - [Croissance réseau fongique](#thalle)
 
-ailleurs sur le site il il y a aussi bien sur [cette page](/hidden_EH) à voir 
 
-### Publications
-1. Active Fluids: Effects of Hydrodynamic Stress on Growth of Self-Propelled Fluid Particles.
-Journal of Applied Fluid Mechanics, page 561, 2020.
+## Présentation succinte <a name="presentation"></a>
 
-2. Christophe Goupil, Henni Ouerdane, Eric Herbert, Clémence Goupil, and Yves D’Angelo.
+J'ai rejoint l'université Paris Diderot en 2013 comme enseignant chercheur au sein du [LIED](http://www.lied-pieri.univ-paris-diderot.fr/), laboratoire qui vise àapporter des réponses interdisciplinaires à la question sociale majeure de l'énergie. Ma contribution est celle d'un physicien, environné de sciences humaines et de biologistes. On trouvera une présentation de activités de recherches actuelles [ici](#recherche).
+
+
+### Dernières Publications <a name="publis"></a>
+On trouvera sur [cette page](/hidden_EH) la liste complète des publications
+
+1. Christophe Goupil, Henni Ouerdane, Eric Herbert, Clémence Goupil, and Yves D’Angelo.
 Thermodynamics of metabolic energy conversion under muscle load. New Journal of Physics,
 21(2):023021, February 2019.
 
@@ -37,107 +43,20 @@ heating. Physical Review E, 96(3):032903, September 2017.
 6. C. Goupil, H. Ouerdane, E. Herbert, G. Benenti, Y. D’Angelo, and Ph. Lecoeur. Closed-loop
 approach to thermodynamics. Physical Review E, 94(3):032136, September 2016.
 
-7. Simon Thalabard, Brice Saint-Michel, Eric Herbert, François Daviaud, and Bérengère
-Dubrulle. A statistical mechanics framework for the large-scale structure of turbulent von
-Kármán flows. New Journal of Physics, 17(6):063006, June 2015.
 
-8. B. Rousset, P. Bonnay, P. Diribarne, A. Girard, J. M. Poncet, E. Herbert, J. Salort, C. Baudet,
-B. Castaing, L. Chevillard, F. Daviaud, B. Dubrulle, Y. Gagne, M. Gibert, B. Hébral, Th.
-Lehner, P.-E. Roche, B. Saint-Michel, and M. Bon Mardion. Superfluid high REynolds von
-Kármán experiment. Review of Scientific Instruments, 85(10):103908, October 2014.
+## Recherches <a name="recherche"></a>
+Actuellement mes recherches sont essentiellement axées sur la thermodynamique et la croissance de réseaux fongiques.
 
-9. E. Herbert, P.-P. Cortet, F. Daviaud, and B. Dubrulle. Eckhaus-like instability of large scale
-coherent structures in a fully turbulent von Kármán flow. Physics of Fluids, 26(1):015103,
-January 2014.
+### Thermodynamique <a name="thermo"></a>
+Avec [Christophe Goupil](/ChG).
 
-10. Davide Faranda, Flavio Maria Emanuele Pons, Bérengère Dubrulle, François Daviaud, Brice
-Saint-Michel, Éric Herbert, and Pierre-Philippe Cortet. Modelling and analysis of turbulent
-datasets using Auto Regressive Moving Average processes. Physics of Fluids, 26(10):105101,
-October 2014.
+#### Systèmes vivants <a name="livingsystems"></a>
 
-11. B. Saint-Michel, E. Herbert, J. Salort, C. Baudet, M. Bon Mardion, P. Bonnay, M. Bourgoin,
-B. Castaing, L. Chevillard, F. Daviaud, P. Diribarne, B. Dubrulle, Y. Gagne, M. Gibert,
-A. Girard, B. Hébral, Th. Lehner, and B. Rousset. Probing quantum and classical turbulence
-analogy in von Kármán liquid helium, nitrogen, and water experiments. Physics of Fluids,
-26(12):125109, December 2014.
+#### Économie <a name="eco"></a>
 
-12. Superfluid high REynolds von Kármán experiment: Review of Scientific Instruments: Vol 85,
-No 10, 2014.
+### Croissance réseau fongique <a name="thalle"></a>
+Avec les biologistes de l'équipe [B2C](http://www.lied-pieri.univ-paris-diderot.fr/spip.php?article242)
 
-13. E. Herbert, F. Daviaud, B. Dubrulle, S. Nazarenko, and A. Naso. Dual non-Kolmogorov
-cascades in a von Kármán flow. EPL (Europhysics Letters), 100(4):44003, November 2012.
-
-14. Arnaud Arvengas, Eric Herbert, Sophie Cersoy, Kristina Davitt, and Frédéric Caupin. Cavita-
-tion in Heavy Water and Other Liquids. The Journal of Physical Chemistry B, 115(48):14240–
-14245, December 2011.
-
-15. P.-P. Cortet, E. Herbert, A. Chiffaudel, F. Daviaud, B. Dubrulle, and V. Padilla. Susceptibil-
-ity divergence, phase transition and multistability of a highly turbulent closed flow. Journal
-of Statistical Mechanics: Theory and Experiment, 2011(07):P07012, July 2011.
-
-16. Eric Herbert, Nicolas Mordant, and Eric Falcon. Observation of the Nonlinear Dispersion
-Relation and Spatial Statistics of Wave Turbulence on the Surface of a Fluid. Physical Review
-Letters, 105(14):144502, September 2010.
-
-17. Eric Herbert, Mathieu Pernot, Gabriel Montaldo, Mathias Fink, and Mickael Tanter. Energy-
-based adaptive focusing of waves: application to noninvasive aberration correction of ultra-
-sonic wavefields. IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control,
-56(11):2388–2399, November 2009.
-
-18. Frédéric Caupin, Eric Herbert, Sébastien Balibar, and Milton W. Cole. Comment on
-‘Nanoscale water capillary bridges under deeply negative pressure’ [Chem. Phys. Lett. 451
-(2008) 88]. Chemical Physics Letters, 463(1):283–285, September 2008.
-
-19. Hervé Cochard, Têtè Barigah, Eric Herbert, and Frédéric Caupin. Cavitation in plants at
-low temperature: is sap transport limited by the tensile strength of water as expected from
-Briggs’ Z-tube experiment? New Phytologist, 173(3):571–575, 2007.
-
-20. Eric Herbert, Sébastien Balibar, and Frédéric Caupin. Cavitation pressure in water. Physical
-Review E, 74(4):041603, October 2006.
-
-21. Frédéric Caupin and Eric Herbert. Cavitation in water: a review. Comptes Rendus Physique,
-7(9):1000–1017, November 2006.
-
-
-### biblio complete 
-
-
-#### partie 1
-
-Je veux une équation en ligne par exemple $$ \Delta E_c = \frac{1}{2}mv^2 $$ et une équation séparée 
-
-$$ \Delta E_c = \frac{1}{2}mv^2 $$
-
-
-Je veux une équation en ligne par exemple \( \Delta E_c = \frac{1}{2}mv^2 \) et une équation séparée 
-\[ \Delta E_c = \frac{1}{2}mv^2 \]
-
-Je veux une équation en ligne par exemple \\( \Delta E_c = \frac{1}{2}mv^2 \\) et une équation séparée 
-\\[ \Delta E_c = \frac{1}{2}mv^2 \\]
-
-#Bibliographie
-
-
-$$
-\begin{align*}
-  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
-  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
-  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
-      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
-      \vdots & \ddots & \vdots \\
-      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
-    \end{array} \right)
-  \left( \begin{array}{c}
-      y_1 \\
-      \vdots \\
-      y_n
-    \end{array} \right)
-\end{align*}
-$$
-
-#### partie 2
-
-après on met une belle image
-
-![le titre !](/images/Image1.png){: width="600px"}
+### Impact des conditions aux bords dans la production de systèmes agricoles.
+Avec [Petros Chatzimpiros](http://www.lied-pieri.univ-paris-diderot.fr/?emd_person=brouillon-auto-16). 
 
