@@ -14,6 +14,8 @@ title: Publications
 
 <ol reversed>
 
+<li> Ch. Goupil and É. Herbert Adapted or Adaptable: How to Manage Entropy Production ?  Entropy 2020, 22(1), 29; https://doi.org/10.3390/e22010029  </li>
+
 <li> Active Fluids: Effects of Hydrodynamic Stress on Growth of Self-Propelled Fluid Particles.
 Journal of Applied Fluid Mechanics, page 561, 2020.</li>
 

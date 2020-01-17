@@ -22,6 +22,8 @@ J'ai rejoint l'université Paris Diderot en 2013 comme enseignant chercheur au s
 ### Dernières Publications <a name="publis"></a>
 On trouvera sur [cette page](/hidden_EH) la liste complète des publications
 
+1. Ch. Goupil and É. Herbert Adapted or Adaptable: How to Manage Entropy Production ?  Entropy 2020, 22(1), 29; https://doi.org/10.3390/e22010029
+
 1. Christophe Goupil, Henni Ouerdane, Eric Herbert, Clémence Goupil, and Yves D’Angelo.
 Thermodynamics of metabolic energy conversion under muscle load. New Journal of Physics,
 21(2):023021, February 2019.
