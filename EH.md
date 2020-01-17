@@ -5,8 +5,6 @@ csl: ieee.csl
 bibliography: doc_eh/herbert.bib
 ---
 
-
-
 ### Contenu
 - [Présentation](#presentation)
 - [Recherche](#recherche)
@@ -18,7 +16,7 @@ bibliography: doc_eh/herbert.bib
 
 ## Présentation succinte <a name="presentation"></a>
 
-J'ai rejoint l'université Paris Diderot en 2013 comme enseignant chercheur au sein du [LIED](http://www.lied-pieri.univ-paris-diderot.fr/), laboratoire qui vise àapporter des réponses interdisciplinaires à la question sociale majeure de l'énergie. Ma contribution est celle d'un physicien, environné de sciences humaines et de biologistes. On trouvera une présentation de activités de recherches actuelles [ici](#recherche).
+J'ai rejoint l'université Paris Diderot en 2013 comme enseignant chercheur au sein du [LIED](http://www.lied-pieri.univ-paris-diderot.fr/), laboratoire qui vise à apporter des réponses interdisciplinaires à la question sociale majeure de la transition énergétique. Ma contribution est celle d'un physicien, environné de sciences humaines et de biologistes. On trouvera une présentation de nos activités de recherches actuelles [ici](#recherche).
 
 
 ### Dernières Publications <a name="publis"></a>
@@ -44,8 +42,11 @@ heating. Physical Review E, 96(3):032903, September 2017.
 approach to thermodynamics. Physical Review E, 94(3):032136, September 2016.
 
 
+
+
 ## Recherches <a name="recherche"></a>
 Actuellement mes recherches sont essentiellement axées sur la thermodynamique et la croissance de réseaux fongiques.
+
 
 ### Thermodynamique <a name="thermo"></a>
 Avec [Christophe Goupil](/ChG).
@@ -69,6 +70,6 @@ Avec les biologistes de l'équipe [B2C](http://www.lied-pieri.univ-paris-diderot
 Ici on parle du [SciRep](). On trouvera plus de détails sur la [page](/fungus_growth)
 
 
-### Impact du remplacement des énergies de stock aux énergies de flux sur la production agricole <a name="poulets"></a>
+### Impact du remplacement des énergies de stock par des énergies de flux sur la production agricole <a name="poulets"></a>
 Avec [Petros Chatzimpiros](http://www.lied-pieri.univ-paris-diderot.fr/?emd_person=brouillon-auto-16).
 
