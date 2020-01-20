@@ -51,7 +51,7 @@ Avec [Christophe Goupil](/ChG).
 
 #### Thermodynamique modale
 ici on parle du [loop](/2016/09/01/Closed-loop)
-On trouvera plus de détails sur la [page](/FTT)
+On trouvera plus de détails sur [cette page](/FTT). 
 
 > Publications reliées
 6. C. Goupil, H. Ouerdane, E. Herbert, G. Benenti, Y. D’Angelo, and Ph. Lecoeur. Closed-loop approach to thermodynamics. Physical Review E, 94(3):032136, September 2016.
@@ -69,9 +69,11 @@ Thermodynamics of metabolic energy conversion under muscle load. New Journal of 
 
 
 #### Économie <a name="eco"></a>
-On trouvera plus de détails sur la [page](/EcoDyco)
+On trouvera plus de détails sur [cette page](/EcoDyco). La contrainte environementale, et notamment l'accès aux ressources énergétiques, dessine un horizon des possibles des sociétés humaines. Ainsi, avant la révolution industrielle, seules des énergies de flux (éoliennes, solaires ou hydrauliques) étaient accessibles. Avec l'emploi massif des énergies fossiles, les sociétés humaines ont développées des processus finement adaptées a cette ressource que l'on peut qualifier de *potentiel* dans le sens où elle existe sous la forme d'un réservoir dont l'amlitude du flux de potentiel chimique peut être arbitraire. 
 
 
+
+> Publication en cours de rédaction
 
 ### Croissance réseau fongique <a name="thalle"></a>
 Avec les biologistes de l'équipe [B2C](http://www.lied-pieri.univ-paris-diderot.fr/spip.php?article242)
@@ -88,7 +90,7 @@ Les énergies dites *renouvelables* à l'inverse, sont des énergies dépendante
 
 Un paramètre critique est donc la perte de production d'un systèmes énergétique lorsque les conditions d'accès aux ressources ne sont plus parfaitement *potentiel*. Nous proposons dans ce travail une première quantification de cette perte pour un système d'élevage avicole.
 
-> Publication en cours d'écriture
+> Publication en cours de rédaction
 
 ### Panache granulaire déclenché thermiquement <a name="panache"></a>
 Un lit granulaire sédimenté au fond d'une cuve peut être destabilisé par un chauffage localisé qui va faire decroitre sa densité jusqu'à la rendre inférieure au fluide environnant. 
