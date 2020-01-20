@@ -13,6 +13,7 @@ bibliography: doc_eh/herbert.bib
         - [Économie](#eco)
     - [Croissance réseau fongique](#thalle)
     - [Impact des énergies de flux sur la production agricole](#poulets)
+    - [Panache granulaire](#panache)
 
 ## Présentation succinte <a name="presentation"></a>
 
@@ -23,23 +24,18 @@ J'ai rejoint l'université Paris Diderot en 2013 comme enseignant chercheur au s
 On trouvera sur [cette page](/hidden_EH) la liste complète des publications
 
 1. Ch. Goupil and É. Herbert Adapted or Adaptable: How to Manage Entropy Production ?  Entropy 2020, 22(1), 29; https://doi.org/10.3390/e22010029
-
 1. Christophe Goupil, Henni Ouerdane, Eric Herbert, Clémence Goupil, and Yves D’Angelo.
 Thermodynamics of metabolic energy conversion under muscle load. New Journal of Physics,
 21(2):023021, February 2019.
-
 3. Ning Xie, Gwenaël Ruprich-Robert, Philippe Silar, Eric Herbert, Roselyne Ferrari, and Flo-
 rence Chapeland-Leclerc. Characterization of three multicopper oxidases in the filamentous
 fungus Podospora anserina: A new role of an ABR1-like protein in fungal development?
 Fungal Genetics and Biology, 116:1–13, July 2018.
-
 4. Eric Herbert, Cyprien Morize, Aurélie Louis-Napoléon, Christophe Goupil, Pierre Jop, and
 Yves D’Angelo. Buoyancy-driven destabilization of an immersed granular bed. Journal of
 Fluid Mechanics, 843:778–809, May 2018.
-
 5. C. Morize, E. Herbert, and A. Sauret. Resuspension threshold of a granular bed by localized
 heating. Physical Review E, 96(3):032903, September 2017.
-
 6. C. Goupil, H. Ouerdane, E. Herbert, G. Benenti, Y. D’Angelo, and Ph. Lecoeur. Closed-loop
 approach to thermodynamics. Physical Review E, 94(3):032136, September 2016.
 
@@ -57,9 +53,20 @@ Avec [Christophe Goupil](/ChG).
 ici on parle du [loop](/2016/09/01/Closed-loop)
 On trouvera plus de détails sur la [page](/FTT)
 
+> Publications reliées
+6. C. Goupil, H. Ouerdane, E. Herbert, G. Benenti, Y. D’Angelo, and Ph. Lecoeur. Closed-loop approach to thermodynamics. Physical Review E, 94(3):032136, September 2016.
+
+
 #### Systèmes vivants <a name="livingsystems"></a>
 ici on parle du [NJP](/2019/02/01/Thermodynamics-of-metabolic-energy-conversion-under-muscle-load) et du [entropy](/2020/01/01/Adapted-or-Adaptable/)
 On trouvera plus de détails sur la [page](/thermo_metabo)
+
+> Publications reliées
+1. Ch. Goupil and É. Herbert Adapted or Adaptable: How to Manage Entropy Production ?  Entropy 2020, 22(1), 29; https://doi.org/10.3390/e22010029
+1. Christophe Goupil, Henni Ouerdane, Eric Herbert, Clémence Goupil, and Yves D’Angelo.
+Thermodynamics of metabolic energy conversion under muscle load. New Journal of Physics,
+21(2):023021, February 2019.
+
 
 #### Économie <a name="eco"></a>
 On trouvera plus de détails sur la [page](/EcoDyco)
@@ -69,9 +76,28 @@ On trouvera plus de détails sur la [page](/EcoDyco)
 ### Croissance réseau fongique <a name="thalle"></a>
 Avec les biologistes de l'équipe [B2C](http://www.lied-pieri.univ-paris-diderot.fr/spip.php?article242)
 
-Ici on parle du [SciRep](). On trouvera plus de détails sur la [page](/fungus_growth)
+On trouvera plus de détails sur la [page](/fungus_growth)
+
+> Publications reliées
+Ici on parle du [SciRep](). 
 
 
 ### Impact du remplacement des énergies de stock par des énergies de flux sur la production agricole <a name="poulets"></a>
-Avec [Petros Chatzimpiros](http://www.lied-pieri.univ-paris-diderot.fr/?emd_person=brouillon-auto-16).
+Avec [Petros Chatzimpiros](http://www.lied-pieri.univ-paris-diderot.fr/?emd_person=brouillon-auto-16). Les études d'impact concernant la transition énergétique s'attachent à dimensionner les parcs d'energie renouvelables nécessaires à l'approvisionnement énergétique de nos sociétés. Or les  énergies *fossiles* ont pour caractéristiques essentielles d'être des énergies de stock, disponibles à tout instant et pouvant répondre virtuellement à n'importe quel demande en adaptant le flux.
+Les énergies dites *renouvelables* à l'inverse, sont des énergies dépendantes du flux solaire ou éolien, ce qui génère un approvisionnement subi: le flux d'énergie est irrégulier et difficilement prévisible, rendant l'adaptation entre l'offre et la demande instantanée improbable. Dans ce cas, la productivité d'un système industriel adapté à une ressource énergétique non contrainte sera nécessairement affectée.
 
+Un paramètre critique est donc la perte de production d'un systèmes énergétique lorsque les conditions d'accès aux ressources ne sont plus parfaitement *potentiel*. Nous proposons dans ce travail une première quantification de cette perte pour un système d'élevage avicole.
+
+> Publication en cours d'écriture
+
+### Panache granulaire déclenché thermiquement <a name="panache"></a>
+Un lit granulaire sédimenté au fond d'une cuve peut être destabilisé par un chauffage localisé qui va faire decroitre sa densité jusqu'à la rendre inférieure au fluide environnant. 
+
+AJOUTER UN BOUT D'ABSTRACT + FIGURE
+
+> Publications reliées
+4. Eric Herbert, Cyprien Morize, Aurélie Louis-Napoléon, Christophe Goupil, Pierre Jop, and
+Yves D’Angelo. Buoyancy-driven destabilization of an immersed granular bed. Journal of
+Fluid Mechanics, 843:778–809, May 2018.
+5. C. Morize, E. Herbert, and A. Sauret. Resuspension threshold of a granular bed by localized
+heating. Physical Review E, 96(3):032903, September 2017.
