@@ -69,9 +69,15 @@ Thermodynamics of metabolic energy conversion under muscle load. New Journal of 
 
 
 #### Économie <a name="eco"></a>
-On trouvera plus de détails sur [cette page](/EcoDyco). La contrainte environementale, et notamment l'accès aux ressources énergétiques, dessine un horizon des possibles des sociétés humaines. Ainsi, avant la révolution industrielle, seules des énergies de flux (éoliennes, solaires ou hydrauliques) étaient accessibles. Avec l'emploi massif des énergies fossiles, les sociétés humaines ont développées des processus finement adaptées a cette ressource que l'on peut qualifier de *potentiel* dans le sens où elle existe sous la forme d'un réservoir dont l'amlitude du flux de potentiel chimique peut être arbitraire. 
+On trouvera plus de détails sur [cette page](/EcoDyco).
 
+La contrainte environementale, et notamment l'accès aux ressources énergétiques, contraint l'horizon des possibles pour les systèmes vivants et par conséquent les sociétés humaines. Pour prendre l'exemple de l'énergie,  avant la révolution industrielle, seules des énergies de flux (éolien, solaire ou hydraulique) étaient accessibles. Au cours du $$19^{eme}$$ siecle, l'apparition d'un usage massif des énergies fossiles par les sociétés humaines a completement modifié notre rapport à l'usage de l'énergie. D'une industrie adaptée à une ressource au flux imposé, sans lien avec le besoin, une nouvelle industrie adaptée à l'usage d'une énergie toujours disponible  est apparue.
+Ainsi, cette énergie peut être qualifiée de *potentiel* dans le sens où elle existe sous la forme d'un réservoir dont le flux s'adate à la demande. Cette adaptation est remise en cause
+À l'heure où les contraintes de ressources se font préssentes. Nous proposons un cadre de travail prenant en compte l'accès aux ressources (énergie et matière) dans un formalisme issu de la thermodynamique hors d'équilibre, reprenant la distinction entre qualité et qualité pour modéliser les flux de matière et d'énergie dans le système économique. Ce cadre doit être complété par un *moteur* macro économique qui peut être modifié.
 
+| ![imageNJP](/images/Eco.png){: width="600px"} |
+|:--:|
+| *Évolutions comparées de la production de biens en fonction du temps avec une modélisation économique de type Goodwin. En noir (bleu) Goodwin sans contrainte liée ressources (avec des ressources infinies). En vert, cyan et rouge les ressources sont limitées. En cyan la friction est plus élevée que dans le cas vert, on constate que la croissance plus limitée mais que la production à long terme est moins affectée par l'épuisement des ressources* |
 
 > Publications reliées
 1. Macroeconomic modelling in a finite world -- En cours de rédaction
@@ -97,7 +103,7 @@ Un paramètre critique est donc la perte de production d'un systèmes énergéti
 
 |![imageNJP](/doc_eh/poussin_ouverture.png){: width="600px"}|
 |:--:|
-| *Légende à ajouter* |                                     |
+| *Légende à ajouter* |                                     
 
 
 ### Panache granulaire déclenché thermiquement <a name="panache"></a>
