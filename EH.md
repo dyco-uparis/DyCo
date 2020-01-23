@@ -73,16 +73,20 @@ On trouvera plus de détails sur [cette page](/EcoDyco). La contrainte environem
 
 
 
-> Publication en cours de rédaction
+> Publications reliées
+1. Macroeconomic modelling in a finite world -- En cours de rédaction
 
 ### Croissance réseau fongique <a name="thalle"></a>
-Avec les biologistes de l'équipe [B2C](http://www.lied-pieri.univ-paris-diderot.fr/spip.php?article242)
+Avec les biologistes de l'équipe [B2C](http://www.lied-pieri.univ-paris-diderot.fr/spip.php?article242). On trouvera plus de détails sur la [page dédiée](/fungus_growth)
 
-On trouvera plus de détails sur la [page](/fungus_growth)
+<center>
+<iframe width="556" height="310" src="https://www.youtube.com/embed/CsrLAOFjRZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 > Publications reliées
-Ici on parle du [SciRep](). 
-
+1. Hyphal network whole field imaging allows for accurate estimation of anastomosis rates and branching dynamics of the filamentous fungus Podospora anserina
+DOI : 10.1038/s41598-020-57808-y
+Sous presse
 
 ### Impact du remplacement des énergies de stock par des énergies de flux sur la production agricole <a name="poulets"></a>
 Avec [Petros Chatzimpiros](http://www.lied-pieri.univ-paris-diderot.fr/?emd_person=brouillon-auto-16). Les études d'impact concernant la transition énergétique s'attachent à dimensionner les parcs d'energie renouvelables nécessaires à l'approvisionnement énergétique de nos sociétés. Or les  énergies *fossiles* ont pour caractéristiques essentielles d'être des énergies de stock, disponibles à tout instant et pouvant répondre virtuellement à n'importe quel demande en adaptant le flux.
@@ -90,12 +94,20 @@ Les énergies dites *renouvelables* à l'inverse, sont des énergies dépendante
 
 Un paramètre critique est donc la perte de production d'un systèmes énergétique lorsque les conditions d'accès aux ressources ne sont plus parfaitement *potentiel*. Nous proposons dans ce travail une première quantification de cette perte pour un système d'élevage avicole.
 
-> Publication en cours de rédaction
+
+|![imageNJP](/doc_eh/poussin_ouverture.png){: width="600px"}|
+|:--:|
+| *Légende à ajouter* |                                     |
+
 
 ### Panache granulaire déclenché thermiquement <a name="panache"></a>
 Un lit granulaire sédimenté au fond d'une cuve peut être destabilisé par un chauffage localisé qui va faire decroitre sa densité jusqu'à la rendre inférieure au fluide environnant. 
 
-AJOUTER UN BOUT D'ABSTRACT + FIGURE
+
+Under suitable conditions, an immersed granular bed can be destabilized by local thermal forcing and the induced buoyant force. The destabilization is eviden from the triggering and establishment of a dense fluid-like granular plume. Varying the initial granular layer average height h, a time series of the free layer surface is extracted, allowing us to dynamically compute the underlying volume of the granular layer. Different observed phenomena, namely the initial interface deformation, the lowering of the average granular interface (i.e. decrease of the granular layer volume) and the emission of a plume, are analysed. We show that the phenomenon is mainly driven by heat transfer, for large $$h$$ and also involves a variable height thermal boundary condition and Darcy flow triggering, for small $$h$$. Simple modelling with no adjustable parameters not only allows us to capture the observed scaling power laws but is also in quantitative agreement with the obtained experimental data. 
+<center>
+<iframe width="556" height="310" src="https://www.youtube.com/embed/NZF_MIjwjLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 > Publications reliées
 4. Eric Herbert, Cyprien Morize, Aurélie Louis-Napoléon, Christophe Goupil, Pierre Jop, and
