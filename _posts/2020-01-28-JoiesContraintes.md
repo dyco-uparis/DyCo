@@ -13,6 +13,10 @@ Les séminaires du LIED peuvent être vus et revus sur la chaine [dédiée](http
 
 > Les principes de la thermodynamique s’imposent à tous les systèmes, le vivant ne faisant pas exception. Les contraintes qui en découlent définissent les bordures d’un cadre à l’intérieur duquel se développent les possibles. Subir les principes de la thermodynamique, les assimiler, en utilisant des voies parfois subtiles ou parfois grossières, telles sont les défis auxquels est confronté l’ingénieur, tout autant que la nature dans l’évolution du vivant. Les différentes modalités de couplage entre l’énergie et la matière permettent d’explorer l’espace des possibles. A la vision mécaniste idéalisée d’un monde sans frottement, se substitue alors celle de la thermodynamique où qui peut le plus ne peut pas nécessairement le moins, et où l’idéal n’existe pas dans un temps fini. Cette approche thermodynamique nous permet d’envisager d’autres regards dès lors que l’on considère ses extensions sociotechniques, qui elles aussi trouvent un cadre et des bornes. L’exposé en présentera quelques exemples en évitant l’écueil des métaphores superficielles.
 
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ka1W64XG7aY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
 ## 14h30 Roland LEHOUCQ (Astrophysicien, LCEG, CEA)
 
 **Ecofictions vues par les contraintes**
