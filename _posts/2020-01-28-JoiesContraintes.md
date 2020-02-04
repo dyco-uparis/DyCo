@@ -5,6 +5,7 @@ title: 'Séminaire: Les joies de la Contraintes'
 
 Intervention dans le cadre du [séminaire du LIED](http://www.lied-pieri.univ-paris-diderot.fr/?tribe_events=seminaire-thematique-lied-theme-les-joies-de-la-contrainte) sur **Les joies de la contrainte?**
 
+Les séminaires du LIED peuvent être vus et revus sur la chaine [dédiée](https://www.youtube.com/channel/UCguAPdIjrIupzrFsN1QgVkg) ou sur la page du [laboratoire](http://www.lied-pieri.univ-paris-diderot.fr/?p=3655)
 
 ## 14h00 Christophe GOUPIL (Physicien, LIED, Université de Paris Diderot)
 
@@ -26,6 +27,6 @@ Intervention dans le cadre du [séminaire du LIED](http://www.lied-pieri.univ-pa
 
 
 
-Une captation vidéo des interventions sera disponible [ici](http://www.lied-pieri.univ-paris-diderot.fr/?page_id=3256)
+
 
 
