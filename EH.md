@@ -5,6 +5,8 @@ csl: ieee.csl
 bibliography: doc_eh/herbert.bib
 ---
 
+Contact *eric.herbet@univ-paris-diderot.fr*
+
 ### Contenu
 - [Présentation](#presentation)
 - [Recherche](#recherche)
