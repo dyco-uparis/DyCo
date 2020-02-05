@@ -166,19 +166,14 @@ avec
 [mot cliquable](URL)
 ```
 
-6. On fait un tableau à 3 colonnes et 4 lignes de ce type
-| centré | gauche | droite | d |
-|:--:|:--:|:--:|:--:|
-| 1 | 2 | 3 | 4 |
-| alpha | beta | omega | epsilon |
-| 9 | 8 | 7 | 6 |
+6. On fait un tableau à 3 colonnes et 4 lignes
 avec :
 ```
-| centré | gauche | droite | d |
-|:--:|:--:|:--:|:--:|
-| 1 | 2 | 3 | 4 |
-| alpha | beta | omega | epsilon |
-| 9 | 8 | 7 | 6 |
+| centré | gauche | droite |
+|:--:|:-- | --:|
+| 1 | 2 | 3 |
+| alpha | beta | omega |
+| 9 | 8 | 7 |
 ```
-
+la justification est donnée par la seconde ligne 
 
