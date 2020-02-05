@@ -61,7 +61,7 @@ enregistrer à la racine un fichier markdown avec pour entete:
 ---
 layout: hidden_page
 title: 'TITRE QUI SERA AFFICHÉ'
-
+```
 
 ## Ajouter-du-contenu
 
