@@ -122,12 +122,63 @@ avec
 | *Légende à ajouter* |
 ```
 
-2. On ajoute un film disponible en ligne avec la commande iframe. Dans l'exemple suivant on a ajouté la balisce center. Le lien lui même est obtenu directement depuis la plateforme de partage, généralement via le clic droit.
+2. On ajoute un film disponible en ligne avec la commande iframe. Dans l'exemple suivant on a ajouté la balise *center*. Le lien lui même est obtenu directement depuis la plateforme de partage, généralement via le clic droit.
 
 ```
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ka1W64XG7aY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
+```
+
+
+### Ajouter des styles
+
+1. On obtient du **gras**, de *l'italique* avec :
+
+```
+**gras** et *italique* 
+```
+
+2. On fait des listes avec des points avec 
+```
+- pierre
+- feuille
+- ciseaux
+```
+
+3. On fait des listes numerotees avec (le numero n'a pas d'importance, il peut rester toujours le meme):
+```
+1. premier point
+1. second point
+1. troisieme point
+```
+
+4. On fait des titres avec
+```
+# Gros titre
+## Moins Gros Titre
+### Encore Moins Gros Titre
+#### Petit titre
+```
+
+5. On fait des liens avec
+```
+[mot cliquable](URL)
+```
+
+6. On fait un tableau à 3 colonnes et 4 lignes de ce type
+| centré | gauche | droite | d |
+|:--:|:--:|:--:|:--:|
+| 1 | 2 | 3 | 4 |
+| alpha | beta | omega | epsilon |
+| 9 | 8 | 7 | 6 |
+avec :
+```
+| centré | gauche | droite | d |
+|:--:|:--:|:--:|:--:|
+| 1 | 2 | 3 | 4 |
+| alpha | beta | omega | epsilon |
+| 9 | 8 | 7 | 6 |
 ```
 
 
