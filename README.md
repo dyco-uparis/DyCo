@@ -1,29 +1,20 @@
 # Lanyon
-
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
-
-![Lanyon](https://f.cloud.github.com/assets/98681/1825266/be03f014-71b0-11e3-9539-876e61530e24.png)
-![Lanyon with open sidebar](https://f.cloud.github.com/assets/98681/1825267/be04a914-71b0-11e3-966f-8afe9894c729.png)
+Mode d'emploi du site
 
 
 ## Contents
 
 - [Usage](#usage)
-- [Options](#options)
-  - [Sidebar menu](#sidebar-menu)
-  - [Themes](#themes)
-  - [Reverse layout](#reverse-layout)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
+- [Ajouter une Page](#Ajouter-une-Page)
+- [Ajouter du contenu](#Ajouter-du-contenu)
 
 
 ## Usage
 
-Lanyon is a theme built on top of [Poole](https://github.com/poole/poole), which provides a fully furnished Jekyll setup—just download and start the Jekyll server. See [the Poole usage guidelines](https://github.com/poole/poole#usage) for how to install and use Jekyll.
+Lanyon is a theme built on top of [Poole](https://github.com/poole/poole), which provides a fully furnished Jekyll setup—just download and start the Jekyll server. See [the Poole usage guidelines](https://github.com/poole/poole#usage) for how to install and use Jekyll. Le depot original se trouve à cette [adresse](https://github.com/poole/lanyon/tree/gh-pages).
 
 
-## Options
+## Ajouter une Page
 
 Lanyon includes some customizable options, typically applied via classes on the `<body>` element.
 
@@ -42,59 +33,101 @@ title: About
 **Why require a specific layout?** Jekyll will return *all* pages, including the `atom.xml`, and with an alphabetical sort order. To ensure the first link is *Home*, we exclude the `index.html` page from this list by specifying the `page` layout.
 
 
-### Themes
+### Ajouter une page de post
 
-Lanyon ships with eight optional themes based on the [base16 color scheme](https://github.com/chriskempson/base16). Apply a theme to change the color scheme (mostly applies to sidebar and links).
-
-![Lanyon with red theme](https://f.cloud.github.com/assets/98681/1825270/be065110-71b0-11e3-9ed8-9b8de753a4af.png)
-![Lanyon with red theme and open sidebar](https://f.cloud.github.com/assets/98681/1825269/be05ec20-71b0-11e3-91ea-a9138ef07186.png)
-
-There are eight themes available at this time.
-
-![Available theme classes](https://f.cloud.github.com/assets/98681/1817044/e5b0ec06-6f68-11e3-83d7-acd1942797a1.png)
-
-To use a theme, add any one of the available theme classes to the `<body>` element in the `default.html` layout, like so:
-
-```html
-<body class="theme-base-08">
-  ...
-</body>
+1. enregistrer dans */_posts* un fichier markdown avec pour entete:
+```
+---
+layout: post
+title: 'TITRE QUI SERA AFFICHÉ'
+---
 ```
 
-To create your own theme, look to the Themes section of [included CSS file](https://github.com/poole/lanyon/blob/master/public/css/lanyon.css). Copy any existing theme (they're only a few lines of CSS), rename it, and change the provided colors.
+2. le titre doit comprendre la date: *2020-01-01-*
+
+### Ajouter une page cachées 
+
+enregistrer à la racine un fichier markdown avec pour entete:
+```
+---
+layout: page
+title: 'TITRE QUI SERA AFFICHÉ'
+---
+```
+### Ajouter une page référencée
+
+enregistrer à la racine un fichier markdown avec pour entete:
+```
+---
+layout: hidden_page
+title: 'TITRE QUI SERA AFFICHÉ'
 
 
-### Reverse layout
+## Ajouter-du-contenu
 
-![Lanyon with reverse layout](https://f.cloud.github.com/assets/98681/1825265/be03f2e4-71b0-11e3-89f1-360705524495.png)
-![Lanyon with reverse layout and open sidebar](https://f.cloud.github.com/assets/98681/1825268/be056174-71b0-11e3-88c8-5055bca4307f.png)
+### Ajouter des maths
 
-Reverse the page orientation with a single class.
+Pour cela mettre les équations entre double dollar, par exemple, on obtient une équation en ligne comme $$x=2$$ avec 
+```
+on obtient une équation en ligne comme $$x=2$$ avec 
+```
+une équation séparée comme
+$$
+\begin{align*}
+  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
+  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
+  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
+      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
+      \vdots & \ddots & \vdots \\
+      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
+    \end{array} \right)
+  \left( \begin{array}{c}
+      y_1 \\
+      \vdots \\
+      y_n
+    \end{array} \right)
+\end{align*}
+$$
+avec 
 
-```html
-<body class="layout-reverse">
-  ...
-</body>
+```
+une équation séparée comme
+$$
+\begin{align*}
+  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
+  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
+  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
+      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
+      \vdots & \ddots & \vdots \\
+      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
+    \end{array} \right)
+  \left( \begin{array}{c}
+      y_1 \\
+      \vdots \\
+      y_n
+    \end{array} \right)
+\end{align*}
+$$
+avec 
 ```
 
 
-## Development
+### Ajouter une image ou un film
 
-Lanyon has two branches, but only one is used for active development.
+1. On ajoute une image enregistrée sur github dans Images sous la forme d'un tableau avec un espace pour la légende, avec
 
-- `master` for development.  **All pull requests should be to submitted against `master`.**
-- `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
+```
+| ![imageclosedloop](/images/ClosedLoop8.jpg){: width="600px"} |
+|:--:| 
+| *Légende à ajouter* |
+```
+
+2. On ajoute un film disponible en ligne avec la commande iframe. Dans l'exemple suivant on a ajouté la balisce center. Le lien lui même est obtenu directement depuis la plateforme de partage, généralement via le clic droit.
+
+```
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ka1W64XG7aY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+```
 
 
-## Author
-
-**Mark Otto**
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
-
-
-## License
-
-Open sourced under the [MIT license](LICENSE.md).
-
-<3

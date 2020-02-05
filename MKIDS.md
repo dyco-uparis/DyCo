@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: hidden_page
 title: MKIDS
 ---
 

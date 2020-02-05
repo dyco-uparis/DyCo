@@ -7,6 +7,6 @@ Cette page a été éditée à partir du thème [Lanyon](https://github.com/pool
 
 Le rendus des équations est basé sur [MathJax](https://www.mathjax.org/)
 
-Le plugin [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) permet la gestion des citations
+Le site est en cours de création. Du contenu lui sera régulièrement apporté.
 
 
