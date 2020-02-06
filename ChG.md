@@ -311,17 +311,17 @@ HDR  Michel Dubois. De l’interaction évolutive de la technique et de l’huma
 
 Membre du bureau du Campus de la Transition Ecologique
 
-Conférences en ligne (Accès direct Youtube)
+### Vidéos en ligne  <a name="video"></a>
 
-Transition énergétique et recherche interdisciplinaire
+[Transition énergétique et recherche interdisciplinaire](https://m.youtube.com/watch?v=F03rNroF_eM)
 
-Biomim Expo : Et si la ville était un métabolisme ?
+[Biomim Expo : Et si la ville était un métabolisme ?](https://www.youtube.com/watch?v=O1JOIw04Cac&list=PL6X0Z1l43EfkdKhIJaKpeQ0UwiPK5yDix&index=23&t=0s&app=desktop)
 
-Contraintes : les joies de la thermodynamique
+[Contraintes : les joies de la thermodynamique](https://www.youtube.com/watch?v=ka1W64XG7aY)
 
-Des Physiciens et des Economistes	
+[Des Physiciens et des Economistes](https://www.youtube.com/watch?v=XFUha1GWj1s)
 
-Biomimétisme des usages de l’énergie
+[Biomimétisme des usages de l’énergie](https://www.youtube.com/watch?v=n1uetGexTdo)
 
 ## Organisation colloques, conférences, journées d'étude
 
