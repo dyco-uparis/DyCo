@@ -2,8 +2,14 @@
 layout: page
 title:  Christophe Goupil
 ---
-# Résumé
-## Repères biographiques
+### Contenu
+- [Présentation](#presentation)
+- [Recherche](#recherche)
+- [Synthèse de carrière](#synthese)
+ 
+# Présentation <a name="presentation"></a>
+
+## Repères biographiques <a name="bio"></a>
 Nom d'usage : Goupil	Prénom : Christophe	
 Situation familiale : marié, 5 enfants
 Adresse personnelle: 159 Boulevard Victor Hugo, 92110 Clichy
@@ -29,9 +35,9 @@ PRAG (ENSICAEN), (1992-2001)
 Professeur Agrégé en Lycée, (1990-1992)
 Professeur Certifié, (1988-1990)
 
-## Recherche et Responsabilités associées
+## Recherche <a name="recherche"></a>
 
-# Thèmes de recherche
+### Thèmes de recherche
 Conversion d’énergie
 Energie et Interdisciplinarité
 Thermodynamique hors équilibre
@@ -57,7 +63,7 @@ Membre de 17 jury de thèse, membre de 3 jury d’HDR.
 Encadrement : 7 thèses, 5 Post-doc, Stages niveau M2 (2 par an en moyenne) 
 Jury : 17 jury de thèse, 3 jury HDR .
 
-# Synthèse de carrière
+# Synthèse de carrière <a name="synthese"></a>
 
 J’ai commencé mes fonctions dans l’Education Nationale en 1988, en tant que professeur certifié en Physique-Chimie, suite au passage du concours du CAPES. En 1990, après une année de service militaire, affecté comme enseignant dans les Lycée Jean-François Millet et Alexis de Tocqueville, à Cherbourg, j’ai passé l’agrégation de Physique, option Physique. Durant mon année de stagiaire agrégé, au Lycée Salvador Allende à Hérouville Saint Clair, j’ai passés les épreuves de DEA de Science des Matériaux de L’Université de Caen, et me suis inscrit en thèse au sein du laboratoire CRISMAT (UMR 6508) de Caen. A la même époque j’ai intégré un poste de PRAG au sein de l’ENSICAEN, poste que j’ai occupé durant toute ma thèse et mon HDR, et ce jusqu’à mon recrutement Professeur des Université en 2001. 
 Mes travaux de recherche ont débuté en 1991 au laboratoire CRISMAT, sur le thème de l’ancrage et la dynamique des vortex dans les supraconducteurs. A la suite de la découverte des supraconducteurs à haute température critique en 1986 par Bednorz et Muller, dans un oxyde de baryum-lanthane-cuivre, présentant une température critique Tc=35K. L’activité de recherche sur ces matériaux a alors pris un essor important, en particulier au CRISMAT qui avait synthétisé, pour la première fois, en 1983, cet oxyde. Mes travaux de thèse se sont concentrés sur la mesure et la modélisation des mécanismes d’ancrage-désancrage des vortex dans les matériaux supraconducteurs. J’ai effectué ma thèse sous la direction de Charles Simon et Jacky Provost. Cette thèse, réalisée en parallèle avec mon service de PRAG, a été soutenue en 1997. A la fois théoriques et expérimental, cette activité m’a amené à réaliser des expérimentations en conditions cryogénique, de transport électrique sous champ magnétique intense, Impédance de surface, diffraction de neutrons au petits angles, et mesure de bruit de champ et de bruit de tension.  Ces travaux nous ont permis de confirmer la pertinence et la validité du modèle d’ancrage de surface des vortex, qui avait été développé par Yvan Simon, Patrice Mathieu et Bernard Plaçais au Laboratoire Pierre Aigrain de l’ENS Paris.  Mes travaux de recherche sur l’ancrage et la dynamique des vortex se sont poursuivi jusqu’en 2004, date à laquelle j’ai opéré un changement thématique en direction de la conversion d’énergie par vois thermoélectrique. Ce changement thématique trouve son origine dans la volonté de contribuer à un nouveau sujet, considérant que je n’avais plus rien d’original à proposer dans les supraconducteurs.  A partir de cette époque j’ai développé une activité partenariale conséquente avec des industriels. Cette activité a conduit à la création, et au financement sur contrats, de la plateforme thermoélectricité de Caen, au sein de l’UMR CRISMAT, en lien avec le CNRT Matériaux de Basse Normandie (UMS 3318), dont j’ai assuré la direction adjointe durant une année.  
