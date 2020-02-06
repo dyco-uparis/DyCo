@@ -2,1425 +2,994 @@
 layout: page
 title: Christophe Goupil
 ---
-
 # Résumé
-Je suis enseignant en Physique depuis 1988. Tout d'abord professeur certifié puis agrégé (1990) en Lycée, j'ai ensuite intégré l'ENSICAEN où je suis devenu Professeur des Universités en 2001. A partir de 2010 j'ai participé à la création du Laboratoire Interdisciplinaire des Energies de Demain, LIED, au sein de l'Université de Paris Diderot, où j'ai pris mes fonction de professeu en 2015. Mon activité de recherche est principalement axée sur la  thermodynamique hors équilibre linéaire et la physique de la matière condensée. Je travaille au sein du laboratoire LIED dont je suis le directeur-adjoint. Mes travaux concernent la conversion énergie-matière basée sur une approche de type Onsager. Les développements de ces recherches concernent plusieurs domaines,  thermodynamique du métabolisme, mais aussi la Modélisation Macroéconomique dans un monde fini. Tous ces travaux nourrissent mon engagement au sein du Campus de la Transition Ecologique dont la la mission est la formation et l'acquisition de compétences interdisciplinaires. Par ailleurs, je poursuis des travaux en physique de la matière condensée dans les domaines de la Thermoélectricité, et la supraconductivité, via le développement de capteurs du fond diffus cosmologique de type MKIDS ajustables.
-
-
-# Formation
-Agrégation de Physique. (1990)
-Doctorat de Physique.  
-
 ## Enseignement
-
-## Recherche
-
-### Conversion énergie-matière
-
-### Approche thermodynamique du métabolisme à l'effort
-
-### Macro-Economie
-
-### Capteur de fond diffus Cosmologique, MKIDS
-
-## Enseignement
-
-## Diffusion Grand Public
-
-## Enseignement
-
-### Introduction à la physique des semiconducteurs
-
-### Electronique analogique
-
-### Thermodynamique
-
-### Thermoélectricité
-
-
-
-\section{INFORMATIONS GENERALES}
-
-Situation familiale : mari\'{e}, 5 enfants
-
-Adresse personnelle: 159 Boulevard Victor Hugo 92110 Clichy
-
-T\'{e}l\'{e}phone 06 10 03 03 50
-
-\section{FONCTIONS}
-
-{Professeur des Universit\'{e}s 1\`{e}re classe}
-{Enseignement : Universit\'{e} Paris 7 (Denis Diderot)}
-{Recherche : Laboratoire Interdisciplinaire des Energies de Demain, (LIED),
-UMR 8236, Universit\'{e} Paris 7 (Denis Diderot)}
-
-\section{CURSUS ACADEMIQUE}
-
-\begin{itemize}
-\item {2011: Professeur des Universit\'{e}s 1\`{e}re classe}
-\item {2001: Professeur des Universit\'{e}s 2nd classe}
-\item {2000: HDR: "Contribution \`{a} l'\'{e}tude de la dynamique des vortex
-dans les supraconducteurs dans le cadre d'un ancrage de surface"}
-\item {1997: Doctorat de l'Universit\'{e} de Caen. Sp\'{e}cialit\'{e}: milieux
-denses et mat\'{e}riaux, "Etude de la dynamique des vortex dans les
-supraconducteurs \`{a} haute temp\'{e}rature critique.} Analyse des
-r\'{e}gimes de dissipation plastique par mesures de transport \'{e}lectrique."
-\item {1990: AGREGATION de Physique option Physique}
-\item {1888: CAPES de Physique-Chimie}
-\end{itemize}
-
-\section{RESPONSABILITES}
-
-\subsection{Responsabilit\'{e}s recherche}
-
-\begin{itemize}
-\item Olivier Crepel: Microscopie magn\'{e}tique pour localisation de
-d\'{e}faillance de circuits int\'{e}gr\'{e}s (Th\`{e}se soutenue en 2004)
-
-\item Joseph Scola : Etude de la dynamique d'un r\'{e}seau de vortex dans un
-supraconducteur par mesures de bruit (Th\`{e}se soutenue en 2005)
-
-\item S\'{e}bastien Lemonnier : D\'{e}veloppement d'un g\'{e}n\'{e}rateur
-thermo\'{e}lectrique \`{a} base de mat\'{e}riaux oxydes (Th\`{e}se soutenue en 2008)
-
-\item Elise Denoyelle : D\'{e}veloppement d'une microbatterie 3D Li-ion
-\'{e}tude d'une anode de silicium amorphe d\'{e}pos\'{e}e sur substrat 3D par
-LPCVD (Th\`{e}se soutenue en 2010)
-
-\item Olga Glavatskaya : Conversion d'\'{e}nergie thermique en \'{e}nergie
-\'{e}lectrique par les modules thermo\'{e}lectriques en vue de r\'{e}duire la
-consommation et les \'{e}missions polluantes (Th\`{e}se soutenue en 2012)
-
-\item Etienne Thiebault : Mod\'{e}lisation de syst\`{e}mes
-thermo\'{e}lectriques avec gradient de coefficient Seebeck. (2015-2018)
-\end{itemize}
-
-
-\begin{itemize}
-\item Suddakkar Reddy: D\'{e}veloppement de thermog\'{e}n\'{e}rateurs oxydes
-(contrat Corning) (2005)
-
-\item C\'{e}dric de Vaulx: D\'{e}veloppement de thermog\'{e}n\'{e}rateurs pour
-l'automobile (programme RENOTER) (2010-2012)
-
-\item Henni Ouerdane: Mod\'{e}lisation de thermog\'{e}n\'{e}rateurs et pompes
-\`{a} chaleur thermo\'{e}lectriques pour applications industrielles
-(programmes CERES et SYSPACTE) (2011-2013)
-
-\item Adel Abbout: Transport m\'{e}soscopique dans un canal en conditions
-YCNCA (2012)
-
-\item Aur\'{e}lie Michot: Caract\'{e}risation de mat\'{e}riaux
-thermo\'{e}lectriques hybrides pour pompes \`{a} chaleur (programme SYSPACTE) (2012-2013)
-\end{itemize}
-
-\subsection{Responsabilit\'{e}s administratives}
-
-\begin{itemize}
-\item Directeur-adjoint de l'UMS 3318 (2010-2011)
-
-\item Membre des commissions 63 et 28 de Caen (2002-2008)
-
-\item Membre du comit\'{e} de direction du PIE CNRS (2009-2011)
-
-\item Responsable du GAT PIE CNRS, " Electricit\'{e}
-d\'{e}carbon\'{e}e " (2009-2011)
-
-\item Membre du comit\'{e} de r\'{e}daction et d'\'{e}valuation de l'ANR
-"PROGELEC" (2010-2012)
-
-\item Membre du comit\'{e} de r\'{e}daction de l'ANR EESI (2009)
-
-\item Rapporteur dans le cadre du European Symposium on Reliability of
-Electron Devices, Failure Physics and Analysis (ESREF) (2001-2006)
-
-\item Membre du comit\'{e} d'organisation " Mat\'{e}riaux 2014" 
-
-\item Expert HCERES (2015)
-
-\item Directeur-adjoint du LIED (2015-...)
-
-\item Pr\'{e}sident du Conseil scientifique du LIED (2016-...)
-\end{itemize}
-
-\subsection{Organisation de manifestations}
-
-\begin{itemize}
-\item Co-organisateur de la session Ecole des Houches, avril 2012, CEA-CNRS :
-" Le soleil dans tous ses \'{e}tats " 
-
-\item Co-organisateur du Training Thermoelectricity, Caen 24-25 mars 2011,
-ENERMAT "Interreg Espace Atlantique 2007-2013"
-
-\item Organisateur de la journ\'{e}e Thermo\'{e}lectricit\'{e} de la
-Soci\'{e}t\'{e} Fran\c{c}aise de Thermique, 9 mars 2012
-
-\item Co-organisateur de la journ\'{e}e " Exergie-automobile"
-, Technocentre Renault Guyancourt, 16 f\'{e}vrier 2011
-
-\item Co-organisateur de la journ\'{e}e " Pompes \`{a} chaleur
-thermo\'{e}lectriques" , EDF-ACOME, Caen, 15 f\'{e}vrier 2011
-
-\item Co-organisateur de la journ\'{e}e " Thermoelectric
-Workshop" , TOTAL, La D\'{e}fense,14 f\'{e}vrier 2011
-
-\item Organisateur de la Journ\'{e}e Normandie A\'{e}roespace (NAE),
-Thermo\'{e}lecricit\'{e} et composites, Caen, 10 janvier 2011
-
-\item Organisateur de la Journ\'{e}e GAT PIE CNRS, \textquotedblleft transport
-\'{e}lectronique et Photovolta\"{\i}sme\textquotedblright, Paris, 18 Octobre 2010
-\end{itemize}
-
-\section{ACTIVITES DE TRANSFERT DE TECHNOLOGIE}
-
-\subsection{Projet Europ\'{e}en}
-
-\begin{itemize}
-\item THETAGEN: (2009-2011) " R\'{e}cup\'{e}ration d'\'{e}nergie
-sur une turbine d'h\'{e}licopt\`{e}re via la thermo\'{e}lectricit\'{e}
-" Programme d\'{e}pos\'{e} dans l'appel CLEANSKY FP7.
-Partenariat industriel : Turbomeca S.A., Tronico, Evektor, Termo-Gen AB,
-Epsilon Eng\'{e}ni\'{e}rie
-
-\item ENERMAT: (2010-2012) Projet INTERREG, "Mat\'{e}riaux et \'{e}nergie".
-\end{itemize}
-
-\subsection{Programmes nationaux}
-
-\begin{itemize}
-	
-	
-\item METABOLOCOT: (2019) CNRS D\'{e}fi Mod\'{e}lisation du vivant 2019. Mod\'{e}lisation de la r\'{e}ponse m\'{e}tablique \`{a} l'effort des vert\'{e}br\'{e}s. 
-
-\item FLEXIGEN: (2017-2019) Projet r\'{e}gional Centre-Val de Loire. Micro-g\'{e}n\'{e}rateur thermo\'{e}lectrique oxyde int\'{e}gr\'{e} sur une membrane flexible de silicium poreux biocompatible. 
-	
-\item FUI RENOTER : (2008-2012) Programme FUI 6
-R\'{e}cup\'{e}ration d'\'{e}nergie sur un moteur thermique via
-la thermo\'{e}lectricit\'{e} " Partenariat : laboratoire LPM
-(Nancy), laboratoire ICG (Montpellier). Soci\'{e}t\'{e}s, Nexter, Sherpa
-Technologie, Renault SAS, Renault Trucks, Valeo
-
-\item SYSPACTE : (2009-2014) Programme FUI 7
-" D\'{e}veloppement de pompes Peltier pour b\^{a}timents BBC
-" Partenaires : laboratoire ICG (Montpellier), laboratoire
-LOCIE (Chamb\'{e}ry). Soci\'{e}t\'{e}s ACOME et ANJOS
-
-\item ISIS : (2010-2013) " R\'{e}cup\'{e}ration et conversion
-de chaleur sur pi\`{e}ces de fonderie, apr\`{e}s chauffage inductif".
- Partenaires : Laboratoires SIMAP, LAPLACE, ARMINES
-Soci\'{e}t\'{e}s EDF, FIVES CELES, ATYS CONSULTING
-
-\item CERES2 : (2010-2013) " D\'{e}veloppement d'une plateforme
-de mod\'{e}lisation de conversion de chaleur issue des rejets industriels
-" Partenaires : Laboratoires LEMTA, LERMAB, LEPTIAB, ARMINES
-Soci\'{e}t\'{e}s EDF, Arjowiggings, IFP
-
-\item OTOGEHT, PIE\ CNRS: (2009-2012) " Optimisation des
-propri\'{e}t\'{e}s thermo\'{e}lectriques d'Oxydes pour la G\'{e}n\'{e}ration
-Electrique Haute Temp\'{e}rature. Partenaires : Laboratoires
-ICG Montpellier et LOCIE Chamb\'{e}ry
-
-\item IMPACT, PIE\ CNRS\thinspace: (2010) " Mod\'{e}lisation de
-pompes \`{a} chaleur \`{a} effet Peltier en vue d'application pour le
-b\^{a}timent. Partenaires : Laboratoires LOCIE Chamb\'{e}ry
-\end{itemize}
-
-\subsection{Contrats hors programmes}
-
-\begin{itemize}
-\item Soci\'{e}t\'{e} Corning : 2004-2007. " D\'{e}veloppement
-de thermog\'{e}n\'{e}rateurs haute temp\'{e}rature \`{a} base d'oxydes. 
-
-\item Soci\'{e}t\'{e} ACOME : 2005-2008 : " D\'{e}veloppement
-d'une pompe \`{a} chaleur thermo\'{e}lectrique. 
-\end{itemize}
-
-\subsection{Brevets}
-
-\begin{itemize}
-\item Brevet europ\'{e}en avec la soci\'{e}t\'{e} ST Microelectronics
-
-Num\'{e}ro de publication: WO2007015030
-
-Date de publication: 2007-02-08
-
-Inventeurs: PONTAROLLO SERGE, GIRARD OLIVIER, GOUPIL CHRISTOPHE
-
-D\'{e}posant: ST MICROELECTRONICS SA
-
-\item Brevet europ\'{e}en avec la soci\'{e}t\'{e} Corning
-
-Num\'{e}ro de publication: WO2007065954, US2009277489 (A1)
-
-Date de publication: 2009-11-12
-
-Inventeurs: DANNOUX THIERRY LUC ALAIN, GOUPIL CHRISTOPHE, MARQUES PAULO GASPAR JORGE
-
-D\'{e}posant: CORNING
-
-\item Brevet National CNRS
-
-Intitul\'{e}: \ Transistor supraconducteur \`{a} effet de champ et
-proc\'{e}d\'{e} de fabrication d'un tel transistor
-
-Num\'{e}ro de publication: FR2932012, 01727-01
-
-Date de publication: 2009-12-04
-
-Inventeurs: \ C. Goupil, A. Pautrat, Ch. Simon, P. Mathieu.
-
-D\'{e}posant: CNRS
-\end{itemize}
-
-\section{ACTIVITES PEDAGOGIQUES}
-
-\subsection{Responsabilit\'{e}s}
-
-\begin{itemize}
-\item Directeur de la Sp\'{e}cialit\'{e} Micro\'{e}lectronique de l'ENSI (2001-2008)
-
-\item Fondateur et directeur de la Majeure (MMM), Mat\'{e}riaux
-Micro\'{e}lectronique et Microm\'{e}canique, au sein de la sp\'{e}cialit\'{e}
-Mat\'{e}riaux de l'ENSICAEN. (1999-2009)
-
-\item Fondateur et directeur de la Majeure (EMS), Energie et Mat\'{e}riaux
-Structuraux, au sein de la sp\'{e}cialit\'{e} Mat\'{e}riaux de l'ENSICAEN (2009-2010)
-
-\item Fondateur et directeur du Mast\`{e}re Sp\'{e}cialis\'{e} (MSIP-MINSYS),
-" Microelectronics System Design and Technology (2005-2008)
-
-\item Responsable du module Photovolta\"{\i}que du Master IPE, Universit\'{e}
-Paris Diderot (2015)
-\end{itemize}
-
-\subsection{R\'{e}sum\'{e} des enseignements par niveau (LMD)}
-
-\begin{itemize}
-\item Technologie micro\'{e}lectronique 2\`{e}me ann\'{e}e ENSI, niveau M1
-
-\item Mat\'{e}riaux et Micro technologie : 1\`{e}re ann\'{e}e ENSI, niveau L3
-
-\item Thermodynamique hors \'{e}quilibre : 3\`{e}me ann\'{e}e ENSI, niveau M2
-
-\item Physique des Composants \`{a} Semiconducteurs : 2\`{e}me ann\'{e}e ENSI,
-niveau M1
-
-\item Stage de technologie PMOS et MEMS : 2\`{e}me ann\'{e}e ENSI, niveau M1
-
-\item Semi-conducteurs pour l'\'{e}nergie : 3\`{e}me ann\'{e}e ENSI, niveau M2
-
-\item Transport M\'{e}soscopique : Master Recherche, niveau M2
-
-\item Notion d'\'{e}lectronique mol\'{e}culaire: 2\`{e}me ann\'{e}e ENSI,
-niveau M1
-
-\item Thermodynamique \& Thermo\'{e}lectricit\'{e}: M2 IPE et EIDD, Paris VII,
-niveau M2
-\end{itemize}
-
-\section{PUBLICATIONS}
-
-\subsection{Ouvrages}
-
-\begin{enumerate}
-\item C. Goupil
-
-\textit{Thermodynamics of the Thermoelectricity}
-
-Thermodynamics, chapitre 13 Edit\'{e} par Tadashi Mizutani, Intech (2011)
-
-\item E. M\"{u}ller, K. Zabrocki, C. Goupil, G.J. Snyder, and W. Seifert G
-
-\textit{Functionally graded thermoelectric generator and cooler elements}
-
-CRC Thermoelectrics Handbook, edited by D. M Rowe, CRC Taylor (2011)
-
-\item C. Goupil
-
-\textit{Conversion d'\'{e}nergie par effets thermo\'{e}lectriques :
-th\'{e}orie, mat\'{e}riaux et applications}
-
-Edit\'{e} par S. H\'{e}bert, B ; Lenoir et C ; Simon. Chapitre II :
-Thermodynamique hors \'{e}quilibre : application thermo\'{e}lectrique (2008)
-
-\item K. Zabrocki, H. Ouerdane, Y. Apertet, and W. Seifert
-
-\textit{Continuum theory of thermoelectric elements}
-
-C. Goupil editor (Wiley, Berlin), (f\'{e}vrier 2016)
-
-\item H. Ouerdane, Y. Apertet, C. Goupil, A. Abbout, and A. Michot
-
-\textit{A linear nonequilibrium thermodynamics approach to optimization of
-thermoelectric devices}
-
-Chapitre invit\'{e}, "Thermoelectric Nanomaterials", K. Koumoto and T. Mori
-editors, Springer Series in Materials Science Vol. 182, -- ISBN
-978-3-642-37536-1 (2013)
-
-\item C. Goupil, H. Ouerdane, and Y. Apertet
-
-\textit{Thermo\'{e}lectricit\'{e}: thermodynamique et applications}
-
-Techniques de l'Ing\'{e}nieur BE 8 080 (2013)
-\end{enumerate}
-
-\subsection{Publications avec comit\'{e} de lecture}
-
-\begin{enumerate}
-	
-\item C. Goupil, H. Ouerdane, E. Herbert, Cl. Goupil and Y. D'Angelo. \textit{Thermodynamics of metabolic energy conversion under muscle load.}. New J. Phys.21 023021 (2019)
-	
-\item E. Thi\'{e}baut, F. Pesty, C. Goupil, G. Guegan, P. Lecoeur, \textit{Non-linear impedance spectroscopy for complete thermoelectric characterization: Beyond the zT estimation.}  Journal of Applied Physics 124 (23), 235106 (2018)
-
-\item J Ramousse, C Goupil, \textit{Chart for Thermoelectric Systems Operation Based on a Ternary Diagram for Bithermal Systems}, Entropy 20 (9), 666, (2018)
-
-\item AE Risseh, HP Nee, C Goupil, \textit{Electrical power conditioning system for thermoelectric waste heat recovery in commercial vehicles}, 	IEEE transactions on transportation electrification 4 (2), 548-562	6 (2018)
-
-\item 	E Herbert, C Morize, A Louis-Napol\'{e}on, C Goupil, P Jop, Y D'angelo,\textit{Buoyancy-driven destabilization of an immersed granular bed}
-	Journal of Fluid Mechanics 843, 778-809 (2018)
-
-\item Thi\'{e}baut E., Goupil C., Pesty F., D'Angelo Y., Guegan G., Lecoeur, P.  \textit{Maximization of the thermoelectric cooling of a graded Peltier device by analytical heat-equation resolution.} Physical Review Applied, 8(6), 064003. (2017)
-		
-\item Social patterns of energy usage: An international comparison
-R Patino, C Goupil, Energy Procedia 142, 2655-2660 (2017)
-		
-\item Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecoeur, \textit{True nature
-of the Curzon-Ahlborn efficiency, }Phys. Rev. E 96, 022119  (2017)
-
-\item C. Goupil, H. Ouerdane, E. Herbert, G. Benenti, Y. D'Angelo, and Ph.
-Lecoeur, \textit{Closed-loop approach to thermodynamics }Phys. Rev. E 94,
-032136 (2016) 
-
-\item Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecoeur \textit{A note on
-the electrochemical nature of the thermoelectric power} Eur. Phys. J. Plus
-131: 76 (Highlights from European journals) (2016) 
-
-\item Y. Apertet, C. Goupil. \textit{On the fundamental aspect of the first Kelvin's relation in thermoelectricity.} International Journal of Thermal Sciences 104, 225-227 (2016)
-
-\item A Abbout, H Ouerdane, C Goupil, \textit{Statistical analysis of the
-	figure of merit of a two-level thermoelectric system: a random matrix
-	approach, }Journal of the physical society of Japan 85, 094704 (2016)
-
-\item G. Benenti, H. Ouerdane, C.Goupil. \textit{The thermoelectric working fluid: Thermodynamics and transport.} Comptes Rendus Physique 17 (10), 1072-1083.   
-
-\item Y. Apertet, H. Ouerdane, C. Goupil, Ph. Lecoeur \textit{Equivalent
-parameters for series thermoelectrics} Energy Conversion and Management, 93,
-15, 160-165, (2015)
-
-\item H. Ouerdane, Y. Apertet, C. Goupil, and Ph. Lecoeur \textit{Continuity
-and boundary conditions in thermodynamics: From Carnot's efficiency to
-efficiencies at maximum power} Eur. Phys. J. Special Topics 224, 839-864 (2015)
-
-\item H. Ouerdane, A. A. Varlamov, A. V. Kavokin, C. Goupil, and C. B. Vining
-\textit{Enhanced thermoelectric coupling near electronic phase transition: the
-r\^{o}le of fluctuation Cooper pairs} Physical Review B 91, 100501 (R) (2015)
-
-\item J.G. Stockholm, C. Goupil, P. Maussion and H. Ouerdane
-
+Nom d'usage : Goupil	Prénom : Christophe	NUMEN : 05E9204175KAD
+Repères biographiques communs
+
+Situation familiale : marié, 5 enfants
+Adresse personnelle: 159 Boulevard Victor Hugo, 92110 Clichy
+Téléphone 06 10 03 03 50
+Professeur des Universités 1ère classe (C3)
+Enseignement : Université de Paris (Denis Diderot)
+Recherche : Laboratoire Interdisciplinaire des Energies de Demain, (LIED), UMR 8236, Université de Paris (Denis Diderot)
+Titres et diplômes
+•	Décembre 2000: Habilitation à Diriger des Recherches: "Contribution à l'étude de la dynamique des vortex dans les supraconducteurs dans le cadre d'un ancrage de surface"
+•	Juillet 1997: Doctorat de l'Université de Caen. Spécialité: milieux denses et matériaux, "Etude de la dynamique des vortex dans les supraconducteurs à haute température critique. Analyse des régimes de dissipation plastique par mesures de transport électrique."
+•	Juillet 1990: AGREGATION de Physique option Physique
+•	Juillet 1888: CAPES de Physique-Chimie
+Expérience professionnelle
+•	Professeur des Universités 1ère classe, depuis septembre 2011
+•	Professeur des Universités 2nd classe, (2001-2011)
+•	PRAG (ENSICAEN), (1992-2001)
+•	Professeur Agrégé en Lycée, (1990-1992)
+•	Professeur Certifié, (1988-1990)
+Recherche et Responsabilités associées
+Thèmes de recherche : Conversion d’énergie, Energie et Interdisciplinarité, Thermodynamique hors équilibre, Thermoélectricité, Supraconducteurs. 
+Responsabilités :
+•	Directeur adjoint de l’UMR 8236, LIED.
+•	Président du CS de l’UMR 8236, LIED.
+•	Responsable de l’équipe DyCO de l’UMR 8236, LIED.
+•	Membre de 17 jury de thèse, membre de 3 jury d’HDR.
+Production scientifique : 
+•	93 RICL
+•	47 CICL
+•	1 Direction d’ouvrage, 6 Chapitre d’ouvrage
+•	23 Conférences Nationales
+•	20 Séminaires Internationaux
+•	62 Séminaires Nationaux, 
+•	10 contrats de recherche sur projet
+•	2 contrats industriels.
+•	7 Brevets
+Encadrement : 7 thèses, 5 Post-doc, Stages niveau M2 (2 par an en moyenne) 
+Jury : 17 jury de thèse, 3 jury HDR .
+
+Synthèse de carrière
+
+J’ai commencé mes fonctions dans l’Education Nationale en 1988, en tant que professeur certifié en Physique-Chimie, suite au passage du concours du CAPES. En 1990, après une année de service militaire, affecté comme enseignant dans les Lycée Jean-François Millet et Alexis de Tocqueville, à Cherbourg, j’ai passé l’agrégation de Physique, option Physique. Durant mon année de stagiaire agrégé, au Lycée Salvador Allende à Hérouville Saint Clair, j’ai passés les épreuves de DEA de Science des Matériaux de L’Université de Caen, et me suis inscrit en thèse au sein du laboratoire CRISMAT (UMR 6508) de Caen. A la même époque j’ai intégré un poste de PRAG au sein de l’ENSICAEN, poste que j’ai occupé durant toute ma thèse et mon HDR, et ce jusqu’à mon recrutement Professeur des Université en 2001. 
+Mes travaux de recherche ont débuté en 1991 au laboratoire CRISMAT, sur le thème de l’ancrage et la dynamique des vortex dans les supraconducteurs. A la suite de la découverte des supraconducteurs à haute température critique en 1986 par Bednorz et Muller, dans un oxyde de baryum-lanthane-cuivre, présentant une température critique Tc=35K. L’activité de recherche sur ces matériaux a alors pris un essor important, en particulier au CRISMAT qui avait synthétisé, pour la première fois, en 1983, cet oxyde. Mes travaux de thèse se sont concentrés sur la mesure et la modélisation des mécanismes d’ancrage-désancrage des vortex dans les matériaux supraconducteurs. J’ai effectué ma thèse sous la direction de Charles Simon et Jacky Provost. Cette thèse, réalisée en parallèle avec mon service de PRAG, a été soutenue en 1997. A la fois théoriques et expérimental, cette activité m’a amené à réaliser des expérimentations en conditions cryogénique, de transport électrique sous champ magnétique intense, Impédance de surface, diffraction de neutrons au petits angles, et mesure de bruit de champ et de bruit de tension.  Ces travaux nous ont permis de confirmer la pertinence et la validité du modèle d’ancrage de surface des vortex, qui avait été développé par Yvan Simon, Patrice Mathieu et Bernard Plaçais au Laboratoire Pierre Aigrain de l’ENS Paris.  Mes travaux de recherche sur l’ancrage et la dynamique des vortex se sont poursuivi jusqu’en 2004, date à laquelle j’ai opéré un changement thématique en direction de la conversion d’énergie par vois thermoélectrique. Ce changement thématique trouve son origine dans la volonté de contribuer à un nouveau sujet, considérant que je n’avais plus rien d’original à proposer dans les supraconducteurs.  A partir de cette époque j’ai développé une activité partenariale conséquente avec des industriels. Cette activité a conduit à la création, et au financement sur contrats, de la plateforme thermoélectricité de Caen, au sein de l’UMR CRISMAT, en lien avec le CNRT Matériaux de Basse Normandie (UMS 3318), dont j’ai assuré la direction adjointe durant une année.  
+A partir de 2011, pour des raisons familiales et scientifiques, j’ai souhaité me rapprocher de Paris. J’ai participé à la création du Laboratoire Interdisciplinaire des Energies de Demain (LIED), qui est devenue l’UMR 8236 en 2014. J’ai alors effectué une seconde reconversion thématique en direction de la thermodynamique à temps fini, en vue de contribuer à la modélisation des processus de conversion d’énergie. A cette occasion j’ai créé l’équipe de recherche DyCo (Dynamiques Couplées), au sein du LIED. J’assure la direction de cette équipe ainsi que la direction adjointe de l’unité de recherche LIED. Mon activité d’enseignements, détaillés ci-après, se sont déroulés à l’Ecole Nationale Supérieure d’Ingénieurs de Caen (ENSICAEN), de 1992 à 2015, puis à l’Université Paris Diderot, aujourd’hui Université de Paris, de 2015 à maintenant. 
+Mon activité actuelle est désormais résolument interdisciplinaire, tant au niveau de ma recherche, que de mes communications externes et internes. L’enjeu de la transition Ecologique me conduit à diriger le plus possible mes travaux vers la compréhension des mécanismes de conversion thermodynamique de l’énergie, et des points de fonctionnement des systèmes, vivant et non-vivants. Ceci me conduit, entre autre, à développer une approche bio-inspirée des usages de l’énergie, basée sur les contraintes biologique et thermodynamiques, dont les conditions aux limites de couplage aux réservoirs, et les rétroactions qui en découlent, constituent le cœur de mon travail. 
+Pour conclure je souhaite indiquer que si mon activité actuellement se développe sur un spectre interdisciplinaire, il n’en demeure pas moins que ses fondements sont bien ceux de la section CNU 63, au sens où les questions abordées, en particulier en thermodynamique, ont été résolue par l’utilisation de concept issus de la communauté 63, tels que l’approche nodale, la modélisation en systèmes bouclés, l’apparition des contre-réactions par modification des conditions aux limites…
+ 
+
+Activité pédagogique
+
+1.	Présentation de l'activité d'enseignement 
+Du point de vue enseignement, mon passé d’agrégé m’a donné l’occasion d’enseigner de nombreuses matières au niveau ingénieur dans l’ENSI, et plus particulièrement les disciplines EEA, dont la microélectronique. A cette occasion j’ai monté, en 1994, une salle de travaux pratiques en microélectronique (mesures sous pointes DC, AC, DLTS, modélisation SPICE…). J’ai assuré la direction de la spécialité Microélectronique de l’ENSICAEN de 2002 à 2008. Suite aux modifications du marché du travail de la microélectronique, j’ai fondé en 2000 avec mon collègue Philipe Lefebvre, l’option Télécom de l’ENSICAEN, qui est devenue ensuite une spécialité à part entière.  En 2003, en partenariat avec le directeur du CRISMAT, Bernard Raveau, j’ai fondé la spécialité MMM, Matériaux Micromécanique Microélectronique, comme nouveau cursus de l’ENSICAEN. Cette spécialité visait à offrir des débouchés aux étudiants souhaitant conjuguer une connaissance des matériaux et de leur mise en application en microélectronique, au-delà des fonctions purement électriques, et, en particulier, le secteur naissant des MEMS. A cette occasion, en 2008, j’ai créé, en partenariat avec 6 écoles d’ingénieur (ENSERB, ISEN, ESIGELEC, ESIEE, ENSSAT, POLYTECH Nantes) et 11 industriels (NXP, ST ERICSON, CHIPIDEA, FREESCALE, INSIGHT SIP, SILICON LABORATORIES, ALYOTECH, ORANGE, DIBCOM, OBERTHUR, AGILENT), le Mastère Spécialisé MSIP (MINSYS). Ce Mastère Spécialisé a été localisé sur le site de l’industriel NXP, à Caen. En 2010, j’ai, avec mon collègue Jean-Michel Rueff, créé la spécialité Energie au sein de l’ENSICAEN. Cette spécialité correspondant à une refonte majeure de la spécialité MMM, afin de prendre en compte l’évolution du marché du travail des ingénieurs à dominante Matériaux fonctionnels. Lors de mon arrivé à l’Université Paris Diderot, aujourd’hui Université de Paris, j’ai assuré des enseignements variés, dans les niveaux L1 à M2, et aussi au sein de l’Ecole d’Ingénieurs Denis Diderot. 
+ 
+2.	 Présentation synthétique des enseignements
+Mes enseignements se sont déroulés au sein de l’Ecole Nationale Supérieure d’Ingénieurs de Caen, de 1992 à 2014, puis ensuite à l’Université Paris Diderot. 
+ENSICAEN (1992-2014)
+•	Modélisation SPICE des composants à Semiconducteurs : CM (15h), 2A spécialité MMM, (2008-2014)
+•	Physique des Semiconducteurs : CM (15h), 2A spécialité Microélectronique & MMM, (2008-2014) 
+•	Microélectronique : TP (24h), 2A spécialité Microélectronique, (1994-2000)
+•	Electronique analogique : TP (30h) 1A, (1992-1996)
+•	Semiconducteurs pour l’Energie : CM (18h), 3A spécialité EMS, (2010-2014)
+•	Matériaux et Micro-technologies : CM (18h), 1A, (2005-2012) 
+•	Thermodynamique hors équilibre : CM (15h), 3A, spécialité EMS, (2010-2014)
+•	Transport Mésoscopique : CM (24h), 3A, spécialité EMS et M2 Physique, (208-2012)
+•	Technologie salle blanche (cours) : CM (12h), 2A spécialité Microélectronique puis MMM, (1994-2014) 
+•	Technologie salle blanche (stage de cinq jours (30h), réalisation de PMOS au CCMO de Rennes) : TP, 2A spécialité Microélectronique puis MMM, (1994-2014) 
+•	Initiation au langage Python : CM-TD (12h), 3A spécialité EMS, (2014) 
+•	Encadrement de stage fin d’étude ingénieurs: en moyenne 3 stagiaires par an sur la période 1994-2014
+Université Paris Diderot (2015-…)
+•	Mécanique du point : TD (54h), L1 Physique
+•	Electromagnétisme : TD (20h), 1A Ecole ingénieur EIDD 
+•	Métiers de la Physique : CM-TD (20h), L2 Physique
+•	Electronique numérique : TD (20h), 1A Ecole ingénieur EIDD
+•	Electronique analogique : TD (20h), 1A Ecole ingénieur EIDD 
+•	Electronique analogique : CM (24h), 1A Ecole ingénieur EIDD 
+•	Thermodynamique : CM (18h), L3 puis L2 Physique
+•	Thermodynamique : TD (27h), L3 Physique
+•	Thermoélectricité : CM (8h), M2 IPE et 3A EIDD
+•	Electronique de puissance : CM-TD (30h), L2 Physique
+•	Ecological Economics : CM (6h), M2 Economie Université de Paris et Paris 13
+•	Physique des Semiconducteurs : CM (9h), 2A Ecole ingénieur EIDD 
+•	Traitement du signal : CM (6h), M1 Physique
+•	Projet Trans-filières : TD (18h), 2A EIDD
+
+3.	Responsabilités pédagogiques
+•	Directeur de la Spécialité Microélectronique de l'ENSI (2001-2008)
+•	Fondateur et directeur de la Majeure (MMM), Matériaux Microélectronique et Micromécanique, au sein de la spécialité Matériaux de l'ENSICAEN. (1999-2009)
+•	Fondateur et directeur de la Majeure (EMS), Energie et Matériaux Structuraux, au sein de la spécialité Matériaux de l'ENSICAEN (2009-2010)
+•	Fondateur et directeur du Mastère Spécialisé (MSIP-MINSYS), Microelectronics System Design and Technology (2005-2008)
+•	Responsable du module Photovoltaïque du Master IPE, Université de Paris (Diderot) (2015)
+•	Responsable du module Thermodynamique L3 Université Paris (Diderot) (2018---)
+•	Responsable du module Electronique analogique EIDD 1A, Université Paris (Diderot) (2017---)
+•	Responsable du module Traitement du signal M1, Université de Paris (Diderot) (2019---)
+
+4.	Diffusion, rayonnement, activités internationales.
+En 2008, en partenariat avec 6 écoles d’ingénieur (ENSERB, ISEN, ESIGELEC, ESIEE, ENSSAT, POLYTECH Nantes) et 11 industriels (NXP, ST ERICSON, CHIPIDEA, FREESCALE, INSIGHT SIP, SILICON LABORATORIES, ALYOTECH, ORANGE, DIBCOM, OBERTHUR, AGILENT), j’ai créé, puis dirigé deux ans, le Mastère Spécialisé MSIP (MINSYS). Ce Mastère de la Conférence des Grande Ecoles a été localisé sur le site de l’industriel NXP, sur son site de Caen.
+
+
+Activité scientifique
+
+1 Présentation synthétique
+Mon activité scientifique comprend trois périodes thématiques :
+•	Supraconductivité (1991-2004)
+•	Thermoélectricité (2004-2012)
+•	Energie et interdisciplinarité (2012-…)
+Cette dernière période m’a conduit à ouvrir mon activité à des champs thématiques nouveaux, en dehors de ma spécialité. (Biologie, Médecine, Economie, Architecture). Ceci explique certains de mes investissements administratifs, conférences et séminaires récents. Depuis mon arrivée au LIED, cet engagement interdisciplinaire m’est devenu central, bien qu’il soit plus difficile du fait des sous dotation et financement chroniques des moyens alloués aux travaux interdisciplinaires.
+
+Période 1991-2004 : Ancrage et dynamique des vortex, (et MKIDS 2018-2020)
+
+Ces travaux, qui sont les plus anciens, sont brièvement présentés afin de permettre de comprendre l’origine d’un sujet de recherche actuellement en cours. Mes travaux dans le domaine de supraconducteurs ont concerné l’ancrage des vortex. Schématiquement, ces derniers se comportent comme des tourbillons de courant non dissipatif supraconducteur. Ils interagissent entre eux par couplage magnétique, qui étant une interaction faible et de longue portée, conduit assez naturellement à la présence d’un ordre d’orientation et de position. Nos travaux ont permis, par diffraction de neutrons aux petits angles couplées à des mesures de transport, de montrer que le réseau est effectivement relativement ordonné lorsqu’il est ancré, et que sa mise en ordre est d’autant plus marquée que le réseau se désancre. Nous avons pu ainsi vérifier expérimentalement que le réseau de vortex est très largement ancré par les rugosités de surface, en accord avec la description thermodynamique proposée dans les années 90 par l’équipe d’Yvan Simon à l’ENS.  Ces travaux ont donné lieu, en particulier, aux publications suivantes [RICL: 46, 49-61, 63-65, 68, 71-78] ainsi qu’un brevet [Brevet: 2]. Plus récemment, lors d’échanges avec mes collègues astrophysiciens, j’ai proposé une modification de capteurs de type MKIDS. Ces capteurs supraconducteurs, (Al ou Nb), sont dédiés à la détection de photons de basse énergie, par brisure de paires de Copper dont l’énergie de liaison est voisine de celle des photons recherchés. La mesure est basée sur le décalage fréquentiel d’un oscillateur LC dont l’inductance, appelée inductance cinétique, est fonction du gap des paires, mais aussi de la résistivité de la phase électronique dans l’état normal. J’ai proposé que soit testée la possibilité de modifier cette inductance, par un dépôt de métal (Au) sur la couche active, afin, par effet de proximité, de modifier la densité électronique localement. Ces travaux sont actuellement en cours en partenariat avec les laboratoires APC (Michel Piat), et GEPI- OBSPM (Faouzi Boussaha). Les premiers résultats sont positifs, et ont donné lieu à publication [RICL 1]. Une extension de ces travaux est en cours, afin d’envisager une structure JFET /Supra qui permettra de rendre ajustable la gamme de réponse spectrale du capteur par simple polarisation de champ. Une validation théorique a été obtenue et un brevet va être rédigé.
+
+Période 2004-2014 : Thermoélectricité
+
+Mes travaux de recherche actuels sont centrés sur le transport couplé énergie-matière et, en particulier, sa déclinaison dans le cadre des mécanismes de la thermoélectricité. En effet ce thème de recherche constitue un objet d’étude central dès lors qu’il s’agit de décrire, dans le cadre d’une thermodynamique hors équilibre linéaire, le transport couplé énergie-matière dans un système ouvert. En particulier, il est aisé de faire le recensement des catégories qui constituent le système, à savoir :
+1)	Le gaz d’électron qui constitue le fluide de travail thermodynamique.
+2)	Le matériau thermoélectrique dans lequel transite le fluide de travail.
+3)	Les forces thermodynamiques, dérivés des grandeurs intensives pertinentes, que sont, le potentiel électrochimique et la température.
+4)	Le coefficient de couplage entre les potentiels, aussi appelé coefficient Seebeck, proportionnel à l’entropie transportée.
+5)	Les conditions de couplage du dispositif à ses réservoirs de température respectivement chauds et froids.
+Loin d’être un simple catalogue cette description offre la possibilité d’estimer les contributions relatives de chaque élément, à la performance du système, qu’il s’agisse de puissance, de rendement ou coefficient de performance, ou encore de plage d’usage. En ce qui concerne le fluide thermodynamique il est d’usage de caractériser les matériaux thermoélectriques à partir de leur facteur de mérite ZT. Dans le cas des matériaux massifs cristallisés, les propriétés de transport de chaleur et de courant électrique sont fortement liées, en particulier par la loi de Wiedemann—Franz. De plus, la concentration en porteurs libres influence directement le coefficient Seebeck et la conductivité électrique. Il en résulte que l’optimisation des matériaux massifs cristallisés est assez contrainte. Pour un matériau donné le principal paramètre d’optimisation est la substitution atomique au profit d’éléments lourds, et la recherche de structures cristallines complexes permettant d’envisager une propagation réduite des phonons. Dans une moindre mesure il est possible d’envisager une augmentation de la mobilité des porteurs libres sous l’effet de la distorsion de maille par substitution. Ce type d’optimisation a été réalisé avec succès dans le cas du matériau SiGe, avec un accroissement notable de la mobilité des porteurs, mais il ne peut s’agir là d’une méthode d’optimisation générique. Les travaux de recherche concernant les matériaux massifs buttent donc sur le faible nombre de degrés de liberté pour l’optimisation du « fluide de travail thermodynamique », donc de ZT. Les couplages aux thermostats sont qualifiés de mixte, au sens où il ne s’agit ni de couplage en conditions de potentiel (conditions de Neumann), ni de couplage en conditions de flux (conditions de Dirichlet). Le système est donc parfaitement paramétrable entre ces deux extrêmes.  En particulier, la configuration de Neumann impose les températures directement sur les faces du dispositif, ce qui revient à la traditionnelle configuration dite Carnot[Carnot], telle qu’elle est usuellement présentée. La principale caractéristique de la configuration mixte provient du fait que la différence de température aux bornes du dispositif est maintenant dépendante des conditions de fonctionnement du système. Il est important de noter que cette modélisation mixte, connue depuis la fin de années 1950, est à l’origine de la thermodynamique à temps fini, au sens où elle permet les bilans de puissance, en plus des bilans d’énergie. Elle est due respectivement à Yvon, Chambadal, Novikov, Curzon et Ahlborn. Cette approche est particulièrement intéressante en ce qu’elle permet, moyennant un modèle assez simple, de rendre compte de manière très fidèle du comportement de systèmes réalistes comme nous avons pu le vérifier lors de projets industriels. En résumé, ces travaux permettent de mettre en évidence que les performances d’un dispositif thermoélectrique, et, par suite, d’un système complet, ne reposent pas uniquement sur la qualité des matériaux : elles résultent des effets conjugués des propriétés des matériaux, donc du gaz d’électrons, des conditions de couplage aux thermostats, déterministes ou non, et enfin de la nature du régime de fonctionnement, stationnaire ou non. Il importe aussi de noter que ces travaux peuvent s’étendre à d’autres systèmes. La thermoélectricité offre donc un cadre modèle pour l’étude des processus couplés. La thermoélectricité est souvent citée comme une illustration assez caractéristique de la puissance du formalisme Force-Flux de Onsager. Nous avons donc, à partir de 2014, commencé à étendre cette approche en la généralisant, ce qui est l’objet du paragraphe suivant. Ces travaux ont donné lieu à publications [RICL: 4-8, 10-23, 25-45, 47-48, 50, 52] et brevets [Brevet: 1, 3, 5].
+
+Période 2014-2020 : Thermodynamique de la conversion d’énergie, interdisciplinarité
+
+L’approche de Onsager trouve des liens forts avec les travaux de la communauté des « Network Thermodynamics » qui a été particulièrement développée dans les années 1980, et qui représente une ouverture puissante vers les mécanismes en jeu en biologie. Les modélisations que nous avions développées pour les machines thermiques ont peu à peu été généralisées à de systèmes de conversion qui possèdent en commun d’être traversés par des courants d’énergie et de matière couplés.  Un certain nombre de résultats caractéristiques avaient été obtenus pour les machines thermiques. Ils sont rappelés ici sous une forme très synthétique :
+1)	La définition d’une conductance thermique fonction du point de fonctionnement du système  [RICL 32]
+2)	La condition d’adaptation d’impédance thermique et électrique dans le cas d’un système couplé [RICL 35]
+3)	La relation entre performance, « rendement » et-ou puissance (Rendement ou coefficient de performance selon qu’il s’agit d’un mode de fonctionnement en générateur ou en récepteur (pompe à chaleur) [RICL 29]
+4)	Les effets de contre-réaction induits par le couplage mixte [RICL 35]
+5)	La résolution du problème du rendement à puissance maximale dans la plage de couplage exothermique-endothermique. [RICL 13]
+6)	La relation entre les propriétés thermoélectriques et thermoélastiques du gaz d’électrons. [RICL 36] 
+7)	La possibilité d’envisager une transition de phase dans le gaz d’électrons dans le cas de la transition Supra-Normal. [RICL 18]
+8)	La contribution à la compréhension du comportement dans le cas de structures mésoscopiques. [RICL 14, 28]
+9)	La très forte analogie entre la modélisation thermoélectrique et le célèbre « Feynmann Ratchet ». [RICL 21]
+10)	La mise en évidence de la relation entre performance énergétique et contrainte d’usage [RICL 18]
+11)	La mise en évidence de la distinction entre adapté et adaptable [RICL 2]
+12)	La mise en évidence de la nécessité de multiplier les systèmes pour couvrir de larges plages d’usages [RICL 18]
+
+Ces travaux ont été étendus récemment au cas des machines thermodynamiques plus générales, en distinguant les systèmes vivants et non-vivant [RICL 2]. En ce qui concerne les systèmes vivants, nous avons pu formuler les fondements thermodynamiques de la réponse force-vitesse de muscle, en parfait accord avec le modèle historique de Hill [RICL 3]. On notera que les derniers points questionnent directement les relations entre les usages et les pratiques, qui font écho à la distinction entre adapté et adaptable dans les systèmes vivants. Ces questions sont aussi au coeur d’une réflexion plus large autour du concept de Biomimétisme des usages, considérant les stratégies mise en œuvre par les organismes vivants contraints par les premiers et seconds principes de la thermodynamique. (Collaboration avec le Muséum National d’Histoire Naturelle, l’INSEP et l’APHP). On notera, en particulier, que la conversion d’énergie qui résulte de ces couplages, permet d’envisager non seulement les notions de « quantité » mais aussi de « qualité » Ce cadre de modélisation proposé permet donc de s’ouvrir à la modélisation des processus biologiques et économiques [Physique & Economie]. Mon activité de recherche actuelle repose donc sur une modélisation Onsager générique du transport de l’énergie et de la matière lors de processus couplés. Pour chacun des volets présentés ci-dessous, les questions posées sont les mêmes :
+
+1)	Qu’est-ce qu’un système performant ?
+2)	Quels paramètres gouvernent la performance : le matériau, le système, les modes d’usage ?
+3)	Comment envisager une optimisation dans le cadre d’un système gouverné par des flux couplés ?
+4)	Est-il possible de définir une impédance généralisée ?
+5)	Peut-on envisager une adaptation d’impédance généralisée ?
+6)	Comment le concept d’adaptation d’impédance généralisée s’insère-t-il dans le débat sur les principes d’extrema en thermodynamique hors équilibre ?
+
+Développement interdisciplinaire : Economie
+Ces questions sont actuellement étudiées d’un point de vue théorique sur la base de nos travaux de thermodynamique. Au sein de l’équipe DyCo nous avons à cœur d’ouvrir ces questionnements en direction des thématiques sociétale, en se gardant de tomber dans l’écueil des métaphores. Nous avons ainsi développé des travaux de Macroéconomie en partenariat avec Gaël Giraud, Economiste en chef de l’Agence Française de Développement. Ces travaux nous ont amené à développer le modèle Macroéconomique EcoDyco dont on peut trouver une présentation vidéo sur le lien Des Physiciens et des Economistes. Loin d’être une démarche singulière, l’approche thermodynamique de l’économie trouve des connexions naturelles avec les systèmes dynamiques et la modélisation des systèmes biologique selon les approche de Lotka. Au cours des cinquante années couvrant la période 1935-1985, Nicholas Georgescu-Roegen a apporté une contribution majeure à cette approche thermodynamique de l’économie, en particulier dans ses conséquences entropiques. Partiellement reconnu par certains, Roegen est resté marginalisé par la plupart des écoles d’économie dominantes. Il n’en demeure pas moins que les questions posées par Roegen sont passées du statut de pertinentes à nécessaires, voire urgentes. Le souci de contribuer à introduire la thermodynamique dans la réflexion économique ne consiste pas à faire entrer l’économie dans la thermodynamique, mais bien de fournir certains des concepts et outils qui permettent de décrire les processus économiques dans une situation où l’équilibre n’est pas la règle et que les ressources ne sont ni infinies ni directement abouchées au sites de transformations. L’approche bioéconomique peut se définir à partir de deux concepts centraux
+1)	Finitude
+2)	Distinction entre quantité et qualité
+Le Concept de finitude est abordé dans sa double déclinaison de limitation des grandeurs et d’impossibilité d’externaliser. La limitation des grandeurs s’impose dès lors qu’un système économique ne peut plus faire abstraction des conditions d’accès aux ressources naturelles, d’une part, et aux conditions de rejet, voire de recyclage d’autre part, il se trouve alors borné entre ses sources et ses puits. Il en résulte qu’aucune grandeur ne peut plus être définie sans souscrire aux conditions aux limites du système, et qu’aucune divergence, ou idéalisation des conditions, n’est envisageable. De l’impossibilité d’externaliser, il résulte qu’aucune substitution totale n’est possible, et encore moins s’il s’agit de substitution financière systématique, comme cela est actuellement proposé dans le cas des ressources écologiques. Cette finitude met en évidence qu’il n’est plus possible de penser comme si le plus conduisait nécessairement au mieux, comme le montrait déjà le paradoxe d’Easterlin. Si les questions de la définition des limites et des conditions aux limites sont centrales pour tout physicien qui chercher à étudier un système, il apparaît qu’elle se pose tout aussi clairement pour l’Economiste. D’autre part, du point de vue de la dynamique, la modélisation économique est aujourd’hui riche de contributions issues des apports des systèmes dynamiques, en particulier à la suite des travaux de Lotka. Nous proposons une approche sensiblement différente qui reprend le cadre d’étude précédemment décrit dans les autres volets du projet, selon un schéma qui intègre à la fois les sources et les puits pour chacune des diverses grandeurs économiques considérées.
+
+2 Publications principales
+•	Y. Apertet, H. Ouerdane, O. Glavatskaya, C. Goupil and Ph. Lecœur, Optimal working conditions for thermoelectric generators with realistic thermal coupling, Europhysics Letters vol. 97, 28001 (2012)
+Cet article publié en 2012 a permis de poser les bases de fonctionnement d’un générateur thermoélectrique en présence de conditions mixtes. En particuliers, il a été mis en évidence que le fonctionnement du système complet présente un caractère contre-reactionné qui résulte des conditions aux limites, ouvrant ainsi à une description beaucoup plus large des fonctionnement des générateurs thermoélectrique. 
+•	C. Goupil, W. Seifert,K. Zabrocki, E. Müller and G. Jeffrey Snyder, Thermodynamics of Thermoelectric Phenomena and Applications, Entropy vol. 13, 1481-1517 (2011), Best Paper Award 2015 
+Dans cet article nous avons revu de manière assez exhaustive les fondements thermodynamiques des processus de conversion thermoélectrique. Au-delà de son caractère pédagogique qui explique son succès, cet article a permis de montrer que la thermodynamique du gaz d’électron permettait de montrer que le facteur de mérite, traditionnellement considéré comme un paramètre purement technologique, est en fait directement relié au rapport des conductivités et par suite, des chaleurs spécifiques, comme pour les gaz classiques. Ce résultat a d’envisager le facteur de mérite comme une grandeur thermodynamique à optimiser, lors de transitions de phase par exemple [RICL 18].
+•	H. Ouerdane, A. A. Varlamov, A. V. Kavokin, C. Goupil, and C. B. Vining Enhanced thermoelectric coupling near electronic phase transition : the rôle of fluctuation Cooper pairs Physical Review B 91, 100501 ® (2015)
+Cet article nous a permis d’étendre les prédictions quant au caractère central du facteur de mérite en prédisant une divergence de ce dernier dans le cas de transition de phase électronique. La prédiction d’une divergence au voisinage de la transition normal/supra a été ainsi prévue. 
+•	C. Goupil, H. Ouerdane, E. Herbert, G. Benenti, Y. D’Angelo, and Ph. Lecoeur, Closed-loop approach to thermodynamics Phys. Rev. E 94, 032136 (2016)
+Dans cet article nous avons étendu le développement théorique des machines thermoélectriques aux autres machines thermiques. En faisant usage du formalisme utilisé pour décrire le système bouclés nous avons ainsi pu montrer que les oscillations observées dans certains systèmes thermodynamiques (Teorell, Oscillateur thermoacoustique, Belousov-Zhabotinsky…) trouvaient leur origine dans les effets de rétroaction avec rotation de phase.
+•	C. Goupil, H. Ouerdane, E. Herbert, Cl. Goupil and Y. D’Angelo. Thermodynamics of metabolic energy conversion under muscle load. New J. Phys.21 023021 (2019)
+Dans cet article nous avons poursuivi le développement théorique des machines en conditions mixtes, en l’étendant au cas de machines no-thermiques. Nous avons ainsi considéré un organisme fournissant un effort comme un système thermodynamique proche équilibre. Cette approche nous a permis de retrouver intégralement la réponse force-vitesse de muscle, telle qu’elle avait été formulée par Hill en 1938. L’approche de Hill avait conduit à une expression purement phénoménologique à trois paramètres. Nous avons trouvé les fondements thermodynamiques de ces paramètres, ce qui nous a permis de relier ce modèle à des paramètres physiologiques courants. Ce travail très prometteur est en cours avec l’institut de Myologie de Paris, L’INSEP et l’AP-HP. Un brevet a été déposé (Brevet n°7).
+3.	Encadrement doctoral et scientifique
+•	7 Thèses encadrées
+•	5 Post-doc
+•	17 jury de thèse
+•	3 jury d’HDR
+4.	Diffusion et rayonnement 
+
+activités éditoriales (expertises, responsabilités de collections...)
+•	Editeur invité du Journal Entropy
+•	Referee pour les journaux, Phys Rev, EPL, JAP, Entropy. 
+
+participation jurys de thèse et de HDR (hors établissement)
+
+•	  Thèse : Dmitry Smirnov. Innovative technological pathway for new commercial applications of Stirling cycle-based systems. Skolkovo Institute of Science and Technology. (Rapporteur)
+•	HDR  Sawako Nakamae. Interacting magnetic nanoparticles: from superspin glass, Superferromagnetism to energy applications. SPEC, Saclay, 20 novembre 2013. (Rapporteur)
+•	HDR  Michel Dubois. De l’interaction évolutive de la technique et de l’humain comme prérequis pour l’élaboration d’une théorie générale des processus évolutifs. Applications à l’appréhension des processus d’innovation. UTC, 28 Avril 2017
+
+diffusion du savoir (vulgarisation), responsabilités et activités au sein des sociétés savantes ou associations
+
+•	Membre du bureau du Campus de la Transition Ecologique
+•	Conférences en ligne (Accès direct Youtube)
+Transition énergétique et recherche interdisciplinaire
+Biomim Expo : Et si la ville était un métabolisme ?
+Contraintes : les joies de la thermodynamique
+Des Physiciens et des Economistes	
+Biomimétisme des usages de l’énergie
+
+organisation colloques, conférences, journées d'étude
+•	Co-organisateur de la session Ecole des Houches, avril 2012, CEA-CNRS :  Le soleil dans tous ses états
+•	Co-organisateur du Training Thermoelectricity, Caen 24-25 mars 2011, ENERMAT "Interreg Espace Atlantique 2007-2013"
+•	Organisateur de la journée Thermoélectricité de la Société Française de Thermique, 9 mars 2012
+•	Co-organisateur de la journée Exergie-automobile », Technocentre Renault Guyancourt, 16 février 2011
+•	Co-organisateur de la journée Pompes à chaleur thermoélectriques », EDF-ACOME, Caen, 15 février 2011
+•	Co-organisateur de la journée Thermoelectric Workshop », TOTAL, La Défense,14 février 2011
+•	Organisateur de la Journée Normandie Aéroespace (NAE), Thermoélecricité et composites, Caen, 10 janvier 2011
+•	Organisateur de la Journée GAT PIE CNRS, transport électronique et Photovoltaïsme, Paris, 18 Octobre 2010
+•	Organisateur du colloque "Pétrole, du Maghreb et Moyen-Orient : regards croisés"
+
+
+5. Responsabilités scientifiques
+Animation équipes de recherche (préciser le rôle, taille, composition, budget)
+•	Responsable du GAT PIE CNRS, " Electricité décarbonée " (2009-2011)
+•	Membre du comité de rédaction et d'évaluation de l'ANR "PROGELEC" (2010-2012)
+•	Membre du comité de rédaction de l'ANR EESI (2009)
+•	Rapporteur dans le cadre du European Symposium on Reliability of Electron Devices, Failure Physics and Analysis (ESREF) (2001-2006)
+•	Membre du comité d'organisation " Matériaux 2014"
+
+Contrats de recherche évalués suite à appel à projet 
+Projets Européens
+•	THETAGEN: (2009-2011) " Récupération d'énergie sur une turbine d'hélicoptère via la thermoélectricité " Programme déposé dans l'appel CLEANSKY FP7. Partenariat industriel : Turbomeca S.A., Tronico, Evektor, Termo-Gen AB, Epsilon Engéniérie
+•	ENERMAT: (2010-2012) Projet INTERREG, "Matériaux et énergie".
+
+Programmes nationaux
+•	METABOLOCOT: (2019) CNRS Défi Modélisation du vivant 2019. Modélisation de la réponse métablique à l'effort des vertébrés.
+•	FLEXIGEN: (2017-2019) Projet régional Centre-Val de Loire. Micro-générateur thermoélectrique oxyde intégré sur une membrane flexible de silicium poreux biocompatible.
+•	FUI RENOTER : (2008-2012) Programme FUI 6 Récupération d'énergie sur un moteur thermique via la thermoélectricité " Partenariat : laboratoire LPM (Nancy), laboratoire ICG (Montpellier). Sociétés, Nexter, Sherpa Technologie, Renault SAS, Renault Trucks, Valeo
+•	SYSPACTE : (2009-2014) Programme FUI 7 " Développement de pompes Peltier pour bâtiments BBC " Partenaires : laboratoire ICG (Montpellier), laboratoire LOCIE (Chambéry). Sociétés ACOME et ANJOS
+•	ISIS : (2010-2013) " Récupération et conversion de chaleur sur pièces de fonderie, après chauffage inductif".  Partenaires : Laboratoires SIMAP, LAPLACE, ARMINES Sociétés EDF, FIVES CELES, ATYS CONSULTING
+•	CERES2 : (2010-2013) " Développement d'une plateforme de modélisation de conversion de chaleur issue des rejets industriels " Partenaires : Laboratoires LEMTA, LERMAB, LEPTIAB, ARMINES Sociétés EDF, Arjowiggings, IFP
+•	OTOGEHT, PIE CNRS: (2009-2012) " Optimisation des propriétés thermoélectriques d'Oxydes pour la Génération Electrique Haute Température. Partenaires : Laboratoires ICG Montpellier et LOCIE Chambéry
+•	IMPACT, PIE CNRS : (2010) " Modélisation de pompes à chaleur à effet Peltier en vue d'application pour le bâtiment. Partenaires : Laboratoires LOCIE Chambéry
+
+Contrats de recherche de gré à gré 
+•	Société Corning : 2004-2007. " Développement de thermogénérateurs haute température à base d'oxydes.
+•	Société ACOME : 2005-2008 : " Développement d'une pompe à chaleur thermoélectrique.
+
+
+Responsabilités collectives
+1.	Présentation générale des responsabilités
+J’ai, au cours de ma carrière assuré un certain nombre de responsabilités collectives. Durant la période de mon activité en tant que PRAG j’ai surtout assuré des responsabilités locales essentiellement pédagogiques (Responsabilité de salles de TP électronique 1A ENSICAEN, Montage de salle de TP Microélectronique…). A la suite de ma nomination en tant que professeur des Université j’ai assuré la direction de plusieurs spécialités de formations au sein de l’ENSICAEN. A partir de 2010, j’ai pris en charge le développement de la plate-forme technologique thermoélectricité, et la direction adjointe de l’UMS 3318. A la suite de mon départ à Paris, j’ai pris en charge la direction adjointe du LIED, UMR8236, et de l’équipe de recherche DyCo. Outre ces charges, j’ai assuré un certain nombre de mandats au sein des conseils des établissements.
+2.	Responsabilités administratives
+•	Directeur-adjoint de l'UMS 3318, Centre National de Recherche Technologique, CNRT Matériau (2010-2011)
+•	Directeur-adjoint du LIED, (UMR 8236) (2015-…)
+3. Responsabilités et mandats locaux ou régionaux
+•	Membre du CS de l’UFR de Physique, Université Paris Diderot
+•	Président du Conseil scientifique du LIED (2016-2020)
+•	Membre du CS de l’Ecole d’Architecture Paris Val de Seine (2018-…)
+4. Responsabilités et mandats (internationaux, nationaux)
+•	Membre de la commission CCSU 63 de l’Université Paris-Sud (2016-…)
+•	Membre des commissions CNU 63 et 28 de l’Université de Caen (2002-2008)
+•	Expert HCERES (2015)
+•	Membre du comité de direction du PIE CNRS (2009-2011)
+Annexes
+Liste classée des publications (celles-ci ne doivent pas être jointes)
+
+Articles dans revues internationales à comité de lecture
+1.	H. Jie, M. Salatino, A. Traini, C. Chaumont, F. Boussaha, C Goupil, M. Piat, Proximity-Coupled Al/Au Bilayer Kinetic Inductance Detectors, J Low Temp Phys (2020) doi:10.1007/s10909-019-02313-4
+
+2.	C. Goupil, E. Herbert Adapted or Adaptable: How to Manage Entropy Production? Entropy 2020, 22(1), 29
+
+3.	C. Goupil, H. Ouerdane, E. Herbert, Cl. Goupil and Y. D'Angelo. Thermodynamics of metabolic energy conversion under muscle load.. New J. Phys.21 023021 (2019)
+
+4.	E. Thiébaut, F. Pesty, C. Goupil, G. Guegan, P. Lecoeur, Non-linear impedance spectroscopy for complete thermoelectric characterization: Beyond the zT estimation. Journal of Applied Physics 124 (23), 235106 (2018)
+
+5.	J Ramousse, C Goupil, Chart for Thermoelectric Systems Operation Based on a Ternary Diagram for Bithermal Systems, Entropy 20 (9), 666, (2018)
+
+6.	AE Risseh, HP Nee, C Goupil, Electrical power conditioning system for thermoelectric waste heat recovery in commercial vehicles, IEEE transactions on transportation electrification 4 (2), 548-562 6 (2018)
+
+7.	E Herbert, C Morize, A Louis-Napoléon, C Goupil, P Jop, Y D'angelo,Buoyancy-driven destabilization of an immersed granular bed  Journal of Fluid Mechanics 843, 778-809 (2018)
+
+8.	Thiébaut E., Goupil C., Pesty F., D'Angelo Y., Guegan G., Lecoeur, P. Maximization of the thermoelectric cooling of a graded Peltier device by analytical heat-equation resolution. Physical Review Applied, 8(6), 064003. (2017)
+
+9.	Social patterns of energy usage: An international comparison R Patino, C Goupil, Energy Procedia 142, 2655-2660 (2017)
+
+10.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecoeur, True nature of the Curzon-Ahlborn efficiency, Phys. Rev. E 96, 022119 (2017)
+
+11.	C. Goupil, H. Ouerdane, E. Herbert, G. Benenti, Y. D'Angelo, and Ph. Lecoeur, Closed-loop approach to thermodynamics Phys. Rev. E 94, 032136 (2016) 
+
+12.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecoeur A note on the electrochemical nature of the thermoelectric power Eur. Phys. J. Plus 131: 76 (Highlights from European journals) (2016) 
+
+13.	Y. Apertet, C. Goupil. On the fundamental aspect of the first Kelvin's relation in thermoelectricity. International Journal of Thermal Sciences 104, 225-227 (2016)
+
+14.	A Abbout, H Ouerdane, C Goupil, Statistical analysis of the figure of merit of a two-level thermoelectric system: a random matrix approach, Journal of the physical society of Japan 85, 094704 (2016)
+
+15.	G. Benenti, H. Ouerdane, C.Goupil. The thermoelectric working fluid: Thermodynamics and transport. Comptes Rendus Physique 17 (10), 1072-1083.
+
+16.	Y. Apertet, H. Ouerdane, C. Goupil, Ph. Lecoeur Equivalent parameters for series thermoelectrics Energy Conversion and Management, 93, 15, 160-165, (2015)
+
+17.	H. Ouerdane, Y. Apertet, C. Goupil, and Ph. Lecoeur Continuity and boundary conditions in thermodynamics: From Carnot's efficiency to efficiencies at maximum power Eur. Phys. J. Special Topics 224, 839-864 (2015)
+
+18.	H. Ouerdane, A. A. Varlamov, A. V. Kavokin, C. Goupil, and C. B. Vining Enhanced thermoelectric coupling near electronic phase transition: the rôle of fluctuation Cooper pairs Physical Review B 91, 100501 (R) (2015)
+
+19.	J.G. Stockholm, C. Goupil, P. Maussion and H. Ouerdane
 Transient Thermoelectric Generator: An Active Load Story
-
 Journal of Electronic Materials, 44, 6, (2015)
 
-\item Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lec\oe ur
-
-\textit{Influence of thermal environment on optimal working conditions of
-thermoelectric generators }
-
+20.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecœur
+Influence of thermal environment on optimal working conditions of thermoelectric generators 
 J. Appl. Phys. 116, 144901 (2014)
 
-\item Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lec\oe ur
-
-\textit{Revisiting Feynman's ratchet with thermoelectric transport theory}
-
+21.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecœur
+Revisiting Feynman's ratchet with thermoelectric transport theory
 Physical Review E vol. 90, 012113 (2014)
 
-\item Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lec\oe ur
-
-\textit{On the distinction between maximum power and maximum efficiency
-working conditions for thermoelectric generators }
-
+22.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecœur
+On the distinction between maximum power and maximum efficiency working conditions for thermoelectric generators 
 Journal of Applied Physics 116, 144901 (2014)
 
-\item Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lec\oe ur
-
-\textit{Comment on "Effective thermal conductivity in thermoelectric
-materials" }
-
+23.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecœur
+Comment on "Effective thermal conductivity in thermoelectric materials" 
 Journal of Applied Physics 115, 126101 (2014)
 
-\item Y. Thimont, Q. Lognon\'{e}, C. Goupil, F. Gascoin, E. Guilmeau
+24.	Y. Thimont, Q. Lognoné, C. Goupil, F. Gascoin, E. Guilmeau
+Design of Apparatus for Ni/Mg   Si and Ni/MnSi    Contact Resistance Determination for Thermoelectric Legs Journal of Electronic Materials vol. 43 , 2023-2028 (2014 )
 
-\textit{Design of Apparatus for Ni/Mg}$_{\mathit{2}}$\textit{Si and
-Ni/MnSi}$_{\mathit{1.75}}$\textit{ Contact Resistance Determination for
-Thermoelectric Legs} Journal of Electronic Materials vol. 43 , 2023-2028 (2014 )
-
-
-\item Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lec\oe ur
-
-\textit{From local force-flux relationships to internal dissipations and their
-impact on heat engine performance: The illustrative case of a thermoelectric
-generator}
-
+25.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecœur
+From local force-flux relationships to internal dissipations and their impact on heat engine performance: The illustrative case of a thermoelectric generator
 Physical Review E vol. 88, 022137 (2013)
 
-\item Y. Apertet, H. Ouerdane, O.\ Glavatskaya, and Ph. Lec\oe ur
-
-\textit{Comment on "Optimal working conditions for thermoelectric generators
-with realistic thermal coupling" by Apertet Y. et al. Reply}
-
+26.	Y. Apertet, H. Ouerdane, O. Glavatskaya, and Ph. Lecœur
+Comment on "Optimal working conditions for thermoelectric generators with realistic thermal coupling" by Apertet Y. et al. Reply
 Europhysics Letters vol. 101, 68008 (2013)
 
-\item Wolfgang Seifert, G. Jeffrey Snyder, Eric Toberer, Christophe Goupil,
-Knud Zabrocki, Eckhard M\"{u}ller
-
-\textit{The self-compatibility effect in graded thermoelectric cooler elements
-}
-
+27.	Wolfgang Seifert, G. Jeffrey Snyder, Eric Toberer, Christophe Goupil, Knud Zabrocki, Eckhard Müller
+The self-compatibility effect in graded thermoelectric cooler elements 
 Physica Status Solidi (a) vol. 210, pages 1407--1417 (2013)
 
-\item A. Abbout, H. Ouerdane, and C. Goupil
-
-\textit{Mesoscopic thermoelectric transport near zero transmission energies }
-
+28.	A. Abbout, H. Ouerdane, and C. Goupil
+Mesoscopic thermoelectric transport near zero transmission energies 
 Physical Review B vol. 87, 155410 (2013)
 
-\item Y. Apertet, H. Ouerdane, A. Michot, C. Goupil, and Ph. Lec\oe ur
-
-\textit{On the efficiency at maximum cooling power }
-
+29.	Y. Apertet, H. Ouerdane, A. Michot, C. Goupil, and Ph. Lecœur
+On the efficiency at maximum cooling power 
 Europhysics Letters vol. 103, 40001 (2013)
 
-\item G. Fraisse, J. Ramousse, D. Sgorlon, et C. Goupil
-
-\textit{Comparison of different modeling approaches for thermoelectric
-elements }
-
+30.	G. Fraisse, J. Ramousse, D. Sgorlon, et C. Goupil
+Comparison of different modeling approaches for thermoelectric elements 
 Energy Conversion and Management vol. 65, 351-356 (2013)
 
-\item Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lec\oe ur
-
-\textit{Efficiency at maximum power of thermally coupled heat engines}
-
+31.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecœur
+Efficiency at maximum power of thermally coupled heat engines
 Physical Review E vol. 85, 041144 (2012)
 
-\item Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lec\oe ur
-
-\textit{Irreversibilities and efficiency at maximum power of heat engines: The
-illustrative case of a thermoelectric generator }
-
+32.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecœur
+Irreversibilities and efficiency at maximum power of heat engines: The illustrative case of a thermoelectric generator 
 Physical Review E vol. 85, 031116 (2012)
 
-\item Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lec\oe ur
-
-\textit{Thermoelectric internal current loops inside inhomogeneous systems}
-
+33.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecœur
+Thermoelectric internal current loops inside inhomogeneous systems
 Physical Review B vol. 85, 033201 (2012)
 
-\item M. Lazard, C. Goupil, G. Fraisse, H. Sherrer
-
-\textit{Thermoelectric quadrupole of a leg to model transient state}
-
+34.	M. Lazard, C. Goupil, G. Fraisse, H. Sherrer
+Thermoelectric quadrupole of a leg to model transient state
 Journal of Power and Energy vol. 226, 277-282 (2012)
 
-\item Y. Apertet, H. Ouerdane, O. Glavatskaya, C. Goupil and Ph. Lec\oe ur
-
-\textit{Optimal working conditions for thermoelectric generators with
-realistic thermal coupling }
-
+35.	Y. Apertet, H. Ouerdane, O. Glavatskaya, C. Goupil and Ph. Lecœur
+Optimal working conditions for thermoelectric generators with realistic thermal coupling 
 Europhysics Letters vol. 97, 28001 (2012)
 
-\item C. Goupil, W. Seifert,K. Zabrocki, E. M\"{u}ller and G. Jeffrey Snyder
-
-\textit{Thermodynamics of Thermoelectric Phenomena and Applications}
-
+36.	C. Goupil, W. Seifert,K. Zabrocki, E. Müller and G. Jeffrey Snyder
+Thermodynamics of Thermoelectric Phenomena and Applications
 Entropy vol. 13, 1481-1517 (2011)
-
 Best Paper Award 2015 (http://www.mdpi.com/1099-4300/17/2/882)
 
-\item W. Seifert, V. Pluschke, C. Goupil, K. Zabrocki, E. M\"{u}ller and G.J. Snyder
-
-\textit{Maximum performance in self-compatible thermoelectric elements}
-
+37.	W. Seifert, V. Pluschke, C. Goupil, K. Zabrocki, E. Müller and G.J. Snyder
+Maximum performance in self-compatible thermoelectric elements
 Journal of Materials Resarch vol. 26 1933-1939 (2011)
 
-\item M. Lossec, B. Multon, H. Ben Ahmed and C. Goupil
-
-\textit{Thermoelectric generator placed on the human body: system modeling and
-energy conversion improvements}
-
+38.	M. Lossec, B. Multon, H. Ben Ahmed and C. Goupil
+Thermoelectric generator placed on the human body: system modeling and energy conversion improvements
 European Physical Journal-Applied Physics vol. 52 11103 (2010)
 
-\item G. Fraisse, M. Lazard, C. Goupilc, J.Y. Serrat
-
-\textit{Study of a thermoelement's behaviour through a modelling based on
-electrical analogy }
-
+39.	G. Fraisse, M. Lazard, C. Goupil, J.Y. Serrat
+Study of a thermoelement's behaviour through a modelling based on electrical analogy 
 International Journal of Heat and Mass Transfer vol. 53 3503-3512 (2010)
 
-\item S. Lemonnier, E. Guilmeau, C. Goupil, R. Funahashi, J.G. Noudem
+40.	S. Lemonnier, E. Guilmeau, C. Goupil, R. Funahashi, J.G. Noudem
+Thermoelectric properties of layered     compounds (RE = Ce, Nd, Sm, Eu, Gd, Dy) Ceramics International vol. 36 887-891 (2010)
 
-\textit{Thermoelectric properties of layered }$\mathit{Ca}_{\mathit{3.95}%
-}\mathit{RE}_{\mathit{0.05}}\mathit{Mn}_{\mathit{3}}\mathit{O}_{\mathit{10}}%
-$\textit{ compounds (RE = Ce, Nd, Sm, Eu, Gd, Dy)} Ceramics International vol.
-36 887-891 (2010)
+41.	C. Goupil
+Thermodynamics of the thermoelectric potential Journal of Applied Physic vol. 106 104907 (2009)
 
-\item C. Goupil
-
-\textit{Thermodynamics of the thermoelectric potential} Journal of Applied
-Physic vol. 106 104907 (2009)
-
-\item S. Lemonnier, C. Goupil, J. Noudem and E. Guilmeau
-
-\textit{Four-leg }$Ca_{0.95}Sm_{0.05}MnO_{3}$\textit{ unileg thermoelectric
-device}
-
+42.	S. Lemonnier, C. Goupil, J. Noudem and E. Guilmeau
+Four-leg     unileg thermoelectric device
 Journal of Applied Physics vol. 104 014505 (2008)
 
-\item J.G. Noudem, S. Lemonnier, M. Prevel, E.S. Reddy, E. Guilmeau, C. Goupil
-
-\textit{Thermoelectric ceramics for generators}
-
+43.	J.G. Noudem, S. Lemonnier, M. Prevel, E.S. Reddy, E. Guilmeau, C. Goupil
+Thermoelectric ceramics for generators
 Journal of The European Ceramic Society vol. 28 41-48 (2008)
 
-\item M. Prevel, E. S. Reddy, O. Perez, W. Kobayashi, I. Terasaki, C. Goupil
-and J. G. Noudem
-
-\textit{Thermoelectric properties of sintered and textured Nd-substituted
-}$\mathit{Ca}_{\mathit{3}}\mathit{CO}_{\mathit{4}}\mathit{O}_{\mathit{9}}%
-$\textit{ ceramics}
-
+44.	M. Prevel, E. S. Reddy, O. Perez, W. Kobayashi, I. Terasaki, C. Goupil and J. G. Noudem
+Thermoelectric properties of sintered and textured Nd-substituted     ceramics
 Japanese Journal of Applied Physics vol. 46 6533-6538 (2007)
 
-\item J.G. Noudem, S. Lemonnier, M. Prevel, E. S. Reddy, E. Guilmeau and C. Goupil
-
-\textit{Functional Ceramic-development thermoelectric oxides for generator}
-
+45.	J.G. Noudem, S. Lemonnier, M. Prevel, E. S. Reddy, E. Guilmeau and C. Goupil
+Functional Ceramic-development thermoelectric oxides for generator
 Innovation in Ceramics Science and Engineering vol. 352 245-250 (2007)
 
-
-\item A. Pautrat, Ch. Simon, C. Goupil, P. Mathieu, A. Brulet, C. D. Dewhurst,
-A. I. Rykov
-
-\textit{Persistence of an ordered flux line lattice above the second peak in
-}$\mathit{Bi}_{\mathit{2}}\mathit{Sr}_{\mathit{2}}\mathit{CaCu}_{\mathit{2}%
-}\mathit{O}_{\mathit{8+delta}}$
-
+46.	A. Pautrat, Ch. Simon, C. Goupil, P. Mathieu, A. Brulet, C. D. Dewhurst, A. I. Rykov
+Persistence of an ordered flux line lattice above the second peak in    
 Physical Review B vol. 75, 224512 (2007)
 
-\item S. Hebert, D. Flahaut, C. Martin, S. Lemonnier, J. Noudem, C. Goupil, A.
-Maignan, J.\ Hejtmanek
-
-\textit{Thermoelectric properties of perovskites: Sign change of the Seebeck
-coefficient and high temperature properties}
-
+47.	S. Hebert, D. Flahaut, C. Martin, S. Lemonnier, J. Noudem, C. Goupil, A. Maignan, J. Hejtmanek
+Thermoelectric properties of perovskites: Sign change of the Seebeck coefficient and high temperature properties
 Progress in Solid State Chemistry vol. 35 457-467 (2007)
 
-\item E.S. Reddy,J.G. Noudem, C. Goupil
-
-\textit{Open porous foam oxide thermoelectric elements for hot gases and
-liquid environments}
-
+48.	E.S. Reddy,J.G. Noudem, C. Goupil
+Open porous foam oxide thermoelectric elements for hot gases and liquid environments
 Energy Conversion and Management vol. 48 1251-1254 (2007)
 
-\item J. Scola, A. Pautrat, C. Goupil, C. Simon
-
-\textit{Experimental study of the correlation length of critical-current
-fluctuations in the presence of surface disorder: Probing vortex long-range
-interactions}
-
+49.	J. Scola, A. Pautrat, C. Goupil, C. Simon
+Experimental study of the correlation length of critical-current fluctuations in the presence of surface disorder: Probing vortex long-range interactions
 Physical Review B vol. 73 (2) , 024508 (2006)
 
-\item D. Flahaut, C. Goupil, S. H\'{e}bert, S. Lemonnier, J. Noudem, A.
-Maignan and R. Funahashi
-
-\textit{Thermolectric performances of perovskite transition-metal oxides at
-high temperature}
-
+50.	D. Flahaut, C. Goupil, S. Hébert, S. Lemonnier, J. Noudem, A. Maignan and R. Funahashi
+Thermolectric performances of perovskite transition-metal oxides at high temperature
 Transactions of the Materials Research Society of Japan 3 371-374 (2006)
 
-\item X. Gay, B. Hintze, E. Erben, H. Bernhardt, SP Kudelka, C. Goupil, B. Mercey.
-\textit{Capacitors for sub 70nm DT DRAM technology and Beyond.} ECS Transactions 1 (5), 145-152 (2006) 
+51.	X. Gay, B. Hintze, E. Erben, H. Bernhardt, SP Kudelka, C. Goupil, B. Mercey. Capacitors for sub 70nm DT DRAM technology and Beyond. ECS Transactions 1 (5), 145-152 (2006) 
 
-\item E. S. Reddy, J. G. Noudem, S. Hebert and C Goupil
-
-\textit{Fabrication and properties of four-leg oxide thermoelectric modules}
-
+52.	E. S. Reddy, J. G. Noudem, S. Hebert and C Goupil
+Fabrication and properties of four-leg oxide thermoelectric modules
 J. Phys. D : Appl. Phys. 38 3751--3755 (2005)
 
-\item J. Scola, A. Pautrat, C. Goupil, Ch Simon, B. Domeng\`{e}s and C. Villard
-
-\textit{New insight into the fluctuations of the moving vortex lattice :
-Non-Gaussian noise and L\'{e}vy flights}
-
+53.	J. Scola, A. Pautrat, C. Goupil, Ch Simon, B. Domengès and C. Villard
+New insight into the fluctuations of the moving vortex lattice : Non-Gaussian noise and Lévy flights
 Fluctuations and Noise Letter vol. 6, 287 (2006)
 
-\item Ch. Simon, A. Pautrat, C. Goupil, J. Scola, P. Mathieu, A. Brulet,
-A.\ Ruyter, M.J. Higgins, S. Battacharya and D. Plessis
-
-\textit{Why pinning by surface irregularities can explain the peak effect in
-transport properties and neutron diffraction results in NbSe2 and Bi-2212
-crystals?}
-
+54.	Ch. Simon, A. Pautrat, C. Goupil, J. Scola, P. Mathieu, A. Brulet, A. Ruyter, M.J. Higgins, S. Battacharya and D. Plessis
+Why pinning by surface irregularities can explain the peak effect in transport properties and neutron diffraction results in NbSe2 and Bi-2212 crystals?
 Pramana-Journal of Physics vol. 66 83-97 (2006)
 
-\item J. Scola, A. Pautrat, C. Goupil, L. M\'{e}chin, V. Hardy, Ch. Simon
-
-\textit{Voltage noise and surface current fluctuations in the superconducting
-surface sheath}
-
+55.	J. Scola, A. Pautrat, C. Goupil, L. Méchin, V. Hardy, Ch. Simon
+Voltage noise and surface current fluctuations in the superconducting surface sheath
 Physical Review B vol. 72, 012507 (2005)
 
-\item A. Pautrat, J. Scola, Ch. Simon, P. Mathieu, A. Brulet, C. Goupil, M.J.
-Higgins, S. Battacharya
-
-\textit{Metastable states of a flux-line lattice studied by transport and
-small-angle neutron scattering}
-
+56.	A. Pautrat, J. Scola, Ch. Simon, P. Mathieu, A. Brulet, C. Goupil, M.J. Higgins, S. Battacharya
+Metastable states of a flux-line lattice studied by transport and small-angle neutron scattering
 Physical Review B vol. 71, 064517 (2005)
 
-\item J.\ Scola, A. Pautrat, C. Goupil, Ch. Simon
-
-\textit{Longitudinal and transverse noise in a moving vortex lattice}
-
+57.	J. Scola, A. Pautrat, C. Goupil, Ch. Simon
+Longitudinal and transverse noise in a moving vortex lattice
 Physical Review B vol. 71, 104507 (2005)
 
-\item A. Pautrat, Ch. Simon, J. Scola, C. Goupil, A. Ruyter, L. Ammor, P.
-Thopart and D. Plessis
-
-\textit{On voltage-current characteristics and critical current in Bi-2212}
-
+58.	A. Pautrat, Ch. Simon, J. Scola, C. Goupil, A. Ruyter, L. Ammor, P. Thopart and D. Plessis
+On voltage-current characteristics and critical current in Bi-2212
 Eur. Phys. J. B (EPJB) vol. 43, 39-45 (2005)
 
-\item A. Pautrat, C. Goupil, Ch. Simon, B. Andrewjewski, A.I. Rykov, S. Tajima
-
-\textit{The vortex depinning transition in untwined YBaCuO using complex
-impedance measurements}
-
+59.	A. Pautrat, C. Goupil, Ch. Simon, B. Andrewjewski, A.I. Rykov, S. Tajima
+The vortex depinning transition in untwined YBaCuO using complex impedance measurements
 Physica C-Superconductivity and its Applications vol. 408 577-578 (2004)
 
-\item C. Simon, A. Pautrat, G. Poullain and C. Goupil
-
-\textit{Influence of twin boundaries on the flux-line-lattice structure in
-YBa2Cu3O7-delta : A small-angle neutron scattering}
-
+60.	C. Simon, A. Pautrat, G. Poullain and C. Goupil
+Influence of twin boundaries on the flux-line-lattice structure in YBa2Cu3O7-delta : A small-angle neutron scattering
 Physical Review B vol. 70, 024502 (2004)
 
-\item A. Pautrat, J. Scola, C. Goupil and Ch Simon
-
-\textit{Quantitative analysis of the critical current due to vortex pinning by
-surface corrugation}
-
+61.	A. Pautrat, J. Scola, C. Goupil and Ch Simon
+Quantitative analysis of the critical current due to vortex pinning by surface corrugation
 Physical Review B vol. 69, 224504 (2004)
 
-\item O Crepel, R Desplats, Y Bouttement, C. Goupil, Ph. Descamps
-
-\textit{Magnetic emission mapping for passive integrated components
-characterisation}
-
+62.	O Crepel, R Desplats, Y Bouttement, C. Goupil, Ph. Descamps
+Magnetic emission mapping for passive integrated components characterisation
 Microelectronics Reliability vol. 43 1809-1814 (2003)
 
-\item A. Pautrat, A. Daignere, C. Goupil, Ch. Simon, B. Andrzejewski, A.I.
-Rykov, S. Tajima
-
-\textit{Electrodynamics of the vortex lattice in untwinned YBaCuO by complex
-impedance measurements}
-
+63.	A. Pautrat, A. Daignere, C. Goupil, Ch. Simon, B. Andrzejewski, A.I. Rykov, S. Tajima
+Electrodynamics of the vortex lattice in untwinned YBaCuO by complex impedance measurements
 The European Physical Journal B - Condensed Matter - Vol. 33 279-284 (2003)
 
-\item A. Pautrat, C. Goupil, and Ch. Simon, B. Pla\c{\c{c}}ais and P. Mathieu
-
-\textit{Comment on "Collapse of the vortex-lattice inductance and shear
-modulus at the melting transition in untwinned YBa2Cu3O7"}
-
+64.	A. Pautrat, C. Goupil, and Ch. Simon, B. Plaais and P. Mathieu
+Comment on "Collapse of the vortex-lattice inductance and shear modulus at the melting transition in untwinned YBa2Cu3O7"
 Physical Review B vol. 67, 146501 (2003)
 
-\item A. Pautrat, C. Goupil, Ch. Simon, D. Charalambous, E. M. Forgan, G.
-Lazard, P. Mathieu, and A. Br\^{u}let
-
-\textit{Distribution of transport current in a type-II superconductor studied
-by small-angle neutron scattering}
-
+65.	A. Pautrat, C. Goupil, Ch. Simon, D. Charalambous, E. M. Forgan, G. Lazard, P. Mathieu, and A. Brûlet
+Distribution of transport current in a type-II superconductor studied by small-angle neutron scattering
 Physical Review Letters vol. 90, 087002 (2003)
 
-\item F. Beaudoin, P. Perdu, R. Desplats, L.D. de Morais, O. Crepel, C. Goupil
-and G. Haller
-
-\textit{Backside hot spot detection using Liquid Crystal Microscopy}
-
+66.	F. Beaudoin, P. Perdu, R. Desplats, L.D. de Morais, O. Crepel, C. Goupil and G. Haller
+Backside hot spot detection using Liquid Crystal Microscopy
 Microelectronics Reliability vol. 42 1741-1746 (2002)
 
-\item O. Crepel, C. Goupil, B. Domenges
-
-\textit{Magnetic field measurements for non destructive failure analysis}
-
+67.	O. Crepel, C. Goupil, B. Domenges
+Magnetic field measurements for non destructive failure analysis
 Microelectronics Reliability vol. 42 1763-1766 (2002)
 
-\item D. Charalambous, P. G. Kealey, E. M. Forgan, T. M. Riseman, M. W. Long,
-C. Goupil, R. Khasanov, D. Fort, P. J. C. King, S. L. Lee, and F. Ogrin
-
-\textit{Vortex motion in type-II superconductors probed by muon spin rotation
-and small-angle neutron scattering}
-
+68.	D. Charalambous, P. G. Kealey, E. M. Forgan, T. M. Riseman, M. W. Long, C. Goupil, R. Khasanov, D. Fort, P. J. C. King, S. L. Lee, and F. Ogrin
+Vortex motion in type-II superconductors probed by muon spin rotation and small-angle neutron scattering
 Physical Review B vol. 66, 054506 (2002)
 
-\item V. Garnier, C. Goupil and G. Desgardin
-
-\textit{Section area and self-field dependence of critical current density in
-homogeneous bulk textured Bi-2223}
-
+69.	V. Garnier, C. Goupil and G. Desgardin
+Section area and self-field dependence of critical current density in homogeneous bulk textured Bi-2223
 Superconductor Science and Technology vol. 14 717-721(2001)
 
-\item D. Thopart, C. Goupil, C. Simon
-
-\textit{Experimental evidence of the decoupling line in }$\mathit{Bi}%
-2212$\textit{ single crystals by resistivity measurements }
-
+70.	D. Thopart, C. Goupil, C. Simon
+Experimental evidence of the decoupling line in     single crystals by resistivity measurements 
 Physical Review B vol. 63, 184504 (2001)
 
-\item A.\ Pautrat, C. Goupil, Ch. Simon, N. Lukte-Entrup, B. Pla\c{c}ais, P. Mathieu
-
-\textit{Evidence for vortex surface pinning in YBa2Cu3O7-delta from the
-frequency dependence of the complex penetration depth}
-
+71.	A. Pautrat, C. Goupil, Ch. Simon, N. Lukte-Entrup, B. Plaçais, P. Mathieu
+Evidence for vortex surface pinning in YBa2Cu3O7-delta from the frequency dependence of the complex penetration depth
 Physical Review B vol. 63, 054503 (2001)
 
-\item C. Goupil, A. Pautrat, C. Simon, P.G. Kealey, E.M. Forgan, S.L. Lee,
-S.T. Johnson, G. Lazard, B. Pla\c{c}ais, Y. Simon, P. Mathieu, R.\ Cubitt, Ch. Dewhurst
-
-\textit{Small angle neutron scattering and vortex lattice dynamical phase
-diagram}
-
+72.	C. Goupil, A. Pautrat, C. Simon, P.G. Kealey, E.M. Forgan, S.L. Lee, S.T. Johnson, G. Lazard, B. Plaçais, Y. Simon, P. Mathieu, R. Cubitt, Ch. Dewhurst
+Small angle neutron scattering and vortex lattice dynamical phase diagram
 Physica C vol. 341 999-1002 (2000)
 
-\item A. Pautrat, C. Goupil, Ch Simon
-
-\textit{Vortex pinning in untwinned YBCO}
-
+73.	A. Pautrat, C. Goupil, Ch Simon
+Vortex pinning in untwinned YBCO
 Physica C vol. 341 1059-1060 (2000)
 
-\item D. Thopart, C. Goupil, Ch. Simon
-
-\textit{Experimental evidence of the decoupling line in Bi 2212 single crystal
-by electronic transport measurements}
-
+74.	D. Thopart, C. Goupil, Ch. Simon
+Experimental evidence of the decoupling line in Bi 2212 single crystal by electronic transport measurements
 Physica C vol. 341 1311-1312 (2000)
 
-\item N. L\"{u}tke-Entrup, B. Pla\c{c}ais, P. Mathieu, Y. Simon, A. Pautrat,
-C. Goupil, C. Simon, A. Rykov, S. Tajima
-
-\textit{High-frequency linear AC response of a pinned vortex lattice}
-
+75.	N. Lütke-Entrup, B. Plaçais, P. Mathieu, Y. Simon, A. Pautrat, C. Goupil, C. Simon, A. Rykov, S. Tajima
+High-frequency linear AC response of a pinned vortex lattice
 Physica B vol. 284 719-720 (2000)
 
-\item C. Simon, A. Pautrat, C. Goupil, N. Lutke-Entrup, B. Pla\c{c}ais, Y.
-Simon, P. Mathieu, A. Rykov, S. Tajima
-
-\textit{Evidence for vortex pinning by surface irregularities in untwinned
-YBaCuO crystals}
-
+76.	C. Simon, A. Pautrat, C. Goupil, N. Lutke-Entrup, B. Plaçais, Y. Simon, P. Mathieu, A. Rykov, S. Tajima
+Evidence for vortex pinning by surface irregularities in untwinned YBaCuO crystals
 Physica C vol. 332 61-65 (2000)
 
-\item S.L. Lee, P.G. Kealey, E.M. Forgan, S.H. Lloyd, T.M. Riseman, D.McK.
-Paul, S.T. Johnson, Ch. Simon, C. Goupil, A. Pautrat, R. Cubitt, P. Schleger,
-C. Dewhurst, C.M. Aegerter, C. Ager
-
-\textit{Small-angle scattering from the vortex lattice in high-T-c and other
-superconductors}
-
+77.	S.L. Lee, P.G. Kealey, E.M. Forgan, S.H. Lloyd, T.M. Riseman, D.McK. Paul, S.T. Johnson, Ch. Simon, C. Goupil, A. Pautrat, R. Cubitt, P. Schleger, C. Dewhurst, C.M. Aegerter, C. Ager
+Small-angle scattering from the vortex lattice in high-T-c and other superconductors
 Physica B vol. 276 752-755 (2000)
 
-\item C. Goupil. F. Warmont, M. Hervieu, J.F. Hamet, Ch. Simon
-
-\textit{Magnetoresistance and plastic dissipation in twinned }$\mathit{YBa}%
-_{\mathit{2}}\mathit{Cu}_{\mathit{3}}\mathit{O}_{\mathit{7-delta}}$\textit{
-samples}
-
+78.	C. Goupil. F. Warmont, M. Hervieu, J.F. Hamet, Ch. Simon
+Magnetoresistance and plastic dissipation in twinned     samples
 Physical Review B vol. 60, 1418-1424 (1999)
 
-\item V. Hardy, S. H\'{e}bert, C. Goupil, Ch. Simon, J. Provost, M. Hervieu,
-and P. Lejay
-
-\textit{Vortex pinning by splayed columnar defects in YBa2Cu3O7: Influence of
-large crossing angles}
-
+79.	V. Hardy, S. Hébert, C. Goupil, Ch. Simon, J. Provost, M. Hervieu, and P. Lejay
+Vortex pinning by splayed columnar defects in YBa2Cu3O7: Influence of large crossing angles
 Physical Review B vol. 59, 8455-8458 (1999)
 
-\item F. Warmont, C. Goupil, V. Hardy, and Ch. Simon
-
-\textit{Anisotropy dependence of half-loop-mediated vortex motion in
-thallium-based superconductors studied by magnetoresistivity}
-
+80.	F. Warmont, C. Goupil, V. Hardy, and Ch. Simon
+Anisotropy dependence of half-loop-mediated vortex motion in thallium-based superconductors studied by magnetoresistivity
 Physical Review B vol. 58, 132-134 (1998)
 
-\item C. Prouteau, F. Warmont, Ch. Goupil, J.F. Hamet, Ch. Simon
-
-\textit{Angular dependence of the resistivity of YBa2Cu3O7 superconducting
-a-axis oriented thin films}
-
+81.	C. Prouteau, F. Warmont, C. Goupil, J.F. Hamet, Ch. Simon
+Angular dependence of the resistivity of YBa2Cu3O7 superconducting a-axis oriented thin films
 Physica C vol. 288 243-248 (1997)
 
-\item F. Warmont, V. Hardy, A. Ruyter, C. Goupil, G. Villard, J. Provost, Ch. Simon
-
-\textit{Angle-resolved resistivity measurements in a Bi-2212 single crystal
-with inclined columnar defects}
-
+82.	F. Warmont, V. Hardy, A. Ruyter, C. Goupil, G. Villard, J. Provost, Ch. Simon
+Angle-resolved resistivity measurements in a Bi-2212 single crystal with inclined columnar defects
 Physica C vol. 282 2319-2320 (1997)
 
-\item T Aouaroun, V Hardy, Ch Goupil, F Warmont, G Villard and Ch Simon
-
-\textit{Anisotropic resistivity measurements by a multi-terminal transport
-method}
-
+83.	T Aouaroun, V Hardy, Ch Goupil, F Warmont, G Villard and Ch Simon
+Anisotropic resistivity measurements by a multi-terminal transport method
 Supercond. Sci. Technol. vol. 10 572-575 (1997)
 
-\item C. Goupil, A. Ruyter, V. Hardy, Ch. Simon
-
-\textit{Flux line pinning and transport measurements in a Bi2212 crystal in
-the presence of columnar defects}
-
+84.	C. Goupil, A. Ruyter, V. Hardy, Ch. Simon
+Flux line pinning and transport measurements in a Bi2212 crystal in the presence of columnar defects
 Physica C vol. 278 23-30 (1997)
 
-\item F. Warmont, V. Hardy, Ch. Goupil, Ch. Simon, J. Provost, A. Ruyter
-
-\textit{Angle-resolved transport measurements in a Bi-2212 crystal with
-inclined columnar defects: Study of the directional effects}
-
+85.	F. Warmont, V. Hardy, C. Goupil, Ch. Simon, J. Provost, A. Ruyter
+Angle-resolved transport measurements in a Bi-2212 crystal with inclined columnar defects: Study of the directional effects
 Physica C vol. 277 61-69 (1997)
 
-\item J. C. Soret, L. Ammor, A. Smina, B. Martinie, A. Ruyter, J. Lecomte, Ch.
-Gasser, Ch. Goupil and Ch Simon
-
-\textit{Kosterlitz-Thouless behaviour in }$\mathit{Tl}_{\mathit{2}}%
-\mathit{Ba}_{\mathit{2}}\mathit{CaCu}_{\mathit{2}}\mathit{O}_{\mathit{8}}%
-$\textit{ granular thin films}
-
+86.	J. C. Soret, L. Ammor, A. Smina, B. Martinie, A. Ruyter, J. Lecomte, Ch. Gasser, C. Goupil and Ch Simon
+Kosterlitz-Thouless behaviour in     granular thin films
 Journal of Physics-Condensed Matter vol. 8 11193-11204 (1996)
 
-\item Ch. Goupil, T. Aouaroun, D. Thopart, J. F. Hamet, and Ch. Simon
-
-\textit{One-dimensional Brownian-motion model for transport measurements in
-high-temperature superconductors}
-
+87.	C. Goupil, T. Aouaroun, D. Thopart, J. F. Hamet, and Ch. Simon
+One-dimensional Brownian-motion model for transport measurements in high-temperature superconductors
 Physical Review B vol. 54, 15525-15529 (1996)
 
-\item Ch Simon, J. Provost, D. Groult, V. Hardy, A. Wahl, C. Goupil, A. Ruyter
-
-\textit{Vortex pinning and columnar defects in superconducting oxides}
-
+88.	Ch Simon, J. Provost, D. Groult, V. Hardy, A. Wahl, C. Goupil, A. Ruyter
+Vortex pinning and columnar defects in superconducting oxides
 Nuclear Instruments and Methods in Physics Research Section B Vol. 107 384-392 (1996)
 
-\item Ch. Goupil, A. Ruyter, J. Provost, T. Aouaroun and Ch. Simon
-
-\textit{Vortex Dynamics Studied Over a Wide Range of Time Scale in Bi-2212
-Crystals}
-
+89.	C. Goupil, A. Ruyter, J. Provost, T. Aouaroun and Ch. Simon
+Vortex Dynamics Studied Over a Wide Range of Time Scale in Bi-2212 Crystals
 Journal de Physique III vol. 5 1481-1490 (1995)
 
-\item A. Ruyter, V. Hardy, C. Goupil, J. Provost, D. Groult, Ch. Simon
-
-\textit{Magnetic flux lattice transition in Bi2212 crystals with columnar
-defects}
-
+90.	A. Ruyter, V. Hardy, C. Goupil, J. Provost, D. Groult, Ch. Simon
+Magnetic flux lattice transition in Bi2212 crystals with columnar defects
 Physica C vol. 235 2663-2664 (1994)
 
-\item C. Goupil, J.F. Hamet, J. Provost, B. Blanc-Guilhon, Ch. Simon, S.
-Bouffard, B. Raveau
-
-\textit{Critical current in YBaCuO thin films}
-
+91.	C. Goupil, J.F. Hamet, J. Provost, B. Blanc-Guilhon, Ch. Simon, S. Bouffard, B. Raveau
+Critical current in YBaCuO thin films
 Journal de Physique III vol. 4 2213-2223 (1994)
 
-\item V. Hardy, A. Maignan, C. Goupil, J. Provost, C. Simon and C. Martin
-
-\textit{ Anisotropic superconducting properties of a Tl-2223 single crystal
-studied by transport measurements}
-
+92.	V. Hardy, A. Maignan, C. Goupil, J. Provost, C. Simon and C. Martin
+ Anisotropic superconducting properties of a Tl-2223 single crystal studied by transport measurements
 Supercond. Sci. Technol. vol. 7 126-132 (1994)
 
-\item J.C. Soret, L. Ammor, B. Martinie, Ch. Goupil, V. Hardy, J. Provost, A.
-Ruyter, Ch. Simon
-
-\textit{ Magnetoresistance in Bi-2212 single crystal}
-
+93.	J.C. Soret, L. Ammor, B. Martinie, C. Goupil, V. Hardy, J. Provost, A. Ruyter, Ch. Simon
+ Magnetoresistance in Bi-2212 single crystal
 Physica C vol. 220 2663-2664 (1994)
-\end{enumerate}
 
-\subsection{Articles soumis}
+Articles soumis
 
-\begin{enumerate}
-\item C. Goupil, H. Ouerdane, A. Khamsing, Y. Apertet, F. Bouteau, S. Mancuso,
-R. Pati\~{n}o, P. Lec\oe ur
+1)	H. Benisty and C. Goupil, Graph parity-time symmetry from randomly connected mesoscopic sets soumis à Phys. Rev. E.
 
-\textit{Green thermoelectrics: Observation and analysis of plant
-thermoelectric response,}
+Ouvrages individuels et direction d'ouvrages collectifs
 
-http://arxiv.org/abs/1502.04613
-\end{enumerate}
+1)	K. Zabrocki, H. Ouerdane, Y. Apertet, and W. Seifert
+Continuum theory of thermoelectric elements
+C. Goupil editor (Wiley, Berlin), (2015)
 
-\section{Conf\'{e}rences internationales}
+Chapitres d'ouvrages
 
-\begin{enumerate}
-	
-\item ICTP 2019: Conference on Modern Concepts and New Materials for Thermoelectricity (smr 3269), (10-15/03/2019). (oral inaugural) 
-	
-\item Journ\' {e}es du GDRI-Franco-Japonais NextPV (13/06/2016)
-E. Thi\' {e}baut et al., Thermoelectric characterization by impedance spectroscopy
+1)	C. Goupil
+Thermodynamics of the Thermoelectricity
+Thermodynamics, chapitre 13 Edité par Tadashi Mizutani, Intech (2011)
 
-\item International Conference on Thermoelectrics, (01/07/18 - 05/07/18)
-E. Thi\' {e}baut et al., Non-linear impedance spectroscopy: beyond the ZT estimation
+2)	E. Müller, K. Zabrocki, C. Goupil, G.J. Snyder, and W. Seifert G
+Functionally graded thermoelectric generator and cooler elements
+CRC Thermoelectrics Handbook, edited by D. M Rowe, CRC Taylor (2011)
+3)	C. Goupil
+Conversion d'énergie par effets thermoélectriques : théorie, matériaux et applications
+Edité par S. Hébert, B ; Lenoir et C ; Simon. Chapitre II : Thermodynamique hors équilibre : application thermoélectrique (2008)
+4)	H. Ouerdane, Y. Apertet, C. Goupil, A. Abbout, and A. Michot
+A linear nonequilibrium thermodynamics approach to optimization of thermoelectric devices
+Chapitre invité, "Thermoelectric Nanomaterials", K. Koumoto and T. Mori editors (Springer Series in Materials Science, 2013 )
 
-\item EMRS- Strasbourg (22/05/17 - 26/05/17) 
-E. Thi\' {e}baut Non-linear impedance spectroscopy: beyond the ZT estimation. 04/07/18
+5)	C. Goupil, H. Ouerdane, and Y. Apertet
+Thermoélectricité: thermodynamique et applications
+Techniques de l'Ingénieur BE 8 080 (2013)
+
+6)	C. Goupil
+Bioinspiration et Energie. 
+Chapitre du catalogue de l’exposition, 
+Cité des Sciences et de l’Industrie « BIO-INSPIRÉS », à partir du 31 mars 2020
+
+Brevets, licences, logiciels
+
+1.	Dispositif thermoélectrique
+WO EP US TW EP1796182A1 Christophe Goupil, Corning SAS
+Priority 2005-12-09 • Filed 2005-12-09 • Published 2007-06-13
+
+2.	Transistor supraconducteur a effet de champ et procede de fabrication.
+WO EP US FR FR2932012B1 Christophe Goupil Centre Nat Rech Scient 
+Priority 2008-06-02 • Filed 2008-06-02 • Granted 2011-04-22 • Published 2011-04-22
+
+3.	Ame thermoélectrique, structure thermoélectrique
+EP FR EP2592668B1 Christophe Goupil Acome Société Cooperative et Participative Société Anonyme Cooperative de … 
+Priority 2011-11-10 • Filed 2012-11-09 • Granted 2014-05-14 • Published 2014-05-14
+
+4.	Systeme de suivi en temps reel d'un paramètre physiologique d'un animal 
+FR FR2975275B1 Christophe Goupil, Biopic 
+Priority 2011-05-16 • Filed 2011-05-16 • Granted 2014-10-17 • Published 2014-10-17
+
+5.	Conduite de circulation de fluide pour structure chauffante ou refroidissante 
+FR FR2962790B1 Christophe Goupil Acome Soc Cooperative De Production Sa A Capital Variable 
+Priority 2010-07-19 • Filed 2010-07-19 • Granted 2012-07-27 • Published 2012-07-27
+
+6.	Resistance variable 
+WO FR FR2889623A1 Christophe Goupil St Microelectronics Sa 
+Priority 2005-08-03 • Filed 2005-08-03 • Published 2007-02-09
+
+7.	Procédé de détermination des paramètres métaboliques d'une personne.
+Brevet européen (En cours), Numéro de dépot:  EP19197212.4
+Date de dépot: 13/09/2019, Inventeurs:  C. Goupil, E. Herbert, Ph. Lecoeur
+Déposant: IDF Innov
 
 
-	
-%\item P\'{e}kin Dec 2016 ???????????????????????
+Actes publiés de conférences internationales, congrès et colloques...
+1)	C. Goupil, E. Herbert, H. Ouerdane, Ph. Lecoeur, Thermoelectricity and Thermodynamics: a feedback story, Varsovie, E-MRS Fall Meeting (2019)
 
-%\item Kitakyushu Mars 2016 ?????????????????
+2)	H. Jie, M. Salatino, A. Traini, C. Chaumont, F. Boussaha, C Goupil, M. Piat, High quality Proximity-Coupled Al/Au bilayerKinetic Inductance Detectors, 18th International Workshop on Low Temperature Detectors (LTD-18), Milano, (22-26 July 2019)
 
-%\item Kitakyushu Juin 2016 ?????????????????
+3)	J. Wolfman, N. Jaber, J. Sakai, F. Giovannelli, A. Ruyter, B. Negulescu, C. Autret, L. Ventura, Ph. Lecoeur, E. Thiébaut, C. Goupil, P. Andreazza Towards flexible oxide thermoelectric micro-generators on porous silicon membrane, 2019 IEEE International Symposium on Applications of Ferroelectrics (ISAF), EPFL Lausanne Switzerland, July 14-19, ()2019).
 
-\item R. Patino, C. Goupil, \textit{Social patterns of energy usage:
-An international comparison}  9th international Conference on Applied Eneegy,
-ICAE2017, 21-24 August, Cardiff UK.
+4)	C. Goupil, E. Herbert et al. Thermodynamical constraints of optimizing living machine efficiency, Living Machines, The 8ht International Conference on Biomimetic and Biohybrid Systems, Paris IBENS, 17 July 2018.
 
-\item C. goupil, H. Ouerdane, E. Herbert, G. Benenti, Y. D'Angelo, P. Lecoeur,
-\textit{Closed Loop apporach to thermodynamics} 14th Joint European
-Thermodynamics conference, May 21-25 2017, Budapest, Hungary
+5)	C. Goupil, E. Herbert et al.  Thermoelectricity and Thermodynamics: A feedback story. EMRS Fall Meeting, Varsovie, 17 septembre 2019 
 
-\item J. Stockholm, C. Goupil, P. Maussion, H. Ouerdane \textit{Transient
-thermoelectricity: an active load story} International Conference on
-Thermoelectrics - ICT2014 Nashville, Tennessee, USA - July 6-10, (2014)
+6)	C. Goupil, E. Herbert et al. Non-stationary response of thermoelectric generators. 12th European Conference on Thermoelectrics, Madrid, 25 septembre 2014
 
-\item C. Goupil, P. Maussion, J. Stockholm, H. Ourdane \textit{Non stationary
-response of thermoelectric generators} 12th European Conference on
-Thermoelectrics, ECT, Madrid. September 24 - 26, (2014)
+7)	E. Thiébaut et al., Non-linear impedance spectroscopy: beyond the ZT estimation, International Conference on Thermoelectrics, (01-05 July 2018)
 
-\item Y. Apertet, H. Ouerdane, A. Michot, C. Goupil, and Ph. Lec\oe ur
-\textit{Optimization of TEG operation with dissipative coupling to heat baths}
-ICT 2013, Kobe, Japan. June 30-July 4, (2013)
+8)	E. Thiébaut et al. Non-linear impedance spectroscopy: beyond the ZT estimation. EMRS-Spring Meeting, Strasbourg 23 mai 2017
 
-\item K. Zabrocki, G. Laval, W. Seifert, C. Goupil, and E. M\"{u}ller
-\textit{Generalized Heat Equation and the Influence of the Leg Geometry on the
-Performance of a Thermoelectric Element} ECT 2013, Noordwijk, The Netherlands.
-November 18-20 (2013)
+9)	R. Patino, C. Goupil, Social patterns of energy usage: An international comparison 9th international Conference on Applied Eneegy, ICAE2017, 21-24 August, Cardiff UK.
 
-\item Paya B., Gagnoud A., Maussion P., Roehr P., Breville T., Nemer M.,
-Goupil C., " Innovative Solutions in Induction Heating for
-Better Energy Efficiency: Presentation of ISIS Project,
-EPM2012, 7th International Conference on Electromagnetic Processing of
-Materials, Beijing, Chine Populaire, 22-26 octobre (2012)
+10)	C. Goupil, H. Ouerdane, E. Herbert, G. Benenti, Y. D'Angelo, P. Lecoeur, Closed Loop apporach to thermodynamics 14th Joint European Thermodynamics conference, May 21-25 2017, Budapest, Hungary
 
-\item M. Lazard, C. Goupil, G. Fraisse, H. Sherrer
+11)	C. Goupil When thermoelectric systems meet the Feynman ratchet: Harmonic response and feedback , Perspectives in quantum thermoelectricity : time-dependent systems, correlations and measurements, November 12, 2014, FRUMAM, Marseille, France. 
 
-\textit{Thermoelectric quadrupole of a leg to model transient state}
+12)	J. Stockholm, C. Goupil, P. Maussion, H. Ouerdane Transient thermoelectricity: an active load story International Conference on Thermoelectrics - ICT2014 Nashville, Tennessee, USA - July 6-10, (2014)
 
-9th European Conference on Thermoelectrics (ECT) Thessaloniki, GREECE Date:
-SEP 28-30, 2011
+13)	C. Goupil, P. Maussion, J. Stockholm, H. Ourdane Non stationary response of thermoelectric generators 12th European Conference on Thermoelectrics, ECT, Madrid. September 24 - 26, (2014)
 
-\item O. Glavatskaya, C. Goupil, A. El Bakkali
+14)	Y. Apertet, H. Ouerdane, A. Michot, C. Goupil, and Ph. Lecœur Optimization of TEG operation with dissipative coupling to heat baths ICT 2013, Kobe, Japan. June 30-July 4, (2013)
 
-\textit{Exergetic Analysis of a Thermo-Generator for Automotive Application: a
-Dynamic Numerical Approach}
+15)	K. Zabrocki, G. Laval, W. Seifert, C. Goupil, and E. Müller Generalized Heat Equation and the Influence of the Leg Geometry on the Performance of a Thermoelectric Element ECT 2013, Noordwijk, The Netherlands. November 18-20 (2013)
 
-9th European Conference on Thermoelectrics (ECT) Thessaloniki, GREECE Date:
-SEP 28-30, 	AIP Conference Proceedings 1449 (1) (2011)
+16)	Paya B., Gagnoud A., Maussion P., Roehr P., Breville T., Nemer M., Goupil C., " Innovative Solutions in Induction Heating for Better Energy Efficiency: Presentation of ISIS Project, EPM2012, 7th International Conference on Electromagnetic Processing of Materials, Beijing, Chine Populaire, 22-26 octobre (2012)
 
-\item Y. Apertet, H. Ouerdane, C. Goupil, Ph. Lec\oe ur
+17)	M. Lazard, C. Goupil, G. Fraisse, H. Sherrer
+Thermoelectric quadrupole of a leg to model transient state
+9th European Conference on Thermoelectrics (ECT) Thessaloniki, GREECE Date: SEP 28-30, 2011
 
-\textit{Internal convection in thermoelectric generator models}
+18)	O. Glavatskaya, C. Goupil, A. El Bakkali
+Exergetic Analysis of a Thermo-Generator for Automotive Application: a Dynamic Numerical Approach
+9th European Conference on Thermoelectrics (ECT) Thessaloniki, GREECE Date: SEP 28-30, AIP Conference Proceedings 1449 (1) (2011)
 
-6th European Thermal Sciences Conference (Eurotherm) Location: Poitiers,
-FRANCE Date: SEP 04-07, 2012
+19)	Y. Apertet, H. Ouerdane, C. Goupil, Ph. Lecœur
+Internal convection in thermoelectric generator models
+6th European Thermal Sciences Conference (Eurotherm) Location: Poitiers, FRANCE Date: SEP 04-07, 2012
 
-\item M. Lazard, C. Goupil, G. Fraisse, and H. Scherrer
+20)	M. Lazard, C. Goupil, G. Fraisse, and H. Scherrer
+Quadrupole method applied to a thermoelectric leg
+9th European Conference on Thermoelectrics (ECT) Thessaloniki, GREECE Date: SEP 28-30, 2011
 
-\textit{Quadrupole method applied to a thermoelectric leg}
+21)	F. Gascoin, C. Goupil, C. de Vaulx, A. Papavero
+Non homogeneous thermoelectric material study using the linear response approach
+ICT 2010, May 30-June 3, Shangaï, China
 
-9th European Conference on Thermoelectrics (ECT) Thessaloniki, GREECE Date:
-SEP 28-30, 2011
-
-\item F. Gascoin, C. Goupil, C. de Vaulx, A. Papavero
-
-\textit{Non homogeneous thermoelectric material study using the linear
-response approach}
-
-ICT 2010, May 30-June 3, Shanga\"{\i}, China
-
-\item Y. Apertet, C. Goupil, C. de Vaulx, P. Lec\oe ur
-
-\textit{Macro to micro derivation of the thermoelectric thermodynamics}
-
+22)	Y. Apertet, C. Goupil, C. de Vaulx, P. Lecœur
+Macro to micro derivation of the thermoelectric thermodynamics
 5th Forum on New Material, CIMTEC 2010, June 13 - June 18, 2010, Montecatini, Italia
 
-\item C. Goupil
-
-\textit{Thermodynamics of the thermoelectric potential}
-
+23)	C. Goupil
+Thermodynamics of the thermoelectric potential
 28rd International Conference on Thermoelectricity, ICT 2009, Freiburg, July 2009
 
-\item C. Goupil
-
-\textit{Thermoelectric generators}
-
+24)	C. Goupil
+Thermoelectric generators
 Advanced Ceramics and Composite, Daytona Beach, january 18-23 2009
 
-\item S. Lemonnier, C.Goupil, E. Guilmeau, D. B\'{e}rardan and J. Noudem
-
-\textit{Unileg\textquotedblright\ architecture for oxide-based thermoelectric
-devices}
-
+25)	S. Lemonnier, C.Goupil, E. Guilmeau, D. Bérardan and J. Noudem
+Unileg architecture for oxide-based thermoelectric devices
 E-MRS 2008 Strasbourg
 
-\item S. Lemonnier, C. Goupil, J. G. Noudem and E. Guilmeau
-
-\textit{All oxide thermoelectric devices: Comparison between conventional and
-\textquotedblleft unileg\textquotedblright\ architecture}
-
+26)	S. Lemonnier, C. Goupil, J. G. Noudem and E. Guilmeau
+All oxide thermoelectric devices: Comparison between conventional and unileg architecture
 ECT 2008, Paris, July 2-4 2008
 
-\item M. Lazard, G. Fraisse , C. Goupil; H. Scherrer
-
-\textit{Thermal analysis of a thermoelectric: a way to non conventional
-design}
-
+27)	M. Lazard, G. Fraisse , C. Goupil; H. Scherrer
+Thermal analysis of a thermoelectric: a way to non conventional design
 ECT 2008, Paris, july 2-4 2008
 
-\item C. Goupil, S. Lemonnier, E. Guilmeau, and J. Noudem
+28)	C. Goupil, S. Lemonnier, E. Guilmeau, and J. Noudem
+Oxide Thermoelectric devices: Architecture and Contacts
+IUMRS Nagoya, décembre 2008
 
-\textit{Oxide Thermoelectric devices: Architecture and Contacts}
-
-IUMRS Nagoya, d\'{e}cembre 2008
-
-\item S. Lemonnier, C. Goupil, E. Guilmeau, M. Prevel, J. G. Noudem
-
-\textit{From Ca1-xSmxMnO3 synthesis to the design and characterization of
-thermoelectric module}
-
+29)	S. Lemonnier, C. Goupil, E. Guilmeau, M. Prevel, J. G. Noudem
+From Ca1-xSmxMnO3 synthesis to the design and characterization of thermoelectric module
 ECT 2007, Odessa, september 10-12 2007
 
-\item M. Lazard, G. Fraisse , C. Goupil; H. Scherrer
-
-\textit{Thermal analysis of a thermoelectric: a way to non conventional
-design}
-
+30)	M. Lazard, G. Fraisse , C. Goupil; H. Scherrer
+Thermal analysis of a thermoelectric: a way to non conventional design
 ECT 2007, Odessa, september 10-12 2007
 
-\item S. Lemonnier, J. Noudem, C. Goupil, E. Guilmeau
-
-\textit{High Temperature Oxide Thermoelectric Generator: From Design to
-Characterization}
-
+31)	S. Lemonnier, J. Noudem, C. Goupil, E. Guilmeau
+High Temperature Oxide Thermoelectric Generator: From Design to Characterization
 ECT 2008, Paris, july 2-4 2008
 
-\item J. Scola, A. Pautrat, C. Goupil, Ch Simon
-
-\textit{Artificial Tunning of the critical current and the voltage noise by
-surface roughening}
-
+32)	J. Scola, A. Pautrat, C. Goupil, Ch Simon
+Artificial Tunning of the critical current and the voltage noise by surface roughening
 Applied Superconductivity Conference, 2006, Seattle WA, U.S.A
 
-\item S. E. Reddy, J. G. Noudem, E. Guilmeau, C. Goupil
+33)	S. E. Reddy, J. G. Noudem, E. Guilmeau, C. Goupil
+Thermal and Electrical Evaluation of all oxide thermoelectric modules
+24rd International Conference on Thermoelectricity (ICT 2005), June 19-23 (2005) Clemson (USA)
 
-\textit{Thermal and Electrical Evaluation of all oxide thermoelectric modules}
-
-24rd International Conference on Thermoelectricity (ICT 2005), June 19-23
-(2005) Clemson (USA)
-
-\item D. Thopart, C. Goupil, Ch. Simon
-
-\textit{Experimental evidence of the decoupling line in Bi2212 single crystal
-by electronic transport measurements}
-
+34)	D. Thopart, C. Goupil, Ch. Simon
+Experimental evidence of the decoupling line in Bi2212 single crystal by electronic transport measurements
 MS2-HTSC-VI, February 20-25, 2000, Houston, Texas, USA
 
-\item A . Pautrat, C. Goupil, Ch. Simon, N. L\"{u}tke-Entrup, B. Pla\c{c}ais,
-P. Mathieu, Y. Simon, A. Rykov, S. Tajima
-
-\textit{Vortex pinning by surface irregularities in untwinned YBCO}
-
+35)	A. Pautrat, C. Goupil, Ch. Simon, N. Lütke-Entrup, B. Plaçais, P. Mathieu, Y. Simon, A. Rykov, S. Tajima
+Vortex pinning by surface irregularities in untwinned YBCO
 MS2-HTSC-VI, February 20-25, 2000, Houston, Texas, USA
 
-\item A. Pautrat, C. Goupil, Ch. Simon, E.M. Forgan, P.G. Kealey, D.
-Charalambous, S. Lee, C. Aegerter, R. Cubitt, P. Shleger, G. Lazard, B.
-Pla\c{c}ais, P. Mathieu, Y. Simon
+36)	A. Pautrat, C. Goupil, Ch. Simon, E.M. Forgan, P.G. Kealey, D. Charalambous, S. Lee, C. Aegerter, R. Cubitt, P. Shleger, G. Lazard, B. Plaçais, P. Mathieu, Y. Simon
+Study of Flux-flow in type II superconductors using neutron scattering techniques
+ESF Vortex Matter Workshop, Lunteren, the Netherlands, 27 Août-1 septembre 2000
 
-\textit{Study of Flux-flow in type II superconductors using neutron scattering
-techniques}
+37)	Ch. Simon, G. Poullain, A. Pautrat, C. Goupil
+Vortex lattice accomodation on twin boundaries in YBa2Cu3O7 studied by neutron diffraction
+ESF Vortex Matter Workshop, Lunteren, the Netherlands, 27 Août-1 septembre 2000
 
-ESF Vortex Matter Workshop, Lunteren, the Netherlands, 27 Ao\^{u}t-1 septembre 2000
-
-\item Ch. Simon, G. Poullain, A. Pautrat, C. Goupil
-
-\textit{Vortex lattice accomodation on twin boundaries in YBa2Cu3O7 studied by
-neutron diffraction}
-
-ESF Vortex Matter Workshop, Lunteren, the Netherlands, 27 Ao\^{u}t-1 septembre 2000
-
-\item D. Charalambous, P.G. Kealey, E.M. Forgan, S.L. Lee, C. Goupil, A.
-Pautrat, N.J. Bancroft, D.McK. Paul, R. Cubitt, C. Dewhurst
-
-\textit{Direct Observation of the effect of a transport current on the
-flux-line lattice, using small-angle neutron diffraction}
-
+38)	D. Charalambous, P.G. Kealey, E.M. Forgan, S.L. Lee, C. Goupil, A. Pautrat, N.J. Bancroft, D.McK. Paul, R. Cubitt, C. Dewhurst
+Direct Observation of the effect of a transport current on the flux-line lattice, using small-angle neutron diffraction
 CMMP'99: Condensed Matter and Material Physics Conference, 1999, Leicester, UK
 
-\item E.M. (Ted) Forgan, D. Charalambous, P.G. Kealey, D. Fort, C. Goupil,
-S.L. Lee, F. Ogrin and P.J.C. King
+39)	E.M. (Ted) Forgan, D. Charalambous, P.G. Kealey, D. Fort, C. Goupil, S.L. Lee, F. Ogrin and P.J.C. King
+Observations of flux line motion by    SR
+ESF Vortex Matter Workshop, Lunteren, the Netherlands, 27 Août-1 septembre 2000
 
-\textit{Observations of flux line motion by }$\mu$\textit{SR}
-
-ESF Vortex Matter Workshop, Lunteren, the Netherlands, 27 Ao\^{u}t-1 septembre 2000
-
-\item N. Lutke-Entrup, B. Pla\c{c}ais, P. Mathieu, Y. Simon, A. Pautrat, C.
-Goupil, Ch. Simon, A. Rykov, S. Tajima
-
-\textit{High frequency linear ac response of a pinned vortex lattice}
-
+40)	N. Lutke-Entrup, B. Plaçais, P. Mathieu, Y. Simon, A. Pautrat, C. Goupil, Ch. Simon, A. Rykov, S. Tajima
+High frequency linear ac response of a pinned vortex lattice
 Low temperature Physics Conference (2000)
 
-\item Ch. Simon, A. Pautrat, C. Goupil, N. Lutke-Entrup, B. Placais, P.
-Mathieu, Y. Simon, A. Rykov, S. Tajima
-
-\textit{Evidence for vortex surface pinning by surface irregularities in
-untwinned YBaCuO crystals}
-
+41)	Ch. Simon, A. Pautrat, C. Goupil, N. Lutke-Entrup, B. Placais, P. Mathieu, Y. Simon, A. Rykov, S. Tajima
+Evidence for vortex surface pinning by surface irregularities in untwinned YBaCuO crystals
 First Euroconference on Vortex Matter in Superconductors Crete (2000)
 
-\item Ch. Simon, A. Pautrat, C. Goupil, N. Lutke-Entrup, B. Placais, P.
-Mathieu, Y. Simon, A. Rykov, S. Tajima
-
-\textit{Evidence for vortex surface pinning by surface irregularities in
-untwinned YBaCuO crystals}
-
+42)	Ch. Simon, A. Pautrat, C. Goupil, N. Lutke-Entrup, B. Placais, P. Mathieu, Y. Simon, A. Rykov, S. Tajima
+Evidence for vortex surface pinning by surface irregularities in untwinned YBaCuO crystals
 Chem-HTSC-V, Tokyo Japan (2000)
 
-\item A. Pautrat, C. Goupil , Ch. Simon, E. M. Forgan, P.G. Kealey, S. L. Lee,
-C. M. Aegerter, , B. Farago, R. Cubitt
-
-\textit{Small angle neutron scattering and vortex lattice dynamical phase}
-
+43)	A. Pautrat, C. Goupil, Ch. Simon, E. M. Forgan, P.G. Kealey, S. L. Lee, C. M. Aegerter, , B. Farago, R. Cubitt
+Small angle neutron scattering and vortex lattice dynamical phase
 Joint"VORTEX DYNAMICS" and "ESF-VORTEX"conference Lunteren 2000
 
-\item C. Goupil, A. Pautrat, Ch. Simon
-
-\textit{Small Angle Neutron Scattering and transport measurements : a
-dynamical approach}
-
+44)	C. Goupil, A. Pautrat, Ch. Simon
+Small Angle Neutron Scattering and transport measurements : a dynamical approach
 ESF WorkShop on vortex imaging, Cadiz, Spain, 9-11 june, 2000
 
-\item C. Goupil, A. Pautrat, Ch. Simon
-
-\textit{Small Angle Neutron Scattering coupled with transport measurements}
-
+45)	C. Goupil, A. Pautrat, Ch. Simon
+Small Angle Neutron Scattering coupled with transport measurements
 Workshop STCS/ISMRA/ENS/CNRS, Paris May 4-5, 2000
 
-\item C. Goupil, V. Civita, G. Imbert
-
-\textit{Plasma RIE etching induced damage in bipolar process : Structure and
-Topography Effect}
-
+46)	C. Goupil, V. Civita, G. Imbert
+Plasma RIE etching induced damage in bipolar process : Structure and Topography Effect
 1st European Symposium on Plasma Process Induced Damage, octobre 1999, Toulouse
 
-\item A. Ruyter, V. Hardy, Ch. Goupil, J. Provost, D. Groult, Ch. Simon
-
-\textit{Magnetic flux line transituion in Bi-2212 with columnar defects }
-
+47)	A. Ruyter, V. Hardy, C. Goupil, J. Provost, D. Groult, Ch. Simon
+Magnetic flux line transituion in Bi-2212 with columnar defects 
 4th international conference M2S HTSC, 1994, Grenoble
-\end{enumerate}
 
-\section{Conf\'{e}rences nationales}
+Conférences nationales
+1)	M. Arnoux et C. Goupil, Le roman de Renart. Un prédateur entre flux et stock, journée compléxité désordre, Université de Paris, 13 janvier 2020.
 
-\begin{itemize}
-\item C. Goupil, A. Louis-Napo\~{A}\copyright lon, E. Herbert, Y. D'Angelo,
-\textit{Economis: conversion of ressources and emerging phenomena} First
-multiisciplinary workshop on complex systems, CEPN, Universit\'{e}
-Paris 13, 2 Juin 2017.
+2)	C. Goupil, Bioinspiration of energy uses: a thermodynamic approach, Les Rendez-Vous de Concarneau 2019, Station Marine Concarneau, 17-18 octobre 2019. 
 
-% \item S\'{e}minaire Gulliver????????????????
+3)	C. Goupil Métabolisme urbain: et si la ville était un animal?. Biomim Expo 4, Paris, 11 septembre 2019.
 
-\item C. Goupil\\ \textit{Optimization of thermoelectric generator
-operation with dissipative coupling to heat baths},\\ Institut
-N\'{e}el, Grenoble, 24 septembre 2013
+4)	C. Goupil, Thermodynamique interdisciplinaire: exemple et contre-exemple,     journée de l'UFR de Physique de l'université Denis Diderot, 27 Novembre 2018, Paris.
 
-\item G. Fraisse, J. Ramousse, L. Luo, M. Cosnier, D. Sgorlon, Y.W. Kim, B. David\\
-\textit{Les peformances \'{e}nerg\'{e}tique des syst\`{e}mes thermo\'{e}lectrique, de l'\'{e}chelle \'{e}l\'{e}mentaire au b\^{a}timent.} GDR  Thermoelectricit\'{e} 6-7 Juillet 2010, Institut N\'{e}el, Grenoble  (2010)
+5)	C. Goupil, A. Louis-Napoléon, E. Herbert, Y. D'Angelo, Economis: conversion of ressources and emerging phenomena First multiisciplinary workshop on complex systems, CEPN, Université Paris 13, 2 Juin 2017.
 
-\item C. Goupil G\'{e}n\'{e}rateurs thermo\'{e}lectriques pour l'automobile,
-NEST, Tours 26-27 mai 2009
+6)	C. Goupil
+Optimization of thermoelectric generator operation with dissipative coupling to heat baths,
+Institut Néel, Grenoble, 24 septembre 2013
 
-\item C. Goupil Thermo\'{e}lectror\'{e}cup : mat\'{e}riaux pour la
-r\'{e}cuparation d'\'{e}nergie thermique, Colloque " Energie
-" du PIE, Novembre 2009, Nantes
+7)	G. Fraisse, J. Ramousse, L. Luo, M. Cosnier, D. Sgorlon, Y.W. Kim, B. David
+Les peformances énergétique des systèmes thermoélectrique, de l'échelle élémentaire au bâtiment. GDR Thermoelectricité 6-7 Juillet 2010, Institut Néel, Grenoble (2010)
 
-\item C. Goupil Otogeht : Optimisation technologique d'oxyde
-thermo\'{e}lectriques pour application hautes temp\'{e}ratures, Colloque
-" Energie " du PIE, Novembre 2009, Nantes
+8)	C. Goupil Générateurs thermoélectriques pour l'automobile, NEST, Tours 26-27 mai 2009
 
-\item C. Goupil, A. Pautrat, Ch. Simon, P.G. Kealey, E.M. Forgan, S. Lee, S.T.
-Johnson, G. Lazard, B. Pla\c{c}ais, Y. Simon, P. Mathieu, R . Cubitt, Ch.
-Dewhurst. Small Angle Neutron Scattering and vortex lattice dynamical phase
-diagram. 9\`{e}me Journ\'{e}es de la diffusion neutronique 24-26 mai 2000,
-Colleville sur-mer
+9)	C. Goupil Thermoélectrorécup : matériaux pour la récuparation d'énergie thermique, Colloque " Energie " du PIE, Novembre 2009, Nantes
 
-\item Pautrat, C. Goupil, Ch. Simon, P.G. Kealey, E.M. Forgan, S. Lee, R .
-Cubitt. Etude de la mise en ordre dynamique du r\'{e}seau de vortex par
-diffraction de neutrons aux petits angles. 9\`{e}me Journ\'{e}es de la
-diffusion neutronique 24-26 mai 2000, Colleville sur-mer
+10)	C. Goupil Otogeht : Optimisation technologique d'oxyde thermoélectriques pour application hautes températures, Colloque " Energie " du PIE, Novembre 2009, Nantes
 
-\item C. Goupil, A. Pautrat, Ch. Simon, Vortex et courants critiques.
-Sixi\`{e}mes Journ\'{e}es d'Aussois, Association Fran\c{c}aise du Froid, 16-19
-Mai 2000
+11)	C. Goupil, A. Pautrat, Ch. Simon, P.G. Kealey, E.M. Forgan, S. Lee, S.T. Johnson, G. Lazard, B. Plaçais, Y. Simon, P. Mathieu, R . Cubitt, Ch. Dewhurst. Small Angle Neutron Scattering and vortex lattice dynamical phase diagram. 9ème Journées de la diffusion neutronique 24-26 mai 2000, Colleville sur-mer
 
-\item C. Goupil, V. Civita, G. Imbert, Plasma RIE etching induced damage in
-bipolar process : Structure and Topography Effect. 1st European Symposium on
-Plasma Process Induced Damage, octobre 1999, Toulouse
+12)	Pautrat, C. Goupil, Ch. Simon, P.G. Kealey, E.M. Forgan, S. Lee, R . Cubitt. Etude de la mise en ordre dynamique du réseau de vortex par diffraction de neutrons aux petits angles. 9ème Journées de la diffusion neutronique 24-26 mai 2000, Colleville sur-mer
 
-\item Ch. Simon, A. Pautrat, C. Goupil, N. Lutke-Entrup, B. Placais, P.
-Mathieu, Y. Simon, A. Rykov, S. Tajima, Evidence for vortex surface pinning by
-surface irregularities in untwinned YBaCuO crystals. Colloque Franco
-Am\'{e}ricain Chicago (1999)
+13)	C. Goupil, A. Pautrat, Ch. Simon, Vortex et courants critiques. Sixièmes Journées d'Aussois, Association Française du Froid, 16-19 Mai 2000
 
-\item C. Goupil, A. Ruyter, V. Hardy, Ch. Simon. Ancrage des vortex et
-dissipation plastique dans les supraconducteurs \`{a} haute Tc. GDR
-supraconducteurs, octobre 1997, Tours
+14)	C. Goupil, V. Civita, G. Imbert, Plasma RIE etching induced damage in bipolar process : Structure and Topography Effect. 1st European Symposium on Plasma Process Induced Damage, octobre 1999, Toulouse
 
-\item F. Warmont, V. Hardy, A. Ruyter, Ch. Goupil, G. Villard, J. Provost, Ch.
-Simon, Mesures de resistivite r\'{e}solues angulairement sur des monocristaux
-supraconducteurs \`{a} base de Thallium. GDR supraconducteurs, juin 1997, Gif/Yvette
+15)	Ch. Simon, A. Pautrat, C. Goupil, N. Lutke-Entrup, B. Placais, P. Mathieu, Y. Simon, A. Rykov, S. Tajima, Evidence for vortex surface pinning by surface irregularities in untwinned YBaCuO crystals. Colloque Franco Américain Chicago (1999)
 
-\item S. Alaimo, D. Turgis, C. Goupil et H. Murray, R\'{e}alisation d'un
-dispositif faible co\^{u}t pour l'analyse de l'\'{e}mission proche infrarouge
-de composants \`{a} semi-conducteurs. Troisi\`{e}mes Journ\'{e}es
-p\'{e}dagogiques CNFM, d\'{e}cembre 96, St Malo
+16)	C. Goupil, A. Ruyter, V. Hardy, Ch. Simon. Ancrage des vortex et dissipation plastique dans les supraconducteurs à haute Tc. GDR supraconducteurs, octobre 1997, Tours
 
-\item Smina, J.C Soret, A Ruyter, V. Ta Phuoc, B. Martinie, J. Leconte, Ch.
-Gasser, Ch. Goupil, Ch. Simon. Dimensionalit\'{e} et fusion du r\'{e}seau de
-vortex dans le compos\'{e} Tl2Ba2CaCu2O7. GDR supraconducteur , `Th\'{e}orie,
-Vortex et applications', 20-22 mai 1996, Caen
+17)	F. Warmont, V. Hardy, A. Ruyter, C. Goupil, G. Villard, J. Provost, Ch. Simon, Mesures de resistivite résolues angulairement sur des monocristaux supraconducteurs à base de Thallium. GDR supraconducteurs, juin 1997, Gif/Yvette
 
-\item J.C Soret, L. Amor, A. Smina, B. Martinie, A. Ruyter, J. Leconte, Ch.
-Gasser, Ch. Goupil, Ch. Simon. Kosterlitz-Thouless dans le compos\'{e} Tl2212
-en couche mince. GDR supraconducteur , `nouveaux mat\'{e}riaux et mesures des
-param\`{e}tres physiques fondamentaux', 23-25 octobre 1995, Abbaye Royale de Fontevraud
+18)	S. Alaimo, D. Turgis, C. Goupil et H. Murray, Réalisation d'un dispositif faible coût pour l'analyse de l'émission proche infrarouge de composants à semi-conducteurs. Troisièmes Journées pédagogiques CNFM, décembre 96, St Malo
 
-\item Ruyter, V. Hardy, Ch. Goupil, J. Provost, D. Groult, Ch. Simon. Magnetic
-flux line transituion in Bi-2212 with columnar defects. GDR supraconducteur ,
-`\'{e}laboration de mat\'{e}riaux et dynamique des vortex', 1994, Roscof
+19)	Smina, J.C Soret, A Ruyter, V. Ta Phuoc, B. Martinie, J. Leconte, Ch. Gasser, C. Goupil, Ch. Simon. Dimensionalité et fusion du réseau de vortex dans le composé Tl2Ba2CaCu2O7. GDR supraconducteur , `Théorie, Vortex et applications', 20-22 mai 1996, Caen
 
-\item J.C Soret, L. Amor, B. Martinie, J. Leconte, Ch. Goupil, V. Hardy, J.
-Provost, A. Ruyter, Ch. Simon. Magnetoresistance in Bi-2212 single crystal.
-GDR supraconducteur , `\'{e}laboration de mat\'{e}riaux et dynamique des
-vortex', 1994, Roscof
+20)	J.C Soret, L. Amor, A. Smina, B. Martinie, A. Ruyter, J. Leconte, Ch. Gasser, C. Goupil, Ch. Simon. Kosterlitz-Thouless dans le composé Tl2212 en couche mince. GDR supraconducteur , `nouveaux matériaux et mesures des paramètres physiques fondamentaux', 23-25 octobre 1995, Abbaye Royale de Fontevraud
 
-\item Ch. Goupil, J.F. Hamet, J. Provost, B. Blanc-Guillon, M. Hervieu, Ch.
-Simon, B. Raveau, S. Bouffard, Vortex pinning in Y-123 thin films
-Troisi\`{e}mes journ\'{e}es d'\'{e}tudes de la SEE, novembre 1993, Caen
-\end{itemize}
+21)	Ruyter, V. Hardy, C. Goupil, J. Provost, D. Groult, Ch. Simon. Magnetic flux line transituion in Bi-2212 with columnar defects. GDR supraconducteur , `élaboration de matériaux et dynamique des vortex', 1994, Roscof
 
-\subsection{S\'{e}minaires}
+22)	J.C Soret, L. Amor, B. Martinie, J. Leconte, C. Goupil, V. Hardy, J. Provost, A. Ruyter, Ch. Simon. Magnetoresistance in Bi-2212 single crystal. GDR supraconducteur , `élaboration de matériaux et dynamique des vortex', 1994, Roscof
 
-\begin{itemize}
-\item Thermoelectricity and Finite Time Thermodynamics: from the
-\textquotedblleft electronic gas\textquotedblright\ to the heat engine,
-Thermoelektrik-Schule, Waldeck 02-04 octobre (2013)
+23)	C. Goupil, J.F. Hamet, J. Provost, B. Blanc-Guillon, M. Hervieu, Ch. Simon, B. Raveau, S. Bouffard, Vortex pinning in Y-123 thin films Troisièmes journées d'études de la SEE, novembre 1993, Caen
 
-\item Optimization of thermoelectric generator operation with dissipative
-coupling to heat baths, CEA SPEC Saclay,(19 avril 2012)
 
-\item Thermodynamique de la thermo\'{e}lectricit\'{e}, Ecole th\'{e}matique du
-GDR \textquotedblright Thermo\'{e}lectricit\'{e} \textquotedblright, Ventron
-(4 juillet 2012)
+Autres : 
+Séminaires Internationaux invités
 
-\item Thermo\'{e}lectricit\'{e}: " Une vieille histoire de
-forces et de flux. " S\'{e}minaire LIED, Paris VII, Diderot,
-(30 avril 2010)
+1.	A thermodynamic approach of the Energy-Matter coupling : Towards an interdisciplinary foundation. Skoltech, 30 octobre  2019
+2.	ICTP 2019, Trieste: Conference on Modern Concepts and New Materials for Thermoelectricity, 10-15 mars 2019. (Inaugural talk) 
+3.	Interdisciplinary research for the Energies of Tomorrow. Kitakyushu International Forum 30th March 2017.
+4.	Vegetal thermoelectricity: a route to a new stress sensor. Plant Cell Signaling 2016, 5 décembre 2016.
+5.	When thermoelectric systems meet the Feymann ratchet: harmonic response and feedback : CECAM Paris 7 juin 2015
+6.	Thermoelectricity and Finite Time Thermodynamics: from the electronic gas to the heat engine, Thermoelektrik-Schule, Waldeck 02-04 octobre 2013
+7.	Green Thermoelectricity: Observation and analysis of plant thermoelectric response. 3rd International Symposium on Plant Signaling & Behavior Paris, June 29th to July 2nd 2015 , University Paris Diderot
+8.	Optimization of thermoelectric generator operation with dissipative coupling to heat baths, CEA SPEC Saclay,19 avril 2012
+9.	Thermodynamic Optimization and Functional graded materials, expert talk Thermoelectric theory, Deutsches Zentrum für Luft-und Raumfahrt, Cologne 23 février 2010
+10.	  Characterization of all oxide thermoelectric modules, EMPA.Meeting, EMPA Zurich, 15 mai 2008
+11.	Feymann ratchets and thermoelectric systems: harmonic response and feedback. Conférence Peltier, Paris, 19 mai 2015
+12.	What Thermodynamics can teach us about Economy : theory and practice. École des Houches Science & Énergie mars 2018
+13.	Power and efficiency : meeting at the crossroads of thermodynamics, biology, and sociology. Séminaire interdisciplinaire, Giessen. 20 janvier 2014
+14.	Thermodynamics of thermoelectric energy conversion. Séminaire de Physique, Duisburg, 06 octobre 2015
+15.	Patern recognition of plant activity. Plant Signaling and Behavior 2017, Tokyo, 28 juin 2017
+16.	Green growth model cities: the LIED experience.  Kitakyushu International Forum,  Kitakyushu,  29 mars 2017
+17.	Future research and collaborationThermoelectricity-Photovoltaic coupling. 3rd Next PV International Workshop, Bordeaux, 14 novembre 2014
+18.	Electrical Thermo conversion: from electrons to photons. 2nd Next PV International Workshop, Tokyo, 13 novembre 2013
+19.	Energy conversion and feedback processes: steady state and oscillations. 5th Next PV International Workshop, Tokyo, 12 décembre 2016
+20.	Thermoelectricity and Finite Time Thermodynamics:From the “electronic gas” to the heat engine. Thermoelektrik-Schule Waldeck 3 octobre 2013
 
-\item Conversion d'\'{e}nergie, couplage force-flux, Ecole Polytechnique, (1er
-f\'{e}vrier 2011)
 
-\item Dispositifs thermo\'{e}lectriques: Mise en oeuvre et couplages
-thermodynamiques. Workshop Thermo\'{e}lectricit\'{e}, direction scientifique
-TOTAL, La d\'{e}fense, 14 f\'{e}vrier 2011
+Séminaires nationaux invités
 
-\item Verrous strat\'{e}giques en Thermo\'{e}lectricit\'{e}, PIE CNRS, 11 mai 2010
-
-\item Thermodynamic Optimization and Functional graded materials, expert talk
-Thermoelectric theory, Deutsches Zentrum f\"{u}r Luft-und Raumfahrt, Cologne
-23 f\'{e}vrier 2010
-
-\item G\'{e}n\'{e}rateurs Thermo\'{e}lectriques: Un exemple de couplage
-Thermique Electrique et Thermodynamique. GDR Seeds, Paris, mars 2008
-
-\item Les dispositifs Thermo\'{e}lectriques. GDR Thermo\'{e}lectricit\'{e},
-Montpellier, novembre 2008
-
-\item Characterization of all oxide thermoelectric modules, EMPA.Meeting, 15
-mai 2008 EMPA Zurich
-
-\item Thermodynamique irr\'{e}versible, application \`{a} la
-thermo\'{e}lectricit\'{e}, Ecole th\'{e}matique \textquotedblright
-Thermo\'{e}lectricit\'{e} : de la th\'{e}orie au dispositif\textquotedblright,
-Carcans-Maubuisson (8 mai 2008)
-
-\item Composants thermo\'{e}lectriques d\'{e}veloppement et applications.
-Journ\'{e}e ADEIN 6 avril 2005
-
-\item Diagramme de phase du r\'{e}seau de vortex dans les supraconducteurs
-\`{a} haute temp\'{e}rature critique. ENS Lyon, f\'{e}vrier 1996
-\end{itemize}
-
-Je veux toto, $$\frac{A}{\alpha}$$ une équation en ligne par exemple $$ \Delta E_c = \frac{1}{2}mv^2 $$ et une équation séparée 
-
-$$ \Delta E_c = \frac{1}{2}mv^2 $$
+1.	Transition écologique : un peu de Thermodynamique. ENS  7 novembre 2019
+2.	Métabolisme urbain : si la ville était un animal ?. Biomim Expo, Mairie de Paris, 11 septembre 2019
+3.	Machines thermodynamiques à temps fini: vers un modèle métabolique. LIMSI 5 juillet 2018.
+4.	Des Physiciens et des Economistes: à la recherche d'un paradigme. Agence Française de Développement, 8 juin 2018.
+5.	From thermoelectricity to finite time thermodynamics: a closed loop approach to thermodynamics. LSCE, 12 janvier 2018
+6.	Economics: conversion of ressources and emerging phenomena. Agence Française de Développement, 2 juin 2017.
+7.	Thermodynamique et Economie. ADEME, 12 janvier 2017
+8.	Proximity effect & MKIDS. GEPI, 1 er février 2017
+9.	Biomimétisme des usages: « quand la nature nous renseigne sur l’usage de l’énergie ». ENSCI, 2 mai 2017.
+10.	Of Economists and Physicists: the quest for a paradigm. Université de Bordeaux, 2 décembre 2016.
+11.	Thermoelectricity: From classical to quantum engines. ESPCI, 6 juin 2016
+12.	Machines thermodynamiques à temps fini:  Esquisse d’un modèle métabolique. IFPEN, 5 février 2019.
+13.	Energie: un concept aussi simple que difficile. Ecole Energie-Recherche, Roscoff, 14 mars 2016
+14.	Biomimétisme des usages : efficacité énergétique ou performance ? Recherches Inspirées de la Biodiversité. Muséum National Histoire Naturelle, 16 et 17 décembre 2015
+15.	GreenThermo-electricity: Observation and analysis of plant thermo-electric response. Journées du non-linéaire, Paris, 15 mars 2015
+16.	Thermodynamique de la thermoélectricité, Ecole thématique du GDR Thermoélectricité , Ventron (4 juillet 2012)
+17.	Thermoélectricité: " Une vieille histoire de forces et de flux. " Séminaire LIED, Paris VII, Diderot, (30 avril 2010)
+18.	Conversion d'énergie, couplage force-flux, Ecole Polytechnique, (1er février 2011)
+19.	Dispositifs thermoélectriques: Mise en oeuvre et couplages thermodynamiques. Workshop Thermoélectricité, direction scientifique TOTAL, La défense, 14 février 2011
+20.	Verrous stratégiques en Thermoélectricité, PIE CNRS, 11 mai 2010
+21.	Thermodynamique irréversible, application à la thermoélectricité, Ecole thématique Thermoélectricité : de la théorie au dispositif, Ecole GDR, Carcans-Maubuisson, 8 mai 2008.
+22.	Générateurs Thermoélectriques: Un exemple de couplage Thermique Electrique et Thermodynamique. GDR SEEDS, Paris, mars 2008
+23.	Les dispositifs Thermoélectriques. GDR Thermoélectricité, Montpellier, novembre 2008
+24.	Composants thermoélectriques développement et applications. Journée ADEIN 6 avril 2005
+25.	Diagramme de phase du réseau de vortex dans les supraconducteurs à haute température critique. ENS Lyon, février 1996
+26.	Thermodynamical constraints of optimizing living machine efficiency. Living Machines Paris 17-20 July 2018
+27.	Efficacité énergétique: Systèmes et échelles. Paris, Journée du LIED 17 septembre 2014
+28.	Système thermodynamique et conditions aux limites : effet de contre-réaction. Séminaire du laboratoire MSC, Paris, 17 décembre 2018
+29.	Performance énergétique et efficacité:Une sobriété précaire? Séminaire Externe LIED, Paris, 18 mars 2014
+30.	Bio-inspiration des usages de l’énergie. Conférence L’OREAL, Paris, 18 Juin 2019
+31.	Bio-inspiration of energyuses: A thermodynamic approach. Bio_inspiration Marine, Concarneau 18 octobre 2019
+32.	EcoDyco: Un modèle à la croisée de la thermodynamique et de l'économie. GREThA, Bordeaux, 18 décembre 2018
+33.	Efficace ou optimal? quand les usages s'en mêlent. Evolution du paysage urbain parisien au prisme des risques climatiques, Paris, 5 février 2016
+34.	Efficacité énergétique: Eloge du compromis. Ecole D'Architecture Val de Seine, Paris, 20 décembre 2018
+35.	Biomimicry & Energy: Locomotion and thermodynamical optimization, a multiscale analysis. Réunion prospective INEE, Bordeaux, 24 février 2017
+36.	Métabolisme et Thermodynamique: Une approche du COT. Hotel-Dieu, Paris, 25 janvier 2017
+37.	Une approche interdisciplinaire de l’énergie. Ecole Centrale, Casablanca, 21 avril 2016
+38.	Performance énergétique  et efficacité: Une sobriété précaire? I-Lab Air Liquide,  Paris, 30 avril 2014
+39.	Biomimétisme des usages: «quand la nature nous renseigne sur l’usage de l’énergie». Paris, Biomim Expo 2016
+40.	Applications et valorisations des films thermoélectriques. CERTEM, 22 janvier 2015
+41.	Dynamical Economic model in a finite world. CIRED, Nogent sur Marne, 18 mai 2017
+42.	Biomimicry & Energy: locomotion and thermodynamical optimization. Colloque INEE, Paris, 24 février 2017
+43.	Efficacité énergétique Sobriété et imaginaire social. Colloque fondateur du LIED, Paris, 23 mai 2013
+44.	Le roman de Renart: Un prédateur entre flux et stock. 7èmes journées « Complexité désordre », UFR de physique, Paris, 13 et 14 janvier 2020
+45.	Thermodynamique et organisation écologique. Connected bodies, Paris, 11 juin 2015
+46.	Network Thermodynamics and Integrons. Colloque DENA, Nice, 22-23 November 2017
+47.	Approche Thermodynamique de la Thermoélectricité. Ecole Thématique du CNRS en Thermoélectricité. Annecy, 16 juin 2014
+48.	Idéalement efficace, parfaitement contraint: une insoutenable légèreté. ENSCI, Paris 8 octobre 2018
+49.	Internal convection process in thermoelectric generators: " Thermodynamics of the working fluid", 6th European Thermal Sciences Conference Eurotherm, Poitiers – Futuroscope, 5 septembre 2012.
+50.	Le physicien et la graine : la poule devant le couteau. Colloque "La graine dans tous ses états, Paris 6 juillet 2018
+51.	Optimization of thermoelectric generator operation with dissipative coupling to heat baths. Institut Néel, Grenoble, 24 septembre 2013
+52.	Transient thermoelectricity: an active load story. ICT, Nashville, July 6th 2014
+53.	Éric Herbert, Christophe Goupil Henni Ouerdane. Thermodynamics of energy conversion in living system (muscle). Journées de la matière Condensée, Grenoble,  28 août 2018.
+54.	Efficacité énergétique Sobriété et imaginaire social. Ecole D'Ingénieurs, Lassale Beauvais, 29 janvier 2014
+55.	Optimization of thermoelectric generator operation with dissipative coupling to heat baths:A prototype model for Macro to MesoEnergy conversion. LEME, 26 juin 2014
+56.	Applications thermoélectriques. PSA, Velizy, 6 novembre 2015
+57.	Biomimétique de l’Energie:«vers un biomimétisme des usages et des pratiques». Ecole des Mines, Paris, 6 novembre 2014
+58.	Optimization of thermoelectric generator operation with dissipative coupling to heat baths. Safran, 17 juillet 2018
+59.	Efficacité, sobriété Effet rebond: la tactique du Koala est-elle payante? Séminaire Externe LIED, 8 janvier 2013
+60.	Contraintes et relâchement de contraintes: les joies de la Thermodynamique. Séminaire Externe LIED, 28 janvier 2020
+61.	Thermoelectric generator: The RENOTER project. Séminaire SIA, Matériaux pour l'automobile, Thiais, 7 décembre 2012
+62.	Device: Design, Power, Efficiency. SPEC, Saclay, 17 février 2014
 
 
 
-Je veux une équation en ligne par exemple \( \Delta E_c = \frac{1}{2}mv^2 \) et une équation séparée 
-\[ \Delta E_c = \frac{1}{2}mv^2 \]
+Direction de thèses (liste complète)
+•	Olivier Crepel: Microscopie magnétique pour localisation de défaillance de circuits intégrés (Thèse soutenue en 2004) (co-direction Ph. Descamps 50/50). (doctorant embauché chez St Microelectronics)
+•	Joseph Scola : Etude de la dynamique d'un réseau de vortex dans un supraconducteur par mesures de bruit (Thèse soutenue en 2005) (direction 100%) (doctorant MCF Université de Versailles)
+•	Sébastien Lemonnier : Développement d'un générateur thermoélectrique à base de matériaux oxydes (Thèse soutenue en 2008)  (co-direction Jacques Noudem 50/50) (doctorant embauché chez French German Institute (ISL))
+•	Elise Denoyelle : Développement d'une microbatterie 3D Li-ion étude d'une anode de silicium amorphe déposée sur substrat 3D par LPCVD (Thèse soutenue en 2010) (direction 100%) (doctorante embauchée chez IPEDIA)
+•	Olga Glavatskaya : Conversion d'énergie thermique en énergie électrique par les modules thermoélectriques en vue de réduire la consommation et les émissions polluantes (Thèse soutenue en 2012) (direction 100%) (doctorante embauché chez Renault SAS)
+•	Antoine Monserand. ED 493 : Erasme ( Université Paris-Nord). Macroéconomie de la transition écologique : conditions, choix, implications (Codirecteur 50/50 Marc Lavoie (CEPN)) (Thèse en cours)
+•	Etienne Thiebault : Modélisation de systèmes thermoélectriques avec gradient de coefficient Seebeck. (Thèse soutenue en 2019) (co-direction Ph Lecoeur 50/50) (doctorant en recherche de post-doc)
 
-Je veux une équation en ligne par exemple \\( \Delta E_c = \frac{1}{2}mv^2 \\) et une équation séparée 
-\\[ \Delta E_c = \frac{1}{2}mv^2 \\]
+Encadrements post-doctoraux
+•	Suddakkar Reddy: Développement de thermogénérateurs oxydes (contrat Corning) (2005)
+•	Cédric de Vaulx: Développement de thermogénérateurs pour l'automobile (programme RENOTER) (2010-2012)
+•	Henni Ouerdane: Modélisation de thermogénérateurs et pompes à chaleur thermoélectriques pour applications industrielles (programmes CERES et SYSPACTE) (2011-2013)
+•	Adel Abbout: Transport mésoscopique dans un canal en conditions YCNCA (2012)
+•	Aurélie Michot: Caractérisation de matériaux thermoélectriques hybrides pour pompes à chaleur (programme SYSPACTE) (2012-2013)
 
+Jury de thèse
+1)	30/10/2019 : Dmitry Smirnov. Innovative technological pathway for new commercial applications of Stirling cycle-based systems. Skolkovo Institute of Science and Technology. (Rapporteur)
+2)	21/11/2019 : Delphine Bonin :  Régulations cellulaires et métaboliques de l’halophyte Cakile maritima en réponse au sel. Université de Paris (Président)
+3)	04/11/2019 : Adrien Vassal : Etude d'un réseau cryogénique multi-clients pour SPIRAL2, sous la direction de Marek Lewitowicz – Université de Normandie (Président de Jury & Rapporteur)
+4)	29/06/2018 : Remy Osipian : Etude dynamique d'un système de stockage par chaleur latente liquide-solide : application au véhicule électrique, sous la direction de Laurent Royon et de Kamel Azzouz. - Sorbonne Paris Cité. (Président de Jury)
+5)	12/06/2018 : Salim Ferhat : Générateurs thermoélectriques imprimés sur substrats souples à base de matériaux hybrides pour des applications autour de la température ambiante, sous la direction de Bruno Lucas et de Bernard Ratier. – Limoges. (Président de Jury)
+6)	30/11/2017, Philippe Bruyerre. Dynamiques d'innovation technique et d'intégration socio-économique. : le cas de l'éolienne en Allemagne, au Danemark et en France. Sous la direction de Liliane Hilaire-Pérez - Paris, EHESS (Rapporteur)
+7)	10/11/2017 : Thomas Salez : Effets thermoélectriques dans des liquides complexes : liquides ioniques et Ferro fluides, sous la direction de Sawako Nakamae - Paris Sciences et Lettres.  (Président de Jury)
+8)	14/12/2016 : Malika Bella : Développement d'une approche multi-échelle de modélisation de dispositifs thermoélectriques : application à des systèmes de capteurs sans fils autonomes sur le corps humain, sous la direction de Pascal Boulet et de Sylvain Blayac. - Aix-Marseille. (Rapporteur)
+9)	24/11/2016 : Charlotte Bessis : Quantum interference and thermoelectric effects in molecular junctions, sous la direction de Philippe Lafarge et de Maria Luisa Della Rocca. - Sorbonne Paris Cité.  (Président de Jury)
+10)	08/10/2015 : Pierre Bénard: Analyse et amélioration d'une chambre de combustion centimétrique par simulations aux grandes échelles, sous la direction de Yves d’Angelo et de Vincent Moureau. - Rouen, INSA.  (Président de Jury)
+11)	26/11/2015 : Van Truong Tran : Propriétés électroniques et thermoélectriques des hétérostructures planaires de graphène et de nitrure de bore, sous la direction de Philippe Dollfus - Université Paris-Saclay (ComUE) (Rapporteur)
+12)	13/12/2013, Yann Apertet. Réflexions sur l’optimisation thermodynamique des générateurs thermoélectriques. Sous la direction de Philippe Lecoeur - Paris 11 (Examinateur)
+13)	19/04/2013 : Yeweon Kim : Etude numérique et expérimentale d'une pompe à chaleur thermoélectrique innovante basée sur une conception intégrée et la technique du jet impactant, sous la direction de Gilles Fraisse et de Julien Ramousse . – Grenoble (Rapporteur)
+14)	11/07/2012, Amory Papavero. Élaboration et caractérisation de composites hybrides thermoélectriques. Sous la direction de Jean-Claude Tédenac et de David-Jacques Cornu . - Montpellier 2. (Examinateur)
+15)	09/12/2011: Benjamin David : Amélioration de l'efficacité énergétique d'une solution innovante de chauffage basse température et de rafraîchissement, sous la direction de Lingai Luo et de Julien Ramousse. – Grenoble. (Rapporteur)
+16)	14/04/2011 : Qi Zhang : Récupération de micro-énergie renouvelable par couplage multiphysique des matériaux : applications aux bâtiments, sous la direction de Amen Agbossou, Daniel Guyomar et de Zhihua Feng. – Grenoble. (Rapporteur))
+17)	07/07/2011, Marianne Lossec : Systèmes multisources de récupération d'énergie dans l'environnement humain : modélisation et optimisation du dimensionnement. Sous la direction de Bernard Multon et de Abdel Hamid Ben Ahmed . - Cachan, Ecole normale supérieure (Examinateur)
+Jury HDR
+1)	HDR  Sawako Nakamae. Interacting magnetic nanoparticles: from superspin glass, Superferromagnetism to energy applications. SPEC, Saclay, 20 novembre 2013. (Rapporteur)
+2)	HDR  Michel Dubois. De l’interaction évolutive de la technique et de l’humain comme prérequis pour l’élaboration d’une théorie générale des processus évolutifs. Applications à l’appréhension des processus d’innovation. UTC, 28 Avril 2017. (Examinateur)
+3)	HDR Julien Ramousse. Modélisation phénoménologique et analyse thermodynamique des systèmes de conversion d’énergie. Université de Savoie, 13 décembre 2018. (Examinateur)
 
-$$
-\begin{align*}
-  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
-  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
-  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
-      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
-      \vdots & \ddots & \vdots \\
-      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
-    \end{array} \right)
-  \left( \begin{array}{c}
-      y_1 \\
-      \vdots \\
-      y_n
-    \end{array} \right)
-\end{align*}
-$$
-
-
-$$
-\begin{align}
-  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
-  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
-  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
-      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
-      \vdots & \ddots & \vdots \\
-      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
-    \end{array} \right)
-  \left( \begin{array}{c}
-      y_1 \\
-      \vdots \\
-      y_n
-    \end{array} \right)
-\end{align}
-$$
-
-
-après on met une belle image
-
-![le titre !](/images/Image1.png){: width="600px"}
 
