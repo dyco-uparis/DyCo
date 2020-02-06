@@ -8,7 +8,12 @@ title:  Christophe Goupil
 - [Pédagogie](#pedagogie)
 - [Synthèse de carrière](#synthese)
 - [Travaux](#travaux)
-- [Brevets](#brevets)
+    - [Brevets](#brevets)
+    - [Publications](#publications)
+    - [Conférences](#conferences)
+    - [Ouvrages](#ouvrages)
+    - [Séminaires](#seminaires)
+    
  
 # Présentation <a name="presentation"></a>
 
@@ -276,7 +281,7 @@ J’ai, au cours de ma carrière assuré un certain nombre de responsabilités c
 # Travaux <a name="travaux"></a>
 Liste classée des publications (celles-ci ne doivent pas être jointes)
 
-Articles dans revues internationales à comité de lecture
+## Publications <a name="publications"></a>
 1.	H. Jie, M. Salatino, A. Traini, C. Chaumont, F. Boussaha, C Goupil, M. Piat, Proximity-Coupled Al/Au Bilayer Kinetic Inductance Detectors, J Low Temp Phys (2020) doi:10.1007/s10909-019-02313-4
 
 2.	C. Goupil, E. Herbert Adapted or Adaptable: How to Manage Entropy Production? Entropy 2020, 22(1), 29
@@ -613,13 +618,16 @@ Articles soumis
 
 1)	H. Benisty and C. Goupil, Graph parity-time symmetry from randomly connected mesoscopic sets soumis à Phys. Rev. E.
 
-Ouvrages individuels et direction d'ouvrages collectifs
+
+## Ouvrages <a name="ouvrages"></a>
+
+### Ouvrages individuels et direction d'ouvrages collectifs
 
 1)	K. Zabrocki, H. Ouerdane, Y. Apertet, and W. Seifert
 Continuum theory of thermoelectric elements
 C. Goupil editor (Wiley, Berlin), (2015)
 
-Chapitres d'ouvrages
+### Chapitres d'ouvrages
 
 1)	C. Goupil
 Thermodynamics of the Thermoelectricity
@@ -676,7 +684,10 @@ Date de dépot: 13/09/2019, Inventeurs:  C. Goupil, E. Herbert, Ph. Lecoeur
 Déposant: IDF Innov
 
 
-Actes publiés de conférences internationales, congrès et colloques...
+## Conférences <a name="conferences"></a>
+
+### Conférences internationales 
+
 1)	C. Goupil, E. Herbert, H. Ouerdane, Ph. Lecoeur, Thermoelectricity and Thermodynamics: a feedback story, Varsovie, E-MRS Fall Meeting (2019)
 
 2)	H. Jie, M. Salatino, A. Traini, C. Chaumont, F. Boussaha, C Goupil, M. Piat, High quality Proximity-Coupled Al/Au bilayerKinetic Inductance Detectors, 18th International Workshop on Low Temperature Detectors (LTD-18), Milano, (22-26 July 2019)
@@ -833,7 +844,8 @@ Plasma RIE etching induced damage in bipolar process : Structure and Topography 
 Magnetic flux line transituion in Bi-2212 with columnar defects 
 4th international conference M2S HTSC, 1994, Grenoble
 
-Conférences nationales
+### Conférences nationales
+
 1)	M. Arnoux et C. Goupil, Le roman de Renart. Un prédateur entre flux et stock, journée compléxité désordre, Université de Paris, 13 janvier 2020.
 
 2)	C. Goupil, Bioinspiration of energy uses: a thermodynamic approach, Les Rendez-Vous de Concarneau 2019, Station Marine Concarneau, 17-18 octobre 2019. 
@@ -884,8 +896,7 @@ Les peformances énergétique des systèmes thermoélectrique, de l'échelle él
 23)	C. Goupil, J.F. Hamet, J. Provost, B. Blanc-Guillon, M. Hervieu, Ch. Simon, B. Raveau, S. Bouffard, Vortex pinning in Y-123 thin films Troisièmes journées d'études de la SEE, novembre 1993, Caen
 
 
-Autres : 
-Séminaires Internationaux invités
+### Séminaires Internationaux invités
 
 1.	A thermodynamic approach of the Energy-Matter coupling : Towards an interdisciplinary foundation. Skoltech, 30 octobre  2019
 2.	ICTP 2019, Trieste: Conference on Modern Concepts and New Materials for Thermoelectricity, 10-15 mars 2019. (Inaugural talk) 
@@ -909,7 +920,7 @@ Séminaires Internationaux invités
 20.	Thermoelectricity and Finite Time Thermodynamics:From the “electronic gas” to the heat engine. Thermoelektrik-Schule Waldeck 3 octobre 2013
 
 
-Séminaires nationaux invités
+### Séminaires nationaux invités
 
 1.	Transition écologique : un peu de Thermodynamique. ENS  7 novembre 2019
 2.	Métabolisme urbain : si la ville était un animal ?. Biomim Expo, Mairie de Paris, 11 septembre 2019
@@ -976,23 +987,34 @@ Séminaires nationaux invités
 
 
 
-Direction de thèses (liste complète)
-•	Olivier Crepel: Microscopie magnétique pour localisation de défaillance de circuits intégrés (Thèse soutenue en 2004) (co-direction Ph. Descamps 50/50). (doctorant embauché chez St Microelectronics)
-•	Joseph Scola : Etude de la dynamique d'un réseau de vortex dans un supraconducteur par mesures de bruit (Thèse soutenue en 2005) (direction 100%) (doctorant MCF Université de Versailles)
-•	Sébastien Lemonnier : Développement d'un générateur thermoélectrique à base de matériaux oxydes (Thèse soutenue en 2008)  (co-direction Jacques Noudem 50/50) (doctorant embauché chez French German Institute (ISL))
-•	Elise Denoyelle : Développement d'une microbatterie 3D Li-ion étude d'une anode de silicium amorphe déposée sur substrat 3D par LPCVD (Thèse soutenue en 2010) (direction 100%) (doctorante embauchée chez IPEDIA)
-•	Olga Glavatskaya : Conversion d'énergie thermique en énergie électrique par les modules thermoélectriques en vue de réduire la consommation et les émissions polluantes (Thèse soutenue en 2012) (direction 100%) (doctorante embauché chez Renault SAS)
-•	Antoine Monserand. ED 493 : Erasme ( Université Paris-Nord). Macroéconomie de la transition écologique : conditions, choix, implications (Codirecteur 50/50 Marc Lavoie (CEPN)) (Thèse en cours)
-•	Etienne Thiebault : Modélisation de systèmes thermoélectriques avec gradient de coefficient Seebeck. (Thèse soutenue en 2019) (co-direction Ph Lecoeur 50/50) (doctorant en recherche de post-doc)
+### Direction de thèses
+Olivier Crepel: Microscopie magnétique pour localisation de défaillance de circuits intégrés (Thèse soutenue en 2004) (co-direction Ph. Descamps 50/50). (doctorant embauché chez St Microelectronics)
 
-Encadrements post-doctoraux
-•	Suddakkar Reddy: Développement de thermogénérateurs oxydes (contrat Corning) (2005)
-•	Cédric de Vaulx: Développement de thermogénérateurs pour l'automobile (programme RENOTER) (2010-2012)
-•	Henni Ouerdane: Modélisation de thermogénérateurs et pompes à chaleur thermoélectriques pour applications industrielles (programmes CERES et SYSPACTE) (2011-2013)
-•	Adel Abbout: Transport mésoscopique dans un canal en conditions YCNCA (2012)
-•	Aurélie Michot: Caractérisation de matériaux thermoélectriques hybrides pour pompes à chaleur (programme SYSPACTE) (2012-2013)
+Joseph Scola : Etude de la dynamique d'un réseau de vortex dans un supraconducteur par mesures de bruit (Thèse soutenue en 2005) (direction 100%) (doctorant MCF Université de Versailles)
 
-Jury de thèse
+Sébastien Lemonnier : Développement d'un générateur thermoélectrique à base de matériaux oxydes (Thèse soutenue en 2008)  (co-direction Jacques Noudem 50/50) (doctorant embauché chez French German Institute (ISL))
+
+Elise Denoyelle : Développement d'une microbatterie 3D Li-ion étude d'une anode de silicium amorphe déposée sur substrat 3D par LPCVD (Thèse soutenue en 2010) (direction 100%) (doctorante embauchée chez IPEDIA)
+
+Olga Glavatskaya : Conversion d'énergie thermique en énergie électrique par les modules thermoélectriques en vue de réduire la consommation et les émissions polluantes (Thèse soutenue en 2012) (direction 100%) (doctorante embauché chez Renault SAS)
+
+Antoine Monserand. ED 493 : Erasme ( Université Paris-Nord). Macroéconomie de la transition écologique : conditions, choix, implications (Codirecteur 50/50 Marc Lavoie (CEPN)) (Thèse en cours)
+
+Etienne Thiebault : Modélisation de systèmes thermoélectriques avec gradient de coefficient Seebeck. (Thèse soutenue en 2019) (co-direction Ph Lecoeur 50/50) (doctorant en recherche de post-doc)
+
+### Encadrements post-doctoraux
+Suddakkar Reddy: Développement de thermogénérateurs oxydes (contrat Corning) (2005)
+
+Cédric de Vaulx: Développement de thermogénérateurs pour l'automobile (programme RENOTER) (2010-2012)
+
+Henni Ouerdane: Modélisation de thermogénérateurs et pompes à chaleur thermoélectriques pour applications industrielles (programmes CERES et SYSPACTE) (2011-2013)
+
+Adel Abbout: Transport mésoscopique dans un canal en conditions YCNCA (2012)
+
+Aurélie Michot: Caractérisation de matériaux thermoélectriques hybrides pour pompes à chaleur (programme SYSPACTE) (2012-2013)
+
+### Jury de thèse
+
 1)	30/10/2019 : Dmitry Smirnov. Innovative technological pathway for new commercial applications of Stirling cycle-based systems. Skolkovo Institute of Science and Technology. (Rapporteur)
 2)	21/11/2019 : Delphine Bonin :  Régulations cellulaires et métaboliques de l’halophyte Cakile maritima en réponse au sel. Université de Paris (Président)
 3)	04/11/2019 : Adrien Vassal : Etude d'un réseau cryogénique multi-clients pour SPIRAL2, sous la direction de Marek Lewitowicz – Université de Normandie (Président de Jury & Rapporteur)
@@ -1010,7 +1032,9 @@ Jury de thèse
 15)	09/12/2011: Benjamin David : Amélioration de l'efficacité énergétique d'une solution innovante de chauffage basse température et de rafraîchissement, sous la direction de Lingai Luo et de Julien Ramousse. – Grenoble. (Rapporteur)
 16)	14/04/2011 : Qi Zhang : Récupération de micro-énergie renouvelable par couplage multiphysique des matériaux : applications aux bâtiments, sous la direction de Amen Agbossou, Daniel Guyomar et de Zhihua Feng. – Grenoble. (Rapporteur))
 17)	07/07/2011, Marianne Lossec : Systèmes multisources de récupération d'énergie dans l'environnement humain : modélisation et optimisation du dimensionnement. Sous la direction de Bernard Multon et de Abdel Hamid Ben Ahmed . - Cachan, Ecole normale supérieure (Examinateur)
-Jury HDR
+
+### Jury HDR
+
 1)	HDR  Sawako Nakamae. Interacting magnetic nanoparticles: from superspin glass, Superferromagnetism to energy applications. SPEC, Saclay, 20 novembre 2013. (Rapporteur)
 2)	HDR  Michel Dubois. De l’interaction évolutive de la technique et de l’humain comme prérequis pour l’élaboration d’une théorie générale des processus évolutifs. Applications à l’appréhension des processus d’innovation. UTC, 28 Avril 2017. (Examinateur)
 3)	HDR Julien Ramousse. Modélisation phénoménologique et analyse thermodynamique des systèmes de conversion d’énergie. Université de Savoie, 13 décembre 2018. (Examinateur)
