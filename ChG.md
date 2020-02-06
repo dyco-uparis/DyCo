@@ -1,50 +1,63 @@
 ---
 layout: page
-title: Christophe Goupil
+title:  Christophe Goupil
 ---
 # Résumé
-## Enseignement
-Nom d'usage : Goupil	Prénom : Christophe	NUMEN : 05E9204175KAD
-Repères biographiques communs
-
+## Repères biographiques
+Nom d'usage : Goupil	Prénom : Christophe	
 Situation familiale : marié, 5 enfants
 Adresse personnelle: 159 Boulevard Victor Hugo, 92110 Clichy
 Téléphone 06 10 03 03 50
 Professeur des Universités 1ère classe (C3)
 Enseignement : Université de Paris (Denis Diderot)
 Recherche : Laboratoire Interdisciplinaire des Energies de Demain, (LIED), UMR 8236, Université de Paris (Denis Diderot)
-Titres et diplômes
-•	Décembre 2000: Habilitation à Diriger des Recherches: "Contribution à l'étude de la dynamique des vortex dans les supraconducteurs dans le cadre d'un ancrage de surface"
-•	Juillet 1997: Doctorat de l'Université de Caen. Spécialité: milieux denses et matériaux, "Etude de la dynamique des vortex dans les supraconducteurs à haute température critique. Analyse des régimes de dissipation plastique par mesures de transport électrique."
-•	Juillet 1990: AGREGATION de Physique option Physique
-•	Juillet 1888: CAPES de Physique-Chimie
-Expérience professionnelle
-•	Professeur des Universités 1ère classe, depuis septembre 2011
-•	Professeur des Universités 2nd classe, (2001-2011)
-•	PRAG (ENSICAEN), (1992-2001)
-•	Professeur Agrégé en Lycée, (1990-1992)
-•	Professeur Certifié, (1988-1990)
-Recherche et Responsabilités associées
-Thèmes de recherche : Conversion d’énergie, Energie et Interdisciplinarité, Thermodynamique hors équilibre, Thermoélectricité, Supraconducteurs. 
-Responsabilités :
-•	Directeur adjoint de l’UMR 8236, LIED.
-•	Président du CS de l’UMR 8236, LIED.
-•	Responsable de l’équipe DyCO de l’UMR 8236, LIED.
-•	Membre de 17 jury de thèse, membre de 3 jury d’HDR.
-Production scientifique : 
-•	93 RICL
-•	47 CICL
-•	1 Direction d’ouvrage, 6 Chapitre d’ouvrage
-•	23 Conférences Nationales
-•	20 Séminaires Internationaux
-•	62 Séminaires Nationaux, 
-•	10 contrats de recherche sur projet
-•	2 contrats industriels.
-•	7 Brevets
+
+## Titres et diplômes
+
+Décembre 2000: Habilitation à Diriger des Recherches: "Contribution à l'étude de la dynamique des vortex dans les supraconducteurs dans le cadre d'un ancrage de surface"
+
+Juillet 1997: Doctorat de l'Université de Caen. Spécialité: milieux denses et matériaux, "Etude de la dynamique des vortex dans les supraconducteurs à haute température critique. Analyse des régimes de dissipation plastique par mesures de transport électrique."
+
+Juillet 1990: AGREGATION de Physique option Physique
+
+Juillet 1888: CAPES de Physique-Chimie
+
+## Expérience professionnelle
+Professeur des Universités 1ère classe, depuis septembre 2011
+Professeur des Universités 2nd classe, (2001-2011)
+PRAG (ENSICAEN), (1992-2001)
+Professeur Agrégé en Lycée, (1990-1992)
+Professeur Certifié, (1988-1990)
+
+##Recherche et Responsabilités associées
+
+# Thèmes de recherche
+Conversion d’énergie
+Energie et Interdisciplinarité
+Thermodynamique hors équilibre
+Thermoélectricité
+Supraconducteurs 
+
+## Responsabilités
+Directeur adjoint de l’UMR 8236, LIED.
+Président du CS de l’UMR 8236, LIED.
+Responsable de l’équipe DyCO de l’UMR 8236, LIED.
+Membre de 17 jury de thèse, membre de 3 jury d’HDR.
+
+##Production scientifique : 
+93 RICL
+47 CICL
+1 Direction d’ouvrage, 6 Chapitre d’ouvrage
+23 Conférences Nationales
+20 Séminaires Internationaux
+62 Séminaires Nationaux, 
+10 contrats de recherche sur projet
+2 contrats industriels.
+7 Brevets
 Encadrement : 7 thèses, 5 Post-doc, Stages niveau M2 (2 par an en moyenne) 
 Jury : 17 jury de thèse, 3 jury HDR .
 
-Synthèse de carrière
+# Synthèse de carrière
 
 J’ai commencé mes fonctions dans l’Education Nationale en 1988, en tant que professeur certifié en Physique-Chimie, suite au passage du concours du CAPES. En 1990, après une année de service militaire, affecté comme enseignant dans les Lycée Jean-François Millet et Alexis de Tocqueville, à Cherbourg, j’ai passé l’agrégation de Physique, option Physique. Durant mon année de stagiaire agrégé, au Lycée Salvador Allende à Hérouville Saint Clair, j’ai passés les épreuves de DEA de Science des Matériaux de L’Université de Caen, et me suis inscrit en thèse au sein du laboratoire CRISMAT (UMR 6508) de Caen. A la même époque j’ai intégré un poste de PRAG au sein de l’ENSICAEN, poste que j’ai occupé durant toute ma thèse et mon HDR, et ce jusqu’à mon recrutement Professeur des Université en 2001. 
 Mes travaux de recherche ont débuté en 1991 au laboratoire CRISMAT, sur le thème de l’ancrage et la dynamique des vortex dans les supraconducteurs. A la suite de la découverte des supraconducteurs à haute température critique en 1986 par Bednorz et Muller, dans un oxyde de baryum-lanthane-cuivre, présentant une température critique Tc=35K. L’activité de recherche sur ces matériaux a alors pris un essor important, en particulier au CRISMAT qui avait synthétisé, pour la première fois, en 1983, cet oxyde. Mes travaux de thèse se sont concentrés sur la mesure et la modélisation des mécanismes d’ancrage-désancrage des vortex dans les matériaux supraconducteurs. J’ai effectué ma thèse sous la direction de Charles Simon et Jacky Provost. Cette thèse, réalisée en parallèle avec mon service de PRAG, a été soutenue en 1997. A la fois théoriques et expérimental, cette activité m’a amené à réaliser des expérimentations en conditions cryogénique, de transport électrique sous champ magnétique intense, Impédance de surface, diffraction de neutrons au petits angles, et mesure de bruit de champ et de bruit de tension.  Ces travaux nous ont permis de confirmer la pertinence et la validité du modèle d’ancrage de surface des vortex, qui avait été développé par Yvan Simon, Patrice Mathieu et Bernard Plaçais au Laboratoire Pierre Aigrain de l’ENS Paris.  Mes travaux de recherche sur l’ancrage et la dynamique des vortex se sont poursuivi jusqu’en 2004, date à laquelle j’ai opéré un changement thématique en direction de la conversion d’énergie par vois thermoélectrique. Ce changement thématique trouve son origine dans la volonté de contribuer à un nouveau sujet, considérant que je n’avais plus rien d’original à proposer dans les supraconducteurs.  A partir de cette époque j’ai développé une activité partenariale conséquente avec des industriels. Cette activité a conduit à la création, et au financement sur contrats, de la plateforme thermoélectricité de Caen, au sein de l’UMR CRISMAT, en lien avec le CNRT Matériaux de Basse Normandie (UMS 3318), dont j’ai assuré la direction adjointe durant une année.  
@@ -53,70 +66,70 @@ Mon activité actuelle est désormais résolument interdisciplinaire, tant au ni
 Pour conclure je souhaite indiquer que si mon activité actuellement se développe sur un spectre interdisciplinaire, il n’en demeure pas moins que ses fondements sont bien ceux de la section CNU 63, au sens où les questions abordées, en particulier en thermodynamique, ont été résolue par l’utilisation de concept issus de la communauté 63, tels que l’approche nodale, la modélisation en systèmes bouclés, l’apparition des contre-réactions par modification des conditions aux limites…
  
 
-Activité pédagogique
+#Activité pédagogique
 
-1.	Présentation de l'activité d'enseignement 
+## Présentation de l'activité d'enseignement 
 Du point de vue enseignement, mon passé d’agrégé m’a donné l’occasion d’enseigner de nombreuses matières au niveau ingénieur dans l’ENSI, et plus particulièrement les disciplines EEA, dont la microélectronique. A cette occasion j’ai monté, en 1994, une salle de travaux pratiques en microélectronique (mesures sous pointes DC, AC, DLTS, modélisation SPICE…). J’ai assuré la direction de la spécialité Microélectronique de l’ENSICAEN de 2002 à 2008. Suite aux modifications du marché du travail de la microélectronique, j’ai fondé en 2000 avec mon collègue Philipe Lefebvre, l’option Télécom de l’ENSICAEN, qui est devenue ensuite une spécialité à part entière.  En 2003, en partenariat avec le directeur du CRISMAT, Bernard Raveau, j’ai fondé la spécialité MMM, Matériaux Micromécanique Microélectronique, comme nouveau cursus de l’ENSICAEN. Cette spécialité visait à offrir des débouchés aux étudiants souhaitant conjuguer une connaissance des matériaux et de leur mise en application en microélectronique, au-delà des fonctions purement électriques, et, en particulier, le secteur naissant des MEMS. A cette occasion, en 2008, j’ai créé, en partenariat avec 6 écoles d’ingénieur (ENSERB, ISEN, ESIGELEC, ESIEE, ENSSAT, POLYTECH Nantes) et 11 industriels (NXP, ST ERICSON, CHIPIDEA, FREESCALE, INSIGHT SIP, SILICON LABORATORIES, ALYOTECH, ORANGE, DIBCOM, OBERTHUR, AGILENT), le Mastère Spécialisé MSIP (MINSYS). Ce Mastère Spécialisé a été localisé sur le site de l’industriel NXP, à Caen. En 2010, j’ai, avec mon collègue Jean-Michel Rueff, créé la spécialité Energie au sein de l’ENSICAEN. Cette spécialité correspondant à une refonte majeure de la spécialité MMM, afin de prendre en compte l’évolution du marché du travail des ingénieurs à dominante Matériaux fonctionnels. Lors de mon arrivé à l’Université Paris Diderot, aujourd’hui Université de Paris, j’ai assuré des enseignements variés, dans les niveaux L1 à M2, et aussi au sein de l’Ecole d’Ingénieurs Denis Diderot. 
  
-2.	 Présentation synthétique des enseignements
+## Présentation synthétique des enseignements
 Mes enseignements se sont déroulés au sein de l’Ecole Nationale Supérieure d’Ingénieurs de Caen, de 1992 à 2014, puis ensuite à l’Université Paris Diderot. 
 ENSICAEN (1992-2014)
-•	Modélisation SPICE des composants à Semiconducteurs : CM (15h), 2A spécialité MMM, (2008-2014)
-•	Physique des Semiconducteurs : CM (15h), 2A spécialité Microélectronique & MMM, (2008-2014) 
-•	Microélectronique : TP (24h), 2A spécialité Microélectronique, (1994-2000)
-•	Electronique analogique : TP (30h) 1A, (1992-1996)
-•	Semiconducteurs pour l’Energie : CM (18h), 3A spécialité EMS, (2010-2014)
-•	Matériaux et Micro-technologies : CM (18h), 1A, (2005-2012) 
-•	Thermodynamique hors équilibre : CM (15h), 3A, spécialité EMS, (2010-2014)
-•	Transport Mésoscopique : CM (24h), 3A, spécialité EMS et M2 Physique, (208-2012)
-•	Technologie salle blanche (cours) : CM (12h), 2A spécialité Microélectronique puis MMM, (1994-2014) 
-•	Technologie salle blanche (stage de cinq jours (30h), réalisation de PMOS au CCMO de Rennes) : TP, 2A spécialité Microélectronique puis MMM, (1994-2014) 
-•	Initiation au langage Python : CM-TD (12h), 3A spécialité EMS, (2014) 
-•	Encadrement de stage fin d’étude ingénieurs: en moyenne 3 stagiaires par an sur la période 1994-2014
-Université Paris Diderot (2015-…)
-•	Mécanique du point : TD (54h), L1 Physique
-•	Electromagnétisme : TD (20h), 1A Ecole ingénieur EIDD 
-•	Métiers de la Physique : CM-TD (20h), L2 Physique
-•	Electronique numérique : TD (20h), 1A Ecole ingénieur EIDD
-•	Electronique analogique : TD (20h), 1A Ecole ingénieur EIDD 
-•	Electronique analogique : CM (24h), 1A Ecole ingénieur EIDD 
-•	Thermodynamique : CM (18h), L3 puis L2 Physique
-•	Thermodynamique : TD (27h), L3 Physique
-•	Thermoélectricité : CM (8h), M2 IPE et 3A EIDD
-•	Electronique de puissance : CM-TD (30h), L2 Physique
-•	Ecological Economics : CM (6h), M2 Economie Université de Paris et Paris 13
-•	Physique des Semiconducteurs : CM (9h), 2A Ecole ingénieur EIDD 
-•	Traitement du signal : CM (6h), M1 Physique
-•	Projet Trans-filières : TD (18h), 2A EIDD
+Modélisation SPICE des composants à Semiconducteurs : CM (15h), 2A spécialité MMM, (2008-2014)
+Physique des Semiconducteurs : CM (15h), 2A spécialité Microélectronique & MMM, (2008-2014) 
+Microélectronique : TP (24h), 2A spécialité Microélectronique, (1994-2000)
+Electronique analogique : TP (30h) 1A, (1992-1996)
+Semiconducteurs pour l’Energie : CM (18h), 3A spécialité EMS, (2010-2014)
+Matériaux et Micro-technologies : CM (18h), 1A, (2005-2012) 
+Thermodynamique hors équilibre : CM (15h), 3A, spécialité EMS, (2010-2014)
+Transport Mésoscopique : CM (24h), 3A, spécialité EMS et M2 Physique, (208-2012)
+Technologie salle blanche (cours) : CM (12h), 2A spécialité Microélectronique puis MMM, (1994-2014) 
+Technologie salle blanche (stage de cinq jours (30h), réalisation de PMOS au CCMO de Rennes) : TP, 2A spécialité Microélectronique puis MMM, (1994-2014) 
+Initiation au langage Python : CM-TD (12h), 3A spécialité EMS, (2014) 
+Encadrement de stage fin d’étude ingénieurs: en moyenne 3 stagiaires par an sur la période 1994-2014
+###Université Paris Diderot (2015-…)
+Mécanique du point : TD (54h), L1 Physique
+Electromagnétisme : TD (20h), 1A Ecole ingénieur EIDD 
+Métiers de la Physique : CM-TD (20h), L2 Physique
+Electronique numérique : TD (20h), 1A Ecole ingénieur EIDD
+Electronique analogique : TD (20h), 1A Ecole ingénieur EIDD 
+Electronique analogique : CM (24h), 1A Ecole ingénieur EIDD 
+Thermodynamique : CM (18h), L3 puis L2 Physique
+Thermodynamique : TD (27h), L3 Physique
+Thermoélectricité : CM (8h), M2 IPE et 3A EIDD
+Electronique de puissance : CM-TD (30h), L2 Physique
+Ecological Economics : CM (6h), M2 Economie Université de Paris et Paris 13
+Physique des Semiconducteurs : CM (9h), 2A Ecole ingénieur EIDD 
+Traitement du signal : CM (6h), M1 Physique
+Projet Trans-filières : TD (18h), 2A EIDD
 
-3.	Responsabilités pédagogiques
-•	Directeur de la Spécialité Microélectronique de l'ENSI (2001-2008)
-•	Fondateur et directeur de la Majeure (MMM), Matériaux Microélectronique et Micromécanique, au sein de la spécialité Matériaux de l'ENSICAEN. (1999-2009)
-•	Fondateur et directeur de la Majeure (EMS), Energie et Matériaux Structuraux, au sein de la spécialité Matériaux de l'ENSICAEN (2009-2010)
-•	Fondateur et directeur du Mastère Spécialisé (MSIP-MINSYS), Microelectronics System Design and Technology (2005-2008)
-•	Responsable du module Photovoltaïque du Master IPE, Université de Paris (Diderot) (2015)
-•	Responsable du module Thermodynamique L3 Université Paris (Diderot) (2018---)
-•	Responsable du module Electronique analogique EIDD 1A, Université Paris (Diderot) (2017---)
-•	Responsable du module Traitement du signal M1, Université de Paris (Diderot) (2019---)
+## Responsabilités pédagogiques
+Directeur de la Spécialité Microélectronique de l'ENSI (2001-2008)
+Fondateur et directeur de la Majeure (MMM), Matériaux Microélectronique et Micromécanique, au sein de la spécialité Matériaux de l'ENSICAEN. (1999-2009)
+Fondateur et directeur de la Majeure (EMS), Energie et Matériaux Structuraux, au sein de la spécialité Matériaux de l'ENSICAEN (2009-2010)
+Fondateur et directeur du Mastère Spécialisé (MSIP-MINSYS), Microelectronics System Design and Technology (2005-2008)
+Responsable du module Photovoltaïque du Master IPE, Université de Paris (Diderot) (2015)
+Responsable du module Thermodynamique L3 Université Paris (Diderot) (2018---)
+Responsable du module Electronique analogique EIDD 1A, Université Paris (Diderot) (2017---)
+Responsable du module Traitement du signal M1, Université de Paris (Diderot) (2019---)
 
-4.	Diffusion, rayonnement, activités internationales.
+## Diffusion, rayonnement, activités internationales.
 En 2008, en partenariat avec 6 écoles d’ingénieur (ENSERB, ISEN, ESIGELEC, ESIEE, ENSSAT, POLYTECH Nantes) et 11 industriels (NXP, ST ERICSON, CHIPIDEA, FREESCALE, INSIGHT SIP, SILICON LABORATORIES, ALYOTECH, ORANGE, DIBCOM, OBERTHUR, AGILENT), j’ai créé, puis dirigé deux ans, le Mastère Spécialisé MSIP (MINSYS). Ce Mastère de la Conférence des Grande Ecoles a été localisé sur le site de l’industriel NXP, sur son site de Caen.
 
 
-Activité scientifique
+# Activité scientifique
 
-1 Présentation synthétique
+## Présentation synthétique
 Mon activité scientifique comprend trois périodes thématiques :
-•	Supraconductivité (1991-2004)
-•	Thermoélectricité (2004-2012)
-•	Energie et interdisciplinarité (2012-…)
+Supraconductivité (1991-2004)
+Thermoélectricité (2004-2012)
+Energie et interdisciplinarité (2012-…)
 Cette dernière période m’a conduit à ouvrir mon activité à des champs thématiques nouveaux, en dehors de ma spécialité. (Biologie, Médecine, Economie, Architecture). Ceci explique certains de mes investissements administratifs, conférences et séminaires récents. Depuis mon arrivée au LIED, cet engagement interdisciplinaire m’est devenu central, bien qu’il soit plus difficile du fait des sous dotation et financement chroniques des moyens alloués aux travaux interdisciplinaires.
 
-Période 1991-2004 : Ancrage et dynamique des vortex, (et MKIDS 2018-2020)
+###Période 1991-2004 : Ancrage et dynamique des vortex, (et MKIDS 2018-2020)
 
 Ces travaux, qui sont les plus anciens, sont brièvement présentés afin de permettre de comprendre l’origine d’un sujet de recherche actuellement en cours. Mes travaux dans le domaine de supraconducteurs ont concerné l’ancrage des vortex. Schématiquement, ces derniers se comportent comme des tourbillons de courant non dissipatif supraconducteur. Ils interagissent entre eux par couplage magnétique, qui étant une interaction faible et de longue portée, conduit assez naturellement à la présence d’un ordre d’orientation et de position. Nos travaux ont permis, par diffraction de neutrons aux petits angles couplées à des mesures de transport, de montrer que le réseau est effectivement relativement ordonné lorsqu’il est ancré, et que sa mise en ordre est d’autant plus marquée que le réseau se désancre. Nous avons pu ainsi vérifier expérimentalement que le réseau de vortex est très largement ancré par les rugosités de surface, en accord avec la description thermodynamique proposée dans les années 90 par l’équipe d’Yvan Simon à l’ENS.  Ces travaux ont donné lieu, en particulier, aux publications suivantes [RICL: 46, 49-61, 63-65, 68, 71-78] ainsi qu’un brevet [Brevet: 2]. Plus récemment, lors d’échanges avec mes collègues astrophysiciens, j’ai proposé une modification de capteurs de type MKIDS. Ces capteurs supraconducteurs, (Al ou Nb), sont dédiés à la détection de photons de basse énergie, par brisure de paires de Copper dont l’énergie de liaison est voisine de celle des photons recherchés. La mesure est basée sur le décalage fréquentiel d’un oscillateur LC dont l’inductance, appelée inductance cinétique, est fonction du gap des paires, mais aussi de la résistivité de la phase électronique dans l’état normal. J’ai proposé que soit testée la possibilité de modifier cette inductance, par un dépôt de métal (Au) sur la couche active, afin, par effet de proximité, de modifier la densité électronique localement. Ces travaux sont actuellement en cours en partenariat avec les laboratoires APC (Michel Piat), et GEPI- OBSPM (Faouzi Boussaha). Les premiers résultats sont positifs, et ont donné lieu à publication [RICL 1]. Une extension de ces travaux est en cours, afin d’envisager une structure JFET /Supra qui permettra de rendre ajustable la gamme de réponse spectrale du capteur par simple polarisation de champ. Une validation théorique a été obtenue et un brevet va être rédigé.
 
-Période 2004-2014 : Thermoélectricité
+###Période 2004-2014 : Thermoélectricité
 
 Mes travaux de recherche actuels sont centrés sur le transport couplé énergie-matière et, en particulier, sa déclinaison dans le cadre des mécanismes de la thermoélectricité. En effet ce thème de recherche constitue un objet d’étude central dès lors qu’il s’agit de décrire, dans le cadre d’une thermodynamique hors équilibre linéaire, le transport couplé énergie-matière dans un système ouvert. En particulier, il est aisé de faire le recensement des catégories qui constituent le système, à savoir :
 1)	Le gaz d’électron qui constitue le fluide de travail thermodynamique.
@@ -126,7 +139,7 @@ Mes travaux de recherche actuels sont centrés sur le transport couplé énergie
 5)	Les conditions de couplage du dispositif à ses réservoirs de température respectivement chauds et froids.
 Loin d’être un simple catalogue cette description offre la possibilité d’estimer les contributions relatives de chaque élément, à la performance du système, qu’il s’agisse de puissance, de rendement ou coefficient de performance, ou encore de plage d’usage. En ce qui concerne le fluide thermodynamique il est d’usage de caractériser les matériaux thermoélectriques à partir de leur facteur de mérite ZT. Dans le cas des matériaux massifs cristallisés, les propriétés de transport de chaleur et de courant électrique sont fortement liées, en particulier par la loi de Wiedemann—Franz. De plus, la concentration en porteurs libres influence directement le coefficient Seebeck et la conductivité électrique. Il en résulte que l’optimisation des matériaux massifs cristallisés est assez contrainte. Pour un matériau donné le principal paramètre d’optimisation est la substitution atomique au profit d’éléments lourds, et la recherche de structures cristallines complexes permettant d’envisager une propagation réduite des phonons. Dans une moindre mesure il est possible d’envisager une augmentation de la mobilité des porteurs libres sous l’effet de la distorsion de maille par substitution. Ce type d’optimisation a été réalisé avec succès dans le cas du matériau SiGe, avec un accroissement notable de la mobilité des porteurs, mais il ne peut s’agir là d’une méthode d’optimisation générique. Les travaux de recherche concernant les matériaux massifs buttent donc sur le faible nombre de degrés de liberté pour l’optimisation du « fluide de travail thermodynamique », donc de ZT. Les couplages aux thermostats sont qualifiés de mixte, au sens où il ne s’agit ni de couplage en conditions de potentiel (conditions de Neumann), ni de couplage en conditions de flux (conditions de Dirichlet). Le système est donc parfaitement paramétrable entre ces deux extrêmes.  En particulier, la configuration de Neumann impose les températures directement sur les faces du dispositif, ce qui revient à la traditionnelle configuration dite Carnot[Carnot], telle qu’elle est usuellement présentée. La principale caractéristique de la configuration mixte provient du fait que la différence de température aux bornes du dispositif est maintenant dépendante des conditions de fonctionnement du système. Il est important de noter que cette modélisation mixte, connue depuis la fin de années 1950, est à l’origine de la thermodynamique à temps fini, au sens où elle permet les bilans de puissance, en plus des bilans d’énergie. Elle est due respectivement à Yvon, Chambadal, Novikov, Curzon et Ahlborn. Cette approche est particulièrement intéressante en ce qu’elle permet, moyennant un modèle assez simple, de rendre compte de manière très fidèle du comportement de systèmes réalistes comme nous avons pu le vérifier lors de projets industriels. En résumé, ces travaux permettent de mettre en évidence que les performances d’un dispositif thermoélectrique, et, par suite, d’un système complet, ne reposent pas uniquement sur la qualité des matériaux : elles résultent des effets conjugués des propriétés des matériaux, donc du gaz d’électrons, des conditions de couplage aux thermostats, déterministes ou non, et enfin de la nature du régime de fonctionnement, stationnaire ou non. Il importe aussi de noter que ces travaux peuvent s’étendre à d’autres systèmes. La thermoélectricité offre donc un cadre modèle pour l’étude des processus couplés. La thermoélectricité est souvent citée comme une illustration assez caractéristique de la puissance du formalisme Force-Flux de Onsager. Nous avons donc, à partir de 2014, commencé à étendre cette approche en la généralisant, ce qui est l’objet du paragraphe suivant. Ces travaux ont donné lieu à publications [RICL: 4-8, 10-23, 25-45, 47-48, 50, 52] et brevets [Brevet: 1, 3, 5].
 
-Période 2014-2020 : Thermodynamique de la conversion d’énergie, interdisciplinarité
+###Période 2014-2020 : Thermodynamique de la conversion d’énergie, interdisciplinarité
 
 L’approche de Onsager trouve des liens forts avec les travaux de la communauté des « Network Thermodynamics » qui a été particulièrement développée dans les années 1980, et qui représente une ouverture puissante vers les mécanismes en jeu en biologie. Les modélisations que nous avions développées pour les machines thermiques ont peu à peu été généralisées à de systèmes de conversion qui possèdent en commun d’être traversés par des courants d’énergie et de matière couplés.  Un certain nombre de résultats caractéristiques avaient été obtenus pour les machines thermiques. Ils sont rappelés ici sous une forme très synthétique :
 1)	La définition d’une conductance thermique fonction du point de fonctionnement du système  [RICL 32]
@@ -151,13 +164,13 @@ Ces travaux ont été étendus récemment au cas des machines thermodynamiques p
 5)	Peut-on envisager une adaptation d’impédance généralisée ?
 6)	Comment le concept d’adaptation d’impédance généralisée s’insère-t-il dans le débat sur les principes d’extrema en thermodynamique hors équilibre ?
 
-Développement interdisciplinaire : Economie
+###Développement interdisciplinaire : Economie
 Ces questions sont actuellement étudiées d’un point de vue théorique sur la base de nos travaux de thermodynamique. Au sein de l’équipe DyCo nous avons à cœur d’ouvrir ces questionnements en direction des thématiques sociétale, en se gardant de tomber dans l’écueil des métaphores. Nous avons ainsi développé des travaux de Macroéconomie en partenariat avec Gaël Giraud, Economiste en chef de l’Agence Française de Développement. Ces travaux nous ont amené à développer le modèle Macroéconomique EcoDyco dont on peut trouver une présentation vidéo sur le lien Des Physiciens et des Economistes. Loin d’être une démarche singulière, l’approche thermodynamique de l’économie trouve des connexions naturelles avec les systèmes dynamiques et la modélisation des systèmes biologique selon les approche de Lotka. Au cours des cinquante années couvrant la période 1935-1985, Nicholas Georgescu-Roegen a apporté une contribution majeure à cette approche thermodynamique de l’économie, en particulier dans ses conséquences entropiques. Partiellement reconnu par certains, Roegen est resté marginalisé par la plupart des écoles d’économie dominantes. Il n’en demeure pas moins que les questions posées par Roegen sont passées du statut de pertinentes à nécessaires, voire urgentes. Le souci de contribuer à introduire la thermodynamique dans la réflexion économique ne consiste pas à faire entrer l’économie dans la thermodynamique, mais bien de fournir certains des concepts et outils qui permettent de décrire les processus économiques dans une situation où l’équilibre n’est pas la règle et que les ressources ne sont ni infinies ni directement abouchées au sites de transformations. L’approche bioéconomique peut se définir à partir de deux concepts centraux
 1)	Finitude
 2)	Distinction entre quantité et qualité
 Le Concept de finitude est abordé dans sa double déclinaison de limitation des grandeurs et d’impossibilité d’externaliser. La limitation des grandeurs s’impose dès lors qu’un système économique ne peut plus faire abstraction des conditions d’accès aux ressources naturelles, d’une part, et aux conditions de rejet, voire de recyclage d’autre part, il se trouve alors borné entre ses sources et ses puits. Il en résulte qu’aucune grandeur ne peut plus être définie sans souscrire aux conditions aux limites du système, et qu’aucune divergence, ou idéalisation des conditions, n’est envisageable. De l’impossibilité d’externaliser, il résulte qu’aucune substitution totale n’est possible, et encore moins s’il s’agit de substitution financière systématique, comme cela est actuellement proposé dans le cas des ressources écologiques. Cette finitude met en évidence qu’il n’est plus possible de penser comme si le plus conduisait nécessairement au mieux, comme le montrait déjà le paradoxe d’Easterlin. Si les questions de la définition des limites et des conditions aux limites sont centrales pour tout physicien qui chercher à étudier un système, il apparaît qu’elle se pose tout aussi clairement pour l’Economiste. D’autre part, du point de vue de la dynamique, la modélisation économique est aujourd’hui riche de contributions issues des apports des systèmes dynamiques, en particulier à la suite des travaux de Lotka. Nous proposons une approche sensiblement différente qui reprend le cadre d’étude précédemment décrit dans les autres volets du projet, selon un schéma qui intègre à la fois les sources et les puits pour chacune des diverses grandeurs économiques considérées.
 
-2 Publications principales
+## Publications principales
 •	Y. Apertet, H. Ouerdane, O. Glavatskaya, C. Goupil and Ph. Lecœur, Optimal working conditions for thermoelectric generators with realistic thermal coupling, Europhysics Letters vol. 97, 28001 (2012)
 Cet article publié en 2012 a permis de poser les bases de fonctionnement d’un générateur thermoélectrique en présence de conditions mixtes. En particuliers, il a été mis en évidence que le fonctionnement du système complet présente un caractère contre-reactionné qui résulte des conditions aux limites, ouvrant ainsi à une description beaucoup plus large des fonctionnement des générateurs thermoélectrique. 
 •	C. Goupil, W. Seifert,K. Zabrocki, E. Müller and G. Jeffrey Snyder, Thermodynamics of Thermoelectric Phenomena and Applications, Entropy vol. 13, 1481-1517 (2011), Best Paper Award 2015 
@@ -168,7 +181,7 @@ Cet article nous a permis d’étendre les prédictions quant au caractère cent
 Dans cet article nous avons étendu le développement théorique des machines thermoélectriques aux autres machines thermiques. En faisant usage du formalisme utilisé pour décrire le système bouclés nous avons ainsi pu montrer que les oscillations observées dans certains systèmes thermodynamiques (Teorell, Oscillateur thermoacoustique, Belousov-Zhabotinsky…) trouvaient leur origine dans les effets de rétroaction avec rotation de phase.
 •	C. Goupil, H. Ouerdane, E. Herbert, Cl. Goupil and Y. D’Angelo. Thermodynamics of metabolic energy conversion under muscle load. New J. Phys.21 023021 (2019)
 Dans cet article nous avons poursuivi le développement théorique des machines en conditions mixtes, en l’étendant au cas de machines no-thermiques. Nous avons ainsi considéré un organisme fournissant un effort comme un système thermodynamique proche équilibre. Cette approche nous a permis de retrouver intégralement la réponse force-vitesse de muscle, telle qu’elle avait été formulée par Hill en 1938. L’approche de Hill avait conduit à une expression purement phénoménologique à trois paramètres. Nous avons trouvé les fondements thermodynamiques de ces paramètres, ce qui nous a permis de relier ce modèle à des paramètres physiologiques courants. Ce travail très prometteur est en cours avec l’institut de Myologie de Paris, L’INSEP et l’AP-HP. Un brevet a été déposé (Brevet n°7).
-3.	Encadrement doctoral et scientifique
+##	Encadrement doctoral et scientifique
 •	7 Thèses encadrées
 •	5 Post-doc
 •	17 jury de thèse
@@ -179,13 +192,13 @@ activités éditoriales (expertises, responsabilités de collections...)
 •	Editeur invité du Journal Entropy
 •	Referee pour les journaux, Phys Rev, EPL, JAP, Entropy. 
 
-participation jurys de thèse et de HDR (hors établissement)
+##Participation jurys de thèse et de HDR (hors établissement)
 
 •	  Thèse : Dmitry Smirnov. Innovative technological pathway for new commercial applications of Stirling cycle-based systems. Skolkovo Institute of Science and Technology. (Rapporteur)
 •	HDR  Sawako Nakamae. Interacting magnetic nanoparticles: from superspin glass, Superferromagnetism to energy applications. SPEC, Saclay, 20 novembre 2013. (Rapporteur)
 •	HDR  Michel Dubois. De l’interaction évolutive de la technique et de l’humain comme prérequis pour l’élaboration d’une théorie générale des processus évolutifs. Applications à l’appréhension des processus d’innovation. UTC, 28 Avril 2017
 
-diffusion du savoir (vulgarisation), responsabilités et activités au sein des sociétés savantes ou associations
+##Diffusion du savoir (vulgarisation), responsabilités et activités au sein des sociétés savantes ou associations
 
 •	Membre du bureau du Campus de la Transition Ecologique
 •	Conférences en ligne (Accès direct Youtube)
@@ -195,7 +208,7 @@ Contraintes : les joies de la thermodynamique
 Des Physiciens et des Economistes	
 Biomimétisme des usages de l’énergie
 
-organisation colloques, conférences, journées d'étude
+##Organisation colloques, conférences, journées d'étude
 •	Co-organisateur de la session Ecole des Houches, avril 2012, CEA-CNRS :  Le soleil dans tous ses états
 •	Co-organisateur du Training Thermoelectricity, Caen 24-25 mars 2011, ENERMAT "Interreg Espace Atlantique 2007-2013"
 •	Organisateur de la journée Thermoélectricité de la Société Française de Thermique, 9 mars 2012
@@ -207,7 +220,7 @@ organisation colloques, conférences, journées d'étude
 •	Organisateur du colloque "Pétrole, du Maghreb et Moyen-Orient : regards croisés"
 
 
-5. Responsabilités scientifiques
+## Responsabilités scientifiques
 Animation équipes de recherche (préciser le rôle, taille, composition, budget)
 •	Responsable du GAT PIE CNRS, " Electricité décarbonée " (2009-2011)
 •	Membre du comité de rédaction et d'évaluation de l'ANR "PROGELEC" (2010-2012)
