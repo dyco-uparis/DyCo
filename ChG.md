@@ -3,7 +3,7 @@ layout: page
 title:  Christophe Goupil
 ---
 
-| ![imageclosedloop](/images/Christophe.png)
+![imageclosedloop](/images/Christophe.png)
 ### Contenu
 - [Présentation](#presentation)
 - [Recherche](#recherche)
