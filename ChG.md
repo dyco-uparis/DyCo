@@ -21,57 +21,92 @@ title:  Christophe Goupil
 # Présentation <a name="presentation"></a>
 
 ## Repères biographiques <a name="bio"></a>
+
 Nom d'usage : Goupil	Prénom : Christophe	
+
 Situation familiale : marié, 5 enfants
+
 Adresse personnelle: 159 Boulevard Victor Hugo, 92110 Clichy
+
 Téléphone 06 10 03 03 50
+
 Professeur des Universités 1ère classe (C3)
+
 Enseignement : Université de Paris (Denis Diderot)
+
 Recherche : Laboratoire Interdisciplinaire des Energies de Demain, (LIED), UMR 8236, Université de Paris (Denis Diderot)
 
 ## Titres et diplômes
 
-Décembre 2000: Habilitation à Diriger des Recherches: "Contribution à l'étude de la dynamique des vortex dans les supraconducteurs dans le cadre d'un ancrage de surface"
+Décembre 2000: Habilitation à Diriger des Recherches: 
 
-Juillet 1997: Doctorat de l'Université de Caen. Spécialité: milieux denses et matériaux, "Etude de la dynamique des vortex dans les supraconducteurs à haute température critique. Analyse des régimes de dissipation plastique par mesures de transport électrique."
+"Contribution à l'étude de la dynamique des vortex dans les supraconducteurs dans le cadre d'un ancrage de surface"
+
+Juillet 1997: Doctorat de l'Université de Caen. Spécialité: milieux denses et matériaux:
+
+"Etude de la dynamique des vortex dans les supraconducteurs à haute température critique. Analyse des régimes de dissipation plastique par mesures de transport électrique."
 
 Juillet 1990: AGREGATION de Physique option Physique
 
 Juillet 1888: CAPES de Physique-Chimie
 
 ## Expérience professionnelle
+
 Professeur des Universités 1ère classe, depuis septembre 2011
+
 Professeur des Universités 2nd classe, (2001-2011)
+
 PRAG (ENSICAEN), (1992-2001)
+
 Professeur Agrégé en Lycée, (1990-1992)
+
 Professeur Certifié, (1988-1990)
 
 ## Recherche
 
 ### Thèmes de recherche
 Conversion d’énergie
+
 Energie et Interdisciplinarité
+
 Thermodynamique hors équilibre
+
 Thermoélectricité
+
 Supraconducteurs 
 
 ## Responsabilités
+
 Directeur adjoint de l’UMR 8236, LIED.
+
 Président du CS de l’UMR 8236, LIED.
+
 Responsable de l’équipe DyCO de l’UMR 8236, LIED.
+
 Membre de 17 jury de thèse, membre de 3 jury d’HDR.
 
 ## Production scientifique : 
+
 93 RICL
+
 47 CICL
+
 1 Direction d’ouvrage, 6 Chapitre d’ouvrage
+
 23 Conférences Nationales
+
 20 Séminaires Internationaux
+
 62 Séminaires Nationaux, 
+
 10 contrats de recherche sur projet
+
 2 contrats industriels.
+
 7 Brevets
+
 Encadrement : 7 thèses, 5 Post-doc, Stages niveau M2 (2 par an en moyenne) 
+
 Jury : 17 jury de thèse, 3 jury HDR .
 
 # Synthèse de carrière <a name="synthese"></a>
@@ -86,60 +121,106 @@ Pour conclure je souhaite indiquer que si mon activité actuellement se dévelop
 # Activité pédagogique <a name="pedagogie"></a>
 
 ## Présentation de l'activité d'enseignement 
+
 Du point de vue enseignement, mon passé d’agrégé m’a donné l’occasion d’enseigner de nombreuses matières au niveau ingénieur dans l’ENSI, et plus particulièrement les disciplines EEA, dont la microélectronique. A cette occasion j’ai monté, en 1994, une salle de travaux pratiques en microélectronique (mesures sous pointes DC, AC, DLTS, modélisation SPICE…). J’ai assuré la direction de la spécialité Microélectronique de l’ENSICAEN de 2002 à 2008. Suite aux modifications du marché du travail de la microélectronique, j’ai fondé en 2000 avec mon collègue Philipe Lefebvre, l’option Télécom de l’ENSICAEN, qui est devenue ensuite une spécialité à part entière.  En 2003, en partenariat avec le directeur du CRISMAT, Bernard Raveau, j’ai fondé la spécialité MMM, Matériaux Micromécanique Microélectronique, comme nouveau cursus de l’ENSICAEN. Cette spécialité visait à offrir des débouchés aux étudiants souhaitant conjuguer une connaissance des matériaux et de leur mise en application en microélectronique, au-delà des fonctions purement électriques, et, en particulier, le secteur naissant des MEMS. A cette occasion, en 2008, j’ai créé, en partenariat avec 6 écoles d’ingénieur (ENSERB, ISEN, ESIGELEC, ESIEE, ENSSAT, POLYTECH Nantes) et 11 industriels (NXP, ST ERICSON, CHIPIDEA, FREESCALE, INSIGHT SIP, SILICON LABORATORIES, ALYOTECH, ORANGE, DIBCOM, OBERTHUR, AGILENT), le Mastère Spécialisé MSIP (MINSYS). Ce Mastère Spécialisé a été localisé sur le site de l’industriel NXP, à Caen. En 2010, j’ai, avec mon collègue Jean-Michel Rueff, créé la spécialité Energie au sein de l’ENSICAEN. Cette spécialité correspondant à une refonte majeure de la spécialité MMM, afin de prendre en compte l’évolution du marché du travail des ingénieurs à dominante Matériaux fonctionnels. Lors de mon arrivé à l’Université Paris Diderot, aujourd’hui Université de Paris, j’ai assuré des enseignements variés, dans les niveaux L1 à M2, et aussi au sein de l’Ecole d’Ingénieurs Denis Diderot. 
  
 ## Présentation synthétique des enseignements
+
 Mes enseignements se sont déroulés au sein de l’Ecole Nationale Supérieure d’Ingénieurs de Caen, de 1992 à 2014, puis ensuite à l’Université Paris Diderot. 
-ENSICAEN (1992-2014)
+
+### ENSICAEN (1992-2014)
+
 Modélisation SPICE des composants à Semiconducteurs : CM (15h), 2A spécialité MMM, (2008-2014)
+
 Physique des Semiconducteurs : CM (15h), 2A spécialité Microélectronique & MMM, (2008-2014) 
+
 Microélectronique : TP (24h), 2A spécialité Microélectronique, (1994-2000)
+
 Electronique analogique : TP (30h) 1A, (1992-1996)
+
 Semiconducteurs pour l’Energie : CM (18h), 3A spécialité EMS, (2010-2014)
+
 Matériaux et Micro-technologies : CM (18h), 1A, (2005-2012) 
+
 Thermodynamique hors équilibre : CM (15h), 3A, spécialité EMS, (2010-2014)
+
 Transport Mésoscopique : CM (24h), 3A, spécialité EMS et M2 Physique, (208-2012)
+
 Technologie salle blanche (cours) : CM (12h), 2A spécialité Microélectronique puis MMM, (1994-2014) 
-Technologie salle blanche (stage de cinq jours (30h), réalisation de PMOS au CCMO de Rennes) : TP, 2A spécialité Microélectronique puis MMM, (1994-2014) 
+
+Technologie salle blanche (stage de cinq jours (30h), réalisation de PMOS au CCMO de Rennes) : TP, 2A spécialité 
+Microélectronique puis MMM, (1994-2014) 
+
 Initiation au langage Python : CM-TD (12h), 3A spécialité EMS, (2014) 
+
 Encadrement de stage fin d’étude ingénieurs: en moyenne 3 stagiaires par an sur la période 1994-2014
-###Université Paris Diderot (2015-…)
+
+### Université Paris Diderot (2015-…)
+
 Mécanique du point : TD (54h), L1 Physique
+
 Electromagnétisme : TD (20h), 1A Ecole ingénieur EIDD 
+
 Métiers de la Physique : CM-TD (20h), L2 Physique
+
 Electronique numérique : TD (20h), 1A Ecole ingénieur EIDD
+
 Electronique analogique : TD (20h), 1A Ecole ingénieur EIDD 
+
 Electronique analogique : CM (24h), 1A Ecole ingénieur EIDD 
+
 Thermodynamique : CM (18h), L3 puis L2 Physique
+
 Thermodynamique : TD (27h), L3 Physique
+
 Thermoélectricité : CM (8h), M2 IPE et 3A EIDD
+
 Electronique de puissance : CM-TD (30h), L2 Physique
+
 Ecological Economics : CM (6h), M2 Economie Université de Paris et Paris 13
+
 Physique des Semiconducteurs : CM (9h), 2A Ecole ingénieur EIDD 
+
 Traitement du signal : CM (6h), M1 Physique
+
 Projet Trans-filières : TD (18h), 2A EIDD
 
 ## Responsabilités pédagogiques
+
 Directeur de la Spécialité Microélectronique de l'ENSI (2001-2008)
-Fondateur et directeur de la Majeure (MMM), Matériaux Microélectronique et Micromécanique, au sein de la spécialité Matériaux de l'ENSICAEN. (1999-2009)
+
+Fondateur et directeur de la Majeure (MMM), Matériaux Microélectronique et Micromécanique, au sein de la spécialité Matériaux 
+de l'ENSICAEN. (1999-2009)
+
 Fondateur et directeur de la Majeure (EMS), Energie et Matériaux Structuraux, au sein de la spécialité Matériaux de l'ENSICAEN (2009-2010)
+
 Fondateur et directeur du Mastère Spécialisé (MSIP-MINSYS), Microelectronics System Design and Technology (2005-2008)
+
 Responsable du module Photovoltaïque du Master IPE, Université de Paris (Diderot) (2015)
+
 Responsable du module Thermodynamique L3 Université Paris (Diderot) (2018---)
+
 Responsable du module Electronique analogique EIDD 1A, Université Paris (Diderot) (2017---)
+
 Responsable du module Traitement du signal M1, Université de Paris (Diderot) (2019---)
 
 ## Diffusion, rayonnement, activités internationales.
+
 En 2008, en partenariat avec 6 écoles d’ingénieur (ENSERB, ISEN, ESIGELEC, ESIEE, ENSSAT, POLYTECH Nantes) et 11 industriels (NXP, ST ERICSON, CHIPIDEA, FREESCALE, INSIGHT SIP, SILICON LABORATORIES, ALYOTECH, ORANGE, DIBCOM, OBERTHUR, AGILENT), j’ai créé, puis dirigé deux ans, le Mastère Spécialisé MSIP (MINSYS). Ce Mastère de la Conférence des Grande Ecoles a été localisé sur le site de l’industriel NXP, sur son site de Caen.
 
 
 # Activité scientifique <a name="recherche"></a>
 
 ## Présentation synthétique
+
 Mon activité scientifique comprend trois périodes thématiques :
+
 Supraconductivité (1991-2004)
+
 Thermoélectricité (2004-2012)
+
 Energie et interdisciplinarité (2012-…)
+
 Cette dernière période m’a conduit à ouvrir mon activité à des champs thématiques nouveaux, en dehors de ma spécialité. (Biologie, Médecine, Economie, Architecture). Ceci explique certains de mes investissements administratifs, conférences et séminaires récents. Depuis mon arrivée au LIED, cet engagement interdisciplinaire m’est devenu central, bien qu’il soit plus difficile du fait des sous dotation et financement chroniques des moyens alloués aux travaux interdisciplinaires.
 
 ### Période 1991-2004 : Ancrage et dynamique des vortex, (et MKIDS 2018-2020)
@@ -149,11 +230,17 @@ Ces travaux, qui sont les plus anciens, sont brièvement présentés afin de per
 ### Période 2004-2014 : Thermoélectricité
 
 Mes travaux de recherche actuels sont centrés sur le transport couplé énergie-matière et, en particulier, sa déclinaison dans le cadre des mécanismes de la thermoélectricité. En effet ce thème de recherche constitue un objet d’étude central dès lors qu’il s’agit de décrire, dans le cadre d’une thermodynamique hors équilibre linéaire, le transport couplé énergie-matière dans un système ouvert. En particulier, il est aisé de faire le recensement des catégories qui constituent le système, à savoir :
+
 1)	Le gaz d’électron qui constitue le fluide de travail thermodynamique.
+
 2)	Le matériau thermoélectrique dans lequel transite le fluide de travail.
+
 3)	Les forces thermodynamiques, dérivés des grandeurs intensives pertinentes, que sont, le potentiel électrochimique et la température.
+
 4)	Le coefficient de couplage entre les potentiels, aussi appelé coefficient Seebeck, proportionnel à l’entropie transportée.
+
 5)	Les conditions de couplage du dispositif à ses réservoirs de température respectivement chauds et froids.
+
 Loin d’être un simple catalogue cette description offre la possibilité d’estimer les contributions relatives de chaque élément, à la performance du système, qu’il s’agisse de puissance, de rendement ou coefficient de performance, ou encore de plage d’usage. En ce qui concerne le fluide thermodynamique il est d’usage de caractériser les matériaux thermoélectriques à partir de leur facteur de mérite ZT. Dans le cas des matériaux massifs cristallisés, les propriétés de transport de chaleur et de courant électrique sont fortement liées, en particulier par la loi de Wiedemann—Franz. De plus, la concentration en porteurs libres influence directement le coefficient Seebeck et la conductivité électrique. Il en résulte que l’optimisation des matériaux massifs cristallisés est assez contrainte. Pour un matériau donné le principal paramètre d’optimisation est la substitution atomique au profit d’éléments lourds, et la recherche de structures cristallines complexes permettant d’envisager une propagation réduite des phonons. Dans une moindre mesure il est possible d’envisager une augmentation de la mobilité des porteurs libres sous l’effet de la distorsion de maille par substitution. Ce type d’optimisation a été réalisé avec succès dans le cas du matériau SiGe, avec un accroissement notable de la mobilité des porteurs, mais il ne peut s’agir là d’une méthode d’optimisation générique. Les travaux de recherche concernant les matériaux massifs buttent donc sur le faible nombre de degrés de liberté pour l’optimisation du « fluide de travail thermodynamique », donc de ZT. Les couplages aux thermostats sont qualifiés de mixte, au sens où il ne s’agit ni de couplage en conditions de potentiel (conditions de Neumann), ni de couplage en conditions de flux (conditions de Dirichlet). Le système est donc parfaitement paramétrable entre ces deux extrêmes.  En particulier, la configuration de Neumann impose les températures directement sur les faces du dispositif, ce qui revient à la traditionnelle configuration dite Carnot[Carnot], telle qu’elle est usuellement présentée. La principale caractéristique de la configuration mixte provient du fait que la différence de température aux bornes du dispositif est maintenant dépendante des conditions de fonctionnement du système. Il est important de noter que cette modélisation mixte, connue depuis la fin de années 1950, est à l’origine de la thermodynamique à temps fini, au sens où elle permet les bilans de puissance, en plus des bilans d’énergie. Elle est due respectivement à Yvon, Chambadal, Novikov, Curzon et Ahlborn. Cette approche est particulièrement intéressante en ce qu’elle permet, moyennant un modèle assez simple, de rendre compte de manière très fidèle du comportement de systèmes réalistes comme nous avons pu le vérifier lors de projets industriels. En résumé, ces travaux permettent de mettre en évidence que les performances d’un dispositif thermoélectrique, et, par suite, d’un système complet, ne reposent pas uniquement sur la qualité des matériaux : elles résultent des effets conjugués des propriétés des matériaux, donc du gaz d’électrons, des conditions de couplage aux thermostats, déterministes ou non, et enfin de la nature du régime de fonctionnement, stationnaire ou non. Il importe aussi de noter que ces travaux peuvent s’étendre à d’autres systèmes. La thermoélectricité offre donc un cadre modèle pour l’étude des processus couplés. La thermoélectricité est souvent citée comme une illustration assez caractéristique de la puissance du formalisme Force-Flux de Onsager. Nous avons donc, à partir de 2014, commencé à étendre cette approche en la généralisant, ce qui est l’objet du paragraphe suivant. Ces travaux ont donné lieu à publications [RICL: 4-8, 10-23, 25-45, 47-48, 50, 52] et brevets [Brevet: 1, 3, 5].
 
 ### Période 2014-2020 : Thermodynamique de la conversion d’énergie, interdisciplinarité
@@ -182,104 +269,138 @@ Ces travaux ont été étendus récemment au cas des machines thermodynamiques p
 6)	Comment le concept d’adaptation d’impédance généralisée s’insère-t-il dans le débat sur les principes d’extrema en thermodynamique hors équilibre ?
 
 ### Développement interdisciplinaire : Economie
+
 Ces questions sont actuellement étudiées d’un point de vue théorique sur la base de nos travaux de thermodynamique. Au sein de l’équipe DyCo nous avons à cœur d’ouvrir ces questionnements en direction des thématiques sociétale, en se gardant de tomber dans l’écueil des métaphores. Nous avons ainsi développé des travaux de Macroéconomie en partenariat avec Gaël Giraud, Economiste en chef de l’Agence Française de Développement. Ces travaux nous ont amené à développer le modèle Macroéconomique EcoDyco dont on peut trouver une présentation vidéo sur le lien Des Physiciens et des Economistes. Loin d’être une démarche singulière, l’approche thermodynamique de l’économie trouve des connexions naturelles avec les systèmes dynamiques et la modélisation des systèmes biologique selon les approche de Lotka. Au cours des cinquante années couvrant la période 1935-1985, Nicholas Georgescu-Roegen a apporté une contribution majeure à cette approche thermodynamique de l’économie, en particulier dans ses conséquences entropiques. Partiellement reconnu par certains, Roegen est resté marginalisé par la plupart des écoles d’économie dominantes. Il n’en demeure pas moins que les questions posées par Roegen sont passées du statut de pertinentes à nécessaires, voire urgentes. Le souci de contribuer à introduire la thermodynamique dans la réflexion économique ne consiste pas à faire entrer l’économie dans la thermodynamique, mais bien de fournir certains des concepts et outils qui permettent de décrire les processus économiques dans une situation où l’équilibre n’est pas la règle et que les ressources ne sont ni infinies ni directement abouchées au sites de transformations. L’approche bioéconomique peut se définir à partir de deux concepts centraux
 1)	Finitude
 2)	Distinction entre quantité et qualité
 Le Concept de finitude est abordé dans sa double déclinaison de limitation des grandeurs et d’impossibilité d’externaliser. La limitation des grandeurs s’impose dès lors qu’un système économique ne peut plus faire abstraction des conditions d’accès aux ressources naturelles, d’une part, et aux conditions de rejet, voire de recyclage d’autre part, il se trouve alors borné entre ses sources et ses puits. Il en résulte qu’aucune grandeur ne peut plus être définie sans souscrire aux conditions aux limites du système, et qu’aucune divergence, ou idéalisation des conditions, n’est envisageable. De l’impossibilité d’externaliser, il résulte qu’aucune substitution totale n’est possible, et encore moins s’il s’agit de substitution financière systématique, comme cela est actuellement proposé dans le cas des ressources écologiques. Cette finitude met en évidence qu’il n’est plus possible de penser comme si le plus conduisait nécessairement au mieux, comme le montrait déjà le paradoxe d’Easterlin. Si les questions de la définition des limites et des conditions aux limites sont centrales pour tout physicien qui chercher à étudier un système, il apparaît qu’elle se pose tout aussi clairement pour l’Economiste. D’autre part, du point de vue de la dynamique, la modélisation économique est aujourd’hui riche de contributions issues des apports des systèmes dynamiques, en particulier à la suite des travaux de Lotka. Nous proposons une approche sensiblement différente qui reprend le cadre d’étude précédemment décrit dans les autres volets du projet, selon un schéma qui intègre à la fois les sources et les puits pour chacune des diverses grandeurs économiques considérées.
 
 ## Publications principales
-•	Y. Apertet, H. Ouerdane, O. Glavatskaya, C. Goupil and Ph. Lecœur, Optimal working conditions for thermoelectric generators with realistic thermal coupling, Europhysics Letters vol. 97, 28001 (2012)
+Y. Apertet, H. Ouerdane, O. Glavatskaya, C. Goupil and Ph. Lecœur, Optimal working conditions for thermoelectric generators with realistic thermal coupling, Europhysics Letters vol. 97, 28001 (2012)
 Cet article publié en 2012 a permis de poser les bases de fonctionnement d’un générateur thermoélectrique en présence de conditions mixtes. En particuliers, il a été mis en évidence que le fonctionnement du système complet présente un caractère contre-reactionné qui résulte des conditions aux limites, ouvrant ainsi à une description beaucoup plus large des fonctionnement des générateurs thermoélectrique. 
-•	C. Goupil, W. Seifert,K. Zabrocki, E. Müller and G. Jeffrey Snyder, Thermodynamics of Thermoelectric Phenomena and Applications, Entropy vol. 13, 1481-1517 (2011), Best Paper Award 2015 
+
+C. Goupil, W. Seifert,K. Zabrocki, E. Müller and G. Jeffrey Snyder, Thermodynamics of Thermoelectric Phenomena and Applications, Entropy vol. 13, 1481-1517 (2011), Best Paper Award 2015 
 Dans cet article nous avons revu de manière assez exhaustive les fondements thermodynamiques des processus de conversion thermoélectrique. Au-delà de son caractère pédagogique qui explique son succès, cet article a permis de montrer que la thermodynamique du gaz d’électron permettait de montrer que le facteur de mérite, traditionnellement considéré comme un paramètre purement technologique, est en fait directement relié au rapport des conductivités et par suite, des chaleurs spécifiques, comme pour les gaz classiques. Ce résultat a d’envisager le facteur de mérite comme une grandeur thermodynamique à optimiser, lors de transitions de phase par exemple [RICL 18].
-•	H. Ouerdane, A. A. Varlamov, A. V. Kavokin, C. Goupil, and C. B. Vining Enhanced thermoelectric coupling near electronic phase transition : the rôle of fluctuation Cooper pairs Physical Review B 91, 100501 ® (2015)
+
+H. Ouerdane, A. A. Varlamov, A. V. Kavokin, C. Goupil, and C. B. Vining Enhanced thermoelectric coupling near electronic phase transition : the rôle of fluctuation Cooper pairs Physical Review B 91, 100501 ® (2015)
 Cet article nous a permis d’étendre les prédictions quant au caractère central du facteur de mérite en prédisant une divergence de ce dernier dans le cas de transition de phase électronique. La prédiction d’une divergence au voisinage de la transition normal/supra a été ainsi prévue. 
-•	C. Goupil, H. Ouerdane, E. Herbert, G. Benenti, Y. D’Angelo, and Ph. Lecoeur, Closed-loop approach to thermodynamics Phys. Rev. E 94, 032136 (2016)
+
+C. Goupil, H. Ouerdane, E. Herbert, G. Benenti, Y. D’Angelo, and Ph. Lecoeur, Closed-loop approach to thermodynamics Phys. Rev. E 94, 032136 (2016)
 Dans cet article nous avons étendu le développement théorique des machines thermoélectriques aux autres machines thermiques. En faisant usage du formalisme utilisé pour décrire le système bouclés nous avons ainsi pu montrer que les oscillations observées dans certains systèmes thermodynamiques (Teorell, Oscillateur thermoacoustique, Belousov-Zhabotinsky…) trouvaient leur origine dans les effets de rétroaction avec rotation de phase.
-•	C. Goupil, H. Ouerdane, E. Herbert, Cl. Goupil and Y. D’Angelo. Thermodynamics of metabolic energy conversion under muscle load. New J. Phys.21 023021 (2019)
+
+C. Goupil, H. Ouerdane, E. Herbert, Cl. Goupil and Y. D’Angelo. Thermodynamics of metabolic energy conversion under muscle load. New J. Phys.21 023021 (2019)
 Dans cet article nous avons poursuivi le développement théorique des machines en conditions mixtes, en l’étendant au cas de machines no-thermiques. Nous avons ainsi considéré un organisme fournissant un effort comme un système thermodynamique proche équilibre. Cette approche nous a permis de retrouver intégralement la réponse force-vitesse de muscle, telle qu’elle avait été formulée par Hill en 1938. L’approche de Hill avait conduit à une expression purement phénoménologique à trois paramètres. Nous avons trouvé les fondements thermodynamiques de ces paramètres, ce qui nous a permis de relier ce modèle à des paramètres physiologiques courants. Ce travail très prometteur est en cours avec l’institut de Myologie de Paris, L’INSEP et l’AP-HP. Un brevet a été déposé (Brevet n°7).
-##	Encadrement doctoral et scientifique
-•	7 Thèses encadrées
-•	5 Post-doc
-•	17 jury de thèse
-•	3 jury d’HDR
-4.	Diffusion et rayonnement 
+
+##	Diffusion et rayonnement 
 
 activités éditoriales (expertises, responsabilités de collections...)
-•	Editeur invité du Journal Entropy
-•	Referee pour les journaux, Phys Rev, EPL, JAP, Entropy. 
+ Editeur invité du Journal Entropy
+ 
+ Referee pour les journaux, Phys Rev, EPL, JAP, Entropy. 
 
-##Participation jurys de thèse et de HDR (hors établissement)
+## Participation jurys de thèse et de HDR (hors établissement)
 
-•	  Thèse : Dmitry Smirnov. Innovative technological pathway for new commercial applications of Stirling cycle-based systems. Skolkovo Institute of Science and Technology. (Rapporteur)
-•	HDR  Sawako Nakamae. Interacting magnetic nanoparticles: from superspin glass, Superferromagnetism to energy applications. SPEC, Saclay, 20 novembre 2013. (Rapporteur)
-•	HDR  Michel Dubois. De l’interaction évolutive de la technique et de l’humain comme prérequis pour l’élaboration d’une théorie générale des processus évolutifs. Applications à l’appréhension des processus d’innovation. UTC, 28 Avril 2017
+Thèse : Dmitry Smirnov. Innovative technological pathway for new commercial applications of Stirling cycle-based systems. Skolkovo Institute of Science and Technology. (Rapporteur)
 
-##Diffusion du savoir (vulgarisation), responsabilités et activités au sein des sociétés savantes ou associations
+HDR  Sawako Nakamae. Interacting magnetic nanoparticles: from superspin glass, Superferromagnetism to energy applications. SPEC, Saclay, 20 novembre 2013. (Rapporteur)
 
-•	Membre du bureau du Campus de la Transition Ecologique
-•	Conférences en ligne (Accès direct Youtube)
+HDR  Michel Dubois. De l’interaction évolutive de la technique et de l’humain comme prérequis pour l’élaboration d’une théorie générale des processus évolutifs. Applications à l’appréhension des processus d’innovation. UTC, 28 Avril 2017
+
+## Diffusion du savoir (vulgarisation), responsabilités et activités au sein des sociétés savantes ou associations
+
+Membre du bureau du Campus de la Transition Ecologique
+
+Conférences en ligne (Accès direct Youtube)
+
 Transition énergétique et recherche interdisciplinaire
+
 Biomim Expo : Et si la ville était un métabolisme ?
+
 Contraintes : les joies de la thermodynamique
+
 Des Physiciens et des Economistes	
+
 Biomimétisme des usages de l’énergie
 
-##Organisation colloques, conférences, journées d'étude
-•	Co-organisateur de la session Ecole des Houches, avril 2012, CEA-CNRS :  Le soleil dans tous ses états
-•	Co-organisateur du Training Thermoelectricity, Caen 24-25 mars 2011, ENERMAT "Interreg Espace Atlantique 2007-2013"
-•	Organisateur de la journée Thermoélectricité de la Société Française de Thermique, 9 mars 2012
-•	Co-organisateur de la journée Exergie-automobile », Technocentre Renault Guyancourt, 16 février 2011
-•	Co-organisateur de la journée Pompes à chaleur thermoélectriques », EDF-ACOME, Caen, 15 février 2011
-•	Co-organisateur de la journée Thermoelectric Workshop », TOTAL, La Défense,14 février 2011
-•	Organisateur de la Journée Normandie Aéroespace (NAE), Thermoélecricité et composites, Caen, 10 janvier 2011
-•	Organisateur de la Journée GAT PIE CNRS, transport électronique et Photovoltaïsme, Paris, 18 Octobre 2010
-•	Organisateur du colloque "Pétrole, du Maghreb et Moyen-Orient : regards croisés"
+## Organisation colloques, conférences, journées d'étude
+
+Co-organisateur de la session Ecole des Houches, avril 2012, CEA-CNRS :  Le soleil dans tous ses états
+
+Co-organisateur du Training Thermoelectricity, Caen 24-25 mars 2011, ENERMAT "Interreg Espace Atlantique 2007-2013"
+
+Organisateur de la journée Thermoélectricité de la Société Française de Thermique, 9 mars 2012
+
+Co-organisateur de la journée Exergie-automobile », Technocentre Renault Guyancourt, 16 février 2011
+
+Co-organisateur de la journée Pompes à chaleur thermoélectriques », EDF-ACOME, Caen, 15 février 2011
+
+Co-organisateur de la journée Thermoelectric Workshop », TOTAL, La Défense,14 février 2011
+
+Organisateur de la Journée Normandie Aéroespace (NAE), Thermoélecricité et composites, Caen, 10 janvier 2011
+
+Organisateur de la Journée GAT PIE CNRS, transport électronique et Photovoltaïsme, Paris, 18 Octobre 2010
+
+Organisateur du colloque "Pétrole, du Maghreb et Moyen-Orient : regards croisés"
 
 
 ## Responsabilités scientifiques
+
 Animation équipes de recherche (préciser le rôle, taille, composition, budget)
-•	Responsable du GAT PIE CNRS, " Electricité décarbonée " (2009-2011)
-•	Membre du comité de rédaction et d'évaluation de l'ANR "PROGELEC" (2010-2012)
-•	Membre du comité de rédaction de l'ANR EESI (2009)
-•	Rapporteur dans le cadre du European Symposium on Reliability of Electron Devices, Failure Physics and Analysis (ESREF) (2001-2006)
-•	Membre du comité d'organisation " Matériaux 2014"
 
-Contrats de recherche évalués suite à appel à projet 
-Projets Européens
-•	THETAGEN: (2009-2011) " Récupération d'énergie sur une turbine d'hélicoptère via la thermoélectricité " Programme déposé dans l'appel CLEANSKY FP7. Partenariat industriel : Turbomeca S.A., Tronico, Evektor, Termo-Gen AB, Epsilon Engéniérie
-•	ENERMAT: (2010-2012) Projet INTERREG, "Matériaux et énergie".
+Responsable du GAT PIE CNRS, " Electricité décarbonée " (2009-2011)
 
-Programmes nationaux
-•	METABOLOCOT: (2019) CNRS Défi Modélisation du vivant 2019. Modélisation de la réponse métablique à l'effort des vertébrés.
-•	FLEXIGEN: (2017-2019) Projet régional Centre-Val de Loire. Micro-générateur thermoélectrique oxyde intégré sur une membrane flexible de silicium poreux biocompatible.
-•	FUI RENOTER : (2008-2012) Programme FUI 6 Récupération d'énergie sur un moteur thermique via la thermoélectricité " Partenariat : laboratoire LPM (Nancy), laboratoire ICG (Montpellier). Sociétés, Nexter, Sherpa Technologie, Renault SAS, Renault Trucks, Valeo
-•	SYSPACTE : (2009-2014) Programme FUI 7 " Développement de pompes Peltier pour bâtiments BBC " Partenaires : laboratoire ICG (Montpellier), laboratoire LOCIE (Chambéry). Sociétés ACOME et ANJOS
-•	ISIS : (2010-2013) " Récupération et conversion de chaleur sur pièces de fonderie, après chauffage inductif".  Partenaires : Laboratoires SIMAP, LAPLACE, ARMINES Sociétés EDF, FIVES CELES, ATYS CONSULTING
-•	CERES2 : (2010-2013) " Développement d'une plateforme de modélisation de conversion de chaleur issue des rejets industriels " Partenaires : Laboratoires LEMTA, LERMAB, LEPTIAB, ARMINES Sociétés EDF, Arjowiggings, IFP
-•	OTOGEHT, PIE CNRS: (2009-2012) " Optimisation des propriétés thermoélectriques d'Oxydes pour la Génération Electrique Haute Température. Partenaires : Laboratoires ICG Montpellier et LOCIE Chambéry
-•	IMPACT, PIE CNRS : (2010) " Modélisation de pompes à chaleur à effet Peltier en vue d'application pour le bâtiment. Partenaires : Laboratoires LOCIE Chambéry
+Membre du comité de rédaction et d'évaluation de l'ANR "PROGELEC" (2010-2012)
 
-Contrats de recherche de gré à gré 
-•	Société Corning : 2004-2007. " Développement de thermogénérateurs haute température à base d'oxydes.
-•	Société ACOME : 2005-2008 : " Développement d'une pompe à chaleur thermoélectrique.
+Membre du comité de rédaction de l'ANR EESI (2009)
+
+Rapporteur dans le cadre du European Symposium on Reliability of Electron Devices, Failure Physics and Analysis (ESREF) (2001-2006)
+
+Membre du comité d'organisation " Matériaux 2014"
+
+## Contrats de recherche évalués suite à appel à projet 
+### Projets Européens
+THETAGEN: (2009-2011) " Récupération d'énergie sur une turbine d'hélicoptère via la thermoélectricité " Programme déposé dans l'appel CLEANSKY FP7. Partenariat industriel : Turbomeca S.A., Tronico, Evektor, Termo-Gen AB, Epsilon Engéniérie
+
+ENERMAT: (2010-2012) Projet INTERREG, "Matériaux et énergie".
+
+### Programmes nationaux
+METABOLOCOT: (2019) CNRS Défi Modélisation du vivant 2019. Modélisation de la réponse métablique à l'effort des vertébrés.
+
+FLEXIGEN: (2017-2019) Projet régional Centre-Val de Loire. Micro-générateur thermoélectrique oxyde intégré sur une membrane flexible de silicium poreux biocompatible.
+
+FUI RENOTER : (2008-2012) Programme FUI 6 Récupération d'énergie sur un moteur thermique via la thermoélectricité " Partenariat : laboratoire LPM (Nancy), laboratoire ICG (Montpellier). Sociétés, Nexter, Sherpa Technologie, Renault SAS, Renault Trucks, Valeo.
+
+SYSPACTE : (2009-2014) Programme FUI 7 " Développement de pompes Peltier pour bâtiments BBC " Partenaires : laboratoire ICG (Montpellier), laboratoire LOCIE (Chambéry). Sociétés ACOME et ANJOS
+
+ISIS : (2010-2013) " Récupération et conversion de chaleur sur pièces de fonderie, après chauffage inductif".  Partenaires : Laboratoires SIMAP, LAPLACE, ARMINES Sociétés EDF, FIVES CELES, ATYS CONSULTING
+
+CERES2 : (2010-2013) " Développement d'une plateforme de modélisation de conversion de chaleur issue des rejets industriels " Partenaires : Laboratoires LEMTA, LERMAB, LEPTIAB, ARMINES Sociétés EDF, Arjowiggings, IFP
+
+OTOGEHT, PIE CNRS: (2009-2012) " Optimisation des propriétés thermoélectriques d'Oxydes pour la Génération Electrique Haute Température. Partenaires : Laboratoires ICG Montpellier et LOCIE Chambéry
+
+IMPACT, PIE CNRS : (2010) " Modélisation de pompes à chaleur à effet Peltier en vue d'application pour le bâtiment. Partenaires : Laboratoires LOCIE Chambéry
+
+### Contrats de recherche de gré à gré 
+Société Corning : 2004-2007. " Développement de thermogénérateurs haute température à base d'oxydes.
+
+Société ACOME : 2005-2008 : " Développement d'une pompe à chaleur thermoélectrique.
 
 
-Responsabilités collectives
-1.	Présentation générale des responsabilités
+## Responsabilités collectives
+###	Présentation générale des responsabilités
 J’ai, au cours de ma carrière assuré un certain nombre de responsabilités collectives. Durant la période de mon activité en tant que PRAG j’ai surtout assuré des responsabilités locales essentiellement pédagogiques (Responsabilité de salles de TP électronique 1A ENSICAEN, Montage de salle de TP Microélectronique…). A la suite de ma nomination en tant que professeur des Université j’ai assuré la direction de plusieurs spécialités de formations au sein de l’ENSICAEN. A partir de 2010, j’ai pris en charge le développement de la plate-forme technologique thermoélectricité, et la direction adjointe de l’UMS 3318. A la suite de mon départ à Paris, j’ai pris en charge la direction adjointe du LIED, UMR8236, et de l’équipe de recherche DyCo. Outre ces charges, j’ai assuré un certain nombre de mandats au sein des conseils des établissements.
-2.	Responsabilités administratives
-•	Directeur-adjoint de l'UMS 3318, Centre National de Recherche Technologique, CNRT Matériau (2010-2011)
-•	Directeur-adjoint du LIED, (UMR 8236) (2015-…)
-3. Responsabilités et mandats locaux ou régionaux
-•	Membre du CS de l’UFR de Physique, Université Paris Diderot
-•	Président du Conseil scientifique du LIED (2016-2020)
-•	Membre du CS de l’Ecole d’Architecture Paris Val de Seine (2018-…)
-4. Responsabilités et mandats (internationaux, nationaux)
-•	Membre de la commission CCSU 63 de l’Université Paris-Sud (2016-…)
-•	Membre des commissions CNU 63 et 28 de l’Université de Caen (2002-2008)
-•	Expert HCERES (2015)
-•	Membre du comité de direction du PIE CNRS (2009-2011)
+### Responsabilités administratives
+Directeur-adjoint de l'UMS 3318, Centre National de Recherche Technologique, CNRT Matériau (2010-2011)
+Directeur-adjoint du LIED, (UMR 8236) (2015-…)
+### Responsabilités et mandats locaux ou régionaux
+Membre du CS de l’UFR de Physique, Université Paris Diderot
+Président du Conseil scientifique du LIED (2016-2020)
+Membre du CS de l’Ecole d’Architecture Paris Val de Seine (2018-…)
+### Responsabilités et mandats (internationaux, nationaux)
+Membre de la commission CCSU 63 de l’Université Paris-Sud (2016-…)
+Membre des commissions CNU 63 et 28 de l’Université de Caen (2002-2008)
+Expert HCERES (2015)
+Membre du comité de direction du PIE CNRS (2009-2011)
 
 # Travaux <a name="travaux"></a>
 Liste classée des publications (celles-ci ne doivent pas être jointes)
