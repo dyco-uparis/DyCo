@@ -2,6 +2,10 @@
 layout: page
 title:  Christophe Goupil
 ---
+
+| ![imageclosedloop](/images/Christophe.png){: width="600px"}                                          |
+|:--:|
+| *Schéma général d'une machine à conversion de l'énergie contrainte par des conditions au bord mixtes*|
 ### Contenu
 - [Présentation](#presentation)
 - [Recherche](#recherche)
