@@ -35,7 +35,7 @@ Professeur des Universités 1ère classe (C3)
 
 Enseignement : Université de Paris (Denis Diderot)
 
-Recherche : Laboratoire Interdisciplinaire des Energies de Demain, (LIED), UMR 8236, Université de Paris (Denis Diderot)
+Recherche : Laboratoire Interdisciplinaire des Energies de Demain,  [LIED](http://www.lied-pieri.univ-paris-diderot.fr/), UMR 8236, Université de Paris (Denis Diderot)
 
 ## Titres et diplômes
 
