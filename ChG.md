@@ -5,7 +5,10 @@ title:  Christophe Goupil
 ### Contenu
 - [Présentation](#presentation)
 - [Recherche](#recherche)
+- [Pédagogie](#pedagogie)
 - [Synthèse de carrière](#synthese)
+- [Travaux](#travaux)
+- [Brevets](#brevets)
  
 # Présentation <a name="presentation"></a>
 
@@ -35,7 +38,7 @@ PRAG (ENSICAEN), (1992-2001)
 Professeur Agrégé en Lycée, (1990-1992)
 Professeur Certifié, (1988-1990)
 
-## Recherche <a name="recherche"></a>
+## Recherche
 
 ### Thèmes de recherche
 Conversion d’énergie
@@ -72,7 +75,7 @@ Mon activité actuelle est désormais résolument interdisciplinaire, tant au ni
 Pour conclure je souhaite indiquer que si mon activité actuellement se développe sur un spectre interdisciplinaire, il n’en demeure pas moins que ses fondements sont bien ceux de la section CNU 63, au sens où les questions abordées, en particulier en thermodynamique, ont été résolue par l’utilisation de concept issus de la communauté 63, tels que l’approche nodale, la modélisation en systèmes bouclés, l’apparition des contre-réactions par modification des conditions aux limites…
  
 
-# Activité pédagogique
+# Activité pédagogique <a name="pedagogie"></a>
 
 ## Présentation de l'activité d'enseignement 
 Du point de vue enseignement, mon passé d’agrégé m’a donné l’occasion d’enseigner de nombreuses matières au niveau ingénieur dans l’ENSI, et plus particulièrement les disciplines EEA, dont la microélectronique. A cette occasion j’ai monté, en 1994, une salle de travaux pratiques en microélectronique (mesures sous pointes DC, AC, DLTS, modélisation SPICE…). J’ai assuré la direction de la spécialité Microélectronique de l’ENSICAEN de 2002 à 2008. Suite aux modifications du marché du travail de la microélectronique, j’ai fondé en 2000 avec mon collègue Philipe Lefebvre, l’option Télécom de l’ENSICAEN, qui est devenue ensuite une spécialité à part entière.  En 2003, en partenariat avec le directeur du CRISMAT, Bernard Raveau, j’ai fondé la spécialité MMM, Matériaux Micromécanique Microélectronique, comme nouveau cursus de l’ENSICAEN. Cette spécialité visait à offrir des débouchés aux étudiants souhaitant conjuguer une connaissance des matériaux et de leur mise en application en microélectronique, au-delà des fonctions purement électriques, et, en particulier, le secteur naissant des MEMS. A cette occasion, en 2008, j’ai créé, en partenariat avec 6 écoles d’ingénieur (ENSERB, ISEN, ESIGELEC, ESIEE, ENSSAT, POLYTECH Nantes) et 11 industriels (NXP, ST ERICSON, CHIPIDEA, FREESCALE, INSIGHT SIP, SILICON LABORATORIES, ALYOTECH, ORANGE, DIBCOM, OBERTHUR, AGILENT), le Mastère Spécialisé MSIP (MINSYS). Ce Mastère Spécialisé a été localisé sur le site de l’industriel NXP, à Caen. En 2010, j’ai, avec mon collègue Jean-Michel Rueff, créé la spécialité Energie au sein de l’ENSICAEN. Cette spécialité correspondant à une refonte majeure de la spécialité MMM, afin de prendre en compte l’évolution du marché du travail des ingénieurs à dominante Matériaux fonctionnels. Lors de mon arrivé à l’Université Paris Diderot, aujourd’hui Université de Paris, j’ai assuré des enseignements variés, dans les niveaux L1 à M2, et aussi au sein de l’Ecole d’Ingénieurs Denis Diderot. 
@@ -122,7 +125,7 @@ Responsable du module Traitement du signal M1, Université de Paris (Diderot) (2
 En 2008, en partenariat avec 6 écoles d’ingénieur (ENSERB, ISEN, ESIGELEC, ESIEE, ENSSAT, POLYTECH Nantes) et 11 industriels (NXP, ST ERICSON, CHIPIDEA, FREESCALE, INSIGHT SIP, SILICON LABORATORIES, ALYOTECH, ORANGE, DIBCOM, OBERTHUR, AGILENT), j’ai créé, puis dirigé deux ans, le Mastère Spécialisé MSIP (MINSYS). Ce Mastère de la Conférence des Grande Ecoles a été localisé sur le site de l’industriel NXP, sur son site de Caen.
 
 
-# Activité scientifique
+# Activité scientifique <a name="recherche"></a>
 
 ## Présentation synthétique
 Mon activité scientifique comprend trois périodes thématiques :
@@ -269,7 +272,8 @@ J’ai, au cours de ma carrière assuré un certain nombre de responsabilités c
 •	Membre des commissions CNU 63 et 28 de l’Université de Caen (2002-2008)
 •	Expert HCERES (2015)
 •	Membre du comité de direction du PIE CNRS (2009-2011)
-Annexes
+
+# Travaux <a name="travaux"></a>
 Liste classée des publications (celles-ci ne doivent pas être jointes)
 
 Articles dans revues internationales à comité de lecture
@@ -640,7 +644,7 @@ Bioinspiration et Energie.
 Chapitre du catalogue de l’exposition, 
 Cité des Sciences et de l’Industrie « BIO-INSPIRÉS », à partir du 31 mars 2020
 
-Brevets, licences, logiciels
+## Brevets <a name="brevets"></a>
 
 1.	Dispositif thermoélectrique
 WO EP US TW EP1796182A1 Christophe Goupil, Corning SAS
