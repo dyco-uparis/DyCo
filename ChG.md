@@ -16,6 +16,7 @@ title:  Christophe Goupil
     - [Ouvrages](#ouvrages)
     - [Séminaires](#seminaires)
     - [Encadrement Doctoral](#doctoral)
+    - [Vidéos](#video)
     
  
 # Présentation <a name="presentation"></a>
