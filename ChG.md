@@ -13,6 +13,7 @@ title:  Christophe Goupil
     - [Conférences](#conferences)
     - [Ouvrages](#ouvrages)
     - [Séminaires](#seminaires)
+    - [Encadrement Doctoral](#doctoral)
     
  
 # Présentation <a name="presentation"></a>
@@ -895,8 +896,9 @@ Les peformances énergétique des systèmes thermoélectrique, de l'échelle él
 
 23)	C. Goupil, J.F. Hamet, J. Provost, B. Blanc-Guillon, M. Hervieu, Ch. Simon, B. Raveau, S. Bouffard, Vortex pinning in Y-123 thin films Troisièmes journées d'études de la SEE, novembre 1993, Caen
 
+### Séminaires <a name="seminaires"></a>
 
-### Séminaires Internationaux invités
+#### Séminaires Internationaux invités
 
 1.	A thermodynamic approach of the Energy-Matter coupling : Towards an interdisciplinary foundation. Skoltech, 30 octobre  2019
 2.	ICTP 2019, Trieste: Conference on Modern Concepts and New Materials for Thermoelectricity, 10-15 mars 2019. (Inaugural talk) 
@@ -920,7 +922,7 @@ Les peformances énergétique des systèmes thermoélectrique, de l'échelle él
 20.	Thermoelectricity and Finite Time Thermodynamics:From the “electronic gas” to the heat engine. Thermoelektrik-Schule Waldeck 3 octobre 2013
 
 
-### Séminaires nationaux invités
+#### Séminaires nationaux invités
 
 1.	Transition écologique : un peu de Thermodynamique. ENS  7 novembre 2019
 2.	Métabolisme urbain : si la ville était un animal ?. Biomim Expo, Mairie de Paris, 11 septembre 2019
@@ -986,7 +988,7 @@ Les peformances énergétique des systèmes thermoélectrique, de l'échelle él
 62.	Device: Design, Power, Efficiency. SPEC, Saclay, 17 février 2014
 
 
-
+## Encadrement doctoral <a name="doctoral"></a>
 ### Direction de thèses
 Olivier Crepel: Microscopie magnétique pour localisation de défaillance de circuits intégrés (Thèse soutenue en 2004) (co-direction Ph. Descamps 50/50). (doctorant embauché chez St Microelectronics)
 
