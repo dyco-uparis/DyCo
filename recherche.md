@@ -23,7 +23,7 @@ L'objet de ces travaux est de développer un cadre générique de travail permet
 L'approche thermodynamique nodale est développée au laboratoire dans le cadre de la thermodynmique à temps fini. On trouvera plus de détails sur [cette page](/FTT). Nous nous intéressons plus spécifiquement aux machines à conversion de l'énergie comme systèmes formel idéal. Nous décrivons cette machine comme la capacité à transformer de l'énergie diluée (par exemple la chaleur) en énergie concentrée (le travail) via un processus intrinsequement dissipatif.
 La question scientifiques est celle des points de fonctionnement réellement accessibles par la machine. En effet une machine n'est jamais directement en contact avec une ressource, par exemple les températures $$T_+$$ et $$T_-$$, mais via des résistances de couplages. Ces résistances ont pour effet de moduler la différence de température réellement accessible et de dépendre du point de fonctionnement. Ainsi, la machine apparait comme un système à la dynamique riche, pouvant même sous certaines conditions faire apparaitre des spontanément de oscillations.
 
-| ![imageclosedloop](/images/ClosedLoop8.jpg){: width="600px"}|
+| ![imageclosedloop](/images/ClosedLoop8.jpg){: width="300px"}|
 |:--:|
 | *Dépendance du gain de la rétroaction en fonction de la conductivité $$\omega_\kappa$$. Pour un gain nul, le système est attendu à osciller*|
 
