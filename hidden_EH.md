@@ -14,7 +14,7 @@ title: Publications
 
 <ol reversed>
 
-<li> Dikec, J., A. Olivier, C. Bobée, Y. D’Angelo, R. Catellier, P. David, F. Filaine, et al. « Hyphal Network Whole Field Imaging Allows for Accurate Estimation of Anastomosis Rates and Branching Dynamics of the Filamentous Fungus Podospora Anserina ». Scientific Reports 10, nᵒ 1 (21 février 2020): 1‑16. https://doi.org/10.1038/s41598-020-57808-y.
+<li> Dikec, J., A. Olivier, C. Bobée, Y. D’Angelo, R. Catellier, P. David, F. Filaine, et al. « Hyphal Network Whole Field Imaging Allows for Accurate Estimation of Anastomosis Rates and Branching Dynamics of the Filamentous Fungus Podospora Anserina ». Scientific Reports 10, nᵒ 1 (21 février 2020): 1‑16. https://doi.org/10.1038/s41598-020-57808-y. </li>
 
 <li> Ch. Goupil and É. Herbert Adapted or Adaptable: How to Manage Entropy Production ?  Entropy 2020, 22(1), 29; https://doi.org/10.3390/e22010029  </li>
 
