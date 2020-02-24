@@ -16,8 +16,11 @@ Contact *eric.herbet@univ-paris-diderot.fr*
     - [Croissance réseau fongique](#thalle)
     - [Impact des énergies de flux sur la production agricole](#poulets)
     - [Panache granulaire](#panache)
+- [Étudiants](#etudiants)
 
-## Présentation succinte <a name="presentation"></a>
+
+
+## Présentation succincte <a name="presentation"></a>
 
 J'ai rejoint l'université Paris Diderot en 2013 comme enseignant chercheur au sein du [LIED](http://www.lied-pieri.univ-paris-diderot.fr/), laboratoire qui vise à apporter des réponses interdisciplinaires à la question sociale majeure de la transition énergétique. Ma contribution est celle d'un physicien, environné de sciences humaines et de biologistes. On trouvera une présentation de nos activités de recherches actuelles [ici](#recherche).
 
@@ -25,6 +28,7 @@ J'ai rejoint l'université Paris Diderot en 2013 comme enseignant chercheur au s
 ### Dernières Publications <a name="publis"></a>
 On trouvera sur [cette page](/hidden_EH) la liste complète des publications
 
+1. Dikec, J., A. Olivier, C. Bobée, Y. D’Angelo, R. Catellier, P. David, F. Filaine, et al. « Hyphal Network Whole Field Imaging Allows for Accurate Estimation of Anastomosis Rates and Branching Dynamics of the Filamentous Fungus Podospora Anserina ». Scientific Reports 10, nᵒ 1 (21 février 2020): 1‑16. https://doi.org/10.1038/s41598-020-57808-y.
 1. Ch. Goupil and É. Herbert Adapted or Adaptable: How to Manage Entropy Production ?  Entropy 2020, 22(1), 29; https://doi.org/10.3390/e22010029
 1. Christophe Goupil, Henni Ouerdane, Eric Herbert, Clémence Goupil, and Yves D’Angelo.
 Thermodynamics of metabolic energy conversion under muscle load. New Journal of Physics,
@@ -111,9 +115,8 @@ Avec les biologistes de l'équipe [B2C](http://www.lied-pieri.univ-paris-diderot
 </center>
 
 > Publications reliées
-1. Hyphal network whole field imaging allows for accurate estimation of anastomosis rates and branching dynamics of the filamentous fungus Podospora anserina
-DOI : 10.1038/s41598-020-57808-y
-Sous presse
+1. Hyphal network whole field imaging allows for accurate estimation of anastomosis rates and branching dynamics of the filamentous fungus Podospora anserina. Scientific Reports 10, nᵒ 1 (21 février 2020): 1‑16. https://doi.org/10.1038/s41598-020-57808-y.
+
 
 ### Impact du remplacement des énergies de stock par des énergies de flux sur la production agricole <a name="poulets"></a>
 Avec [Petros Chatzimpiros](http://www.lied-pieri.univ-paris-diderot.fr/?emd_person=brouillon-auto-16). Les études d'impact concernant la transition énergétique s'attachent à dimensionner les parcs d'energie renouvelables nécessaires à l'approvisionnement énergétique de nos sociétés. Or les  énergies *fossiles* ont pour caractéristiques essentielles d'être des énergies de stock, disponibles à tout instant et pouvant répondre virtuellement à n'importe quel demande en adaptant le flux.
@@ -142,3 +145,10 @@ Yves D’Angelo. Buoyancy-driven destabilization of an immersed granular bed. Jo
 Fluid Mechanics, 843:778–809, May 2018.
 5. C. Morize, E. Herbert, and A. Sauret. Resuspension threshold of a granular bed by localized
 heating. Physical Review E, 96(3):032903, September 2017.
+
+
+
+## Étudiants <a name="etudiants"></a>
+
+Actuellement en thèse
+1. Clara Ledoux, sept. 2019, *Dynamique de croissance du champignon filamenteux P. anserina*
