@@ -3,39 +3,6 @@ layout: hidden_page
 title: MKIDS
 ---
 
+Les MKIDS sont des capteurs supraconducteurs, (Al ou Nb) dédiés à la détection de photons de basse énergie, par brisure de paires de Copper dont l’énergie de liaison est voisine de celle des photons recherchés. La mesure est basée sur le décalage fréquentiel d’un oscillateur LC dont l’inductance, appelée inductance cinétique, est fonction du gap des paires, mais aussi de la résistivité de la phase électronique dans l’état normal. Il est possible de modifier cette inductance, par un dépôt de métal (Au) sur la couche active, afin, par effet de proximité, de modifier la densité électronique localement. Ces travaux sont actuellement en cours en partenariat avec les laboratoires APC (Michel Piat), et GEPI- OBSPM (Faouzi Boussaha). Les premiers résultats sont positifs, et ont donné lieu à publication [1]. Une extension de ces travaux est en cours, afin d’envisager une structure JFET /Supra qui permettra de rendre ajustable la gamme de réponse spectrale du capteur par simple polarisation de champ. Une validation théorique a été obtenue et un brevet va être rédigé.
 
-Je veux une équation en ligne par exemple $$ \Delta E_c = \frac{1}{2}mv^2 $$ et une équation séparée 
-
-$$ \Delta E_c = \frac{1}{2}mv^2 $$
-
-
-
-Je veux une équation en ligne par exemple \( \Delta E_c = \frac{1}{2}mv^2 \) et une équation séparée 
-\[ \Delta E_c = \frac{1}{2}mv^2 \]
-
-Je veux une équation en ligne par exemple \\( \Delta E_c = \frac{1}{2}mv^2 \\) et une équation séparée 
-\\[ \Delta E_c = \frac{1}{2}mv^2 \\]
-
-
-$$
-\begin{align*}
-  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
-  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
-  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
-      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
-      \vdots & \ddots & \vdots \\
-      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
-    \end{array} \right)
-  \left( \begin{array}{c}
-      y_1 \\
-      \vdots \\
-      y_n
-    \end{array} \right)
-\end{align*}
-$$
-
-
-après on met une belle image
-
-![le titre !](/images/Image1.png){: width="600px"}
-
+[1] H. Jie, M. Salatino, A. Traini, C. Chaumont, F. Boussaha, C Goupil, M. Piat, Proximity-Coupled Al/Au Bilayer Kinetic Inductance Detectors, J Low Temp Phys (2020) doi:10.1007/s10909-019-02313-4
