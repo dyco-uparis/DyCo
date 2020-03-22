@@ -1,6 +1,7 @@
 ---
 layout: MKIDS
 ---
+This work has been developped by Maxime Massoudzadegan massoudzadegan.maxime@gmail.com
 
 ![imageclosedloop](/images/MKIDS.png)
 ### Contenu
