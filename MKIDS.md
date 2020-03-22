@@ -8,7 +8,7 @@ This work has been developped by Maxime Massoudzadegan (massoudzadegan.maxime@gm
 - [Introduction](#presentation)
 - [S-Matrix building](#building)
     - [The Bogolyubov-Gennes matrix](#Bogolyubov-Gennes)
-    - [The $N_{1}$, $N_{2}$, $S$ system](#Scattering)
+    - [The $$N_{1}$$, $N_{2}$, $$S$$ system](#Scattering)
 - [Calculation of wave functions in $N_{1}$ and $N_{2}$](#Wave)
     - [Energetic consideration](#Energy)    
 - [Scaterring matrix of the $N{1}$, $N_{2}$, $S$ system](#Scat2) 
@@ -24,10 +24,6 @@ In this document, we will describe the transport of loads, particularly in a sys
 The objective is to determine the scaterring matrix associated with the normal-superconductor interface in order to have access to measurable and usable quantities for technologies using this type of junction such as intensity and conductance.
 
 Attention: It is important to know that what we present in this document is valid only by considering a disruptive theory. Indeed, it has been shown, in a non-disruptive way, that if we take any state of the normal part (i. e. a vector in the Hilbertian space of the normal part) and any state of the superconducting part (i. e. a vector in the Hilbertian space of the superconducting part) and make the scalar product between them, we obtain zero. This means that the two spaces are not connected and that there is, a priori, no theoretical link between the normal and superconducting parts. This singularity is due to the fact that the phenomenon of superconductivity is due to a second-order phase transition; indeed, matter does not change state but the behaviour of electrons in superconducting matter is completely different when the material is in its normal state. It is in this context that disruptive considerations have been considered, in particular by considering a potential interface between the normal and superconducting parts to explain what we are experimentally observing in order to be able to draw results on normal-superconducting hybrid systems.
-
-\vfill
-\begin{center} \includegraphics[width=0.04\textwidth]{logos/finchap.png} \end{center}
-\vfill
 
 # S-Matrix building <a name="building"></a>
 
