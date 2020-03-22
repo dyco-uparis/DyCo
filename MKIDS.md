@@ -49,7 +49,8 @@ We are now going to determine the scaterring matrix of the metal-superconductor 
 
 Where $H_{0} = \frac{(\vec{p} + e\vec{A})^{2}}{2m} + V - E_{F}$ and $\Delta = \Delta_{0} \exp{(i \phi)}$. $H_{0}$ is the electron's Hamiltonian containing the electrostatic potential $V$ and the vector potential $\vec{A}$. In addition, the energy $\epsilon$ of the charge carriers are measured against the Fermi energy $E_{F}$. $\Delta$  is a running function that is zero in the normal part and is worth $\Delta_{0}\exp{(i\phi)}$ in the superconducting part. In addition, this energy represents the matching energy of the Cooper pairs in the superconducting part. The system we are studying is composed of a normal metal and a superconducting metal as shown in figure \ref{fig: Système métal normal-métal supraconducteur}. 
 
-\insererfigure{logos/figure1_syteme_metal_supra.pdf}{7cm}{Normal metal-superconducting metal system}{Système métal normal-métal supraconducteur}
+![imageclosedloop](/images/figure1_syteme_metal_supra.pdf)
+Normal metal-superconducting metal system}{Système métal normal-métal supraconducteur
 
 In the following section we will describe how the transport of charge carriers is carried out at the interface of the superconductor and the normal metal through the scaterring matrix associated with the interface.
 
