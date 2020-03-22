@@ -3,6 +3,12 @@ layout: MKIDS
 ---
 This work has been developped by Maxime Massoudzadegan (massoudzadegan.maxime@gmail.com), in collaboration with Michel Piat (APC, UMR 7164) and Faouzi Boussaha (GEPI, UMR 8111)
 
+Summary in French
+
+Les MKIDS sont des capteurs supraconducteurs, (Al ou Nb) dédiés à la détection de photons de basse énergie, par brisure de paires de Copper dont l’énergie de liaison est voisine de celle des photons recherchés. La mesure est basée sur le décalage fréquentiel d’un oscillateur LC dont l’inductance, appelée inductance cinétique, est fonction du gap des paires, mais aussi de la résistivité de la phase électronique dans l’état normal. Il est possible de modifier cette inductance, par un dépôt de métal (Au) sur la couche active, afin, par effet de proximité, de modifier la densité électronique localement. Ces travaux sont actuellement en cours en partenariat avec les laboratoires APC (Michel Piat), et GEPI- OBSPM (Faouzi Boussaha). Les premiers résultats sont positifs, et ont donné lieu à publication [1]. Une extension de ces travaux est en cours, afin d’envisager une structure JFET /Supra qui permettra de rendre ajustable la gamme de réponse spectrale du capteur par simple polarisation de champ. Une validation théorique a été obtenue et un brevet va être rédigé.
+
+[1] H. Jie, M. Salatino, A. Traini, C. Chaumont, F. Boussaha, C Goupil, M. Piat, Proximity-Coupled Al/Au Bilayer Kinetic Inductance Detectors, J Low Temp Phys (2020) doi:10.1007/s10909-019-02313-4
+
 ![imageclosedloop](/images/Supra3.jpg)
 ### Contents
 - [Introduction](#presentation)
@@ -21,7 +27,7 @@ This work has been developped by Maxime Massoudzadegan (massoudzadegan.maxime@gm
 Mesoscopic physics is a field of physics that describes systems whose dimensions range from quantum mechanics to classical mechanics. In this field, which is at the interface between quantum mechanics, electronics and thermodynamics, theories have been developed to explain the transport of charges in matter in systems with dimensions in the range of 100nm to 1000nm.
 In this document, we will describe the transport of loads, particularly in a system composed of a so-called normal metal and a so-called superconductive metal. Since our system consists of a superconductor, we need to expand our theoretical field to explain the superconductive part of our system with a theory known as BCS (Bardeen, Schriefer, Copper). Indeed, in a superconductor, electrons form pairs called Cooper pairs; a phenomenon explained by L. Cooper to explain the superconducting nature of matter. When the material becomes superconducting, a gap $\Delta$ opens and it is in this gap that Cooper's pairs live. The part of the device that will interest us is the interface between normal metal and superconducting metal. At the interface, a result of the BCS theory presents the behaviour of an incident electron at the normal-superconductor interface with a special reflection: Andreev's reflection. Indeed, when an electron from the normal part arrives with an energy lower than the superconductor gap $\Delta$ at the interface, it transmits a pair of Cooper in the superconductor part. De facto, by keeping the spin a hole is reflected in the normal part. This process is called Andreev's reflection.
 
-The objective is to determine the scaterring matrix associated with the normal-superconductor interface in order to have access to measurable and usable quantities for technologies using this type of junction such as intensity and conductance.
+The objective is to determine the scaterring matrix associated with the normal-superconductor interface in order to have access to measurable and usable quantities for technologies using this type of junction such as intensity and conductance.\_
 
 Attention: It is important to know that what we present in this document is valid only by considering a disruptive theory. Indeed, it has been shown, in a non-disruptive way, that if we take any state of the normal part (i. e. a vector in the Hilbertian space of the normal part) and any state of the superconducting part (i. e. a vector in the Hilbertian space of the superconducting part) and make the scalar product between them, we obtain zero. This means that the two spaces are not connected and that there is, a priori, no theoretical link between the normal and superconducting parts. This singularity is due to the fact that the phenomenon of superconductivity is due to a second-order phase transition; indeed, matter does not change state but the behaviour of electrons in superconducting matter is completely different when the material is in its normal state. It is in this context that disruptive considerations have been considered, in particular by considering a potential interface between the normal and superconducting parts to explain what we are experimentally observing in order to be able to draw results on normal-superconducting hybrid systems.
 
@@ -174,7 +180,8 @@ Before continuing the development of the matrix, we must ask ourselves in what e
 
 We can make two observations on these results. The first is that we can observe a phase shift of $-arccos(\frac{\epsilon}{\Delta_{0}})$. This shift is due to the fact that the wave function of the charge carrier arriving from the region $N_{2}$ enters the superconductor. The second observation is the positive or negative shift of $i\phi$: indeed, we have $i\phi$ when reflecting from a hole to an electron and $-i\phi$ when reflecting from an electron to a hole.
 
-\insererfigure{logos/figure3_RefAndreev.png}{5cm}{Energy diagram of an Andreev reflection}{RefAndreev}
+![imageclosedloop](/images/figure3_RefAndreev.png)
+Energy diagram of an Andreev reflection
 
 After having set up this energy environment, we can continue the development of the total scaterring matrix of our system and above all be able to make significant simplifications.
 
@@ -239,14 +246,7 @@ with
 
 We were able to determine the scaterring matrix of our system. The goal is now to use this matrix to build measurable quantities such as conductance and intensity. To do this, we must find the values of the components of the scaterring matrix as a function of $\epsilon$ and $\Delta_{0}$ to have access to measurable quantities.
 
-\vfill
-\begin{center} \includegraphics[width=0.04\textwidth]{logos/finchap.png} \end{center}
-\vfill
-
 \end{document}
 
 
 
-Les MKIDS sont des capteurs supraconducteurs, (Al ou Nb) dédiés à la détection de photons de basse énergie, par brisure de paires de Copper dont l’énergie de liaison est voisine de celle des photons recherchés. La mesure est basée sur le décalage fréquentiel d’un oscillateur LC dont l’inductance, appelée inductance cinétique, est fonction du gap des paires, mais aussi de la résistivité de la phase électronique dans l’état normal. Il est possible de modifier cette inductance, par un dépôt de métal (Au) sur la couche active, afin, par effet de proximité, de modifier la densité électronique localement. Ces travaux sont actuellement en cours en partenariat avec les laboratoires APC (Michel Piat), et GEPI- OBSPM (Faouzi Boussaha). Les premiers résultats sont positifs, et ont donné lieu à publication [1]. Une extension de ces travaux est en cours, afin d’envisager une structure JFET /Supra qui permettra de rendre ajustable la gamme de réponse spectrale du capteur par simple polarisation de champ. Une validation théorique a été obtenue et un brevet va être rédigé.
-
-[1] H. Jie, M. Salatino, A. Traini, C. Chaumont, F. Boussaha, C Goupil, M. Piat, Proximity-Coupled Al/Au Bilayer Kinetic Inductance Detectors, J Low Temp Phys (2020) doi:10.1007/s10909-019-02313-4
