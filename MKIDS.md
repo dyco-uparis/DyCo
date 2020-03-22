@@ -1,10 +1,21 @@
 ---
-layout: hidden_page
-title: MKIDS
+layout: MKIDS
 ---
-\section*{Introduction}
-\label{chap:Introduction}
-\addcontentsline{toc}{section}{Introduction}
+
+![imageclosedloop](/images/MKIDS.png)
+### Contenu
+- [Introduction](#presentation)
+- [S-Matrix building](#building)
+    - [The Bogolyubov-Gennes matrix](#Bogolyubov-Gennes)
+    - [The $N_{1}$, $N_{2}$, $S$ system](#Scattering)
+- [Calculation of wave functions in $N_{1}$ and $N_{2}$](#Wave)
+    - [Energetic consideration](#Energy)    
+- [Scaterring matrix of the $N{1}$, $N_{2}$, $S$ system](#Scat2) 
+    -[Preamble](#Prem)
+- [Energetic consideration](#Energy)
+-[Final scaterring matrix](#Final)
+
+# Introduction <a name="presentation"></a>
 
 Mesoscopic physics is a field of physics that describes systems whose dimensions range from quantum mechanics to classical mechanics. In this field, which is at the interface between quantum mechanics, electronics and thermodynamics, theories have been developed to explain the transport of charges in matter in systems with dimensions in the range of 100nm to 1000nm.
 In this document, we will describe the transport of loads, particularly in a system composed of a so-called normal metal and a so-called superconductive metal. Since our system consists of a superconductor, we need to expand our theoretical field to explain the superconductive part of our system with a theory known as BCS (Bardeen, Schriefer, Copper). Indeed, in a superconductor, electrons form pairs called Cooper pairs; a phenomenon explained by L. Cooper to explain the superconducting nature of matter. When the material becomes superconducting, a gap $\Delta$ opens and it is in this gap that Cooper's pairs live. The part of the device that will interest us is the interface between normal metal and superconducting metal. At the interface, a result of the BCS theory presents the behaviour of an incident electron at the normal-superconductor interface with a special reflection: Andreev's reflection. Indeed, when an electron from the normal part arrives with an energy lower than the superconductor gap $\Delta$ at the interface, it transmits a pair of Cooper in the superconductor part. De facto, by keeping the spin a hole is reflected in the normal part. This process is called Andreev's reflection.
@@ -17,17 +28,11 @@ Attention: It is important to know that what we present in this document is vali
 \begin{center} \includegraphics[width=0.04\textwidth]{logos/finchap.png} \end{center}
 \vfill
 
-\newpage
+# S-Matrix building <a name="building"></a>
 
-%--------------------CONSTRUCTION DE LA MATRICE S------------------------%
+## The Bogolyubov-Gennes matrix <a name="Bogolyubov-Gennes"></a>
 
-%\section{Construction de la S-Matrice}
-
-%Dans cette partie nous allons déterminer la matrice de scaterring de l'interface métal-supraconducteur. Nous allons pour cela utiliser la matrice de Bogolyubov-de Gennes pour aboutir, après des calcules algébrique sur la matrice de scaterring associé à l'interface normale-supraconducteur.
-
-\section{The Bogolyubov-Gennes matrix}
-
-In this document we will determine the scaterring matrix of the metal-superconductor interface. To do this, we will use the Bogolyubov-Gennes matrix to arrive, after algebraic calculations on the scaterring matrix associated with the normal-superconductive interface. Bogolyubov-de Gennes equations are equations that describe the behaviour of electrons and holes in normal and superconducting metals. They are in this form:
+We are now going to determine the scaterring matrix of the metal-superconductor interface. To do this, we will use the Bogolyubov-Gennes matrix to arrive, after algebraic calculations on the scaterring matrix associated with the normal-superconductive interface. Bogolyubov-de Gennes equations are equations that describe the behaviour of electrons and holes in normal and superconducting metals. They are in this form:
 
 \begin{equation} \label{eq: BdG}
     \begin{pmatrix}
@@ -51,7 +56,7 @@ Where $H_{0} = \frac{(\vec{p} + e\vec{A})^{2}}{2m} + V - E_{F}$ and $\Delta = \D
 
 In the following section we will describe how the transport of charge carriers is carried out at the interface of the superconductor and the normal metal through the scaterring matrix associated with the interface.
 
-\section{The $N_{1}$, $N_{2}$, $S$ system}
+## The $N_{1}$, $N_{2}$, $S$ system <a name="Scattering"></a>
 
 To construct the scaterring matrix, we must locate the scattering area in which we can calculate transmission, reflection and conductance coefficients. Since a scaterring matrix only makes sense in a diffusive system, the simplification we do is that we consider two parts in normal metal: a first part that is not in contact with the superconductor and a second part that is in contact with the superconductor and will therefore be affected by it (figure \ref{fig: modèle N1, N2, S}). The space between the two will therefore be the diffusive zone that will be described by the scaterring matrix. We can do this simplification of two regions in the normal part, within the limit where the average free path of the charge carriers in the superconductor is large compared to the coherence length $\xi$, which is the characteristic length of the variation in the density of the charge carriers superconductor.
 
@@ -61,7 +66,7 @@ In this document we consider a magnetic field $\vec{B}$ in the direction of $z$.
 
 We will first calculate the wave functions of charge carriers, i. e. electrons and holes, in normal parts 1 and 2.
 
-\section{Calculation of wave functions in $N_{1}$ and $N_{2}$}
+## Calculation of wave functions in $N_{1}$ and $N_{2}$ <a name="Wave"></a>
 
 In the previous section, we have set the physical conditions in each part of the system. This part being calulatory, only the results will be given: %montrer ces résultats dans un appendice plus tard%
 
@@ -107,9 +112,9 @@ For the two regions we have:
 
 In the following section we will use the wave function coefficients we found above to form the scaterring matrix associated with the normal-superconductor interface. 
 
-\section{Scaterring matrix of the $N{1}$, $N_{2}$, $S$ system}
+# Scaterring matrix of the $N{1}$, $N_{2}$, $S$ system <a name="Scat2"></a>
 
-\subsection{Preamble}
+## Preamble <a name="Prem"></a>
 
 First, let's identify the coefficients of the incoming and outgoing waves:
 
@@ -154,7 +159,7 @@ The equation of the scaterring matrix is presented as the equation \ref{eq: equa
     c_{out}=S_{N}c_{in} \ \text{où}\ S_{N}=\begin{pmatrix}S_{0}(\epsilon) & 0\\0 & S_{0}(-\epsilon)^{*}\end{pmatrix} \ \text{et où}\ S_{0}(\epsilon)=\begin{pmatrix}r_{11}(\epsilon) & t_{12}(\epsilon)\\t_{21}(\epsilon) & r_{22}(\epsilon)\end{pmatrix}
 \end{equation}
 
-\subsection{Energetic consideration}
+# Energetic consideration <a name="Energy"></a>
 
 Before continuing the development of the matrix, we must ask ourselves in what energy configuration we are in to have an Andreev reflection between the normal metal and the superconducting metal. It has been shown that Andreev's reflection takes place when $0<\epsilon<\Delta_{0}$.In addition, we are within the limit of $\Delta_{0}<<E_{F}$; this approximation is called Andreev's approximation. Under these conditions, there is no propagation mode in the superconductor (figure \ref{fig: RefAndreev}). We can define a scaterring sub-matrix in the region $N_{2}$: this scattering sub-matrix can be interpreted as the scaterring matrix of Andreev's reflection between the region $N_{2}$ and $S$. This sub-matrix links the vector ($c_{n,e}^{-}(N_{2})$,$c_{n,h}^{+}(N_{2})$) and the vector ($c_{n,e}^{+}(N_{2})$,$c_{n,h}^{-}(N_{2})$). This was possible by linking the wave functions of the $N_{2}$ region with the functions of the $S$ region. The following relationships are obtained:
 
@@ -175,7 +180,7 @@ We can make two observations on these results. The first is that we can observe 
 
 After having set up this energy environment, we can continue the development of the total scaterring matrix of our system and above all be able to make significant simplifications.
 
-\subsection{The final scaterring matrix}
+# Final scaterring matrix <a name="Final"></a>
 
 We have the following relationships: 
 \begin{equation} \label{eq: grand scaterring}
