@@ -58,7 +58,7 @@ In the following section we will describe how the transport of charge carriers i
 
 To construct the scaterring matrix, we must locate the scattering area in which we can calculate transmission, reflection and conductance coefficients. Since a scaterring matrix only makes sense in a diffusive system, the simplification we do is that we consider two parts in normal metal: a first part that is not in contact with the superconductor and a second part that is in contact with the superconductor and will therefore be affected by it (figure \ref{fig: modèle N1, N2, S}). The space between the two will therefore be the diffusive zone that will be described by the scaterring matrix. We can do this simplification of two regions in the normal part, within the limit where the average free path of the charge carriers in the superconductor is large compared to the coherence length $\xi$, which is the characteristic length of the variation in the density of the charge carriers superconductor.
 
-\insererfigure{logos/figure2_N1N2S.pdf}{4cm}{Système $N_{1}$, $N_{2}$, $S$}{modèle N1, N2, S}
+![imageclosedloop](/images/Interfaces.png)
 
 In this document we consider a magnetic field $\vec{B}$ in the direction of $z$. You can choose a gauge for the vector potential;  $\vec{A}=0$ in the part $N_{2}$ and $S$ and $A_{x}=A_{y}=0, A_{y}=A_{1}=constant$ in the part $N_{1}$. We also recall that $\Delta=0$ in the normal part.
 
