@@ -4,7 +4,7 @@ layout: MKIDS
 This work has been developped by Maxime Massoudzadegan (massoudzadegan.maxime@gmail.com), in collaboration with Michel Piat (APC, UMR 7164) and Faouzi Boussaha (GEPI, UMR 8111)
 
 ![imageclosedloop](/images/Supra3.jpg)
-### Contenu
+### Contents
 - [Introduction](#presentation)
 - [S-Matrix building](#building)
     - [The Bogolyubov-Gennes matrix](#Bogolyubov-Gennes)
