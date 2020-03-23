@@ -93,26 +93,18 @@ With these coefficients, we can now construct the two vectors that will be linke
 
 The equation of the scaterring matrix is presented as the equation \ref{eq: equation scaterring}. Note that the inverse diagonal of $$S_{N}$$ is zero. This is because in the normal part, electrons and holes are not coupled.
 
-    $$c_{out}=S_{N}c_{in} \ \text{où}\ S_{N}=\begin{pmatrix}S_{0}(\epsilon) & 0\\0 & S_{0}(-\epsilon)^{*}\end{pmatrix} \ \text{et où}\ S_{0}(\epsilon)=\begin{pmatrix}r_{11}(\epsilon) & t_{12}(\epsilon)\\t_{21}(\epsilon) & r_{22}(\epsilon)$$
+![imageclosedloop](/images/Matrix7.png)
 
 # Energetic consideration <a name="Energy"></a>
 
 Before continuing the development of the matrix, we must ask ourselves in what energy configuration we are in to have an Andreev reflection between the normal metal and the superconducting metal. It has been shown that Andreev's reflection takes place when $$0<\epsilon<\Delta_{0}$$.In addition, we are within the limit of $$\Delta_{0}<<E_{F}$$; this approximation is called Andreev's approximation. Under these conditions, there is no propagation mode in the superconductor. We can define a scaterring sub-matrix in the region $$N_{2}$$: this scattering sub-matrix can be interpreted as the scaterring matrix of Andreev's reflection between the region $$N_{2}$$ and $$S$$. This sub-matrix links the vector ($$c_{n,e}^{-}(N_{2})$$,$$c_{n,h}^{+}(N_{2})$$) and the vector ($$c_{n,e}^{+}(N_{2})$,$c_{n,h}^{-}(N_{2})$$). This was possible by linking the wave functions of the $$N_{2}$$ region with the functions of the $$S$$ region. The following relationships are obtained:
 
-\begin{equation} \label{eq: relation dans N2}
-    \left\{
-    \begin{array}{ll}
-        c_{n,e}^{-}(N_{2}) = \alpha \exp{(i\phi)}c_{n,h}^{-}(N_{2})\\
-        \\
-        c_{n,h}^{+}(N_{2}) = \alpha \exp{(-i\phi)}c_{n,e}^{+}(N_{2})\\
-  \end{array}
-\right.
-\ \text{où}\ \alpha = \exp{(-i\ arccos(\frac{\epsilon}{\Delta_{0}}))}
-\end{equation}
+![imageclosedloop](/images/Matrix8.png)
 
 We can make two observations on these results. The first is that we can observe a phase shift of $$-arccos(\frac{\epsilon}{\Delta_{0}})$$. This shift is due to the fact that the wave function of the charge carrier arriving from the region $$N_{2}$$ enters the superconductor. The second observation is the positive or negative shift of $$i\phi$$: indeed, we have $$i\phi$$ when reflecting from a hole to an electron and $$-i\phi$$ when reflecting from an electron to a hole.
 
 ![imageclosedloop](/images/figure3_RefAndreev.png)
+
 Energy diagram of an Andreev reflection
 
 After having set up this energy environment, we can continue the development of the total scaterring matrix of our system and above all be able to make significant simplifications.
@@ -120,65 +112,15 @@ After having set up this energy environment, we can continue the development of 
 # Final scaterring matrix <a name="Final"></a>
 
 We have the following relationships: 
-\begin{equation} \label{eq: grand scaterring}
-    \begin{pmatrix}
-        c_{n,e} ^{-}(N_{1}) \\ c_{n,e} ^{+}(N_{2}) \\ c_{n,h} ^{+}(N_{1}) \\ c_{n,h} ^{-}(N_{2})
-    \end{pmatrix}
-    =  \begin{pmatrix}
-        r_{11}(\epsilon) & t_{12}(\epsilon) & 0 & 0\\
-        t_{21}(\epsilon) & r_{22}(\epsilon) & 0 & 0\\
-        0 & 0 & r_{11}^{*}(-\epsilon) & t_{12}^{*}(-\epsilon)\\
-        0 & 0 & t_{21}^{*}(-\epsilon) & r_{22}^{*}(-\epsilon)\\
-    \end{pmatrix}
-    \begin{pmatrix}
-       c_{n,e} ^{+}(N_{1}) \\ c_{n,e} ^{-}(N_{2}) \\ c_{n,h} ^{-}(N_{1}) \\ c_{n,h} ^{+}(N_{2})
-    \end{pmatrix}
-\end{equation}
+
+![imageclosedloop](/images/Matrix9.png)
 
 According to the equations, we can replace $$c_{n,e}^{-}(N_{2})$ and $c_{n,h}^{+}(N_{2})$$ to obtain, after some algebraic calculations, a 4x4 final scaterring matrix:
 
-\begin{equation} \label{eq: petit scaterring}
-    \begin{pmatrix}
-        c_{n,e} ^{-}(N_{1}) \\ c_{n,h} ^{+}(N_{1})
-    \end{pmatrix}
-    =  \begin{pmatrix}
-        S_{ee}(\epsilon) & S_{eh}(\epsilon) \\
-        S_{he}(\epsilon) & S_{hh}(\epsilon) \\
-    \end{pmatrix}
-    \begin{pmatrix}
-       c_{n,e} ^{+}(N_{1}) \\ c_{n,h} ^{-}(N_{1})
-    \end{pmatrix}
-\end{equation}
+![imageclosedloop](/images/Matrix10.png)
+
 with
-\begin{equation} \label{eq: composantes scaterring final}
-    \left\{
-    \begin{array}{ll}
-        S_{ee}(\epsilon) = r_{11}(\epsilon)+\alpha^{2}t_{12}(\epsilon)r_{22}^{*}(-\epsilon)M_{e}t_{21}(\epsilon)\\
-        \\
-        S_{hh}(\epsilon) = r_{11}^{*}(-\epsilon)+\alpha^{2}t_{12}^{*}(-\epsilon)r_{22}(\epsilon)M_{h}t_{21}^{*}(-\epsilon)\\
-        \\
-        S_{eh}(\epsilon) = \alpha\exp{(i\phi)}t_{12}(\epsilon)M_{h}t_{21}^{*}(-\epsilon)\\
-        \\
-        S_{he}(\epsilon) = \alpha\exp{(-i\phi)}t_{12}^{*}(-\epsilon)M_{e}t_{21}(\epsilon)\\
-  \end{array}
-\right.
-\ \text{where}\ \left\{
-    \begin{array}{ll}
-        M_{e} = \frac{1}{1 - \alpha^{2}r_{22}(\epsilon)r_{22}^{*}(-\epsilon)}\\
-        \\
-        M_{h} = \frac{1}{1 - \alpha^{2}r_{22}^{*}(-\epsilon)r_{22}(\epsilon)}\\
-  \end{array}
-\right.
-\end{equation}
 
-
-\section*{Conclusion}
-\label{chap:Conclusion}
-\addcontentsline{toc}{section}{Conclusion}
-
-We were able to determine the scaterring matrix of our system. The goal is now to use this matrix to build measurable quantities such as conductance and intensity. To do this, we must find the values of the components of the scaterring matrix as a function of $\epsilon$ and $\Delta_{0}$ to have access to measurable quantities.
-
-\end{document}
-
+![imageclosedloop](/images/Matrix11.png)
 
 
