@@ -7,6 +7,7 @@ This work has been developped in collaboration Maxime Massoudzadegan (massoudzad
 
 
 ![imageclosedloop](/images/Supra3.jpg)
+
 ### Contents
 - [Summary in french](french)
 - [Introduction](#presentation)
