@@ -2,7 +2,7 @@
 layout: hidden_page 
 title: MKIDS
 ---
-This work has been developped by Maxime Massoudzadegan (massoudzadegan.maxime@gmail.com), in collaboration with Michel Piat (APC, UMR 7164) and Faouzi Boussaha (GEPI, UMR 8111)
+This work has been developped in collaboration Maxime Massoudzadegan (massoudzadegan.maxime@gmail.com), in collaboration with Michel Piat (APC, UMR 7164) and Faouzi Boussaha (GEPI, UMR 8111)
 
 
 
@@ -18,7 +18,7 @@ This work has been developped by Maxime Massoudzadegan (massoudzadegan.maxime@gm
 - [Scaterring matrix of the $$N_{1}$$, $$N_{2}$$, $$S$$ system](#Scat2) 
     -[Preamble](#Prem)
 - [Energetic consideration](#Energy)
--[Final scaterring matrix](#Final)
+- [Final scaterring matrix](#Final)
 
 
 
