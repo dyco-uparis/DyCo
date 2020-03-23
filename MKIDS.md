@@ -18,7 +18,7 @@ Les MKIDS sont des capteurs supraconducteurs, (Al ou Nb) dédiés à la détecti
     - [The $$N_{1}$$, $$N_{2}$$, $$S$$ system](#Scattering)
 - [Calculation of wave functions in $$N_{1}$$ and $$N_{2}$$](#Wave)
     - [Energetic consideration](#Energy)    
-- [Scaterring matrix of the $$N{1}$$, $$N_{2}$$, $$S$$ system](#Scat2) 
+- [Scaterring matrix of the $$N_{1}$$, $$N_{2}$$, $$S$$ system](#Scat2) 
     -[Preamble](#Prem)
 - [Energetic consideration](#Energy)
 -[Final scaterring matrix](#Final)
@@ -79,7 +79,7 @@ For the two regions we have:
 
 In the following section we will use the wave function coefficients we found above to form the scaterring matrix associated with the normal-superconductor interface. 
 
-# Scaterring matrix of the $$N{1}$$, $$N_{2}$$, $$S$$ system <a name="Scat2"></a>
+# Scaterring matrix of the $$N_{1}$$, $$N_{2}$$, $$S$$ system <a name="Scat2"></a>
 
 ## Preamble <a name="Prem"></a>
 
