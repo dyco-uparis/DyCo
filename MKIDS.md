@@ -1,5 +1,6 @@
 ---
-layout: MKIDS
+layout: hidden_page 
+title: MKIDS
 ---
 This work has been developped by Maxime Massoudzadegan (massoudzadegan.maxime@gmail.com), in collaboration with Michel Piat (APC, UMR 7164) and Faouzi Boussaha (GEPI, UMR 8111)
 
@@ -14,7 +15,7 @@ Les MKIDS sont des capteurs supraconducteurs, (Al ou Nb) dédiés à la détecti
 - [Introduction](#presentation)
 - [S-Matrix building](#building)
     - [The Bogolyubov-Gennes matrix](#Bogolyubov-Gennes)
-    - [The $$N_{1}$$, $N_{2}$, $$S$$ system](#Scattering)
+    - [The $$N_{1}$$, $$N_{2}$$, $$S$$ system](#Scattering)
 - [Calculation of wave functions in $N_{1}$ and $N_{2}$](#Wave)
     - [Energetic consideration](#Energy)    
 - [Scaterring matrix of the $N{1}$, $N_{2}$, $S$ system](#Scat2) 

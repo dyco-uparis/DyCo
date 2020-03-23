@@ -70,10 +70,10 @@ Ainsi, cette énergie peut être qualifiée de *potentiel* dans le sens où elle
 
 
 # Croissance réseau fongique  <a name="thalle"></a>
-Lien vers la page [dédiée](/fungus_growth.md)
+Lien vers la page [dédiée](/fungus_growth)
 
 
 # MKIDS  <a name="MKIDS"></a>
-Lien vers la page [dédiée](/MKIDS.md)
+Lien vers la page [dédiée](/MKIDS)
 
 
