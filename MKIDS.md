@@ -120,7 +120,7 @@ We have the following relationships:
 
 ![imageclosedloop](/images/Matrix9.png)
 
-According to the equations, we can replace $$c_{n,e}^{-}(N_{2})$ and $c_{n,h}^{+}(N_{2})$$ to obtain, after some algebraic calculations, a 4x4 final scaterring matrix:
+According to the equations, we can replace $$c_{n,e}^{-}(N_{2})$$ and $$c_{n,h}^{+}(N_{2})$$ to obtain, after some algebraic calculations, a 4x4 final scaterring matrix:
 
 ![imageclosedloop](/images/Matrix10.png)
 
