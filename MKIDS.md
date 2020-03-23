@@ -16,9 +16,9 @@ This work has been developped in collaboration Maxime Massoudzadegan (massoudzad
 - [Calculation of wave functions in $$N_{1}$$ and $$N_{2}$$](#Wave)
     - [Energetic consideration](#Energy)    
 - [Scaterring matrix of the $$N_{1}$$, $$N_{2}$$, $$S$$ system](#Scat2) 
-    -[Preamble](#Prem)
-- [Energetic consideration](#Energy)
-- [Final scaterring matrix](#Final)
+    - [Preamble](#Prem)
+    - [Energetic consideration](#Energy)
+    - [Final scaterring matrix](#Final)
 
 
 
