@@ -48,7 +48,7 @@ We are now going to determine the scaterring matrix of the metal-superconductor 
 Where $$H_{0} = \frac{(\vec{p} + e\vec{A})^{2}}{2m} + V - E_{F}$$ and $$\Delta = \Delta_{0} \exp{(i \phi)}$$. $$H_{0}$$ is the electron's Hamiltonian containing the electrostatic potential $$V$$ and the vector potential $$\vec{A}$$. In addition, the energy $$\epsilon$$ of the charge carriers are measured against the Fermi energy $$E_{F}$$. $$\Delta$$  is a running function that is zero in the normal part and is worth $$\Delta_{0}\exp{(i\phi)}$$ in the superconducting part. In addition, this energy represents the matching energy of the Cooper pairs in the superconducting part. The system we are studying is composed of a normal metal and a superconducting metal as shown in the figure. 
 
 ![imageclosedloop](/images/SupraMetal.jpg)
-Normal metal-superconducting metal system}{Système métal normal-métal supraconducteur
+Normal metal-superconducting metal system
 
 In the following section we will describe how the transport of charge carriers is carried out at the interface of the superconductor and the normal metal through the scaterring matrix associated with the interface.
 
@@ -58,7 +58,7 @@ To construct the scaterring matrix, we must locate the scattering area in which 
 
 ![imageclosedloop](/images/Interfaces.png)
 
-In this document we consider a magnetic field $\vec{B}$ in the direction of $z$. You can choose a gauge for the vector potential;  $$\vec{A}=0$$ in the part $$N_{2}$$ and $$S$$ and $$A_{x}=A_{y}=0, A_{y}=A_{1}=constant$$ in the part $$N_{1}$$. We also recall that $$\Delta=0$$ in the normal part.
+In this document we consider a magnetic field $$\vec{B}$$ in the direction of $$z$$. You can choose a gauge for the vector potential;  $$\vec{A}=0$$ in the part $$N_{2}$$ and $$S$$ and $$A_{x}=A_{y}=0, A_{y}=A_{1}=constant$$ in the part $$N_{1}$$. We also recall that $$\Delta=0$$ in the normal part.
 
 We will first calculate the wave functions of charge carriers, i. e. electrons and holes, in normal parts 1 and 2.
 
