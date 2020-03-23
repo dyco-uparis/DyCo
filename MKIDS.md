@@ -58,7 +58,7 @@ To construct the scaterring matrix, we must locate the scattering area in which 
 
 ![imageclosedloop](/images/Interfaces.png)
 
-In this document we consider a magnetic field $$\vec{B}$$ in the direction of $$z$$. You can choose a gauge for the vector potential;  $$\vec{A}=0$$ in the part $$N_{2}$$ and $$S$$ and $$A_{x}=A_{y}=0, A_{y}=A_{1}=constant$$ in the part $$N_{1}$$. We also recall that $$\Delta=0$$ in the normal part.
+In this document we consider a magnetic field $$\vec{B}$$ in the direction of $$z$$. You can choose a gauge for the vector potential;  $$\vec{A}=\vec{0}$$ in the part $$N_{2}$$ and $$S$$ and $$A_{x}=A_{y}=0, A_{y}=A_{1}=constant$$ in the part $$N_{1}$$. We also recall that $$\Delta=0$$ in the normal part.
 
 We will first calculate the wave functions of charge carriers, i. e. electrons and holes, in normal parts 1 and 2.
 
