@@ -68,13 +68,13 @@ In the previous section, we have set the physical conditions in each part of the
 
 ### The $$N_{2}$$ Region 
 
-In this part we have $$\Delta=0$$ and $$\vec{A}=0$$. We take the Bogolyubov-de Gennes equations and solve the differential equations to find a set of wave functions: a first part describing the electrons and another part describing the holes.
+In this part we have $$\Delta=0$$ and $$\vec{A}=\vec{0}$$. We take the Bogolyubov-de Gennes equations and solve the differential equations to find a set of wave functions: a first part describing the electrons and another part describing the holes.
 
 ![imageclosedloop](/images/Matrix2.png)
 
 ### The $$N_{1}$$ region
 
-In this part we have $$\Delta=0$$ and $$\vec{A}=A_{1}\vec{y}$$. Similarly, we take the Bogolyubov-de Gennes equations and solve the differential equations to find another set of wave functions: a first part describing the electrons and another part describing the holes.
+In this part we have $$\Delta=0$$ and $$\A=A_{1}\y$$. Similarly, we take the Bogolyubov-de Gennes equations and solve the differential equations to find another set of wave functions: a first part describing the electrons and another part describing the holes.
 
 ![imageclosedloop](/images/Matrix3.png)
 
