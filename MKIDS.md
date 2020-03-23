@@ -79,7 +79,7 @@ For the two regions we have:
 
 In the following section we will use the wave function coefficients we found above to form the scaterring matrix associated with the normal-superconductor interface. 
 
-# Scaterring matrix of the $N{1}$, $N_{2}$, $S$ system <a name="Scat2"></a>
+# Scaterring matrix of the $$N{1}$$, $$N_{2}$$, $$S$$ system <a name="Scat2"></a>
 
 ## Preamble <a name="Prem"></a>
 
