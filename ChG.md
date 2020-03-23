@@ -27,8 +27,6 @@ Nom d'usage : Goupil	Prénom : Christophe
 
 Situation familiale : marié, 5 enfants
 
-Adresse personnelle: 159 Boulevard Victor Hugo, 92110 Clichy
-
 Téléphone 06 10 03 03 50
 
 Professeur des Universités 1ère classe (C3)
