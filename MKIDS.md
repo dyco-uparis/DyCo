@@ -16,9 +16,9 @@ Les MKIDS sont des capteurs supraconducteurs, (Al ou Nb) dédiés à la détecti
 - [S-Matrix building](#building)
     - [The Bogolyubov-Gennes matrix](#Bogolyubov-Gennes)
     - [The $$N_{1}$$, $$N_{2}$$, $$S$$ system](#Scattering)
-- [Calculation of wave functions in $N_{1}$ and $N_{2}$](#Wave)
+- [Calculation of wave functions in $$N_{1}$$ and $$N_{2}$$](#Wave)
     - [Energetic consideration](#Energy)    
-- [Scaterring matrix of the $N{1}$, $N_{2}$, $S$ system](#Scat2) 
+- [Scaterring matrix of the $$N{1}$$, $$N_{2}$$, $$S$$ system](#Scat2) 
     -[Preamble](#Prem)
 - [Energetic consideration](#Energy)
 -[Final scaterring matrix](#Final)
@@ -26,7 +26,7 @@ Les MKIDS sont des capteurs supraconducteurs, (Al ou Nb) dédiés à la détecti
 # Introduction <a name="presentation"></a>
 
 Mesoscopic physics is a field of physics that describes systems whose dimensions range from quantum mechanics to classical mechanics. In this field, which is at the interface between quantum mechanics, electronics and thermodynamics, theories have been developed to explain the transport of charges in matter in systems with dimensions in the range of 100nm to 1000nm.
-In this document, we will describe the transport of loads, particularly in a system composed of a so-called normal metal and a so-called superconductive metal. Since our system consists of a superconductor, we need to expand our theoretical field to explain the superconductive part of our system with a theory known as BCS (Bardeen, Schriefer, Copper). Indeed, in a superconductor, electrons form pairs called Cooper pairs; a phenomenon explained by L. Cooper to explain the superconducting nature of matter. When the material becomes superconducting, a gap $\Delta$ opens and it is in this gap that Cooper's pairs live. The part of the device that will interest us is the interface between normal metal and superconducting metal. At the interface, a result of the BCS theory presents the behaviour of an incident electron at the normal-superconductor interface with a special reflection: Andreev's reflection. Indeed, when an electron from the normal part arrives with an energy lower than the superconductor gap $\Delta$ at the interface, it transmits a pair of Cooper in the superconductor part. De facto, by keeping the spin a hole is reflected in the normal part. This process is called Andreev's reflection.
+In this document, we will describe the transport of loads, particularly in a system composed of a so-called normal metal and a so-called superconductive metal. Since our system consists of a superconductor, we need to expand our theoretical field to explain the superconductive part of our system with a theory known as BCS (Bardeen, Schriefer, Copper). Indeed, in a superconductor, electrons form pairs called Cooper pairs; a phenomenon explained by L. Cooper to explain the superconducting nature of matter. When the material becomes superconducting, a gap $$\Delta$$ opens and it is in this gap that Cooper's pairs live. The part of the device that will interest us is the interface between normal metal and superconducting metal. At the interface, a result of the BCS theory presents the behaviour of an incident electron at the normal-superconductor interface with a special reflection: Andreev's reflection. Indeed, when an electron from the normal part arrives with an energy lower than the superconductor gap $$\Delta$$ at the interface, it transmits a pair of Cooper in the superconductor part. De facto, by keeping the spin a hole is reflected in the normal part. This process is called Andreev's reflection.
 
 The objective is to determine the scaterring matrix associated with the normal-superconductor interface in order to have access to measurable and usable quantities for technologies using this type of junction such as intensity and conductance.\_
 
@@ -54,30 +54,30 @@ We are now going to determine the scaterring matrix of the metal-superconductor 
     \end{pmatrix}
 \end{equation}
 
-Where $H_{0} = \frac{(\vec{p} + e\vec{A})^{2}}{2m} + V - E_{F}$ and $\Delta = \Delta_{0} \exp{(i \phi)}$. $H_{0}$ is the electron's Hamiltonian containing the electrostatic potential $V$ and the vector potential $\vec{A}$. In addition, the energy $\epsilon$ of the charge carriers are measured against the Fermi energy $E_{F}$. $\Delta$  is a running function that is zero in the normal part and is worth $\Delta_{0}\exp{(i\phi)}$ in the superconducting part. In addition, this energy represents the matching energy of the Cooper pairs in the superconducting part. The system we are studying is composed of a normal metal and a superconducting metal as shown in figure \ref{fig: Système métal normal-métal supraconducteur}. 
+Where $$H_{0} = \frac{(\vec{p} + e\vec{A})^{2}}{2m} + V - E_{F}$$ and $$\Delta = \Delta_{0} \exp{(i \phi)}$$. $$H_{0}$$ is the electron's Hamiltonian containing the electrostatic potential $$V$$ and the vector potential $$\vec{A}$$. In addition, the energy $$\epsilon$$ of the charge carriers are measured against the Fermi energy $$E_{F}$$. $$\Delta$$  is a running function that is zero in the normal part and is worth $$\Delta_{0}\exp{(i\phi)}$$ in the superconducting part. In addition, this energy represents the matching energy of the Cooper pairs in the superconducting part. The system we are studying is composed of a normal metal and a superconducting metal as shown in the figure. 
 
 ![imageclosedloop](/images/SupraMetal.jpg)
 Normal metal-superconducting metal system}{Système métal normal-métal supraconducteur
 
 In the following section we will describe how the transport of charge carriers is carried out at the interface of the superconductor and the normal metal through the scaterring matrix associated with the interface.
 
-## The $N_{1}$, $N_{2}$, $S$ system <a name="Scattering"></a>
+## The $$N_{1}$$, $$N_{2}$$, $$S$$ system <a name="Scattering"></a>
 
-To construct the scaterring matrix, we must locate the scattering area in which we can calculate transmission, reflection and conductance coefficients. Since a scaterring matrix only makes sense in a diffusive system, the simplification we do is that we consider two parts in normal metal: a first part that is not in contact with the superconductor and a second part that is in contact with the superconductor and will therefore be affected by it (figure \ref{fig: modèle N1, N2, S}). The space between the two will therefore be the diffusive zone that will be described by the scaterring matrix. We can do this simplification of two regions in the normal part, within the limit where the average free path of the charge carriers in the superconductor is large compared to the coherence length $\xi$, which is the characteristic length of the variation in the density of the charge carriers superconductor.
+To construct the scaterring matrix, we must locate the scattering area in which we can calculate transmission, reflection and conductance coefficients. Since a scaterring matrix only makes sense in a diffusive system, the simplification we do is that we consider two parts in normal metal: a first part that is not in contact with the superconductor and a second part that is in contact with the superconductor and will therefore be affected by it. The space between the two will therefore be the diffusive zone that will be described by the scaterring matrix. We can do this simplification of two regions in the normal part, within the limit where the average free path of the charge carriers in the superconductor is large compared to the coherence length $$\xi$$, which is the characteristic length of the variation in the density of the charge carriers superconductor.
 
 ![imageclosedloop](/images/Interfaces.png)
 
-In this document we consider a magnetic field $\vec{B}$ in the direction of $z$. You can choose a gauge for the vector potential;  $\vec{A}=0$ in the part $N_{2}$ and $S$ and $A_{x}=A_{y}=0, A_{y}=A_{1}=constant$ in the part $N_{1}$. We also recall that $\Delta=0$ in the normal part.
+In this document we consider a magnetic field $\vec{B}$ in the direction of $z$. You can choose a gauge for the vector potential;  $$\vec{A}=0$$ in the part $$N_{2}$$ and $$S$$ and $$A_{x}=A_{y}=0, A_{y}=A_{1}=constant$$ in the part $$N_{1}$$. We also recall that $$\Delta=0$$ in the normal part.
 
 We will first calculate the wave functions of charge carriers, i. e. electrons and holes, in normal parts 1 and 2.
 
-## Calculation of wave functions in $N_{1}$ and $N_{2}$ <a name="Wave"></a>
+## Calculation of wave functions in $$N_{1}$$ and $$N_{2}$$ <a name="Wave"></a>
 
-In the previous section, we have set the physical conditions in each part of the system. This part being calulatory, only the results will be given: %montrer ces résultats dans un appendice plus tard%
+In the previous section, we have set the physical conditions in each part of the system. This part being calulatory, only the results will be given:
 
-\underline{Region $N_{2}$:}
+### The $$N_{2}$$ Region 
 
-In this part we have $\Delta=0$ and $\vec{A}=0$. We take the Bogolyubov-de Gennes equations (\ref{eq: BdG}) and solve the differential equations to find a set of wave functions: a first part describing the electrons and another part describing the holes  (\ref{eq: resultats N2}).
+In this part we have $$\Delta=0$$ and $$\vec{A}=0$$. We take the Bogolyubov-de Gennes equations and solve the differential equations to find a set of wave functions: a first part describing the electrons and another part describing the holes.
 
 \begin{equation} \label{eq: resultats N2}
     \left\{
@@ -89,9 +89,9 @@ In this part we have $\Delta=0$ and $\vec{A}=0$. We take the Bogolyubov-de Genne
 \right.
 \end{equation}
 
-\underline{Region $N_{1}$:}
+### The $$N_{1}$$ region
 
-In this part we have $\Delta=0$ and $\vec{A}=A_{1}\vec{y}$. Similarly, we take the Bogolyubov-de Gennes equations (\ref{eq: BdG}) and solve the differential equations to find another set of wave functions: a first part describing the electrons and another part describing the holes (\ref{eq: resultats N1}).
+In this part we have $$\Delta=0$$ and $$\vec{A}=A_{1}\vec{y}$$. Similarly, we take the Bogolyubov-de Gennes equations and solve the differential equations to find another set of wave functions: a first part describing the electrons and another part describing the holes.
 
 \begin{equation} \label{eq: resultats N1}
     \left\{
@@ -158,15 +158,13 @@ With these coefficients, we can now construct the two vectors that will be linke
         c_{in}=\begin{pmatrix}  c_{n,e} ^{+}(N_{1}) \\ c_{n,e} ^{-}(N_{2}) \\ c_{n,h} ^{-}(N_{1}) \\ c_{n,h} ^{+}(N_{2}) \end{pmatrix} \ \text{et}\  c_{out}=\begin{pmatrix} c_{n,e} ^{-}(N_{1}) \\ c_{n,e} ^{+}(N_{2}) \\ c_{n,h} ^{+}(N_{1}) \\ c_{n,h} ^{-}(N_{2}) \end{pmatrix}
 \end{equation}
 
-The equation of the scaterring matrix is presented as the equation \ref{eq: equation scaterring}. Note that the inverse diagonal of $S_{N}$ is zero. This is because in the normal part, electrons and holes are not coupled.
+The equation of the scaterring matrix is presented as the equation \ref{eq: equation scaterring}. Note that the inverse diagonal of $$S_{N}$$ is zero. This is because in the normal part, electrons and holes are not coupled.
 
-\begin{equation} \label{eq: equation scaterring}
-    c_{out}=S_{N}c_{in} \ \text{où}\ S_{N}=\begin{pmatrix}S_{0}(\epsilon) & 0\\0 & S_{0}(-\epsilon)^{*}\end{pmatrix} \ \text{et où}\ S_{0}(\epsilon)=\begin{pmatrix}r_{11}(\epsilon) & t_{12}(\epsilon)\\t_{21}(\epsilon) & r_{22}(\epsilon)\end{pmatrix}
-\end{equation}
+    $$c_{out}=S_{N}c_{in} \ \text{où}\ S_{N}=\begin{pmatrix}S_{0}(\epsilon) & 0\\0 & S_{0}(-\epsilon)^{*}\end{pmatrix} \ \text{et où}\ S_{0}(\epsilon)=\begin{pmatrix}r_{11}(\epsilon) & t_{12}(\epsilon)\\t_{21}(\epsilon) & r_{22}(\epsilon)$$
 
 # Energetic consideration <a name="Energy"></a>
 
-Before continuing the development of the matrix, we must ask ourselves in what energy configuration we are in to have an Andreev reflection between the normal metal and the superconducting metal. It has been shown that Andreev's reflection takes place when $0<\epsilon<\Delta_{0}$.In addition, we are within the limit of $\Delta_{0}<<E_{F}$; this approximation is called Andreev's approximation. Under these conditions, there is no propagation mode in the superconductor (figure \ref{fig: RefAndreev}). We can define a scaterring sub-matrix in the region $N_{2}$: this scattering sub-matrix can be interpreted as the scaterring matrix of Andreev's reflection between the region $N_{2}$ and $S$. This sub-matrix links the vector ($c_{n,e}^{-}(N_{2})$,$c_{n,h}^{+}(N_{2})$) and the vector ($c_{n,e}^{+}(N_{2})$,$c_{n,h}^{-}(N_{2})$). This was possible by linking the wave functions of the $N_{2}$ region with the functions of the $S$ region. The following relationships are obtained:
+Before continuing the development of the matrix, we must ask ourselves in what energy configuration we are in to have an Andreev reflection between the normal metal and the superconducting metal. It has been shown that Andreev's reflection takes place when $$0<\epsilon<\Delta_{0}$$.In addition, we are within the limit of $$\Delta_{0}<<E_{F}$$; this approximation is called Andreev's approximation. Under these conditions, there is no propagation mode in the superconductor. We can define a scaterring sub-matrix in the region $$N_{2}$$: this scattering sub-matrix can be interpreted as the scaterring matrix of Andreev's reflection between the region $$N_{2}$$ and $$S$$. This sub-matrix links the vector ($$c_{n,e}^{-}(N_{2})$$,$$c_{n,h}^{+}(N_{2})$$) and the vector ($$c_{n,e}^{+}(N_{2})$,$c_{n,h}^{-}(N_{2})$$). This was possible by linking the wave functions of the $$N_{2}$$ region with the functions of the $$S$$ region. The following relationships are obtained:
 
 \begin{equation} \label{eq: relation dans N2}
     \left\{
@@ -179,7 +177,7 @@ Before continuing the development of the matrix, we must ask ourselves in what e
 \ \text{où}\ \alpha = \exp{(-i\ arccos(\frac{\epsilon}{\Delta_{0}}))}
 \end{equation}
 
-We can make two observations on these results. The first is that we can observe a phase shift of $-arccos(\frac{\epsilon}{\Delta_{0}})$. This shift is due to the fact that the wave function of the charge carrier arriving from the region $N_{2}$ enters the superconductor. The second observation is the positive or negative shift of $i\phi$: indeed, we have $i\phi$ when reflecting from a hole to an electron and $-i\phi$ when reflecting from an electron to a hole.
+We can make two observations on these results. The first is that we can observe a phase shift of $$-arccos(\frac{\epsilon}{\Delta_{0}})$$. This shift is due to the fact that the wave function of the charge carrier arriving from the region $$N_{2}$$ enters the superconductor. The second observation is the positive or negative shift of $$i\phi$$: indeed, we have $$i\phi$$ when reflecting from a hole to an electron and $$-i\phi$$ when reflecting from an electron to a hole.
 
 ![imageclosedloop](/images/figure3_RefAndreev.png)
 Energy diagram of an Andreev reflection
@@ -204,7 +202,7 @@ We have the following relationships:
     \end{pmatrix}
 \end{equation}
 
-According to the equations \ref{eq: relation dans N2}, we can replace $c_{n,e}^{-}(N_{2})$ and $c_{n,h}^{+}(N_{2})$ to obtain, after some algebraic calculations, a 4x4 final scaterring matrix:
+According to the equations, we can replace $$c_{n,e}^{-}(N_{2})$ and $c_{n,h}^{+}(N_{2})$$ to obtain, after some algebraic calculations, a 4x4 final scaterring matrix:
 
 \begin{equation} \label{eq: petit scaterring}
     \begin{pmatrix}
