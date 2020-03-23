@@ -8,7 +8,7 @@ This work has been developped by Maxime Massoudzadegan (massoudzadegan.maxime@gm
 
 ![imageclosedloop](/images/Supra3.jpg)
 ### Contents
-- [Summary in french ] (french)
+- [Summary in french](french)
 - [Introduction](#presentation)
 - [S-Matrix building](#building)
     - [The Bogolyubov-Gennes matrix](#Bogolyubov-Gennes)
