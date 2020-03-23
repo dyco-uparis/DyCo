@@ -38,21 +38,7 @@ Attention: It is important to know that what we present in this document is vali
 
 We are now going to determine the scaterring matrix of the metal-superconductor interface. To do this, we will use the Bogolyubov-Gennes matrix to arrive, after algebraic calculations on the scaterring matrix associated with the normal-superconductive interface. Bogolyubov-de Gennes equations are equations that describe the behaviour of electrons and holes in normal and superconducting metals. They are in this form:
 
-\begin{equation} \label{eq: BdG}
-    \begin{pmatrix}
-        H_{0}       & \Delta \\
-        -\Delta^{*} & -H_{0}^{*}
-    \end{pmatrix}
-    \begin{pmatrix}
-        u(x) \\
-        v(x)
-    \end{pmatrix}
-    = \epsilon
-    \begin{pmatrix}
-        u(x) \\
-        v(x)
-    \end{pmatrix}
-\end{equation}
+![imageclosedloop](/images/Matrix1.png)
 
 Where $$H_{0} = \frac{(\vec{p} + e\vec{A})^{2}}{2m} + V - E_{F}$$ and $$\Delta = \Delta_{0} \exp{(i \phi)}$$. $$H_{0}$$ is the electron's Hamiltonian containing the electrostatic potential $$V$$ and the vector potential $$\vec{A}$$. In addition, the energy $$\epsilon$$ of the charge carriers are measured against the Fermi energy $$E_{F}$$. $$\Delta$$  is a running function that is zero in the normal part and is worth $$\Delta_{0}\exp{(i\phi)}$$ in the superconducting part. In addition, this energy represents the matching energy of the Cooper pairs in the superconducting part. The system we are studying is composed of a normal metal and a superconducting metal as shown in the figure. 
 
@@ -79,41 +65,17 @@ In the previous section, we have set the physical conditions in each part of the
 
 In this part we have $$\Delta=0$$ and $$\vec{A}=0$$. We take the Bogolyubov-de Gennes equations and solve the differential equations to find a set of wave functions: a first part describing the electrons and another part describing the holes.
 
-\begin{equation} \label{eq: resultats N2}
-    \left\{
-    \begin{array}{ll}
-        \psi_{n,e} ^{\pm}(N_{2}) = \begin{pmatrix} 1 \\ 0 \end{pmatrix} (k_{n}^{e})^{-\frac{1}{2}}\phi_{n}(y,z)\exp{(\pm ik_{n}^{e}x)} : \text{électron}\\
-        \\
-        \psi_{n,h} ^{\pm}(N_{2}) = \begin{pmatrix} 0 \\ 1 \end{pmatrix} (k_{n}^{h})^{-\frac{1}{2}}\phi_{n}(y,z)\exp{(\pm ik_{n}^{h}x)} : \text{trou}\\
-  \end{array}
-\right.
-\end{equation}
+![imageclosedloop](/images/Matrix2.png)
 
 ### The $$N_{1}$$ region
 
 In this part we have $$\Delta=0$$ and $$\vec{A}=A_{1}\vec{y}$$. Similarly, we take the Bogolyubov-de Gennes equations and solve the differential equations to find another set of wave functions: a first part describing the electrons and another part describing the holes.
 
-\begin{equation} \label{eq: resultats N1}
-    \left\{
-    \begin{array}{ll}
-        \psi_{n,e} ^{\pm}(N_{1}) = \begin{pmatrix} 1 \\ 0 \end{pmatrix} (k_{n}^{e})^{-\frac{1}{2}}\phi_{n}(y,z)\exp{(\pm ik_{n}^{e}x - i\sigma_{e}(\frac{eA_{1}}{\hbar})y)} : \text{électron}\\
-        \\
-        \psi_{n,h} ^{\pm}(N_{1}) = \begin{pmatrix} 0 \\ 1 \end{pmatrix} (k_{n}^{h})^{-\frac{1}{2}}\phi_{n}(y,z)\exp{(\pm ik_{n}^{h}x - i\sigma_{h}(\frac{eA_{1}}{\hbar})y)} : \text{trou}\\
-  \end{array}
-\right.
-\end{equation}
+![imageclosedloop](/images/Matrix3.png)
 
 For the two regions we have:
 
-\begin{equation} \label{eq: k et sigma}
-    \left\{
-    \begin{array}{ll}
-        k_{n}^{e,h} = (\frac{2m}{h^{2}})^{\frac{1}{2}}(E_{F}-E_{n}+\sigma^{e,h}\epsilon)^{\frac{1}{2}}\\
-        \\
-        \sigma_{e} = 1\ \text{and}\ \sigma_{h} = -1\\
-  \end{array}
-\right.
-\end{equation}
+![imageclosedloop](/images/Matrix4.png)
 
 In the following section we will use the wave function coefficients we found above to form the scaterring matrix associated with the normal-superconductor interface. 
 
@@ -123,40 +85,11 @@ In the following section we will use the wave function coefficients we found abo
 
 First, let's identify the coefficients of the incoming and outgoing waves:
 
-\begin{equation} \label{eq: entrant sortant}
-\begin{array}{ll}
-    \text{In :}\left\{
-    \begin{array}{ll}
-        c_{n,e} ^{+}(N_{1}) = (k_{n}^{e})^{-\frac{1}{2}}\phi_{n}(y,z)\exp{(ik_{n}^{e}x - i\sigma_{e}(\frac{eA_{1}}{\hbar})y)} \\
-        \\
-        c_{n,h} ^{-}(N_{1}) = (k_{n}^{h})^{-\frac{1}{2}}\phi_{n}(y,z)\exp{(-ik_{n}^{h}x - i\sigma_{h}(\frac{eA_{1}}{\hbar})y)} \\
-        \\
-        c_{n,e} ^{-}(N_{2}) = (k_{n}^{e})^{-\frac{1}{2}}\phi_{n}(y,z)\exp{(-ik_{n}^{e}x)} \\
-        \\
-        c_{n,h} ^{+}(N_{2}) = (k_{n}^{h})^{-\frac{1}{2}}\phi_{n}(y,z)\exp{(ik_{n}^{h}x)} \\
-  \end{array}
-\right.
-\\
-\\
-\text{Out :}\left\{
-    \begin{array}{ll}
-        c_{n,e} ^{-}(N_{1}) = (k_{n}^{e})^{-\frac{1}{2}}\phi_{n}(y,z)\exp{(-ik_{n}^{e}x - i\sigma_{e}(\frac{eA_{1}}{\hbar})y)} \\
-        \\
-        c_{n,h} ^{+}(N_{1}) = (k_{n}^{h})^{-\frac{1}{2}}\phi_{n}(y,z)\exp{(ik_{n}^{h}x - i\sigma_{h}(\frac{eA_{1}}{\hbar})y)} \\
-        \\
-        c_{n,e} ^{+}(N_{2}) = (k_{n}^{e})^{-\frac{1}{2}}\phi_{n}(y,z)\exp{(ik_{n}^{e}x)} \\
-        \\
-        c_{n,h} ^{-}(N_{2}) = (k_{n}^{h})^{-\frac{1}{2}}\phi_{n}(y,z)\exp{(-ik_{n}^{h}x)} \\
-    \end{array}
-\right.
-\end{array}
-\end{equation}
+![imageclosedloop](/images/Matrix5.png)
 
 With these coefficients, we can now construct the two vectors that will be linked by the scaterring matrix:
 
-\begin{equation} \label{eq: cin cout}
-        c_{in}=\begin{pmatrix}  c_{n,e} ^{+}(N_{1}) \\ c_{n,e} ^{-}(N_{2}) \\ c_{n,h} ^{-}(N_{1}) \\ c_{n,h} ^{+}(N_{2}) \end{pmatrix} \ \text{et}\  c_{out}=\begin{pmatrix} c_{n,e} ^{-}(N_{1}) \\ c_{n,e} ^{+}(N_{2}) \\ c_{n,h} ^{+}(N_{1}) \\ c_{n,h} ^{-}(N_{2}) \end{pmatrix}
-\end{equation}
+![imageclosedloop](/images/Matrix6.png)
 
 The equation of the scaterring matrix is presented as the equation \ref{eq: equation scaterring}. Note that the inverse diagonal of $$S_{N}$$ is zero. This is because in the normal part, electrons and holes are not coupled.
 
