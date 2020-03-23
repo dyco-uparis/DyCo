@@ -6,7 +6,7 @@ This work has been developped in collaboration Maxime Massoudzadegan (massoudzad
 
 
 
-|![imageclosedloop](/images/Supra3.jpg){: width="600px"}|
+| ![imageclosedloop](/images/Supra3.jpg){: width="600px"} |
 ### Contents
 - [Summary in french](french)
 - [Introduction](#presentation)
