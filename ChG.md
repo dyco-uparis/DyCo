@@ -1140,27 +1140,45 @@ Aurélie Michot: Caractérisation de matériaux thermoélectriques hybrides pour
 ### Jury de thèse
 
 1)	30/10/2019 : Dmitry Smirnov. Innovative technological pathway for new commercial applications of Stirling cycle-based systems. Skolkovo Institute of Science and Technology. (Rapporteur)
+
 2)	21/11/2019 : Delphine Bonin :  Régulations cellulaires et métaboliques de l’halophyte Cakile maritima en réponse au sel. Université de Paris (Président)
+
 3)	04/11/2019 : Adrien Vassal : Etude d'un réseau cryogénique multi-clients pour SPIRAL2, sous la direction de Marek Lewitowicz – Université de Normandie (Président de Jury & Rapporteur)
+
 4)	29/06/2018 : Remy Osipian : Etude dynamique d'un système de stockage par chaleur latente liquide-solide : application au véhicule électrique, sous la direction de Laurent Royon et de Kamel Azzouz. - Sorbonne Paris Cité. (Président de Jury)
+
 5)	12/06/2018 : Salim Ferhat : Générateurs thermoélectriques imprimés sur substrats souples à base de matériaux hybrides pour des applications autour de la température ambiante, sous la direction de Bruno Lucas et de Bernard Ratier. – Limoges. (Président de Jury)
+
 6)	30/11/2017, Philippe Bruyerre. Dynamiques d'innovation technique et d'intégration socio-économique. : le cas de l'éolienne en Allemagne, au Danemark et en France. Sous la direction de Liliane Hilaire-Pérez - Paris, EHESS (Rapporteur)
+
 7)	10/11/2017 : Thomas Salez : Effets thermoélectriques dans des liquides complexes : liquides ioniques et Ferro fluides, sous la direction de Sawako Nakamae - Paris Sciences et Lettres.  (Président de Jury)
+
 8)	14/12/2016 : Malika Bella : Développement d'une approche multi-échelle de modélisation de dispositifs thermoélectriques : application à des systèmes de capteurs sans fils autonomes sur le corps humain, sous la direction de Pascal Boulet et de Sylvain Blayac. - Aix-Marseille. (Rapporteur)
+
 9)	24/11/2016 : Charlotte Bessis : Quantum interference and thermoelectric effects in molecular junctions, sous la direction de Philippe Lafarge et de Maria Luisa Della Rocca. - Sorbonne Paris Cité.  (Président de Jury)
+
 10)	08/10/2015 : Pierre Bénard: Analyse et amélioration d'une chambre de combustion centimétrique par simulations aux grandes échelles, sous la direction de Yves d’Angelo et de Vincent Moureau. - Rouen, INSA.  (Président de Jury)
+
 11)	26/11/2015 : Van Truong Tran : Propriétés électroniques et thermoélectriques des hétérostructures planaires de graphène et de nitrure de bore, sous la direction de Philippe Dollfus - Université Paris-Saclay (ComUE) (Rapporteur)
+
 12)	13/12/2013, Yann Apertet. Réflexions sur l’optimisation thermodynamique des générateurs thermoélectriques. Sous la direction de Philippe Lecoeur - Paris 11 (Examinateur)
+
 13)	19/04/2013 : Yeweon Kim : Etude numérique et expérimentale d'une pompe à chaleur thermoélectrique innovante basée sur une conception intégrée et la technique du jet impactant, sous la direction de Gilles Fraisse et de Julien Ramousse . – Grenoble (Rapporteur)
+
 14)	11/07/2012, Amory Papavero. Élaboration et caractérisation de composites hybrides thermoélectriques. Sous la direction de Jean-Claude Tédenac et de David-Jacques Cornu . - Montpellier 2. (Examinateur)
+
 15)	09/12/2011: Benjamin David : Amélioration de l'efficacité énergétique d'une solution innovante de chauffage basse température et de rafraîchissement, sous la direction de Lingai Luo et de Julien Ramousse. – Grenoble. (Rapporteur)
+
 16)	14/04/2011 : Qi Zhang : Récupération de micro-énergie renouvelable par couplage multiphysique des matériaux : applications aux bâtiments, sous la direction de Amen Agbossou, Daniel Guyomar et de Zhihua Feng. – Grenoble. (Rapporteur))
+
 17)	07/07/2011, Marianne Lossec : Systèmes multisources de récupération d'énergie dans l'environnement humain : modélisation et optimisation du dimensionnement. Sous la direction de Bernard Multon et de Abdel Hamid Ben Ahmed . - Cachan, Ecole normale supérieure (Examinateur)
 
 ### Jury HDR
 
 1)	HDR  Sawako Nakamae. Interacting magnetic nanoparticles: from superspin glass, Superferromagnetism to energy applications. SPEC, Saclay, 20 novembre 2013. (Rapporteur)
+
 2)	HDR  Michel Dubois. De l’interaction évolutive de la technique et de l’humain comme prérequis pour l’élaboration d’une théorie générale des processus évolutifs. Applications à l’appréhension des processus d’innovation. UTC, 28 Avril 2017. (Examinateur)
+
 3)	HDR Julien Ramousse. Modélisation phénoménologique et analyse thermodynamique des systèmes de conversion d’énergie. Université de Savoie, 13 décembre 2018. (Examinateur)
 
 
