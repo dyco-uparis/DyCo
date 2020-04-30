@@ -66,14 +66,14 @@ transformation, vers un produit ou vers un déchet.
 Le modèle \ed\ est structuré en feuillets de type stock et de type flux,
 reliés au module économique (Fig. \ref{Global). Son architecture globale est la suivante:
 
-![imageclosedloop](/images/Archiglobale.jpg
+![imageclosedloop](/images/Archiglobale.jpg)
 
 ##Structure d'un feuillet stock
 
 Les feuillets de type \textbf{stock sont destinés à la plupart des ressources,
 minières ou non, fossiles ou non, dont la quantité sur la planète est finie et de dispersion variable.
 
-![imageclosedloop](/images/FeuilleStock.jpg
+![imageclosedloop](/images/FeuilleStock.jpg)
 
 Sur un feuillet type (Fig. \ref{Stock) on distingue une zone haute qui contient la ressource en
 quantité $X_{H$ et en qualité $\Pi_{H$ ainsi qu'une zone de ressource usagée
