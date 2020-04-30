@@ -9,7 +9,7 @@ title: Thermodynamique et Économie
 - [Simuler avec EcoDyco ](#Simuler)
 - [Etude de cas élémentaire](#Etude)
 - [Conclusion](#Conclusion)
-- [Licence](#Licence)
+- [License](#License)
 - [Annexe A: Comment utiliser un autre modèle économique?](#AnnexeA)
 - [Annexe B: Equations gouvernants une feuille stock](#AnnexeB)
 - [Annexe C: Equations gouvernants un feuillet flux](#AnnexeC)
@@ -1370,7 +1370,7 @@ thermodynamique sans revendication d'être un modèle thermodynamique.
 Requêtes économiques satisfaites ou non selon la disponibilité des
 ressources physiques.
 
-# Conditions de licence <a name="License"></a>
+# License <a name="License"></a>
 
 Licence libre GPL.
 Plusieurs solutions sont possibles:
