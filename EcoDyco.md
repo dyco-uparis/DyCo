@@ -2,6 +2,25 @@
 layout: hidden_page
 title: Thermodynamique et Économie
 ---
+![imageclosedloop](/images/Christophe.png)
+### Contenu
+- [Présentation](#presentation)
+- [Recherche](#recherche)
+- [Pédagogie](#pedagogie)
+- [Synthèse de carrière](#synthese)
+- [Travaux](#travaux)
+    - [Brevets](#brevets)
+    - [Publications](#publications)
+    - [Conférences](#conferences)
+    - [Ouvrages](#ouvrages)
+    - [Séminaires](#seminaires)
+    - [Encadrement Doctoral](#doctoral)
+    - [Vidéos](#video)
+    
+ 
+# Présentation <a name="presentation"></a>
+
+## Repères biographiques <a name="bio"></a>
 
 
 \section{\ed: Un modèle économique dans un monde physique fini}
