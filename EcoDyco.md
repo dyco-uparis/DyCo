@@ -76,14 +76,14 @@ minières ou non, fossiles ou non, dont la quantité sur la planète est finie e
 ![imageclosedloop](/images/FeuilleStock.jpg)
 
 Sur un feuillet type (Fig. \ref{Stock) on distingue une zone haute qui contient la ressource en
-quantité $X_{H$ et en qualité $\Pi_{H$ ainsi qu'une zone de ressource usagée
-en quantité $X_{L$ et en qualité $\Pi_{L$. Les flux de ressources de
-$F_{HP$ et de déchets $F_{LP$ constituent avec le flux de production $G$
+quantité $$$$X_{H$$$$ et en qualité $$$$\Pi_{H$$$$ ainsi qu'une zone de ressource usagée
+en quantité $$$$X_{L$$$$ et en qualité $$$$\Pi_{L$$$$. Les flux de ressources de
+$$$$F_{HP$$$$ et de déchets $$$$F_{LP$$$$ constituent avec le flux de production $$$$G$$$$
 l'ensemble des flux de la ressource dans sa mise en oeuvre pour la production.
 La quantité de ressource mise en oeuvre de façon excédentaire constitue un
-stock $X_{S$. Le recyclage peut être naturel $F_{NR,$ ou forcé, $F_{R,$
+stock $$X_{S$$. Le recyclage peut être naturel $$F_{NR,$$ ou forcé, $$F_{R,$$
 selon des lois spécifiques. On nomme différence des potentiels la grandeur
-$\Delta\Pi=\Pi_{H-\Pi_{L$.
+$$\Delta\Pi=\Pi_{H-\Pi_{L$$.
 
 ##Paramètre de feuillet
 
@@ -119,61 +119,61 @@ de la ressource)~:\textit{\ recyclingEnergyFlux : 1
 
 La description et l'utilisation de ces paramètres est décrite en détail
 dans les annexes de ce document. Une attention particulière est cependant
-portée sur $R_{P$
+portée sur $$R_{P$$
 
-##Résistance de dissipation: R$_{P$
+##Résistance de dissipation: R$$_{P$$
 
 La résistance de dissipation est un terme qui intervient, via l'intensité de
-production, sous la forme $R_{PI^{2$. Ce terme indique la fraction de la
+production, sous la forme $$R_{PI^{2$$. Ce terme indique la fraction de la
 ressource perdue, qui n'est pas utilisée pour la production de bien de consommation
-alors même que la ressource a été prélevée à la planète. $R_{P$
+alors même que la ressource a été prélevée à la planète. $$R_{P$$
 conduit à limiter la capacité d'un outil de production qui ne peut
 fonctionner sous intensité élevée. A un outil de production performant est
-associé une valeur faible pour $R_{P$. En tant que signifiant de l'outil de
-production $R_{P$ est donc directement lié au capital. Il s'en suit que
-$R_{P$ augmente naturellement au cours du temps sous l'effet de dégradation
+associé une valeur faible pour $$R_{P$$. En tant que signifiant de l'outil de
+production $$R_{P$$ est donc directement lié au capital. Il s'en suit que
+$$R_{P$$ augmente naturellement au cours du temps sous l'effet de dégradation
 du capital. Pour la même raison, les efforts d'investissement conduisent à
-réduire $R_{P$. Il en va de même du progrès technique qui se traduit par
-une baisse brutale de $R_{P$ sous l'effet de la mise en oeuvre de ce
+réduire $$R_{P$$. Il en va de même du progrès technique qui se traduit par
+une baisse brutale de $$R_{P$$ sous l'effet de la mise en oeuvre de ce
 progrès. Enfin, à progrès technique constant, la multiplication de
 site de production correspond à la mise en parallèle de plusieurs
-résistances $R_{P$ , ce qui conduit à réduire la résistance globale du
+résistances $$R_{P$$ , ce qui conduit à réduire la résistance globale du
 même facteur, permettant ainsi de travailler à intensité supérieure
-puisque répartie sur les sites de production. Si une forte valeur de $R_{P$
+puisque répartie sur les sites de production. Si une forte valeur de $$R_{P$$
 traduit un outil de production incapable de fonctionner dans une économie
 à forte intensité de production, il est clair qu'une faible valeur de
-$R_{P$ n'est pas nécessairement une situation enviable au niveau écologique,
+$$R_{P$$ n'est pas nécessairement une situation enviable au niveau écologique,
 au sens à la très grande capacité de l'outil de production est aussi
 un outil de prélèvement accru et massif de la ressource. La finitude
 associée au feuillet conduit alors à un pincement de production, sous
 l'effet de la raréfaction accélérée de la ressource.
 
-On peut attribuer quatre effets principaux à la présence de $R_{P$:
+On peut attribuer quatre effets principaux à la présence de $$R_{P$$:
 
 
- Dégradation du capital qui se traduit à une augmentation de $R_{P$
+ Dégradation du capital qui se traduit à une augmentation de $$R_{P$$
 avec les conséquences qui s'en suivent sur la qualité d'exploitation de la ressource.
 
- Effet de l'innovation qui se traduit à une baisse de $R_{P$ avec
+ Effet de l'innovation qui se traduit à une baisse de $$R_{P$$ avec
 les conséquences qui s'en suivent sur la quantité de prélèvement accrue de
 la ressource.
 
  Augmentation de la capacité de production, à progrès constant,
-qui se traduit à une baisse de $R_{P$ global avec les conséquences qui
+qui se traduit à une baisse de $$R_{P$$ global avec les conséquences qui
 s'en suivent sur la quantité de prélèvement accrue de la ressource.
 
- Effet de l'investissement qui se traduit à une baisse de $R_{P$
+ Effet de l'investissement qui se traduit à une baisse de $$R_{P$$
 avec les conséquences qui s'en suivent sur la quantité de prélèvement
 accrue de la ressource.
 
 
-On notera aussi que quelle que soit la valeur de $R_{P$, il est observé une
+On notera aussi que quelle que soit la valeur de $$R_{P$$, il est observé une
 baisse des rendements de production pour des intensités de production au
-delà d'un certain seuil. En ce sens, $R_{P$ contribue au caractère
+delà d'un certain seuil. En ce sens, $$R_{P$$ contribue au caractère
 Ricardien de l'apparition de rendements décroissants. \ Il importe de noter
 que la limitation des rendements trouve aussi son origine dans le mécanisme de
 raréfaction de la ressource qui est mis en évidence par la baisse de la
-différence de potentiel $\Delta\Pi$. Cet effet de pincement conduit à mécaniquement réduire la production \footnote{La question de la
+différence de potentiel $$\Delta\Pi$$. Cet effet de pincement conduit à mécaniquement réduire la production \footnote{La question de la
 capacité d'une croissance indéfinie trouve donc là ses principaux ingrédients,
 à savoir:
 \par
@@ -184,8 +184,8 @@ delà d'un certain seuil.
  La baisse de la production et des en présence de pincement de la
 disponibilité de la ressource. est présent au c\oe ur du mécanisme de chacun
 des feuillets.\ Il apparaît donc que le flux d'extraction des ressources
-dépend à la fois des capacités de production via $R_{P$ installées et de la
-différence de potentiel $\Delta\Pi$.
+dépend à la fois des capacités de production via $$R_{P$$ installées et de la
+différence de potentiel $$\Delta\Pi$$.
 
 .
 
@@ -195,7 +195,7 @@ Les feuilles de type flux sont destinées aux ressources qui sont disponible
 sur la planète sous la forme d'un flux (Fig. \ref{Flux). La plus usuelle étant
 naturellement l'énergie solaire.
 
-![imageclosedloop](/images/FeuilleFlux.jpg
+![imageclosedloop](/images/FeuilleFlux.jpg)
 
 ##Paramètre de feuillet flux
 
@@ -223,7 +223,7 @@ dont la liste est donnée ci-dessous (Les valeurs sont données à titre d'exemp
 Le noyau physique est le lieu de la réalisation des biens manufacturés. Le
 schéma de principe du fonctionnement de cette zone est donné dans la figure ci-dessous (Fig. \ref{Noyau).
 
-![imageclosedloop](/images/NoyauCentral.jpg
+![imageclosedloop](/images/NoyauCentral.jpg)
 
 Les "recettes" de fabrication des biens manufacturés sont indiquées dans la
 feuille \textit{world.txt. Le programme principal effectue automatiquement la
@@ -336,21 +336,21 @@ lorsque le modèle a été initialisé.
 
 L'exemple ci-dessous illustre la paramétrisation dans le cas d'un modèle Goodwin (Fig. \ref{Goodwin).
 
-![imageclosedloop](/images/Goodwin-txt.jpg
+![imageclosedloop](/images/Goodwin-txt.jpg)
 
 \begin{itemize
- $phi0$ et $phi1$ sont les paramètres de la courbe de Philipps
+ $$phi0$$ et $$phi1$$ sont les paramètres de la courbe de Philipps
 
- $alpha$ est le taux de croissance de la productivité du travail
+ $$alpha$$ est le taux de croissance de la productivité du travail
 
- $q$ est le taux de croissance de la population
+ $$q$$ est le taux de croissance de la population
 
- $P_{N$ est la valeur maximale de la population (le taux de croissance
-réel de la population N est $q\ast(1-N/P_{N))$
+ $$P_{N$$ est la valeur maximale de la population (le taux de croissance
+réel de la population N est $$q\ast(1-N/P_{N))$$
 
- $nu$ est la productivité du capital
+ $$nu$$ est la productivité du capital
 
- $omega0,lambda0$ et $N_{0$ sont les valeurs initiales du wageshare,
+ $$omega0,lambda0$$ et $$N_{0$$ sont les valeurs initiales du wageshare,
 employment rate et de la population
 \end{itemize
 
@@ -378,7 +378,7 @@ basée sur
 \end{itemize
 
 
-![imageclosedloop](/images/Parametrisation.jpg
+![imageclosedloop](/images/Parametrisation.jpg)
 
 
 Dans le fichier principal \textit{main.py, on effectue 
@@ -391,12 +391,12 @@ Dans le fichier principal \textit{main.py, on effectue
  le choix du pas de temps et de la durée de la simulation
 
 
-![imageclosedloop](/images/Parametrisation2.jpg
+![imageclosedloop](/images/Parametrisation2.jpg)
 
 Dans le fichier du modèle économique on spécifie ses paramètres. (ici \textit{Solow.txt) (Fig. \ref{Param2).
 
 
-![imageclosedloop](/images/Parametrisation3.jpg
+![imageclosedloop](/images/Parametrisation3.jpg)
 
 ##Résultat
 
@@ -404,10 +404,10 @@ Le lancement de la simulation via le module \textit{main.py conduit au résultat
 suivant pour la production et l'énergie(Fig. \ref{Simulresult) (Fig. \ref{SimulresultMat):
 
 
-![imageclosedloop](/images/ResultatSimul.jpg
+![imageclosedloop](/images/ResultatSimul.jpg)
 
 
-![imageclosedloop](/images/ResultatSimulE.jpg
+![imageclosedloop](/images/ResultatSimulE.jpg)
 
 
 Toutes les informations relatives à chacun des feuillets étant
@@ -415,7 +415,7 @@ enregistrées, il est possible de suivre les paramètres à volonté, par
 exemple ici pour le pétrole (Fig. \ref{petrol):
 
 
-![imageclosedloop](/images/ResultatSimulPet.jpg
+![imageclosedloop](/images/ResultatSimulPet.jpg)
 
 \newpage
 
@@ -444,7 +444,7 @@ createEcoSphere de votre fichier EcoModel.py (ici Goodwin.py)
  Ligne 42: De même, vérifier les arguments pris par la fonction ecoSphere.newProdRequest()
 \end{itemize
 
-![imageclosedloop](/images/Main-py.jpg
+![imageclosedloop](/images/Main-py.jpg)
 
 ##Créer un nouveau modeles éco
 
@@ -479,7 +479,7 @@ Un exemple de modèle économique (trivial) respectant cette structure est
 donné ci-dessous (ecoVide.py).\newline Le rôle des fonctions citées ci-dessus
 est également détaillé
 
-![imageclosedloop](/images/EcoVide-py.jpg
+![imageclosedloop](/images/EcoVide-py.jpg)
 
 # Annexe B: Equations gouvernants une feuille stock <a name="AnnexeB"></a> 
 
@@ -501,7 +501,7 @@ ressource, un \textit{stock pour la fraction de la ressource en attente de
 transformation ultérieure, et un \textit{réservoir bas pour la fraction
 usagée de la ressource.
 
-On note $X_{H,X_{S$ et $X_{L$ les quantités correspondantes, et $X_{T$ la
+On note $$X_{H,X_{S$$ et $$X_{L$$ les quantités correspondantes, et $$X_{T$$ la
 quantité totale de ressource.
 
 Ainsi, on a a chaque instant :%
@@ -520,16 +520,16 @@ ressources disponibles extraites est immédiatement transformée en déchets. Ce
 processus est analogue à la production de travail par un moteur thermique
 : on produit, a partir de la différence de température entre deux thermostats,
 une certaine quantité de travail utile W, tandis qu'une part de l'énergie
-provenant de la source chaude $Q_{C$ est dissipée sous forme de chaleur
-$Q_{F$.
+provenant de la source chaude $$Q_{C$$ est dissipée sous forme de chaleur
+$$Q_{F$$.
 
-![imageclosedloop](/images/Carnot.jpg
+![imageclosedloop](/images/Carnot.jpg)
 
 Ici, la source chaude devient le réservoir de ressource "~disponible~", la
 source froide le réservoir de ressource "~usagée~", et le travail produit est stocké.
 
-On note $F_{HP$ le flux provenant du réservoir haut, $F_{LP$ le flux en
-direction du réservoir bas, et $G$ le flux de ressources en direction du
+On note $$F_{HP$$ le flux provenant du réservoir haut, $$F_{LP$$ le flux en
+direction du réservoir bas, et $$G$$ le flux de ressources en direction du
 stock. Ainsi,%
 
 \[
@@ -537,14 +537,14 @@ G=F_{HP-F_{LP%
 \]
 
 
-Les ressources dans le stock $X_{S$ sont ensuite transformées en bien final.
-Apres utilisation, la ressource devient déchet. On note $G_{USED$ ce flux
+Les ressources dans le stock $$X_{S$$ sont ensuite transformées en bien final.
+Apres utilisation, la ressource devient déchet. On note $$G_{USED$$ ce flux
 entre le stock et le réservoir bas.
 
 L'ensemble de ces flux définit la zone de production. Une unité de ressource
 usagée peut parfois etre recyclée. Ce recyclage peut etre naturel, ou la
-conséquence d'une activité humaine. On note $F_{NR$ le flux de recyclage
-naturel, et $F_{R$ le flux de recyclage humain.
+conséquence d'une activité humaine. On note $$F_{NR$$ le flux de recyclage
+naturel, et $$F_{R$$ le flux de recyclage humain.
 
 ##Zone de production
 
@@ -559,9 +559,9 @@ s'est dégradée. La notion de qualité est donc essentielle dans le processus
 d'extraction. La thermodynamique établit bien cette distinction entre quantité
 et qualité. On introduit donc ici une notion de thermodynamique, le
 \textit{potentiel. C'est une variable intensive. Les ressources dans le
-réservoir haut sont a un certain niveau de potentiel, $\Pi_{H$. $\Pi_{H$
+réservoir haut sont a un certain niveau de potentiel, $$\Pi_{H$$. $$\Pi_{H$$
 diminue au fur et a mesure de l'extraction de la ressource du stock haut.
-$\Pi_{H$ est donc une fonction croissante de $X_{H$.
+$$\Pi_{H$$ est donc une fonction croissante de $$X_{H$$.
 
 On a~:%
 \[
@@ -575,7 +575,7 @@ F_{HP=\Pi_{HI_{P%
 
 Les déchets dans le réservoir bas sont une pollution, qui a une rétroaction
 négative sur la production. Cette rétroaction se manifeste par l'augmentation
-du potentiel du réservoir bas, $\Pi_{L$.
+du potentiel du réservoir bas, $$\Pi_{L$$.
 
 On a~:\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
 \begin{align*
@@ -584,39 +584,39 @@ On a~:\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
 \end{align*
 
 
-Le choix des fonctions $f_{1$et $f_{2$est important si l'on souhaite obtenir
+Le choix des fonctions $$f_{1$$et $$f_{2$$est important si l'on souhaite obtenir
 des résultats quantitatifs avec le modèles. Si l'on ne souhaite que des
 résultats qualitatifs, on peut se contenter de décrire la forme que devraient
 avoir ces fonctions (croissante ou décroissante, concave ou convexe,
-etc...)$_{.$ Dans la suite, on prendra pour $f_{1$ une fonction croissante
-et convexe, telle que $f_{1(X_{H=0)=0,5$ et $f_{1(X_{H=X_{T)=1$. On
-prendra pour $f_{2$ une fonction croissante et concave, telle que
-$f_{1(X_{L=0)=0etf_{1(X_{L=X_{T)=0,5$.
+etc...)$$_{.$$ Dans la suite, on prendra pour $$f_{1$$ une fonction croissante
+et convexe, telle que $$f_{1(X_{H=0)=0,5$$ et $$f_{1(X_{H=X_{T)=1$$. On
+prendra pour $$f_{2$$ une fonction croissante et concave, telle que
+$$f_{1(X_{L=0)=0etf_{1(X_{L=X_{T)=0,5$$.
 
-![imageclosedloop](/images/Potentiels.jpg
+![imageclosedloop](/images/Potentiels.jpg)
 
-Lorsque toute la ressource est dans le réservoir haut, $\Pi_{H=1$ et $\Pi
-_{L=0$. La \textit{différence de potentiel $\Delta\Pi$ est maximale. Lorsque
-toute la ressource est dans le réservoir bas, $\Pi_{H=\Pi_{L=0,5$. La
+Lorsque toute la ressource est dans le réservoir haut, $$\Pi_{H=1$$ et $$\Pi
+_{L=0$$. La \textit{différence de potentiel $$\Delta\Pi$$ est maximale. Lorsque
+toute la ressource est dans le réservoir bas, $$\Pi_{H=\Pi_{L=0,5$$. La
 différence de potentiel est nulle, et la production est impossible. L'activité
 économique sans recyclage entraîne le passage de ressources entre le réservoir
-haut et le réservoir bas, donc une diminution de $\Delta\Pi$. Autrement dit,
+haut et le réservoir bas, donc une diminution de $$\Delta\Pi$$. Autrement dit,
 l'activité économique sans recyclage entraîne une diminution de la capacité
 ultérieure à produire.
 
 Finalement, on a introduit des variables extensives pour décrire la quantité
-$(X_{H,X_{L,X_{S,X_{T)$, et des variables intensives pour décrire la
-qualité de la ressource $(\Pi_{H,\Pi_{L)$
+$$(X_{H,X_{L,X_{S,X_{T)$$, et des variables intensives pour décrire la
+qualité de la ressource $$(\Pi_{H,\Pi_{L)$$
 
 Le temps joue un rôle dans le processus d'extraction de la ressource. Plus
 précisément, produire a une \textit{intensité tres élevée n'est pas
 équivalent a produire a faible \textit{intensité. A faible intensité, le
-rendement du processus est meilleur, mais le flux produit $G$ est moins
-important. A intensité élevée, $G$ est plus élevé mais le rendement est dégradé.
+rendement du processus est meilleur, mais le flux produit $$G$$ est moins
+important. A intensité élevée, $$G$$ est plus élevé mais le rendement est dégradé.
 
-On introduit donc une \textit{résistance $R_{P$. On a alors un terme de
-friction $R_{PI_{P^{2$, et $F_{LP$
-devient~:$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ $%
+On introduit donc une \textit{résistance $$R_{P$$. On a alors un terme de
+friction $$R_{PI_{P^{2$$, et $$F_{LP$$
+devient~:$$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ $$%
 \[
 F_{LP=\Pi_{LI_{P+R_{PI_{P^{2%
 \]
@@ -631,23 +631,23 @@ G  &  =F_{HP-F_{LP=\Delta\Pi I_{P+R_{PI_{P^{2%
 \ \ \ \ \ \ \ \ 
 
 Le flux extrait G est donc fonction de la différence de potentiels, de
-l'intensité de production, et de la résistance. Supposons $\Delta\Pi$ et
-$R_{P$ fixés. G est alors une fonction parabolique de $I_{P$.
+l'intensité de production, et de la résistance. Supposons $$\Delta\Pi$$ et
+$$R_{P$$ fixés. G est alors une fonction parabolique de $$I_{P$$.
 
-![imageclosedloop](/images/Prod-I.jpg
+![imageclosedloop](/images/Prod-I.jpg)
 
 Le terme de friction quadratique entraîne qu'au delà d'un certain seuil
-$(I_{P=\Delta\Pi/2R_{P)$, augmenter encore l'intensité de production diminue
-en fait le flux extrait $G$.
+$$(I_{P=\Delta\Pi/2R_{P)$$, augmenter encore l'intensité de production diminue
+en fait le flux extrait $$G$$.
 
 Lorsque l'on souhaite atteindre un certain niveau de flux d'extraction G, il y
 a donc zéro, une, ou deux intensités de production possible. S'il y en a deux,
-on choisira systématiquement la plus basse. Ainsi, la valeur $(I_{P=\Delta
-\Pi/2R_{P)$, qui permet d'atteindre le flux d'extraction maximal est aussi la
-valeur maximale de $I_{P$. On notera cette valeur $I_{p^{max$.
+on choisira systématiquement la plus basse. Ainsi, la valeur $$(I_{P=\Delta
+\Pi/2R_{P)$$, qui permet d'atteindre le flux d'extraction maximal est aussi la
+valeur maximale de $$I_{P$$. On notera cette valeur $$I_{p^{max$$.
 
 De plus, il est possible que le niveau de flux d'extraction G requis ne soit
-pas atteignable, selon le couple $(\Delta\Pi,R_{P)$. La valeur maximale de G
+pas atteignable, selon le couple $$(\Delta\Pi,R_{P)$$. La valeur maximale de G
 est
 \[
 G^{max=\Delta\Pi^{2/4R_{P%
@@ -669,7 +669,7 @@ potentiels)
  Une résistance élevée
 \end{itemize
 
-De plus, l'efficacité du processus d'extraction, définie par $\eta=G/F_{HP$,
+De plus, l'efficacité du processus d'extraction, définie par $$\eta=G/F_{HP$$,
 vaut:\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
 \[
 \eta=1-\Pi_{L/\Pi_{H-R_{PI_{P^{2/F_{HP%
@@ -678,24 +678,24 @@ vaut:\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
 
 A intensité nulle, on retrouve une expression analogue au rendement de Carnot.
 Ensuite, l'efficacité diminue a mesure que l'intensité augmente. Il s'agit
-donc de trouver un compromis entre efficacité $\eta$ et flux extrait $G$.
+donc de trouver un compromis entre efficacité $$\eta$$ et flux extrait $$G$$.
 Enfin, le processus d'extraction possède une certaine inertie. Si l'on est
 capable instantanément de calculer l'intensité de production idéale permettant
 de répondre a la requête de la sphère économique, l'intensité de
 production réelle s'ajuste avec un certain retard. On définit une
-\textit{intensité de production demandée $I_{P^{D$. Le retard est
+\textit{intensité de production demandée $$I_{P^{D$$. Le retard est
 caractérisé par un \textit{temps caractéristique de réponse de production
-$\tau$.
+$$\tau$$.
 
-On a alors~:\ \ \ \ \ \ \ $\ \ \ \ \ \ \ \ \ \ \ \ \ $%
+On a alors~:\ \ \ \ \ \ \ $$\ \ \ \ \ \ \ \ \ \ \ \ \ $$%
 \[
 dI_{P/dt+\tau I_{P=I_{P^{D%
 \]
 
 
 Remarquons que cela permet de donner une signification physique au temps du
-modèle. Désormais, la période de $t=10$ à $t=20$ dans le modèles,
-soit $\Delta t=10$, peut etre comparé aux temps de réaction des feuilles, qui
+modèle. Désormais, la période de $$t=10$$ à $$t=20$$ dans le modèles,
+soit $$\Delta t=10$$, peut etre comparé aux temps de réaction des feuilles, qui
 eux ont une signification physique.
 
 ##Zone de recyclage
@@ -735,25 +735,25 @@ central, englobant toutes les feuilles ressources.
 
 #Annexe C: Equations gouvernants un feuillet flux <a name="AnnexeC"></a>
 
-Un feuillet de type "~flux~" est défini par un flux incident $P_{i$ (intégré
+Un feuillet de type "~flux~" est défini par un flux incident $$P_{i$$ (intégré
 sur toute la surface de la Terre), et un appareil de production caractérisé
-par un rendement $\eta$ et une surface installée $S$ (en pourcentage de la
+par un rendement $$\eta$$ et une surface installée $$S$$ (en pourcentage de la
 surface terrestre). L'appareil de production permet l'extraction de cette
 ressource, c'est a dire sa mise à disposition pour une transformation ultérieure.
 
-Le flux extrait est~:$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ $%
+Le flux extrait est~:$$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ $$%
 \[
 G=\eta P_{iS
 \]
 
 
 Ce flux peut etre immédiatement utilisé, ou stocké en attente d'utilisation.
-La capacité de stockage est définie par le paramètre $stock_{Max$.
+La capacité de stockage est définie par le paramètre $$stock_{Max$$.
 
 L'utilisation de la ressource correspond à un flux sortant du stock, noté
-$G_{USED$.
+$$G_{USED$$.
 
-Ainsi, le stock $X_{S$ vérifie~:\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+Ainsi, le stock $$X_{S$$ vérifie~:\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
 \begin{align*
 \Delta X_{S  &  =G-G_{USED\\
 0  &  <X_{S<stock_{Max%
@@ -788,7 +788,7 @@ de plusieurs tentatives\footnote{Dans une première tentative, le noyau central
 indique (a chaque nouveau pas de temps) à chaque feuille le niveau de
 production souhaité. Le noyau central doit donc recueillir depuis les feuilles
 les informations concernant les quantités de ressources disponible pour
-utilisation $(X_{S)$, les traiter, puis renvoyer a chaque feuille le niveau
+utilisation $$(X_{S)$$, les traiter, puis renvoyer a chaque feuille le niveau
 de production requis pour l'instant suivant. La complexité de ce processus
 augmente exponentiellement avec le nombre de ressources et le nombre de
 recettes. Finalement, il a été impossible de réaliser un algorithme
@@ -803,21 +803,21 @@ Dans la stratégie retenue on fixe à chaque feuillet un objectif de stock
 à atteindre. Ensuite, l'intensité de production de chaque feuille s'ajuste
 afin de faire converger la valeur du stock vers le stock cible, et de l'y
 maintenir. Plus précisément, la variation de l'intensité de production
-demandée $\Delta I_{P^{D$ est donnée par
-l'équation~:$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ $%
+demandée $$\Delta I_{P^{D$$ est donnée par
+l'équation~:$$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ $$%
 \[
 \Delta I_{P^{D=a(X_{S-X_{S^{CIBLE)+b(dX_{S/dt-0)
 \]
 
 
-On souhaite que $X_{S$converge vers $X_{S^{CIBLE$, et $dX_{S/dt$ vers 0~:
-$\Delta I_{P^{D$ est donc fonction des écarts $X_{S-X_{S^{CIBLE$ et
-$dX_{S/dt-0$. A l'équilibre, $\Delta I_{P^{D$est nulle.
+On souhaite que $$X_{S$$converge vers $$X_{S^{CIBLE$$, et $$dX_{S/dt$$ vers 0~:
+$$\Delta I_{P^{D$$ est donc fonction des écarts $$X_{S-X_{S^{CIBLE$$ et
+$$dX_{S/dt-0$$. A l'équilibre, $$\Delta I_{P^{D$$est nulle.
 
-$a$ et $b$ sont des paramètres définissant la préférence relative entre
-les deux objectifs ($X_{S=X_{S^{CIBLE$ et $dX_{S/dt=0$).
+$$a$$ et $$b$$ sont des paramètres définissant la préférence relative entre
+les deux objectifs ($$X_{S=X_{S^{CIBLE$$ et $$dX_{S/dt=0$$).
 
-![imageclosedloop](/images/Stock-t.jpg
+![imageclosedloop](/images/Stock-t.jpg)
 
 Dans cette stratégie, chaque feuillet fixe de manière autonome son
 intensité de production. On décrit ainsi une situation à chaque secteur
@@ -838,7 +838,7 @@ ressource autre qu'énergétique.
 
 Ainsi, chaque feuille extrait à chaque pas de temps une certaine quantité
 de ressources. Elle s'ajoute à la quantité de ressources "en stock"
-$X_{S$ disponible pour transformation ultérieure. La détermination du nombre
+$$X_{S$$ disponible pour transformation ultérieure. La détermination du nombre
 d'unités de biens finaux produits est fonction:
 
 \begin{itemize
@@ -851,7 +851,7 @@ d'unités de biens finaux produits est fonction:
 
 Il s'agit donc d'allouer les ressources aux différentes recettes de production
 de biens finaux. Il existe différentes méthodes d'allocations possibles. Par
-exemple~: prioriser absolument la production du bien final $n^{o1$ au
+exemple~: prioriser absolument la production du bien final $$n^{o1$$ au
 détriment de tous les autres, ou, a l'inverse, produire des biens finaux en
 quantité égale sans tenir compte des requêtes de production, ou encore,
 produire des biens finaux en respectant au maximum les proportions définies
@@ -905,7 +905,7 @@ des variables économiques. En particulier, elle indique a la sphère physique~:
  le mix énergétique souhaité
 
  l'investissement, pour chaque secteur (feuille), qui permet d'augmenter
-le capital. Le capital est directement relié a la résistance R$_{P$des
+le capital. Le capital est directement relié a la résistance R$$_{P$$des
 feuilles "~stock~", et aux variables \textit{surface installée S et stockMax
 des feuilles "~flux~"
 
@@ -970,7 +970,7 @@ a l' introduction d' une rétroaction entre l'état des ressources et le mix
 
 {Un exemple de sphère économique basée sur le modèle de Solow
 
-![imageclosedloop](/images/solow2.jpg
+![imageclosedloop](/images/solow2.jpg)
 
 Le modèle de Solow, créé en 1956, est un modèle macroéconomique qui
 explique la croissance par l' accumulation du capital, la croissance de la
@@ -987,24 +987,24 @@ Y=K^{\alpha(AL)^{1-\alpha%
 avec :
 
 \begin{itemize
- $Y$ la production
+ $$Y$$ la production
 
- $K$ le capital
+ $$K$$ le capital
 
- $A$ la productivité du travail
+ $$A$$ la productivité du travail
 
- $L$ la population active
+ $$L$$ la population active
 \end{itemize
 
-La productivité du travail augmente de maniere exogene, au taux g$_{A $.
+La productivité du travail augmente de maniere exogene, au taux g$$_{A $$.
 
 La population active augmente également de maniere exogene. Dans notre
 modèle, on choisit de faire tendre la population active vers une valeur
-limite P$_{L$: le taux de croissance de la population active est
-$g_{L=q(1-L/P_{L)$. Le taux de croissance diminue a mesure que la population
-active L se rapproche de sa valeur limite P$_{L$.
+limite P$$_{L$$: le taux de croissance de la population active est
+$$g_{L=q(1-L/P_{L)$$. Le taux de croissance diminue a mesure que la population
+active L se rapproche de sa valeur limite P$$_{L$$.
 
-Le capital s'érode au taux $\delta K$, érosion compensée par l' investissement I.
+Le capital s'érode au taux $$\delta K$$, érosion compensée par l' investissement I.
 
 \ \ \ \ \ \ \ \ \ \ \ \
 \[
@@ -1042,9 +1042,9 @@ Y_{REQ(t+dt)=Y(t)\ast\left(  \frac{K(t+dt){K(t)\right)  ^{\alpha\left(
 \ \ avec
 
 \begin{itemize
- $Y_{REQ$ la requête de production adressée a la sphère physique.
+ $$Y_{REQ$$ la requête de production adressée a la sphère physique.
 
- $Y$ la production effective (qui peut différer de la requête de production)
+ $$Y$$ la production effective (qui peut différer de la requête de production)
 \end{itemize
 
 Ainsi, tant que la requête de production est satisfaite, la production est
@@ -1059,7 +1059,7 @@ L'investissement est défini pour chaque feuille ressource. On définit un
 paramètre s commun à toutes les feuilles, qui correspond à la
 fraction de la production réinvestie. La production de chaque feuille
 correspond à ce qui a été effectivement utilisé par le noyau central de le
-sphère physique, c'est à dire la variable $G_{USED$.
+sphère physique, c'est à dire la variable $$G_{USED$$.
 
 Ainsi,
 
@@ -1084,7 +1084,7 @@ Y_{REQ(t+dt)=(F_{LP(t)+G_{USED(t))\ast recycling
 
 
 Cette loi n'est qu'une proposition. On pourrait également tenir compte de la
-quantité totale de déchets $X_{L$ pour la requête de recyclage, et non pas
+quantité totale de déchets $$X_{L$$ pour la requête de recyclage, et non pas
 simplement de la variation de cette quantité.
 
 ###Autres inputs économiques
@@ -1150,7 +1150,7 @@ production sont constantes (érosion du capital et investissement nuls)
 Enfin, on se place dans un scénario de croissance nulle. La demande en biens
 finaux est constante (respectivement 12 bien 0 et 18 bien 1 par unité de temps).
 
-![imageclosedloop](/images/Production7.jpg
+![imageclosedloop](/images/Production7.jpg)
 
 On observe une chute de la production des biens 1 et 2 à t=500, malgré une
 requête de production constante. La production semble converger
@@ -1162,7 +1162,7 @@ simulation) sont communes aux deux recettes de production. La simultanéité des
 chutes de production des biens 0 et 1 suggère que l'une de ces deux
 ressources à fait défaut.
 
-![imageclosedloop](/images/Tableau-Bord8.jpg
+![imageclosedloop](/images/Tableau-Bord8.jpg)
 
 En effet, l'état de la ressource pétrole semble s'être dégradé rapidement,
 entraînant une chute de la production de pétrole à t=500. Examinons le
@@ -1203,7 +1203,7 @@ très importante, et qu'il n'y a pas d'érosion du capital. Ainsi, la
 quantité d'énergie renouvelable est largement supérieure aux besoins de
 l'activité économique. C'est une hypothèse forte.
 
-De $t=0$ à $t=500$, on décide de ne pas recycler le cuivre. $At=500$ et
+De $$t=0$$ à $$t=500$$, on décide de ne pas recycler le cuivre. $$At=500$$ et
 pour tous les instants ultérieurs, on décide de recycler 100 \% des déchets de
 cuivre nouvellement produit.
 
@@ -1212,9 +1212,9 @@ l'évolution de l'état de la ressource cuivre montre que la décision de fixer
 une requête de recyclage de 100 \% à t=500 à permis d'éviter un
 effondrement, et d'atteindre cet état stable (Fig. \ref{Fig10).
 
-![imageclosedloop](/images/Production9.jpg\label{Fig9
+![imageclosedloop](/images/Production9.jpg)\label{Fig9
 
-![imageclosedloop](/images/Tableau-Bord10.jpg\label{Fig10
+![imageclosedloop](/images/Tableau-Bord10.jpg)\label{Fig10
 
 ##Passage d'une économie basée sur des ressources flux à une
 économie basée sur des ressources stock
@@ -1257,7 +1257,7 @@ Le mix énergétique souhaité est : 100 \% d'énergie solaire. Le mix énergét
 réel peut être différent, si le mix énergétique souhaité ne permet pas de
 répondre aux requêtes de production.
 
-![imageclosedloop](/images/Production11.jpg
+![imageclosedloop](/images/Production11.jpg)
 
 On observe (Fig. \ref{Fig11) dans un premier temps une augmentation
 exponentielle de la production de biens 1 et 2, suivant la croissance
@@ -1265,20 +1265,20 @@ exponentielle des requêtes de production. A t=1250, la production de biens 1
 et 2 chute, et les requêtes de production ne sont plus satisfaites. Les flux
 de production semblent converger vers un niveau plus faible mais non-nul.
 
-![imageclosedloop](/images/Energie12.jpg)
+![imageclosedloop](/images/Energie12.jpg))
 
 L'étude de l'évolution du mix énergétique réel au cours du temps indique que
 dans un premier temps (t%
 %TCIMACRO{\TEXTsymbol{<%
 %BeginExpansion
-$<$%
+$$<$$%
 %EndExpansion
 800), le besoin en énergie est entièrement couvert par la feuille
 énergie solaire (Fig. \ref{Fig12). Le mix énergétique réel est donc égal
 au mix énergétique souhaité. Pour t%
 %TCIMACRO{\TEXTsymbol{>%
 %BeginExpansion
-$>$%
+$$>$$%
 %EndExpansion
 800, le besoin en énergie dépasse la production d'énergie solaire. On fait
 donc appel à la feuille pétrole afin de continuer à satisfaire la
@@ -1297,7 +1297,7 @@ niveau maximal permis par le flux d'énergie solaire disponible.
 
 Toutes les illustrations jusqu'ici proviennent de simulations avec capital
 fixé : le taux d'érosion du capital \U{3b4 était nul, et l'investissement
-également. Ainsi, les résistances $R_{P$ des feuilles stock et paramètres
+également. Ainsi, les résistances $$R_{P$$ des feuilles stock et paramètres
 surface installéedes feuilles flux étaient constantes. L'introduction
 d'un taux d'érosion et d'un investissement non-nul modifie les trajectoires observées.
 
@@ -1331,13 +1331,13 @@ est exponentiellement croissante. On effectue deux simulations successives,
 une avec érosion du capital et investissement nuls, une seconde avec érosion
 du capital et investissement positifs (Fig. \ref{Fig13).
 
-![imageclosedloop](/images/Production13.jpg
+![imageclosedloop](/images/Production13.jpg)
 
 On constate que la croissance et la décroissance sont bien plus rapide dans la
 simulation avec investissement et érosion du capital. On peut l'expliquer en
 examinant l'évolution de l'état de la feuille pétrole.
 
-![imageclosedloop](/images/Tableau-Bord14.jpg
+![imageclosedloop](/images/Tableau-Bord14.jpg)
 
 De t=0 à t=700, la production de pétrole augmente, en réponse à
 l'augmentation exponentielle des requêtes. L'investissement augmente donc, ce
@@ -1346,7 +1346,7 @@ qui permet d'augmenter le capital et de diminuer la résistance (Fig.
 augmente (Fig. \ref{Fig14e). De plus, la diminution de la résistance compense
 la chute de la différence de potentiel (Fig. \ref{Fig14b). Ainsi, on parvient
 à extraire presque toute la ressource du réservoir haut (Fig.
-\ref{Fig14a). A $t=700$, le réservoir haut est presque vide. Malgré la faible
+\ref{Fig14a). A $$t=700$$, le réservoir haut est presque vide. Malgré la faible
 valeur de la résistance, la production chute.
 
 On rentre alors dans un cercle vicieux : l'investissement chute également, et
