@@ -72,23 +72,14 @@ transformation, vers un produit ou vers un déchet.
 Le modèle \ed\ est structuré en feuillets de type stock et de type flux,
 reliés au module économique (Fig. \ref{Global}). Son architecture globale est la suivante:
 
-\begin{figure}[h]
-\centering \includegraphics[width=1.0\textwidth]{Archiglobale.jpg}
-\caption{Schéma de principe des sphères physique et économique}
-\label{Global}
-\end{figure}
+![imageclosedloop](/images/Archiglobale.jpg}
 
 \subsection{Structure d'un feuillet stock}
 
 Les feuillets de type \textbf{stock} sont destinés à la plupart des ressources,
 minières ou non, fossiles ou non, dont la quantité sur la planète est finie et de dispersion variable.
 
-\begin{figure}[h]
-\centering
-\includegraphics[width=1.0\textwidth]{FeuilleStock.jpg}
-\caption{Structure de feuillet de type stock.}
-\label{Stock}
-\end{figure}
+![imageclosedloop](/images/FeuilleStock.jpg}
 
 Sur un feuillet type (Fig. \ref{Stock}) on distingue une zone haute qui contient la ressource en
 quantité $X_{H}$ et en qualité $\Pi_{H}$ ainsi qu'une zone de ressource usagée
@@ -210,12 +201,7 @@ Les feuilles de type flux sont destinées aux ressources qui sont disponible
 sur la planète sous la forme d'un flux (Fig. \ref{Flux}). La plus usuelle étant
 naturellement l'énergie solaire.
 
-\begin{figure}[h]
-\centering
-\includegraphics[width=1.0\textwidth]{FeuilleFlux.jpg}
-\caption{Structure de feuillet de type flux.}
-\label{Flux}
-\end{figure}
+![imageclosedloop](/images/FeuilleFlux.jpg}
 
 \subsection{Paramètre de feuillet flux}
 
@@ -243,15 +229,11 @@ dont la liste est donnée ci-dessous (Les valeurs sont données à titre d'exemp
 Le noyau physique est le lieu de la réalisation des biens manufacturés. Le
 schéma de principe du fonctionnement de cette zone est donné dans la figure ci-dessous (Fig. \ref{Noyau}).
 
-\begin{figure}[h]
-\centering \includegraphics[width=1.0\textwidth]{NoyauCentral.jpg}
-\caption{Structure du noyau physique.}
-\label{Noyau}
-\end{figure}
+![imageclosedloop](/images/NoyauCentral.jpg}
 
 Les "recettes" de fabrication des biens manufacturés sont indiquées dans la
 feuille \textit{world.txt}. Le programme principal effectue automatiquement la
-réalisation en respect de ces "`recettes"'.
+réalisation en respect de ces recettes.
 
 \subsection{Structure de la zone économique}
 
@@ -359,12 +341,8 @@ lorsque le modèle a été initialisé.
 \subsection{Paramétrage de la zone économique: exemple Goodwin}
 
 L'exemple ci-dessous illustre la paramétrisation dans le cas d'un modèle Goodwin (Fig. \ref{Goodwin}).
-\begin{figure}[h]
-\centering
-\includegraphics[width=1.0\textwidth]{Goodwin-txt.jpg}
-\caption{Contenu du fichier de paramétrisation Goodwin}
-\label{Goodwin}
-\end{figure}
+
+![imageclosedloop](/images/Goodwin-txt.jpg}
 
 \begin{itemize}
 \item $phi0$ et $phi1$ sont les paramètres de la courbe de Philipps
@@ -405,11 +383,8 @@ basée sur
 \item 1 Mix énergétique cible : 90\% solaire, 10\% pétrole
 \end{itemize}
 
-\begin{figure}[h]
-\centering\includegraphics[width=0.6\textwidth]{Parametrisation.jpg}
-\caption{Exemple d'étude de cas}
-\label{Etude}
-\end{figure}
+
+![imageclosedloop](/images/Parametrisation.jpg}
 
 
 Dans le fichier principal \textit{main.py}, on effectue 
@@ -422,47 +397,31 @@ Dans le fichier principal \textit{main.py}, on effectue
 \item le choix du pas de temps et de la durée de la simulation
 \end{enumerate}
 
-\begin{figure}[h]
-\centering\includegraphics[width=0.6\textwidth]{Parametrisation2.jpg}
-\caption{Paramétrisation du fichier txt}
-\label{Param}
-\end{figure}
-
+![imageclosedloop](/images/Parametrisation2.jpg}
 
 Dans le fichier du modèle économique on spécifie ses paramètres. (ici \textit{Solow.txt}) (Fig. \ref{Param2}).
 
-\begin{figure}[h]
-\centering\includegraphics[width=0.8\textwidth]{Parametrisation3.jpg}
-\caption{Paramétrisation dans le modèle économique}
-\label{Param2}
-\end{figure}
+
+![imageclosedloop](/images/Parametrisation3.jpg}
 
 \subsection{Résultat}
 
 Le lancement de la simulation via le module \textit{main.py} conduit au résultat
 suivant pour la production et l'énergie(Fig. \ref{Simulresult}) (Fig. \ref{SimulresultMat}):
 
-\begin{figure}[h]
-\centering\includegraphics[width=0.6\textwidth]{ResultatSimul.jpg}
-\caption{Résultats de la simulation énergétique}
-\label{Simulresult}
-\end{figure}
 
-\begin{figure}[h]
-\centering\includegraphics[width=0.6\textwidth]{ResultatSimulE.jpg}
-\caption{Résultats de la simulation matère}
-\label{SimulresultMat}
-\end{figure}
+![imageclosedloop](/images/ResultatSimul.jpg}
+
+
+![imageclosedloop](/images/ResultatSimulE.jpg}
+
 
 Toutes les informations relatives à chacun des feuillets étant
 enregistrées, il est possible de suivre les paramètres à volonté, par
 exemple ici pour le pétrole (Fig. \ref{petrol}):
 
-\begin{figure}[h]
-\centering\includegraphics[width=0.6\textwidth]{ResultatSimulPet.jpg}
-\caption{Résultats de la simulation pour le feuillet pétrole}
-\label{petrol}
-\end{figure}
+
+![imageclosedloop](/images/ResultatSimulPet.jpg}
 
 \newpage
 
@@ -491,9 +450,7 @@ createEcoSphere de votre fichier EcoModel.py (ici Goodwin.py)
 \item Ligne 42: De même, vérifier les arguments pris par la fonction ecoSphere.newProdRequest()
 \end{itemize}
 
-\begin{figure}[h]
-\centering
-\includegraphics[width=1.0\textwidth]{Main-py.jpg}\end{figure}
+![imageclosedloop](/images/Main-py.jpg}
 
 \subsection{Créer un nouveau modeles éco}
 
@@ -528,10 +485,8 @@ Un exemple de modèle économique (trivial) respectant cette structure est
 donné ci-dessous (ecoVide.py).\newline Le rôle des fonctions citées ci-dessus
 est également détaillé
 
-\begin{figure}[h]
-\centering
-\includegraphics[width=1.0\textwidth]{EcoVide-py.jpg}\end{figure}
-\newpage
+![imageclosedloop](/images/EcoVide-py.jpg}
+
 \section{Annexe B: Equations gouvernants une feuille stock}
 
 \subsection{Architecture générale}
@@ -574,9 +529,7 @@ une certaine quantité de travail utile W, tandis qu'une part de l'énergie
 provenant de la source chaude $Q_{C}$ est dissipée sous forme de chaleur
 $Q_{F}$.
 
-\begin{figure}[h]
-\centering
-\includegraphics[width=0.6\textwidth]{Carnot.jpg}\end{figure}
+![imageclosedloop](/images/Carnot.jpg}
 
 Ici, la source chaude devient le réservoir de ressource "~disponible~", la
 source froide le réservoir de ressource "~usagée~", et le travail produit est stocké.
@@ -646,9 +599,7 @@ et convexe, telle que $f_{1}(X_{H}=0)=0,5$ et $f_{1}(X_{H}=X_{T})=1$. On
 prendra pour $f_{2}$ une fonction croissante et concave, telle que
 $f_{1}(X_{L}=0)=0etf_{1}(X_{L}=X_{T})=0,5$.
 
-\begin{figure}[h]
-\centering
-\includegraphics[width=1.0\textwidth]{Potentiels.jpg}\end{figure}
+![imageclosedloop](/images/Potentiels.jpg}
 
 Lorsque toute la ressource est dans le réservoir haut, $\Pi_{H}=1$ et $\Pi
 _{L}=0$. La \textit{différence de potentiel }$\Delta\Pi$ est maximale. Lorsque
@@ -689,9 +640,7 @@ Le flux extrait G est donc fonction de la différence de potentiels, de
 l'intensité de production, et de la résistance. Supposons $\Delta\Pi$ et
 $R_{P}$ fixés. G est alors une fonction parabolique de $I_{P}$.
 
-\begin{figure}[h]
-\centering
-\includegraphics[width=1.0\textwidth]{Prod-I.jpg}\end{figure}
+![imageclosedloop](/images/Prod-I.jpg}
 
 Le terme de friction quadratique entraîne qu'au delà d'un certain seuil
 $(I_{P}=\Delta\Pi/2R_{P})$, augmenter encore l'intensité de production diminue
@@ -874,9 +823,7 @@ $dX_{S}/dt-0$. A l'équilibre, $\Delta I_{P}^{D}$est nulle.
 $a$ et $b$ sont des paramètres définissant la préférence relative entre
 les deux objectifs ($X_{S}=X_{S}^{CIBLE}$ et $dX_{S}/dt=0$).
 
-\begin{figure}[h]
-\centering
-\includegraphics[width=1.0\textwidth]{Stock-t.jpg}\end{figure}
+![imageclosedloop](/images/Stock-t.jpg}
 
 Dans cette stratégie, chaque feuillet fixe de manière autonome son
 intensité de production. On décrit ainsi une situation à chaque secteur
@@ -1028,8 +975,7 @@ a l' introduction d' une rétroaction entre l'état des ressources et le mix
 
 {Un exemple de sphère économique basée sur le modèle de Solow}
 
-\begin{figure}[h]
-\centering \includegraphics[width=1.0\textwidth]{solow2.jpg}\end{figure}
+![imageclosedloop](/images/solow2.jpg}
 
 Le modèle de Solow, créé en 1956, est un modèle macroéconomique qui
 explique la croissance par l' accumulation du capital, la croissance de la
@@ -1188,7 +1134,7 @@ d'énergie engendrés par l'activité économique.
 On observe, selon le paramétrage de la situation, des rétroactions de la
 sphère physique sur l'activité économique. En particulier, lorsque le flux
 de recyclage (naturel ou humain) est nul (ressources non recyclables par
-exemple) ou insuffisant, on observe l'épuisement des ressources "`stock"', et
+exemple) ou insuffisant, on observe l'épuisement des ressources stock, et
 leur rétroaction sur la production. Cette rétroaction prend la forme de
 rupture de pentes : il s'agit donc d'effondrement davantage que de diminution
 progressive. Illustrons ce point par un exemple jouet qui permet de faire
@@ -1209,9 +1155,7 @@ production sont constantes (érosion du capital et investissement nuls)
 Enfin, on se place dans un scénario de croissance nulle. La demande en biens
 finaux est constante (respectivement 12 bien 0 et 18 bien 1 par unité de temps).
 
-\begin{figure}[h]
-\centering
-\includegraphics[width=1.0\textwidth]{Production7.jpg}\end{figure}
+![imageclosedloop](/images/Production7.jpg}
 
 On observe une chute de la production des biens 1 et 2 à t=500, malgré une
 requête de production constante. La production semble converger
@@ -1223,7 +1167,7 @@ simulation) sont communes aux deux recettes de production. La simultanéité des
 chutes de production des biens 0 et 1 suggère que l'une de ces deux
 ressources à fait défaut.
 
-\begin{figure}[h]\centering  \includegraphics[width=1.0\textwidth]{Tableau-Bord8.jpg}\end{figure}
+![imageclosedloop](/images/Tableau-Bord8.jpg}
 
 En effet, l'état de la ressource pétrole semble s'être dégradé rapidement,
 entraînant une chute de la production de pétrole à t=500. Examinons le
@@ -1273,20 +1217,16 @@ l'évolution de l'état de la ressource cuivre montre que la décision de fixer
 une requête de recyclage de 100 \% à t=500 à permis d'éviter un
 effondrement, et d'atteindre cet état stable (Fig. \ref{Fig10}).
 
-\begin{figure}[h]
-\centering
-\includegraphics[width=1.0\textwidth]{Production9.jpg}\label{Fig9}\end{figure}
+![imageclosedloop](/images/Production9.jpg}\label{Fig9}
 
-\begin{figure}[h]
-\centering
-\includegraphics[width=1.0\textwidth]{Tableau-Bord10.jpg}\label{Fig10}\end{figure}
+![imageclosedloop](/images/Tableau-Bord10.jpg}\label{Fig10}
 
 \subsection{Passage d'une économie basée sur des ressources flux à une
 économie basée sur des ressources stock}
 
 Il existe donc, pour un ensemble de ressources et de recettes donnée, un
 niveau de production stable maximum. L'activité économique peut dépasser ce
-niveau stable maximum grâce à l'usage de ressources "`stock"' dont le
+niveau stable maximum grâce à l'usage de ressources stock dont le
 rythme d'exploitation est virtuellement illimité. Mais si l'exploitation de
 ces ressources est plus rapide que le recyclage naturel, ou si elle ne
 s'accompagne pas d'une augmentation égale du recyclage humain (en particulier
@@ -1314,7 +1254,7 @@ régénération du bois est très élevé.
 
 On considère les mêmes recettes que précédemment (section 2.1). La requête
 de production des biens finaux suit une trajectoire de croissance
-exponentielle obtenue par une loi de type "`Solow"' , semblable à celle
+exponentielle obtenue par une loi de type Solow , semblable à celle
 décrite en section 1.2.2.2. Les requêtes de production initiales sont proches
 de zéro.
 
@@ -1322,9 +1262,7 @@ Le mix énergétique souhaité est : 100 \% d'énergie solaire. Le mix énergét
 réel peut être différent, si le mix énergétique souhaité ne permet pas de
 répondre aux requêtes de production.
 
-\begin{figure}[h]
-\centering
-\includegraphics[width=1.0\textwidth]{Production11.jpg}\label{Fig11}\end{figure}
+![imageclosedloop](/images/Production11.jpg}
 
 On observe (Fig. \ref{Fig11}) dans un premier temps une augmentation
 exponentielle de la production de biens 1 et 2, suivant la croissance
@@ -1332,9 +1270,7 @@ exponentielle des requêtes de production. A t=1250, la production de biens 1
 et 2 chute, et les requêtes de production ne sont plus satisfaites. Les flux
 de production semblent converger vers un niveau plus faible mais non-nul.
 
-\begin{figure}[h]
-\centering
-\includegraphics[width=1.0\textwidth]{Energie12.jpg}\label{Fig12}\end{figure}
+![imageclosedloop](/images/Energie12.jpg}
 
 L'étude de l'évolution du mix énergétique réel au cours du temps indique que
 dans un premier temps (t%
@@ -1343,7 +1279,7 @@ dans un premier temps (t%
 $<$%
 %EndExpansion
 800), le besoin en énergie est entièrement couvert par la feuille
-"`énergie solaire"' (Fig. \ref{Fig12}). Le mix énergétique réel est donc égal
+énergie solaire (Fig. \ref{Fig12}). Le mix énergétique réel est donc égal
 au mix énergétique souhaité. Pour t%
 %TCIMACRO{\TEXTsymbol{>}}%
 %BeginExpansion
@@ -1367,7 +1303,7 @@ niveau maximal permis par le flux d'énergie solaire disponible.
 Toutes les illustrations jusqu'ici proviennent de simulations avec capital
 fixé : le taux d'érosion du capital \U{3b4} était nul, et l'investissement
 également. Ainsi, les résistances $R_{P}$ des feuilles stock et paramètres
-"`surface installée "`des feuilles flux étaient constantes. L'introduction
+surface installéedes feuilles flux étaient constantes. L'introduction
 d'un taux d'érosion et d'un investissement non-nul modifie les trajectoires observées.
 
 Dans la suite, on suppose que l'investissement dans le capital d'une feuille
@@ -1400,17 +1336,13 @@ est exponentiellement croissante. On effectue deux simulations successives,
 une avec érosion du capital et investissement nuls, une seconde avec érosion
 du capital et investissement positifs (Fig. \ref{Fig13}).
 
-\begin{figure}[h]
-\centering
-\includegraphics[width=1.0\textwidth]{Production13.jpg}\label{Fig13}\end{figure}
+![imageclosedloop](/images/Production13.jpg}
 
 On constate que la croissance et la décroissance sont bien plus rapide dans la
 simulation avec investissement et érosion du capital. On peut l'expliquer en
 examinant l'évolution de l'état de la feuille pétrole.
 
-\begin{figure}[h]
-\centering
-\includegraphics[width=1.0\textwidth]{Tableau-Bord14.jpg}\label{Fig14}\end{figure}
+![imageclosedloop](/images/Tableau-Bord14.jpg}
 
 De t=0 à t=700, la production de pétrole augmente, en réponse à
 l'augmentation exponentielle des requêtes. L'investissement augmente donc, ce
