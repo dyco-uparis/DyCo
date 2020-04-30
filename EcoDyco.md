@@ -2,7 +2,7 @@
 layout: hidden_page
 title: Thermodynamique et Économie
 ---
-![imageclosedloop](/images/Christophe.png)
+![imageclosedloop](/images/couverture.jpg)
 ### Contenu
 - [Un modèle économique dans un monde physique fini](#MondeFini)
 - [Structure générale](#Structure)
