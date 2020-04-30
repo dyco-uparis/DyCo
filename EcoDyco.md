@@ -3,7 +3,7 @@ layout: hidden_page
 title: Thermodynamique et Économie
 ---
 ![imageclosedloop](/images/couverture.jpg)
-### Contenu
+### EcoDyco
 - [Un modèle économique dans un monde physique fini](#MondeFini)
 - [Structure générale](#Structure)
 - [Simuler avec EcoDyco ](#Simuler)
