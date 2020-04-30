@@ -53,7 +53,7 @@ Actuellement mes recherches sont essentiellement axées sur la notion d'optimisa
 
 
 ### Thermodynamique <a name="thermo"></a>
-Ces travaux sont menés avec avec [Christophe Goupil](/ChG). L'objet est de développer un cadre générique de travail permettant l'emploi du formalisme et des catégories de la thermodynamique hors d'équilibre, notamment le développement de Onsager de la description microscopique Force/Flux, avec une approche nodale, qui permet la prise en compte des rétroactions sur le point de fonctionnement réel d'une machine à conversion de l'énergie. Ceci est développé dans le cadre thermodynamique seul et dans le cadre d'applications à des systèmes plus éloignés mais partageant des caractéristiques communes, notamment la dissipation et l'accès aux ressources dans le but effectuer un travail: les systèmes vivants et les structures économiques.
+Ces travaux sont menés avec [Christophe Goupil](/ChG). L'objet est de développer un cadre générique de travail permettant l'emploi du formalisme et des catégories de la thermodynamique hors d'équilibre, notamment le développement de Onsager de la description microscopique Force/Flux, avec une approche nodale, qui permet la prise en compte des rétroactions sur le point de fonctionnement réel d'une machine à conversion de l'énergie. Ceci est développé dans le cadre thermodynamique seul et dans le cadre d'applications à des systèmes plus éloignés mais partageant des caractéristiques communes, notamment la dissipation et l'accès aux ressources dans le but effectuer un travail: les systèmes vivants et les structures économiques.
 
 | ![imageclosedloop](/images/KC_shadock.png){: width="600px"}                                          |
 |:--:|
