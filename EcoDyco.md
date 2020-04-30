@@ -501,7 +501,7 @@ ressource, un \textit{stock pour la fraction de la ressource en attente de
 transformation ultérieure, et un \textit{réservoir bas pour la fraction
 usagée de la ressource.
 
-On note $$X_{H,X_{S}$$ et $$X_{L}$$ les quantités correspondantes, et $$X_{T$$ la
+On note $$X_{H,X_{S}$$ et $$X_{L}$$ les quantités correspondantes, et $$X_{T}$$ la
 quantité totale de ressource.
 
 Ainsi, on a a chaque instant :%
@@ -528,7 +528,7 @@ $$Q_{F}$$.
 Ici, la source chaude devient le réservoir de ressource "~disponible~", la
 source froide le réservoir de ressource "~usagée~", et le travail produit est stocké.
 
-On note $$F_{HP$$ le flux provenant du réservoir haut, $$F_{LP$$ le flux en
+On note $$F_{HP}$$ le flux provenant du réservoir haut, $$F_{LP}$$ le flux en
 direction du réservoir bas, et $$G$$ le flux de ressources en direction du
 stock. Ainsi,%
 
@@ -537,14 +537,14 @@ G=F_{HP-F_{LP%
 \]
 
 
-Les ressources dans le stock $$X_{S$$ sont ensuite transformées en bien final.
-Apres utilisation, la ressource devient déchet. On note $$G_{USED$$ ce flux
+Les ressources dans le stock $$X_{S}$$ sont ensuite transformées en bien final.
+Apres utilisation, la ressource devient déchet. On note $$G_{USED}$$ ce flux
 entre le stock et le réservoir bas.
 
 L'ensemble de ces flux définit la zone de production. Une unité de ressource
 usagée peut parfois etre recyclée. Ce recyclage peut etre naturel, ou la
-conséquence d'une activité humaine. On note $$F_{NR$$ le flux de recyclage
-naturel, et $$F_{R$$ le flux de recyclage humain.
+conséquence d'une activité humaine. On note $$F_{NR}$$ le flux de recyclage
+naturel, et $$F_{R}$$ le flux de recyclage humain.
 
 ##Zone de production
 
@@ -559,9 +559,9 @@ s'est dégradée. La notion de qualité est donc essentielle dans le processus
 d'extraction. La thermodynamique établit bien cette distinction entre quantité
 et qualité. On introduit donc ici une notion de thermodynamique, le
 \textit{potentiel. C'est une variable intensive. Les ressources dans le
-réservoir haut sont a un certain niveau de potentiel, $$\Pi_{H$$. $$\Pi_{H$$
+réservoir haut sont a un certain niveau de potentiel, $$\Pi_{H}$$. $$\Pi_{H}$$
 diminue au fur et a mesure de l'extraction de la ressource du stock haut.
-$$\Pi_{H$$ est donc une fonction croissante de $$X_{H$$.
+$$\Pi_{H}$$ est donc une fonction croissante de $$X_{H}$$.
 
 On a~:%
 \[
@@ -575,7 +575,7 @@ F_{HP=\Pi_{HI_{P%
 
 Les déchets dans le réservoir bas sont une pollution, qui a une rétroaction
 négative sur la production. Cette rétroaction se manifeste par l'augmentation
-du potentiel du réservoir bas, $$\Pi_{L$$.
+du potentiel du réservoir bas, $$\Pi_{L}$$.
 
 On a~:\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
 \begin{align*
@@ -584,20 +584,20 @@ On a~:\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
 \end{align*
 
 
-Le choix des fonctions $$f_{1$$et $$f_{2$$est important si l'on souhaite obtenir
+Le choix des fonctions $$f_{1}$$et $$f_{2}$$est important si l'on souhaite obtenir
 des résultats quantitatifs avec le modèles. Si l'on ne souhaite que des
 résultats qualitatifs, on peut se contenter de décrire la forme que devraient
 avoir ces fonctions (croissante ou décroissante, concave ou convexe,
-etc...)$$_{.$$ Dans la suite, on prendra pour $$f_{1$$ une fonction croissante
+etc...)$$_{.}$$ Dans la suite, on prendra pour $$f_{1}$$ une fonction croissante
 et convexe, telle que $$f_{1(X_{H=0)=0,5$$ et $$f_{1(X_{H=X_{T)=1$$. On
-prendra pour $$f_{2$$ une fonction croissante et concave, telle que
+prendra pour $$f_{2}$$ une fonction croissante et concave, telle que
 $$f_{1(X_{L=0)=0etf_{1(X_{L=X_{T)=0,5$$.
 
 ![imageclosedloop](/images/Potentiels.jpg){: width="600px"}
 
-Lorsque toute la ressource est dans le réservoir haut, $$\Pi_{H=1$$ et $$\Pi
-_{L=0$$. La \textit{différence de potentiel $$\Delta\Pi$$ est maximale. Lorsque
-toute la ressource est dans le réservoir bas, $$\Pi_{H=\Pi_{L=0,5$$. La
+Lorsque toute la ressource est dans le réservoir haut, $$\Pi_{H=1}$$ et $$\Pi
+_{L=0}$$. La \textit{différence de potentiel $$\Delta\Pi$$ est maximale. Lorsque
+toute la ressource est dans le réservoir bas, $$\Pi_{H}=\Pi_{L=0,5}$$. La
 différence de potentiel est nulle, et la production est impossible. L'activité
 économique sans recyclage entraîne le passage de ressources entre le réservoir
 haut et le réservoir bas, donc une diminution de $$\Delta\Pi$$. Autrement dit,
@@ -605,8 +605,8 @@ l'activité économique sans recyclage entraîne une diminution de la capacité
 ultérieure à produire.
 
 Finalement, on a introduit des variables extensives pour décrire la quantité
-$$(X_{H,X_{L,X_{S,X_{T)$$, et des variables intensives pour décrire la
-qualité de la ressource $$(\Pi_{H,\Pi_{L)$$
+$$(X_{H,X_{L,X_{S,X_{T))$$, et des variables intensives pour décrire la
+qualité de la ressource $$(\Pi_{H,\Pi_{L))$$
 
 Le temps joue un rôle dans le processus d'extraction de la ressource. Plus
 précisément, produire a une \textit{intensité tres élevée n'est pas
@@ -614,8 +614,8 @@ précisément, produire a une \textit{intensité tres élevée n'est pas
 rendement du processus est meilleur, mais le flux produit $$G$$ est moins
 important. A intensité élevée, $$G$$ est plus élevé mais le rendement est dégradé.
 
-On introduit donc une \textit{résistance $$R_{P$$. On a alors un terme de
-friction $$R_{PI_{P^{2$$, et $$F_{LP$$
+On introduit donc une \textit{résistance $$R_{P}$$. On a alors un terme de
+friction $$R_{PI_{P^{2}}$$, et $$F_{LP}$$
 devient~:$$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ $$%
 \[
 F_{LP=\Pi_{LI_{P+R_{PI_{P^{2%
@@ -632,22 +632,22 @@ G  &  =F_{HP-F_{LP=\Delta\Pi I_{P+R_{PI_{P^{2%
 
 Le flux extrait G est donc fonction de la différence de potentiels, de
 l'intensité de production, et de la résistance. Supposons $$\Delta\Pi$$ et
-$$R_{P$$ fixés. G est alors une fonction parabolique de $$I_{P$$.
+$$R_{P$$ fixés. G est alors une fonction parabolique de $$I_{P}$$.
 
 ![imageclosedloop](/images/Prod-I.jpg){: width="600px"}
 
 Le terme de friction quadratique entraîne qu'au delà d'un certain seuil
-$$(I_{P=\Delta\Pi/2R_{P)$$, augmenter encore l'intensité de production diminue
+$$(I_{P=\Delta\Pi/2R_{P))$$, augmenter encore l'intensité de production diminue
 en fait le flux extrait $$G$$.
 
 Lorsque l'on souhaite atteindre un certain niveau de flux d'extraction G, il y
 a donc zéro, une, ou deux intensités de production possible. S'il y en a deux,
 on choisira systématiquement la plus basse. Ainsi, la valeur $$(I_{P=\Delta
 \Pi/2R_{P)$$, qui permet d'atteindre le flux d'extraction maximal est aussi la
-valeur maximale de $$I_{P$$. On notera cette valeur $$I_{p^{max$$.
+valeur maximale de $$I_{P}$$. On notera cette valeur $$I_{p^{max}}$$.
 
 De plus, il est possible que le niveau de flux d'extraction G requis ne soit
-pas atteignable, selon le couple $$(\Delta\Pi,R_{P)$$. La valeur maximale de G
+pas atteignable, selon le couple $$(\Delta\Pi,R_{P))$$. La valeur maximale de G
 est
 \[
 G^{max=\Delta\Pi^{2/4R_{P%
@@ -669,7 +669,7 @@ potentiels)
  Une résistance élevée
 \end{itemize
 
-De plus, l'efficacité du processus d'extraction, définie par $$\eta=G/F_{HP$$,
+De plus, l'efficacité du processus d'extraction, définie par $$\eta=G/F_{HP}$$,
 vaut:\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
 \[
 \eta=1-\Pi_{L/\Pi_{H-R_{PI_{P^{2/F_{HP%
@@ -683,7 +683,7 @@ Enfin, le processus d'extraction possède une certaine inertie. Si l'on est
 capable instantanément de calculer l'intensité de production idéale permettant
 de répondre a la requête de la sphère économique, l'intensité de
 production réelle s'ajuste avec un certain retard. On définit une
-\textit{intensité de production demandée $$I_{P^{D$$. Le retard est
+\textit{intensité de production demandée $$I_{P^{D}}$$. Le retard est
 caractérisé par un \textit{temps caractéristique de réponse de production
 $$\tau$$.
 
@@ -735,7 +735,7 @@ central, englobant toutes les feuilles ressources.
 
 #Annexe C: Equations gouvernants un feuillet flux <a name="AnnexeC"></a>
 
-Un feuillet de type "~flux~" est défini par un flux incident $$P_{i$$ (intégré
+Un feuillet de type "~flux~" est défini par un flux incident $$P_{i}$$ (intégré
 sur toute la surface de la Terre), et un appareil de production caractérisé
 par un rendement $$\eta$$ et une surface installée $$S$$ (en pourcentage de la
 surface terrestre). L'appareil de production permet l'extraction de cette
@@ -748,10 +748,10 @@ G=\eta P_{iS
 
 
 Ce flux peut etre immédiatement utilisé, ou stocké en attente d'utilisation.
-La capacité de stockage est définie par le paramètre $$stock_{Max$$.
+La capacité de stockage est définie par le paramètre $$stock_{Max}$$.
 
 L'utilisation de la ressource correspond à un flux sortant du stock, noté
-$$G_{USED$$.
+$$G_{USED}$$.
 
 Ainsi, le stock $$X_{S$$ vérifie~:\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
 \begin{align*
@@ -788,7 +788,7 @@ de plusieurs tentatives\footnote{Dans une première tentative, le noyau central
 indique (a chaque nouveau pas de temps) à chaque feuille le niveau de
 production souhaité. Le noyau central doit donc recueillir depuis les feuilles
 les informations concernant les quantités de ressources disponible pour
-utilisation $$(X_{S)$$, les traiter, puis renvoyer a chaque feuille le niveau
+utilisation $$(X_{S})$$, les traiter, puis renvoyer a chaque feuille le niveau
 de production requis pour l'instant suivant. La complexité de ce processus
 augmente exponentiellement avec le nombre de ressources et le nombre de
 recettes. Finalement, il a été impossible de réaliser un algorithme
@@ -803,19 +803,19 @@ Dans la stratégie retenue on fixe à chaque feuillet un objectif de stock
 à atteindre. Ensuite, l'intensité de production de chaque feuille s'ajuste
 afin de faire converger la valeur du stock vers le stock cible, et de l'y
 maintenir. Plus précisément, la variation de l'intensité de production
-demandée $$\Delta I_{P^{D$$ est donnée par
+demandée $$\Delta I_{P^{D}}$$ est donnée par
 l'équation~:$$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ $$%
 \[
 \Delta I_{P^{D=a(X_{S-X_{S^{CIBLE)+b(dX_{S/dt-0)
 \]
 
 
-On souhaite que $$X_{S$$converge vers $$X_{S^{CIBLE$$, et $$dX_{S/dt$$ vers 0~:
-$$\Delta I_{P^{D$$ est donc fonction des écarts $$X_{S-X_{S^{CIBLE$$ et
-$$dX_{S/dt-0$$. A l'équilibre, $$\Delta I_{P^{D$$est nulle.
+On souhaite que $$X_{S$$converge vers $$X_{S^{CIBLE}}$$, et $$dX_{S}/dt$$ vers 0~:
+$$\Delta I_{P^{D}}$$ est donc fonction des écarts $$X_{S-X_{S^{CIBLE}}$$ et
+$$dX_{S/dt-0}$$. A l'équilibre, $$\Delta I_{P^{D}}$$est nulle.
 
 $$a$$ et $$b$$ sont des paramètres définissant la préférence relative entre
-les deux objectifs ($$X_{S=X_{S^{CIBLE$$ et $$dX_{S/dt=0$$).
+les deux objectifs ($$X_{S=X_{S^{CIBLE$$ et $$dX_{S/dt=0$$}).
 
 ![imageclosedloop](/images/Stock-t.jpg){: width="600px"}
 
@@ -996,13 +996,13 @@ avec :
  $$L$$ la population active
 \end{itemize
 
-La productivité du travail augmente de maniere exogene, au taux g$$_{A $$.
+La productivité du travail augmente de maniere exogene, au taux g$$_{A}$$.
 
 La population active augmente également de maniere exogene. Dans notre
 modèle, on choisit de faire tendre la population active vers une valeur
 limite P$$_{L$$: le taux de croissance de la population active est
-$$g_{L=q(1-L/P_{L)$$. Le taux de croissance diminue a mesure que la population
-active L se rapproche de sa valeur limite P$$_{L$$.
+$$g_{L=q(1-L/P_{L)}$$. Le taux de croissance diminue a mesure que la population
+active L se rapproche de sa valeur limite $$P_{L}$$.
 
 Le capital s'érode au taux $$\delta K$$, érosion compensée par l' investissement I.
 
@@ -1042,7 +1042,7 @@ Y_{REQ(t+dt)=Y(t)\ast\left(  \frac{K(t+dt){K(t)\right)  ^{\alpha\left(
 \ \ avec
 
 \begin{itemize
- $$Y_{REQ$$ la requête de production adressée a la sphère physique.
+ $$Y_{REQ}$$ la requête de production adressée a la sphère physique.
 
  $$Y$$ la production effective (qui peut différer de la requête de production)
 \end{itemize
@@ -1059,7 +1059,7 @@ L'investissement est défini pour chaque feuille ressource. On définit un
 paramètre s commun à toutes les feuilles, qui correspond à la
 fraction de la production réinvestie. La production de chaque feuille
 correspond à ce qui a été effectivement utilisé par le noyau central de le
-sphère physique, c'est à dire la variable $$G_{USED$$.
+sphère physique, c'est à dire la variable $$G_{USED}$$.
 
 Ainsi,
 
