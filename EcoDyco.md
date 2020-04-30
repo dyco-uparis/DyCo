@@ -76,14 +76,14 @@ minières ou non, fossiles ou non, dont la quantité sur la planète est finie e
 ![imageclosedloop](/images/FeuilleStock.jpg){: width="600px"}
 
 Sur un feuillet type (Fig. \ref{Stock) on distingue une zone haute qui contient la ressource en
-quantité $$$$X_{H$$$$ et en qualité $$$$\Pi_{H$$$$ ainsi qu'une zone de ressource usagée
-en quantité $$$$X_{L$$$$ et en qualité $$$$\Pi_{L$$$$. Les flux de ressources de
-$$$$F_{HP$$$$ et de déchets $$$$F_{LP$$$$ constituent avec le flux de production $$$$G$$$$
+quantité $$X_{H}$$ et en qualité $$\Pi_{H}$$ ainsi qu'une zone de ressource usagée
+en quantité $$X_{L}$$ et en qualité $$\Pi_{L}$$. Les flux de ressources de
+$$F_{HP}$$ et de déchets $$F_{LP}$$ constituent avec le flux de production $$G$$
 l'ensemble des flux de la ressource dans sa mise en oeuvre pour la production.
 La quantité de ressource mise en oeuvre de façon excédentaire constitue un
-stock $$X_{S$$. Le recyclage peut être naturel $$F_{NR,$$ ou forcé, $$F_{R,$$
+stock $$X_{S}$$. Le recyclage peut être naturel $$F_{NR}$$ ou forcé, $$F_{R}$$
 selon des lois spécifiques. On nomme différence des potentiels la grandeur
-$$\Delta\Pi=\Pi_{H-\Pi_{L$$.
+$$\Delta\Pi=\Pi_{H-\Pi_{L}$$.
 
 ##Paramètre de feuillet
 
@@ -119,7 +119,7 @@ de la ressource)~:\textit{\ recyclingEnergyFlux : 1
 
 La description et l'utilisation de ces paramètres est décrite en détail
 dans les annexes de ce document. Une attention particulière est cependant
-portée sur $$R_{P$$
+portée sur $$R_{P}$$
 
 ##Résistance de dissipation: $$R_{P}$$
 
@@ -129,29 +129,29 @@ ressource perdue, qui n'est pas utilisée pour la production de bien de consomma
 alors même que la ressource a été prélevée à la planète. $$R_{P}$$
 conduit à limiter la capacité d'un outil de production qui ne peut
 fonctionner sous intensité élevée. A un outil de production performant est
-associé une valeur faible pour $$R_{P$$. En tant que signifiant de l'outil de
-production $$R_{P$$ est donc directement lié au capital. Il s'en suit que
-$$R_{P$$ augmente naturellement au cours du temps sous l'effet de dégradation
+associé une valeur faible pour $$R_{P}$$. En tant que signifiant de l'outil de
+production $$R_{P}$$ est donc directement lié au capital. Il s'en suit que
+$$R_{P}$$ augmente naturellement au cours du temps sous l'effet de dégradation
 du capital. Pour la même raison, les efforts d'investissement conduisent à
-réduire $$R_{P$$. Il en va de même du progrès technique qui se traduit par
-une baisse brutale de $$R_{P$$ sous l'effet de la mise en oeuvre de ce
+réduire $$R_{P}$$. Il en va de même du progrès technique qui se traduit par
+une baisse brutale de $$R_{P}$$ sous l'effet de la mise en oeuvre de ce
 progrès. Enfin, à progrès technique constant, la multiplication de
 site de production correspond à la mise en parallèle de plusieurs
-résistances $$R_{P$$ , ce qui conduit à réduire la résistance globale du
+résistances $$R_{P}$$ , ce qui conduit à réduire la résistance globale du
 même facteur, permettant ainsi de travailler à intensité supérieure
-puisque répartie sur les sites de production. Si une forte valeur de $$R_{P$$
+puisque répartie sur les sites de production. Si une forte valeur de $$R_{P}$$
 traduit un outil de production incapable de fonctionner dans une économie
 à forte intensité de production, il est clair qu'une faible valeur de
-$$R_{P$$ n'est pas nécessairement une situation enviable au niveau écologique,
+$$R_{P}$$ n'est pas nécessairement une situation enviable au niveau écologique,
 au sens à la très grande capacité de l'outil de production est aussi
 un outil de prélèvement accru et massif de la ressource. La finitude
 associée au feuillet conduit alors à un pincement de production, sous
 l'effet de la raréfaction accélérée de la ressource.
 
-On peut attribuer quatre effets principaux à la présence de $$R_{P$$:
+On peut attribuer quatre effets principaux à la présence de $$R_{P}$$:
 
 
- Dégradation du capital qui se traduit à une augmentation de $$R_{P$$
+ Dégradation du capital qui se traduit à une augmentation de $$R_{P}$$
 avec les conséquences qui s'en suivent sur la qualité d'exploitation de la ressource.
 
  Effet de l'innovation qui se traduit à une baisse de $$R_{P$$ avec
