@@ -68,7 +68,7 @@ reliés au module économique (Fig. \ref{Global). Son architecture globale est l
 
 ![imageclosedloop](/images/Archiglobale.jpg){: width="600px"}
 
-##Structure d'un feuillet stock
+## Structure d'un feuillet stock
 
 Les feuillets de type \textbf{stock sont destinés à la plupart des ressources,
 minières ou non, fossiles ou non, dont la quantité sur la planète est finie et de dispersion variable.
@@ -85,7 +85,7 @@ stock $$X_{S}$$. Le recyclage peut être naturel $$F_{NR}$$ ou forcé, $$F_{R}$$
 selon des lois spécifiques. On nomme différence des potentiels la grandeur
 $$\Delta\Pi=\Pi_{H-\Pi_{L}$$.
 
-##Paramètre de feuillet
+## Paramètre de feuillet
 
 Un feuillet stock est défini initialement par le jeu des paramètres
 limités dont la liste est donnée ci-dessous (Les valeurs sont données à
@@ -121,7 +121,7 @@ La description et l'utilisation de ces paramètres est décrite en détail
 dans les annexes de ce document. Une attention particulière est cependant
 portée sur $$R_{P}$$
 
-##Résistance de dissipation: $$R_{P}$$
+## Résistance de dissipation: $$R_{P}$$
 
 La résistance de dissipation est un terme qui intervient, via l'intensité de
 production, sous la forme $$R_{PI}^2$$. Ce terme indique la fraction de la
@@ -189,7 +189,7 @@ différence de potentiel $$\Delta\Pi$$.
 
 .
 
-##Structure d'un feuillet flux
+## Structure d'un feuillet flux
 
 Les feuilles de type flux sont destinées aux ressources qui sont disponible
 sur la planète sous la forme d'un flux (Fig. \ref{Flux). La plus usuelle étant
@@ -197,7 +197,7 @@ naturellement l'énergie solaire.
 
 ![imageclosedloop](/images/FeuilleFlux.jpg){: width="600px"}
 
-##Paramètre de feuillet flux
+## Paramètre de feuillet flux
 
 Un feuillet flux est défini initialement par le jeu des paramètres limités
 dont la liste est donnée ci-dessous (Les valeurs sont données à titre d'exemple):
@@ -218,7 +218,7 @@ dont la liste est donnée ci-dessous (Les valeurs sont données à titre d'exemp
  Capacité maximale de stockage~: \textit{stockMax\_init : 50
 \end{itemize
 
-##Structure du noyau physique
+## Structure du noyau physique
 
 Le noyau physique est le lieu de la réalisation des biens manufacturés. Le
 schéma de principe du fonctionnement de cette zone est donné dans la figure ci-dessous (Fig. \ref{Noyau).
@@ -229,7 +229,7 @@ Les "recettes" de fabrication des biens manufacturés sont indiquées dans la
 feuille \textit{world.txt. Le programme principal effectue automatiquement la
 réalisation en respect de ces recettes.
 
-##Structure de la zone économique
+## Structure de la zone économique
 
 La zone économique est le lieu ou est codé le modèle économique sur lequel
 se fonde la simulation. Afin d'illustrer ce point, deux exemples de
@@ -246,7 +246,7 @@ structure générale d'une feuille économique.~(voir Annexe A)
 
 # Simuler avec EcoDyco <a name="Simuler"></a> 
 
-##Liste des fichiers
+## Liste des fichiers
 
 Vous devez avoir dans un dossier:
 
@@ -280,13 +280,13 @@ Il suffit d'exécuter le fichier main.py.\newline On modifie dans main.py le
 pas de temps \textit{deltat, et l'étendue temporelle de la simulation
 \textit{tmax.
 
-##Paramétrage de la sphère physique
+## Paramétrage de la sphère physique
 
 Pour modifier les paramètres physiques (paramètres des cellules, et
 paramètres globaux de la sphère physique), il faut modifier les
 fichiers .txt correspondant.
 
-###Ajout d'une cellule
+### Ajout d'une cellule
 
 Paramétrage de la nouvelle cellule:
 
@@ -301,7 +301,7 @@ les paramètres souhaités, et enregistrer sous le nom de la ressource (ex~: cui
  enfin, rajouter la colonne correspondante a recipeMatrix dans world.txt
 
 
-###Retrait d'une cellule
+### Retrait d'une cellule
 
 
  Supprimer la cellule dans le tableau cells de world.txt
@@ -309,8 +309,7 @@ les paramètres souhaités, et enregistrer sous le nom de la ressource (ex~: cui
  Supprimer la colonne correspondante de recipeMatrix dans world.txt
 
 
-###Modification des paramètres et valeurs initiales des
-variables de la sphère physique
+### Modification des paramètres et valeurs initiales des variables de la sphère physique
 
 \begin{itemize
  Les paramètres globaux et valeurs initiales des variables globales
@@ -332,7 +331,7 @@ de caractere que celle qui apparaît dans cell/.
 lorsque le modèle a été initialisé.
 \end{itemize
 
-##Paramétrage de la zone économique: exemple Goodwin
+## Paramétrage de la zone économique: exemple Goodwin
 
 L'exemple ci-dessous illustre la paramétrisation dans le cas d'un modèle Goodwin (Fig. \ref{Goodwin).
 
@@ -356,7 +355,7 @@ employment rate et de la population
 
 # Etude de cas élémentaire <a name="Etude"></a>
 
-##Paramétrisation
+## Paramétrisation
 
 On se propose d'illustrer le fonctionnement de \ed\ par une étude de cas (Fig. \ref{Etude)
 basée sur 
@@ -398,7 +397,7 @@ Dans le fichier du modèle économique on spécifie ses paramètres. (ici \texti
 
 ![imageclosedloop](/images/Parametrisation3.jpg){: width="600px"}
 
-##Résultat
+## Résultats
 
 Le lancement de la simulation via le module \textit{main.py conduit au résultat
 suivant pour la production et l'énergie(Fig. \ref{Simulresult) (Fig. \ref{SimulresultMat):
@@ -421,7 +420,7 @@ exemple ici pour le pétrole (Fig. \ref{petrol):
 
 # Annexe A: Comment utiliser un autre modèle économique?<a name="AnnexeA"></a>
 
-##Utiliser un autre modèle économique parmi la bibliothèque
+## Utiliser un autre modèle économique parmi la bibliothèque
 de modèles disponible
 
 Si l'on souhaite utiliser un modèle économique différent pour la
@@ -446,7 +445,7 @@ createEcoSphere de votre fichier EcoModel.py (ici Goodwin.py)
 
 ![imageclosedloop](/images/Main-py.jpg){: width="600px"}
 
-##Créer un nouveau modeles éco
+## Créer un nouveau modeles éco
 
 Il est possible d'insérer n'importe quel modèles économique au programme
 DyCoEco. Si vous souhaitez en écrire un vous même pour l'ajouter a la
@@ -483,7 +482,7 @@ est également détaillé
 
 # Annexe B: Equations gouvernants une feuille stock <a name="AnnexeB"></a> 
 
-##Architecture générale
+## Architecture générale
 
 Les ressources de type "~stock~" sont supposés être en quantité globale
 constante. Une unité de ressource "~stock~" peut se trouver dans trois états différents.
@@ -546,7 +545,7 @@ usagée peut parfois etre recyclée. Ce recyclage peut etre naturel, ou la
 conséquence d'une activité humaine. On note $$F_{NR}$$ le flux de recyclage
 naturel, et $$F_{R}$$ le flux de recyclage humain.
 
-##Zone de production
+## Zone de production
 
 Au fur et à mesure que l'on exploite la ressource disponible, sa qualité
 diminue, car on exploite la ressource de bonne qualité en premier. Or, la
@@ -698,7 +697,7 @@ modèle. Désormais, la période de $$t=10$$ à $$t=20$$ dans le modèles,
 soit $$\Delta t=10$$, peut etre comparé aux temps de réaction des feuilles, qui
 eux ont une signification physique.
 
-##Zone de recyclage
+## Zone de recyclage
 
 Le flux de recyclage naturel est donné par la relation:
 
@@ -733,7 +732,7 @@ physique, au-dessus des différentes feuilles ressources. On parle de noyau
 central, englobant toutes les feuilles ressources.
 \newpage
 
-#Annexe C: Equations gouvernants un feuillet flux <a name="AnnexeC"></a>
+# Annexe C: Equations gouvernants un feuillet flux <a name="AnnexeC"></a>
 
 Un feuillet de type "~flux~" est défini par un flux incident $$P_{i}$$ (intégré
 sur toute la surface de la Terre), et un appareil de production caractérisé
@@ -865,7 +864,7 @@ de production entre tous les biens finaux utilisant cette ressources.
 L'algorithme renvoie les allocations des ressources à la production des
 différents biens finaux.
 
-##Mix énergétique
+## Mix énergétique
 
 Lorsque la production d'un bien requiert de l'énergie, elle peut être réalisée
 quelle que soit la provenance de cette énergie: pétrole, charbon, gaz,
@@ -890,9 +889,9 @@ ces requêtes sont décrites dans la sphère économique.
 
 # Annexe E: Economie <a name="AnnexeE"></a>
 
-##{Sphère économique
+## Sphère économique
 
-###{Structure générale
+### Structure générale
 
 Le rôle de la sphère économique est de spécifier l'évolution de l'ensemble
 des variables économiques. En particulier, elle indique a la sphère physique~:
@@ -912,7 +911,7 @@ des feuilles "~flux~"
  le niveau de stock cible pour les feuilles de type "~stock~"
 \end{itemize
 
-###{progrès technique
+### Progrès technique
 
 On spécifie dans la sphère économique les lois décrivant le progrès
 technique éventuel. Le progrès technique correspond ici a la diminution
@@ -942,12 +941,12 @@ particulier, on peut utiliser comme requête de production les fonctions de
 production de modèles macroéconomiques, et comme investissement celui
 décrit par ces mêmes modèles.
 
-###\ Niveaux d'utilisation du modèle
+### Niveaux d'utilisation du modèle
 
 Il existe plusieurs niveaux d' utilisation du modèle:
 
 
- le premier niveau consiste a faire tourner le modèle en utilisant
+ le premier niveau consiste a faire fonctioner le modèle en utilisant
 dans la sphère économiques des lois déjà pré-écrites et en faisant
 uniquement varier les paramètres (nombre de ressources, leurs
 caractéristiques, choix du mix énergétique, recyclage demandé, etc). Par
@@ -966,7 +965,7 @@ a l' introduction d' une rétroaction entre l'état des ressources et le mix
 énergétique souhaité.
 
 
-###{Exemple de modèle: Solow
+### Exemple de modèle: Solow
 
 {Un exemple de sphère économique basée sur le modèle de Solow
 
@@ -1024,9 +1023,9 @@ Dans ce modèle, la production Y augmente exponentiellement, grâce a la
 croissance de la productivité du travail. La production par unité de travail
 effectif Y/AL converge vers un état stationnaire.
 
-##Adaptation pour la sphère économique
+## Adaptation pour la sphère économique
 
-###Fonction de requête de production
+### Fonction de requête de production
 
 On utilise la fonction de production du modèle de Solow comme fonction de
 requête de production (section 1.2.1).
@@ -1053,7 +1052,7 @@ production n'est pas satisfaite à l'instant t, la requête à l'instant
 t+dt s'adapte : on ne continue pas à demander une croissance exponentielle
 indéfiniment alors que la production effective ne suit plus.
 
-###Investissement
+### Investissement
 
 L'investissement est défini pour chaque feuille ressource. On définit un
 paramètre s commun à toutes les feuilles, qui correspond à la
@@ -1069,7 +1068,7 @@ I=sG_{USED%
 \]
 
 
-###Requête de recyclage
+### Requête de recyclage
 
 Pour la requête de recyclage, on définit la loi suivante : on souhaite
 recycler une proportion constante de la quantité de déchets produits On
@@ -1087,7 +1086,7 @@ Cette loi n'est qu'une proposition. On pourrait également tenir compte de la
 quantité totale de déchets $$X_{L$$ pour la requête de recyclage, et non pas
 simplement de la variation de cette quantité.
 
-###Autres inputs économiques
+### Autres inputs économiques
 
 Il a été choisi de ne pas faire varier le niveau cible de stock demandé aux
 feuillets, ni le mix énergétique souhaité, ni les quantités de ressources
@@ -1099,7 +1098,7 @@ scénarios de variation de toutes ces requêtes de la sphère économique
 accessibles à l'utilisateur est située dans un fichier à part, court
 et commenté.
 
-##Analyse
+## Analyse
 
 Ce modèle n'a pas pour but de reproduire le plus fidèlement possible
 la trajectoire de l'économie mondiale des dernières décennies, ni de
@@ -1122,9 +1121,9 @@ outil atteint son objectif de proposer une base physique aux modèles
 macroéconomiques via la prise en compte directe des flux de matière et
 d'énergie engendrés par l'activité économique.
 \newpage
-#Annexe F: Mécanisme de rétroaction Physique-Economique
+# Annexe F: Mécanisme de rétroaction Physique-Economique
 
-##Rétroactions de la sphère physique sur l'activité économique
+## Rétroactions de la sphère physique sur l'activité économique
 
 On observe, selon le paramétrage de la situation, des rétroactions de la
 sphère physique sur l'activité économique. En particulier, lorsque le flux
@@ -1184,7 +1183,7 @@ emballement avec une explosion des flux de ressource afin de compenser la
 perte d'efficacité, dans un cercle vicieux. On observe ici un défaut de
 production lié à l'épuisement d'une ressource non-renouvelable et non-substituée.
 
-##Etat stable
+## Etat stable
 
 Cependant, une activité économique stable (qui ne s'effondre pas à temps
 infini) est possible, si elle n'implique l'utilisation que de ressources stock
@@ -1216,7 +1215,7 @@ effondrement, et d'atteindre cet état stable (Fig. \ref{Fig10).
 
 ![imageclosedloop](/images/Tableau-Bord10.jpg){: width="600px"}
 
-##Passage d'une économie basée sur des ressources flux à une
+## Passage d'une économie basée sur des ressources flux à une
 économie basée sur des ressources stock
 
 Il existe donc, pour un ensemble de ressources et de recettes donnée, un
@@ -1268,19 +1267,9 @@ de production semblent converger vers un niveau plus faible mais non-nul.
 ![imageclosedloop](/images/Energie12.jpg){: width="600px"}
 
 L'étude de l'évolution du mix énergétique réel au cours du temps indique que
-dans un premier temps (t%
-%TCIMACRO{\TEXTsymbol{<%
-%BeginExpansion
-$$<$$%
-%EndExpansion
-800), le besoin en énergie est entièrement couvert par la feuille
+dans un premier temps (t<800), le besoin en énergie est entièrement couvert par la feuille
 énergie solaire (Fig. \ref{Fig12). Le mix énergétique réel est donc égal
-au mix énergétique souhaité. Pour t%
-%TCIMACRO{\TEXTsymbol{>%
-%BeginExpansion
-$$>$$%
-%EndExpansion
-800, le besoin en énergie dépasse la production d'énergie solaire. On fait
+au mix énergétique souhaité. Pour t>800, le besoin en énergie dépasse la production d'énergie solaire. On fait
 donc appel à la feuille pétrole afin de continuer à satisfaire la
 requête en énergie. Le mix énergétique réel voit la place du pétrole devenir
 prépondérante, à mesure que la demande en énergie croit. La feuille
@@ -1296,7 +1285,7 @@ niveau maximal permis par le flux d'énergie solaire disponible.
 ##Variations du capital
 
 Toutes les illustrations jusqu'ici proviennent de simulations avec capital
-fixé : le taux d'érosion du capital \U{3b4 était nul, et l'investissement
+fixé : le taux d'érosion du capital était nul, et l'investissement
 également. Ainsi, les résistances $$R_{P$$ des feuilles stock et paramètres
 surface installéedes feuilles flux étaient constantes. L'introduction
 d'un taux d'érosion et d'un investissement non-nul modifie les trajectoires observées.
