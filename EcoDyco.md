@@ -470,7 +470,7 @@ $$X_{T}$$ la quantité totale de ressource.
 
 Ainsi, on a a chaque instant :
 
-\[X_{H}+X_{S}+X_{L}=X_{T}%\]
+$$X_{H}+X_{S}+X_{L}=X_{T}$$
 
 Ensuite, on comptabilise strictement les mouvements entre ces trois
 réservoirs.
@@ -495,7 +495,7 @@ On note $$F_{HP}$$ le flux provenant du réservoir haut, $$F_{LP}$$ le
 flux en direction du réservoir bas, et $$G$$ le flux de ressources en
 direction du stock. Ainsi,
 
-\[G=F_{HP}-F_{LP}%\]
+$$G=F_{HP}-F_{LP}$$
 
 Les ressources dans le stock $$X_{S}$$ sont ensuite transformées en bien
 final. Apres utilisation, la ressource devient déchet. On note
@@ -524,17 +524,18 @@ niveau de potentiel, $$\Pi_{H}$$. $$\Pi_{H}$$ diminue au fur et a mesure
 de l’extraction de la ressource du stock haut. $$\Pi_{H}$$ est donc une
 fonction croissante de $$X_{H}$$.
 
-On a : \[F_{HP}=\Pi_{H}I_{P}%\]
-                                         \[\Pi_{H}=f_{1}(X_{H})\]
+On a : $$F_{HP}=\Pi_{H}I_{P}$$
+et: $$\Pi_{H}=f_{1}(X_{H})$$
                     
 
 Les déchets dans le réservoir bas sont une pollution, qui a une
 rétroaction négative sur la production. Cette rétroaction se manifeste
 par l’augmentation du potentiel du réservoir bas, $$\Pi_{L}$$.
 
-On a :                   \[\begin{aligned}
-\ F_{LP}  &  =\Pi_{L}I_{P}\\
-\Pi_{L}  &  =f_{2}(X_{L})\end{aligned}\]
+On a :
+$$F_{LP}  &  =\Pi_{L}I_{P}$$
+
+$$Pi_{L}  &  =f_{2}(X_{L})$$
 
 Le choix des fonctions $$f_{1}$$et $$f_{2}$$est important si l’on
 souhaite obtenir des résultats quantitatifs avec le modèles. Si l’on ne
@@ -571,19 +572,22 @@ moins important. A intensité élevée, $$G$$ est plus élevé mais le
 rendement est dégradé.
 
 On introduit donc une *résistance* $$R_{P}$$. On a alors un terme de
-friction $$R_{P}I_{P}^{2}$$, et $$F_{LP}$$
-devient :$$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ $$
-\[F_{LP}=\Pi_{L}I_{P}+R_{P}I_{P}^{2}%\]
+friction $$R_{P}I_{P}^{2}$$, et $$F_{LP}$$ ce qui donne
+:$$[F_{LP}=\Pi_{L}I_{P}+R_{P}I_{P}^{2}$$
 
-En résumé, les équations décrivant l’extraction sont : \[\begin{aligned}
-F_{HP}  &  =\Pi_{H}I_{P}\\
-F_{LP}  &  =\Pi_{L}I_{P}+R_{P}I_{P}^{2}\\
-G  &  =F_{HP}-F_{LP}=\Delta\Pi I_{P}+R_{P}I_{P}^{2}%\end{aligned}\]
+
+En résumé, les équations décrivant l’extraction sont:
+
+$$F_{HP}  &  =\Pi_{H}I_{P}$$
+
+$$F_{LP}  &  =\Pi_{L}I_{P}+R_{P}I_{P}^{2}$$
+
+$$G  &  =F_{HP}-F_{LP}=\Delta\Pi I_{P}+R_{P}I_{P}^{2}$$
         
 
-Le flux extrait G est donc fonction de la différence de potentiels, de
+Le flux extrait $G$ est donc fonction de la différence de potentiels, de
 l’intensité de production, et de la résistance. Supposons
-$$\Delta\Pi$$ et $$R_{P}$$ fixés. G est alors une fonction parabolique
+$$\Delta\Pi$$ et $$R_{P}$$ fixés. $G$ est alors une fonction parabolique
 de $$I_{P}$$.
 
 ![image](/images/Prod-I.jpg){: width="600px"}
@@ -602,7 +606,7 @@ $$I_{p}^{max}$$.
 
 De plus, il est possible que le niveau de flux d’extraction G requis ne
 soit pas atteignable, selon le couple $$(\Delta\Pi,R_{P})$$. La valeur
-maximale de G est \[G^{max}=\Delta\Pi^{2}/4R_{P}%\]
+maximale de G est $$G^{max}=\Delta\Pi^{2}/4R_{P}$$
 
 Il est donc possible que la sphère économique fixe une requête de
 production qui ne puisse pas etre satisfaite. La possibilité de ce
@@ -619,7 +623,7 @@ manifeste la rétroaction de la sphère physique sur l’activité
 
 De plus, l’efficacité du processus d’extraction, définie par
 $$\eta=G/F_{HP}$$,
-vaut:                    \[\eta=1-\Pi_{L}/\Pi_{H}-R_{P}I_{P}^{2}/F_{HP}%\]
+vaut:$$\eta=1-\Pi_{L}/\Pi_{H}-R_{P}I_{P}^{2}/F_{HP}$$
 
 A intensité nulle, on retrouve une expression analogue au rendement de
 Carnot. Ensuite, l’efficacité diminue a mesure que l’intensité augmente.
@@ -632,8 +636,7 @@ retard. On définit une *intensité de production demandée* $$I_{P}^{D}$$.
 Le retard est caractérisé par un *temps caractéristique de réponse de
 production* $$\tau$$.
 
-On a alors :       $$\ \ \ \ \ \ \ \ \ \ \ \ \ $$
-\[dI_{P}/dt+\tau I_{P}=I_{P}^{D}%\]
+On a alors :       $$dI_{P}/dt+\tau I_{P}=I_{P}^{D}$$
 
 Remarquons que cela permet de donner une signification physique au temps
 du modèle. Désormais, la période de $$t=10$$ à $$t=20$$ dans le modèles,
@@ -644,7 +647,7 @@ feuilles, qui eux ont une signification physique.
 
 Le flux de recyclage naturel est donné par la relation:
 
-\[F_{NR}=r\left(  1-\exp\left(  \frac{X_{L}}{0.5X_{T}}\right)  \right)\]
+$$F_{NR}=r\left(  1-\exp\left(  \frac{X_{L}}{0.5X_{T}}\right)$$
 
 ou r est le taux de régénération naturel.
 
@@ -673,8 +676,7 @@ pourcentage de la surface terrestre). L’appareil de production permet
 l’extraction de cette ressource, c’est a dire sa mise à disposition
 pour une transformation ultérieure.
 
-Le flux extrait est :$$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ $$
-\[G=\eta P_{i}S\]
+Le flux extrait est :$$G=\eta P_{i}S$
 
 Ce flux peut etre immédiatement utilisé, ou stocké en attente
 d’utilisation. La capacité de stockage est définie par le paramètre
@@ -683,9 +685,8 @@ $$stock_{Max}$$.
 L’utilisation de la ressource correspond à un flux sortant du stock,
 noté $$G_{USED}$$.
 
-Ainsi, le stock $$X_{S}$$ vérifie :                    \[\begin{aligned}
-\Delta X_{S}  &  =G-G_{USED}\\
-0  &  <X_{S}<stock_{Max}%\end{aligned}\]     
+Ainsi, le stock $$X_{S}$$ vérifie : 
+$$\Delta X_{S}  &  =G-G_{USED}0  &  <X_{S}<stock_{Max}$$
 
 # Annexe D: Gestion du noyau central couplant les feuillets physiques: "recettes"
 
@@ -695,7 +696,7 @@ définissent les ingrédients et quantités nécessaire a la formation
 d’une unité d’un bien final. Par exemple, on peut définir le bien
 final " barque " avec la recette :
 
-                5 bois + 3 énergie = 1 barque
+               5 bois + 3 énergie = 1 barque
 
 L’ensemble des coefficients des recettes définit une *matrice des
 recettes*, dont les colonnes représentent les ressources et les lignes
@@ -713,17 +714,16 @@ d’autant : il ne sert à rien de continuer à bruler du pétrole si l’on
 n’utilise pas l’énergie produite.
 
 La mise en place de stratégies permettant d’obtenir ce résultat a fait
-l’objet de plusieurs tentatives\[5\].
+l’objet de plusieurs tentatives.
 
 Dans la stratégie retenue on fixe à chaque feuillet un objectif de stock
 à atteindre. Ensuite, l’intensité de production de chaque feuille
 s’ajuste afin de faire converger la valeur du stock vers le stock
 cible, et de l’y maintenir. Plus précisément, la variation de
 l’intensité de production demandée $$\Delta I_{P}^{D}$$ est donnée
-par l’équation :$$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ $$
-\[\Delta I_{P}^{D}=a(X_{S}-X_{S}^{CIBLE})+b(dX_{S}/dt-0)\]
+par l’équation :$$\Delta I_{P}^{D}=a(X_{S}-X_{S}^{CIBLE})+b(dX_{S}/dt-0)$$
 
-On souhaite que $$X_{S}$$converge vers $$X_{S}^{CIBLE}$$, et
+On souhaite que $$X_{S}$$ converge vers $$X_{S}^{CIBLE}$$, et
 $$dX_{S}/dt$$ vers 0 : $$\Delta I_{P}^{D}$$ est donc fonction des écarts
 $$X_{S}-X_{S}^{CIBLE}$$ et $$dX_{S}/dt-0$$. A l’équilibre,
 $$\Delta I_{P}^{D}$$est nulle.
@@ -894,7 +894,7 @@ est un modèle de référence de l’économie néo-classique.
 
 Il utilise une fonction de production de Cobb-Douglas a deux facteurs :
 
-\[Y=K^{\alpha}(AL)^{1-\alpha}%\]
+$$Y=K^{\alpha}(AL)^{1-\alpha}$$
 
 avec :
 
@@ -918,7 +918,7 @@ population active L se rapproche de sa valeur limite P$$_{L}$$.
 Le capital s’érode au taux $$\delta K$$, érosion compensée par l’
 investissement I.
 
-            \[dK/dt=I-\delta K\]
+            $$dK/dt=I-\delta K$$
 
 Une part *s* de la production est réinvestie :
 
@@ -940,8 +940,8 @@ On initialise les requêtes de production de chaque bien final au
 lancement de la simulation. A chaque instant, on calcule la requête pour
 l’instant t+dt à partir du résultat de production de l’instant t
 
-\[Y_{REQ}(t+dt)=Y(t)\ast\left(  \frac{K(t+dt)}{K(t)}\right)  ^{\alpha}\left(
-\frac{A(t+dt)L(t+dt)}{A(t)L(t)}\right)  ^{1-\alpha}%\]   avec
+$$Y_{REQ}(t+dt)=Y(t)\ast\left(  \frac{K(t+dt)}{K(t)}\right)  ^{\alpha}\left(
+\frac{A(t+dt)L(t+dt)}{A(t)L(t)}\right)  ^{1-\alpha}$$   avec
 
   - $$Y_{REQ}$$ la requête de production adressée a la sphère physique.
 
@@ -976,7 +976,7 @@ indiquant la valeur du paramètre recycling compris entre 0 et 1.
 
 L’équation de la requête de recyclage est donc :
 
-\[Y_{REQ}(t+dt)=(F_{LP}(t)+G_{USED}(t))\ast recycling\]
+$$Y_{REQ}(t+dt)=(F_{LP}(t)+G_{USED}(t))\ast recycling$$
 
 Cette loi n’est qu’une proposition. On pourrait également tenir compte
 de la quantité totale de déchets $$X_{L}$$ pour la requête de recyclage,
