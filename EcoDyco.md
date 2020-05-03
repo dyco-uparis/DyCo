@@ -3,8 +3,8 @@ layout: hidden_page
 title: Thermodynamique et Économie
 ---
 
+<!-- Cette page reprend le manuel du Code Ecodyco disponible [ici](https://github.com/dyco-uparis/EcoDyco) -->
 
-$$a=0$$
 
 # <span class="smallcaps">EcoDyco</span>: Un modèle économique dans un monde physique fini
 
