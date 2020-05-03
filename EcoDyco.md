@@ -2,6 +2,26 @@
 layout: hidden_page
 title: Thermodynamique et Économie
 ---
+![imageclosedloop](/images/couverture.jpg){: width="300px"}
+### EcoDyco
+- [Un modèle économique dans un monde physique fini](#MondeFini)
+- [Structure générale](#Structure)
+- [Simuler avec EcoDyco ](#Simuler)
+- [Etude de cas élémentaire](#Etude)
+- [Conclusion](#Conclusion)
+- [License](#License)
+- [Annexe A: Comment utiliser un autre modèle économique?](#AnnexeA)
+- [Annexe B: Equations gouvernants une feuille stock](#AnnexeB)
+- [Annexe C: Equations gouvernants un feuillet flux](#AnnexeC)
+- [Annexe D: Gestion du noyau central couplant les feuillets physiques: "recettes"](#AnnexeD)
+- [Annexe E: Economie](#AnnexeE)
+- [Annexe F: Effets de rétroaction](#Retro)
+- [Annexe G: Licence](#Licence)
+ 
+
+
+# Un modèle économique dans un monde physique fini <a name="MondeFini"></a>
+
 
 <!-- Cette page reprend le manuel du Code Ecodyco disponible [ici](https://github.com/dyco-uparis/EcoDyco) -->
 
@@ -385,7 +405,7 @@ exemple ici pour le pétrole (Fig. [11](#petrol)):
 ![Résultats de la simulation pour le feuillet
 pétrole<span label="petrol"></span>](/images/ResultatSimulPet.jpg){: width="600px"}
 
-# Annexe A: Comment utiliser un autre modèle économique ?
+# Annexe A: Comment utiliser un autre modèle économique? <a name="AnnexeA"></a>
 
 ## Utiliser un autre modèle économique parmi la bibliothèque de modèles disponible
 
@@ -444,7 +464,7 @@ donné ci-dessous (ecoVide.py).Le rôle des fonctions citées ci-dessus est
 
 ![image](/images/EcoVide-py.jpg){: width="600px"}
 
-# Annexe B: Equations gouvernants une feuille stock
+# Annexe B: Equations gouvernants une feuille stock <a name="AnnexeB"></a>
 
 ## Architecture générale
 
@@ -667,7 +687,7 @@ cette idée. Dans le modèle, elles sont implémentées au niveau de la
 sphère physique, au-dessus des différentes feuilles ressources. On
 parle de noyau central, englobant toutes les feuilles ressources.
 
-# Annexe C: Equations gouvernants un feuillet flux
+# Annexe C: Equations gouvernants un feuillet flux <a name="AnnexeC"></a>
 
 Un feuillet de type " flux " est défini par un flux incident $$P_{i}$$
 (intégré sur toute la surface de la Terre), et un appareil de production
@@ -688,7 +708,7 @@ noté $$G_{USED}$$.
 Ainsi, le stock $$X_{S}$$ vérifie : 
 $$\Delta X_{S}=G-G_{USED}<X_{S}<stock_{Max}$$
 
-# Annexe D: Gestion du noyau central couplant les feuillets physiques: "recettes"
+# Annexe D: Gestion du noyau central couplant les feuillets physiques: "recettes" <a name="AnnexeD"></a>
 
 Le noyau central est la zone d’assemblage des ressources précédemment
 extraites pour formation des biens finaux. Les recettes de production
@@ -805,7 +825,7 @@ décisions humaines, auxquels la sphère physique ne fait que répondre.
 Les lois décrivant l’évolution de ces requêtes sont décrites dans la
 sphère économique.
 
-# **Annexe E: Economie**
+# **Annexe E: Economie <a name="AnnexeE"></a>
 
 ## <span>S</span>phère économique
 
@@ -1017,7 +1037,7 @@ outil atteint son objectif de proposer une base physique aux modèles
 macroéconomiques via la prise en compte directe des flux de matière et
 d’énergie engendrés par l’activité économique.
 
-# Annexe F: Mécanisme de rétroaction Physique-Economique
+# Annexe F: Mécanisme de rétroaction Physique-Economique <a name="Retro"></a>
 
 ## Rétroactions de la sphère physique sur l’activité économique
 
@@ -1259,7 +1279,7 @@ On rentre alors dans un cercle vicieux : l’investissement chute
 résistance de l’appareil de production augmente à nouveau, et la
 production ultérieure est encore plus difficile. La chute s’accélère.
 
-# Annexe G: Conditions de licence
+# Annexe G: Conditions de licence <a name="Licence"></a>
 
   EcoDyco est déposé sous licence GPL V3
 
