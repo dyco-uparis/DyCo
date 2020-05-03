@@ -19,13 +19,13 @@ title: Thermodynamique et Économie
 - [Bibliographie](#Biblio)
 
 
-# Un modèle économique dans un monde physique fini <a name="MondeFini"></a>
+# <span class="smallcaps">EcoDyco</span>: Un modèle économique dans un monde physique fini<a name="MondeFini"></a>
 
 
 <!-- Cette page reprend le manuel du Code Ecodyco disponible [ici](https://github.com/dyco-uparis/EcoDyco) -->
 
 
-# <span class="smallcaps">EcoDyco</span>: Un modèle économique dans un monde physique fini
+
 
 Le modèle <span class="smallcaps">EcoDyco</span> a été conçu sur la base
 de quatre constats :
