@@ -533,9 +533,9 @@ rétroaction négative sur la production. Cette rétroaction se manifeste
 par l’augmentation du potentiel du réservoir bas, $$\Pi_{L}$$.
 
 On a :
-$$F_{LP}  &  =\Pi_{L}I_{P}$$
+$$F_{LP}=\Pi_{L}I_{P}$$
 
-$$Pi_{L}  &  =f_{2}(X_{L})$$
+$$Pi_{L}=f_{2}(X_{L})$$
 
 Le choix des fonctions $$f_{1}$$et $$f_{2}$$est important si l’on
 souhaite obtenir des résultats quantitatifs avec le modèles. Si l’on ne
@@ -573,16 +573,16 @@ rendement est dégradé.
 
 On introduit donc une *résistance* $$R_{P}$$. On a alors un terme de
 friction $$R_{P}I_{P}^{2}$$, et $$F_{LP}$$ ce qui donne
-:$$[F_{LP}=\Pi_{L}I_{P}+R_{P}I_{P}^{2}$$
+:$$F_{LP}=\Pi_{L}I_{P}+R_{P}I_{P}^{2}$$
 
 
 En résumé, les équations décrivant l’extraction sont:
 
-$$F_{HP}  &  =\Pi_{H}I_{P}$$
+$$F_{HP}=\Pi_{H}I_{P}$$
 
-$$F_{LP}  &  =\Pi_{L}I_{P}+R_{P}I_{P}^{2}$$
+$$F_{LP}=\Pi_{L}I_{P}+R_{P}I_{P}^{2}$$
 
-$$G  &  =F_{HP}-F_{LP}=\Delta\Pi I_{P}+R_{P}I_{P}^{2}$$
+$$G=F_{HP}-F_{LP}=\Delta\Pi I_{P}+R_{P}I_{P}^{2}$$
         
 
 Le flux extrait $G$ est donc fonction de la différence de potentiels, de
@@ -647,7 +647,7 @@ feuilles, qui eux ont une signification physique.
 
 Le flux de recyclage naturel est donné par la relation:
 
-$$F_{NR}=r\left(  1-\exp\left(  \frac{X_{L}}{0.5X_{T}}\right)$$
+$$F_{NR}=r( 1-\exp(\frac{X_{L}}{0.5X_{T}})$$
 
 ou r est le taux de régénération naturel.
 
@@ -686,7 +686,7 @@ L’utilisation de la ressource correspond à un flux sortant du stock,
 noté $$G_{USED}$$.
 
 Ainsi, le stock $$X_{S}$$ vérifie : 
-$$\Delta X_{S}  &  =G-G_{USED}0  &  <X_{S}<stock_{Max}$$
+$$\Delta X_{S}=G-G_{USED}<X_{S}<stock_{Max}$$
 
 # Annexe D: Gestion du noyau central couplant les feuillets physiques: "recettes"
 
@@ -1264,7 +1264,7 @@ production ultérieure est encore plus difficile. La chute s’accélère.
   EcoDyco est déposé sous licence GPL V3
 
 
-<span>99</span>
+# Bibliographie
 
 Boulding, K.E. The economics of the coming spaceship earth. In
 Environmental Quality in a Growing Economy.H. Jarrett, Ed.: 3–14. Johns
