@@ -65,7 +65,7 @@ feuillets de type stock et de type flux, reliés au module économique
 (Fig. [1](#Global)). Son architecture globale est la suivante:
 
 ![Schéma de principe des sphères physique et
-économique<span label="Global"></span>](/images/ArchiGlobale.jpg)
+économique<span label="Global"></span>](/images/ArchiGlobale.jpg){: width="600px"}
 
 ## Structure d’un feuillet stock
 
@@ -74,7 +74,7 @@ ressources, minières ou non, fossiles ou non, dont la quantité sur la
 planète est finie et de dispersion variable.
 
 ![Structure de feuillet de type
-stock.<span label="Stock"></span>](/images/FeuilleStock.jpg)
+stock.<span label="Stock"></span>](/images/FeuilleStock.jpg){: width="600px"}
 
 Sur un feuillet type (Fig. [2](#Stock)) on distingue une zone haute qui
 contient la ressource en quantité $$X_{H}$$ et en qualité $$\Pi_{H}$$
@@ -184,7 +184,7 @@ disponible sur la planète sous la forme d’un flux (Fig. [3](#Flux)). La
 plus usuelle étant naturellement l’énergie solaire.
 
 ![Structure de feuillet de type
-flux.<span label="Flux"></span>](/images/FeuilleFlux.jpg)
+flux.<span label="Flux"></span>](/images/FeuilleFlux.jpg){: width="600px"}
 
 ## Paramètre de feuillet flux
 
@@ -213,7 +213,7 @@ Le schéma de principe du fonctionnement de cette zone est donné dans la
 figure ci-dessous (Fig. [4](#Noyau)).
 
 ![Structure du noyau
-physique.<span label="Noyau"></span>](/images/NoyauCentral.jpg)
+physique.<span label="Noyau"></span>](/images/NoyauCentral.jpg){: width="600px"}
 
 Les "recettes" de fabrication des biens manufacturés sont indiquées dans
 la feuille *world.txt*. Le programme principal effectue automatiquement
@@ -310,7 +310,7 @@ L’exemple ci-dessous illustre la paramétrisation dans le cas d’un modèle
 Goodwin (Fig. [5](#Goodwin)).
 
 ![Contenu du fichier de paramétrisation
-Goodwin<span label="Goodwin"></span>](/images/Goodwin-txt.jpg)
+Goodwin<span label="Goodwin"></span>](/images/Goodwin-txt.jpg){: width="600px"}
 
   - $$phi0$$ et $$phi1$$ sont les paramètres de la courbe de Philipps
 
@@ -347,7 +347,7 @@ On se propose d’illustrer le fonctionnement de
   - 1 Mix énergétique cible : 90% solaire, 10% pétrole
 
 ![Exemple d’étude de
-cas<span label="Etude"></span>](/images/Parametrisation.jpg)
+cas<span label="Etude"></span>](/images/Parametrisation.jpg){: width="600px"}
 
 Dans le fichier principal *main.py*, on effectue
 
@@ -358,13 +358,13 @@ Dans le fichier principal *main.py*, on effectue
 3.  le choix du pas de temps et de la durée de la simulation
 
 ![Paramétrisation du fichier
-txt<span label="Param"></span>](/images/Parametrisation2.jpg)
+txt<span label="Param"></span>](/images/Parametrisation2.jpg){: width="600px"}
 
 Dans le fichier du modèle économique on spécifie ses paramètres. (ici
 *Solow.txt*) (Fig. [8](#Param2)).
 
 ![Paramétrisation dans le modèle
-économique<span label="Param2"></span>](/images/Parametrisation3.jpg)
+économique<span label="Param2"></span>](/images/Parametrisation3.jpg){: width="600px"}
 
 ## Résultat
 
@@ -373,17 +373,17 @@ résultat suivant pour la production et l’énergie(Fig.
 [9](#Simulresult)) (Fig. [10](#SimulresultMat)):
 
 ![Résultats de la simulation
-énergétique<span label="Simulresult"></span>](/images/ResultatSimul.jpg)
+énergétique<span label="Simulresult"></span>](/images/ResultatSimul.jpg){: width="600px"}
 
 ![Résultats de la simulation
-matère<span label="SimulresultMat"></span>](/images/ResultatSimulE.jpg)
+matère<span label="SimulresultMat"></span>](/images/ResultatSimulE.jpg){: width="600px"}
 
 Toutes les informations relatives à chacun des feuillets étant
 enregistrées, il est possible de suivre les paramètres à volonté, par
 exemple ici pour le pétrole (Fig. [11](#petrol)):
 
 ![Résultats de la simulation pour le feuillet
-pétrole<span label="petrol"></span>](/images/ResultatSimulPet.jpg)
+pétrole<span label="petrol"></span>](/images/ResultatSimulPet.jpg){: width="600px"}
 
 # Annexe A: Comment utiliser un autre modèle économique ?
 
@@ -411,7 +411,7 @@ modifications suivantes dans le fichier main.py
   - Ligne 42: De même, vérifier les arguments pris par la fonction
     ecoSphere.newProdRequest()
 
-![image](/images/Main-py.jpg)
+![image](/images/Main-py.jpg){: width="600px"}
 
 ## Créer un nouveau modeles éco
 
@@ -442,7 +442,7 @@ Un exemple de modèle économique (trivial) respectant cette structure est
 donné ci-dessous (ecoVide.py).Le rôle des fonctions citées ci-dessus est
 également détaillé
 
-![image](/images/EcoVide-py.jpg)
+![image](/images/EcoVide-py.jpg){: width="600px"}
 
 # Annexe B: Equations gouvernants une feuille stock
 
@@ -485,7 +485,7 @@ de température entre deux thermostats, une certaine quantité de travail
 utile W, tandis qu’une part de l’énergie provenant de la source chaude
 $$Q_{C}$$ est dissipée sous forme de chaleur $$Q_{F}$$.
 
-![image](/images/Carnot.jpg)
+![image](/images/Carnot.jpg){: width="600px"}
 
 Ici, la source chaude devient le réservoir de ressource " disponible ",
 la source froide le réservoir de ressource " usagée ", et le travail
@@ -546,7 +546,7 @@ $$f_{1}(X_{H}=0)=0,5$$ et $$f_{1}(X_{H}=X_{T})=1$$. On prendra pour
 $$f_{2}$$ une fonction croissante et concave, telle que
 $$f_{1}(X_{L}=0)=0etf_{1}(X_{L}=X_{T})=0,5$$.
 
-![image](/images/Potentiels.jpg)
+![image](/images/Potentiels.jpg){: width="600px"}
 
 Lorsque toute la ressource est dans le réservoir haut, $$\Pi_{H}=1$$ et
 $$\Pi
@@ -586,7 +586,7 @@ l’intensité de production, et de la résistance. Supposons
 $$\Delta\Pi$$ et $$R_{P}$$ fixés. G est alors une fonction parabolique
 de $$I_{P}$$.
 
-![image](/images/Prod-I.jpg)
+![image](/images/Prod-I.jpg){: width="600px"}
 
 Le terme de friction quadratique entraîne qu’au delà d’un certain seuil
 $$(I_{P}=\Delta\Pi/2R_{P})$$, augmenter encore l’intensité de production
@@ -731,7 +731,7 @@ $$\Delta I_{P}^{D}$$est nulle.
 $$a$$ et $$b$$ sont des paramètres définissant la préférence relative
 entre les deux objectifs ($$X_{S}=X_{S}^{CIBLE}$$ et $$dX_{S}/dt=0$$).
 
-![image](/images/Stock-t.jpg)
+![image](/images/Stock-t.jpg){: width="600px"}
 
 Dans cette stratégie, chaque feuillet fixe de manière autonome son
 intensité de production. On décrit ainsi une situation où chaque secteur
@@ -885,7 +885,7 @@ Il existe plusieurs niveaux d’ utilisation du modèle:
 <span>Un exemple de sphère économique basée sur le modèle de
 Solow</span>
 
-![image](/images/solow2.jpg)
+![image](/images/solow2.jpg){: width="600px"}
 
 Le modèle de Solow, créé en 1956, est un modèle macroéconomique qui
 explique la croissance par l’ accumulation du capital, la croissance de
@@ -1048,7 +1048,7 @@ Enfin, on se place dans un scénario de croissance nulle. La demande en
 biens finaux est constante (respectivement 12 bien 0 et 18 bien 1 par
 unité de temps).
 
-![image](/images/Production7.jpg)
+![image](/images/Production7.jpg){: width="600px"}
 
 On observe une chute de la production des biens 1 et 2 à t=500, malgré
 une requête de production constante. La production semble converger
@@ -1060,7 +1060,7 @@ simulation) sont communes aux deux recettes de production. La
 simultanéité des chutes de production des biens 0 et 1 suggère que
 l’une de ces deux ressources à fait défaut.
 
-![image](/images/Tableau-Bord8.jpg)
+![image](/images/Tableau-Bord8.jpg){: width="600px"}
 
 En effet, l’état de la ressource pétrole semble s’être dégradé
 rapidement, entraînant une chute de la production de pétrole à t=500.
@@ -1113,9 +1113,10 @@ l’évolution de l’état de la ressource cuivre montre que la décision de
 fixer une requête de recyclage de 100 % à t=500 à permis d’éviter un
 effondrement, et d’atteindre cet état stable (Fig. [\[Fig10\]](#Fig10)).
 
-![image](/images/Production9.jpg)<span id="Fig9" label="Fig9">\[Fig9\]</span>
+![image](/images/Production9.jpg){: width="600px"}
+<span id="Fig9" label="Fig9">\[Fig9\]</span>
 
-![image](/images/Tableau-Bord10.jpg)<span id="Fig10" label="Fig10">\[Fig10\]</span>
+![image](/images/Tableau-Bord10.jpg){: width="600px"}<span id="Fig10" label="Fig10">\[Fig10\]</span>
 
 ## Passage d’une économie basée sur des ressources flux à une économie basée sur des ressources stock
 
@@ -1159,7 +1160,7 @@ Le mix énergétique souhaité est : 100 % d’énergie solaire. Le mix
 énergétique réel peut être différent, si le mix énergétique souhaité
 ne permet pas de répondre aux requêtes de production.
 
-![image](/images/Production11.jpg)<span id="Fig11" label="Fig11">\[Fig11\]</span>
+![image](/images/Production11.jpg){: width="600px"}<span id="Fig11" label="Fig11">\[Fig11\]</span>
 
 On observe (Fig. [\[Fig11\]](#Fig11)) dans un premier temps une
 augmentation exponentielle de la production de biens 1 et 2, suivant la
@@ -1168,7 +1169,7 @@ production de biens 1 et 2 chute, et les requêtes de production ne sont
 plus satisfaites. Les flux de production semblent converger vers un
 niveau plus faible mais non-nul.
 
-![image](/images/Energie12.jpg)<span id="Fig12" label="Fig12">\[Fig12\]</span>
+![image](/images/Energie12.jpg){: width="600px"}<span id="Fig12" label="Fig12">\[Fig12\]</span>
 
 L’étude de l’évolution du mix énergétique réel au cours du temps indique
 que dans un premier temps (t $$<$$ 800), le besoin en énergie est
@@ -1234,13 +1235,13 @@ successives, une avec érosion du capital et investissement nuls, une
 seconde avec érosion du capital et investissement positifs (Fig.
 [\[Fig13\]](#Fig13)).
 
-![image](/images/Production13.jpg)<span id="Fig13" label="Fig13">\[Fig13\]</span>
+![image](/images/Production13.jpg){: width="600px"}<span id="Fig13" label="Fig13">\[Fig13\]</span>
 
 On constate que la croissance et la décroissance sont bien plus rapide
 dans la simulation avec investissement et érosion du capital. On peut
 l’expliquer en examinant l’évolution de l’état de la feuille pétrole.
 
-![image](/images/Tableau-Bord14.jpg)<span id="Fig14" label="Fig14">\[Fig14\]</span>
+![image](/images/Tableau-Bord14.jpg){: width="600px"}<span id="Fig14" label="Fig14">\[Fig14\]</span>
 
 De t=0 à t=700, la production de pétrole augmente, en réponse à
 l’augmentation exponentielle des requêtes. L’investissement augmente
@@ -1260,14 +1261,8 @@ production ultérieure est encore plus difficile. La chute s’accélère.
 
 # Annexe G: Conditions de licence
 
-Il est prévu que le modèle EcoDyco soit diffusé sous licence libre GPL.
-Plusieurs solutions sont possibles:
+  EcoDyco est déposé sous licence GPL V3
 
-  - Format GPL
-
-  - Format LGPL V3
-
-Aucune décision n’est à ce jour figée.
 
 <span>99</span>
 
