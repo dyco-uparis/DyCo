@@ -8,7 +8,6 @@ title: Thermodynamique et Économie
 - [Structure générale](#Structure)
 - [Simuler avec EcoDyco ](#Simuler)
 - [Etude de cas élémentaire](#Etude)
-- [Conclusion](#Conclusion)
 - [Annexe A: Comment utiliser un autre modèle économique?](#AnnexeA)
 - [Annexe B: Equations gouvernants une feuille stock](#AnnexeB)
 - [Annexe C: Equations gouvernants un feuillet flux](#AnnexeC)
