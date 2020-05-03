@@ -9,15 +9,14 @@ title: Thermodynamique et Économie
 - [Simuler avec EcoDyco ](#Simuler)
 - [Etude de cas élémentaire](#Etude)
 - [Conclusion](#Conclusion)
-- [License](#License)
 - [Annexe A: Comment utiliser un autre modèle économique?](#AnnexeA)
 - [Annexe B: Equations gouvernants une feuille stock](#AnnexeB)
 - [Annexe C: Equations gouvernants un feuillet flux](#AnnexeC)
 - [Annexe D: Gestion du noyau central couplant les feuillets physiques: "recettes"](#AnnexeD)
 - [Annexe E: Economie](#AnnexeE)
 - [Annexe F: Effets de rétroaction](#Retro)
-- [Annexe G: Licence](#Licence)
- 
+- [Licence](#Licence)
+- [Bibliographie](#Biblio)
 
 
 # Un modèle économique dans un monde physique fini <a name="MondeFini"></a>
@@ -78,7 +77,7 @@ Ces trois constats fondent la structure et le fonctionnement du modèle
     ressource et son état de transformation, vers un produit ou vers un
     déchet. 
 
-# Structure générale de <span class="smallcaps">EcoDyco</span>
+# Structure générale <a name="Structure"></a><span class="smallcaps">EcoDyco</span>
 
 Le modèle <span class="smallcaps">EcoDyco</span> est structuré en
 feuillets de type stock et de type flux, reliés au module économique
@@ -252,7 +251,7 @@ de modèles sont données :
 L’utilisateur avancé peut construire son propre modèle en suivant la
 structure générale d’une feuille économique. (voir Annexe A)
 
-# Simuler avec <span class="smallcaps">EcoDyco</span>
+# Simulation <a name="Simulation"></a><span class="smallcaps">EcoDyco</span>
 
 ## Liste des fichiers
 
@@ -346,7 +345,7 @@ Goodwin<span label="Goodwin"></span>](/images/Goodwin-txt.jpg){: width="600px"}
   - $$omega0,lambda0$$ et $$N_{0}$$ sont les valeurs initiales du
     wageshare, employment rate et de la population
 
-# Etude de cas élémentaire
+# Etude de cas élémentaire<a name="Etude"></a>
 
 ## Paramétrisation
 
@@ -1284,7 +1283,7 @@ production ultérieure est encore plus difficile. La chute s’accélère.
   EcoDyco est déposé sous licence GPL V3
 
 
-# Bibliographie
+# Bibliographie<a name="Biblio"></a>
 
 Boulding, K.E. The economics of the coming spaceship earth. In
 Environmental Quality in a Growing Economy.H. Jarrett, Ed.: 3–14. Johns
