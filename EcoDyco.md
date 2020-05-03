@@ -251,7 +251,7 @@ de modèles sont données :
 L’utilisateur avancé peut construire son propre modèle en suivant la
 structure générale d’une feuille économique. (voir Annexe A)
 
-# Simulation <a name="Simulation"></a><span class="smallcaps">EcoDyco</span>
+# Simulation <a name="Simuler"></a><span class="smallcaps">EcoDyco</span>
 
 ## Liste des fichiers
 
