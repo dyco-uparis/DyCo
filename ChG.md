@@ -76,11 +76,17 @@ Supraconducteurs
 
 ## Responsabilités
 
-Directeur adjoint de l’UMR 8236, LIED.
+Directeur adjoint de l’UMR 8236, LIED. (2015-2020)
 
-Président du CS de l’UMR 8236, LIED.
+Président du CS de l’UMR 8236, LIED. (2015-2020)
 
-Responsable de l’équipe DyCO de l’UMR 8236, LIED.
+Responsable de l’équipe DyCO de l’UMR 8236, LIED. (2015-)
+
+Membre du CS de l'UFR de Physique. (2015-)
+
+Membre du CS de l'Ecole Nationale Supérieure d'Archictecture Val de Seine. (2015-)
+
+Membre du CS du CEEBIOS. (2015-)
 
 Membre de 17 jury de thèse, membre de 3 jury d’HDR.
 
