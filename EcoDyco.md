@@ -600,7 +600,7 @@ $$F_{HP}=\Pi_{H}I_{P}$$
 
 $$F_{LP}=\Pi_{L}I_{P}+R_{P}I_{P}^{2}$$
 
-$$G=F_{HP}-F_{LP}=\Delta\Pi I_{P}+R_{P}I_{P}^{2}$$
+$$G=F_{HP}-F_{LP}=\Delta\Pi I_{P}-R_{P}I_{P}^{2}$$
         
 
 Le flux extrait $G$ est donc fonction de la différence de potentiels, de
