@@ -213,6 +213,7 @@ Responsable du module Traitement du signal M1, Université de Paris (Diderot) (2
 
 En 2008, en partenariat avec 6 écoles d’ingénieur (ENSERB, ISEN, ESIGELEC, ESIEE, ENSSAT, POLYTECH Nantes) et 11 industriels (NXP, ST ERICSON, CHIPIDEA, FREESCALE, INSIGHT SIP, SILICON LABORATORIES, ALYOTECH, ORANGE, DIBCOM, OBERTHUR, AGILENT), j’ai créé, puis dirigé deux ans, le Mastère Spécialisé MSIP (MINSYS). Ce Mastère de la Conférence des Grande Ecoles a été localisé sur le site de l’industriel NXP, sur son site de Caen.
 
+[Membre auditionné pour le rapport CESE Biomimétisme](https://www.lecese.fr/travaux-publies/le-biomim-tisme-sinspirer-de-la-nature-pour-innover-durablement)
 
 # Activité scientifique <a name="recherche"></a>
 
@@ -302,6 +303,8 @@ activités éditoriales (expertises, responsabilités de collections...)
  Editeur invité du Journal Entropy
  
  Referee pour les journaux, Phys Rev, EPL, JAP, Entropy. 
+ 
+ 
 
 ## Participation jurys de thèse et de HDR (hors établissement)
 
