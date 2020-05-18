@@ -213,7 +213,7 @@ Responsable du module Traitement du signal M1, Université de Paris (Diderot) (2
 
 En 2008, en partenariat avec 6 écoles d’ingénieur (ENSERB, ISEN, ESIGELEC, ESIEE, ENSSAT, POLYTECH Nantes) et 11 industriels (NXP, ST ERICSON, CHIPIDEA, FREESCALE, INSIGHT SIP, SILICON LABORATORIES, ALYOTECH, ORANGE, DIBCOM, OBERTHUR, AGILENT), j’ai créé, puis dirigé deux ans, le Mastère Spécialisé MSIP (MINSYS). Ce Mastère de la Conférence des Grande Ecoles a été localisé sur le site de l’industriel NXP, sur son site de Caen.
 
-[Membre auditionné pour le rapport CESE Biomimétisme](https://www.lecese.fr/travaux-publies/le-biomim-tisme-sinspirer-de-la-nature-pour-innover-durablement)
+[Membre auditionné pour le rapport du Conseil Economique Social et Environnemental (CESE sept 2015) Biomimétisme, s'inspirer de la nature pour innover durablement](https://www.lecese.fr/travaux-publies/le-biomim-tisme-sinspirer-de-la-nature-pour-innover-durablement)
 
 # Activité scientifique <a name="recherche"></a>
 
@@ -316,7 +316,9 @@ HDR  Michel Dubois. De l’interaction évolutive de la technique et de l’huma
 
 ## Diffusion du savoir (vulgarisation), responsabilités et activités au sein des sociétés savantes ou associations
 
-Membre du bureau du Campus de la Transition Ecologique
+[Membre du bureau du Campus de la Transition Ecologique](https://campus-transition.org/le-projet/lequipe/)
+
+
 
 ### Vidéos en ligne  <a name="video"></a>
 
