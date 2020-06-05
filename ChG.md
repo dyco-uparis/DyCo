@@ -110,7 +110,7 @@ Membre de 17 jury de thèse, membre de 3 jury d’HDR.
 
 7 Brevets
 
-Encadrement : 7 thèses, 5 Post-doc, Stages niveau M2 (2 par an en moyenne) 
+Encadrement : 8 thèses, 5 Post-doc, Stages niveau M2 (2 par an en moyenne) 
 
 Jury : 17 jury de thèse, 3 jury HDR .
 
@@ -1135,9 +1135,14 @@ Elise Denoyelle : Développement d'une microbatterie 3D Li-ion étude d'une anod
 
 Olga Glavatskaya : Conversion d'énergie thermique en énergie électrique par les modules thermoélectriques en vue de réduire la consommation et les émissions polluantes (Thèse soutenue en 2012) (direction 100%) (doctorante embauché chez Renault SAS)
 
+Etienne Thiebault : Modélisation de systèmes thermoélectriques avec gradient de coefficient Seebeck. (Thèse soutenue en 2019) (co-direction 50/50 Ph Lecoeur (C2N Unviversité Paris-Sud) ) (doctorant en recherche de post-doc)
+
+
 Antoine Monserand. ED 493 : Erasme ( Université Paris-Nord). Macroéconomie de la transition écologique : conditions, choix, implications (Codirecteur 50/50 Marc Lavoie (CEPN)) (Thèse en cours)
 
-Etienne Thiebault : Modélisation de systèmes thermoélectriques avec gradient de coefficient Seebeck. (Thèse soutenue en 2019) (co-direction Ph Lecoeur 50/50) (doctorant en recherche de post-doc)
+Jean-Marc Dorey : Thèse en histoire des Sciences, Université de Paris. Emergence de la turbine à vapeur 1880-1914.  
+(Codirecteur 50/50 Arnaud Passalacqua (LIED, Université de Paris) (Thèse en cours)
+
 
 ### Encadrements post-doctoraux
 Suddakkar Reddy: Développement de thermogénérateurs oxydes (contrat Corning) (2005)
