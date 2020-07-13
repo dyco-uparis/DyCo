@@ -982,54 +982,56 @@ Magnetic flux line transituion in Bi-2212 with columnar defects
 
 ### Conférences nationales
 
-1)	M. Arnoux et C. Goupil, Le roman de Renart. Un prédateur entre flux et stock, journée compléxité désordre, Université de Paris, 13 janvier 2020.
+1) C. Goupil, Energie: une approche interdisciplinaire. Summer School ESSEC-Campus de la Transition, 30 juin 2020
 
-2)	C. Goupil, Bioinspiration of energy uses: a thermodynamic approach, Les Rendez-Vous de Concarneau 2019, Station Marine Concarneau, 17-18 octobre 2019. 
+2)	M. Arnoux et C. Goupil, Le roman de Renart. Un prédateur entre flux et stock, journée compléxité désordre, Université de Paris, 13 janvier 2020.
 
-3)	C. Goupil Métabolisme urbain: et si la ville était un animal?. Biomim Expo 4, Paris, 11 septembre 2019.
+3)	C. Goupil, Bioinspiration of energy uses: a thermodynamic approach, Les Rendez-Vous de Concarneau 2019, Station Marine Concarneau, 17-18 octobre 2019. 
 
-4)	C. Goupil, Thermodynamique interdisciplinaire: exemple et contre-exemple,     journée de l'UFR de Physique de l'université Denis Diderot, 27 Novembre 2018, Paris.
+4)	C. Goupil Métabolisme urbain: et si la ville était un animal?. Biomim Expo 4, Paris, 11 septembre 2019.
 
-5)	C. Goupil, A. Louis-Napoléon, E. Herbert, Y. D'Angelo, Economis: conversion of ressources and emerging phenomena First multiisciplinary workshop on complex systems, CEPN, Université Paris 13, 2 Juin 2017.
+5)	C. Goupil, Thermodynamique interdisciplinaire: exemple et contre-exemple,     journée de l'UFR de Physique de l'université Denis Diderot, 27 Novembre 2018, Paris.
 
-6)	C. Goupil
+6)	C. Goupil, A. Louis-Napoléon, E. Herbert, Y. D'Angelo, Economis: conversion of ressources and emerging phenomena First multiisciplinary workshop on complex systems, CEPN, Université Paris 13, 2 Juin 2017.
+
+7)	C. Goupil
 Optimization of thermoelectric generator operation with dissipative coupling to heat baths,
 Institut Néel, Grenoble, 24 septembre 2013
 
-7)	G. Fraisse, J. Ramousse, L. Luo, M. Cosnier, D. Sgorlon, Y.W. Kim, B. David
+8)	G. Fraisse, J. Ramousse, L. Luo, M. Cosnier, D. Sgorlon, Y.W. Kim, B. David
 Les peformances énergétique des systèmes thermoélectrique, de l'échelle élémentaire au bâtiment. GDR Thermoelectricité 6-7 Juillet 2010, Institut Néel, Grenoble (2010)
 
-8)	C. Goupil Générateurs thermoélectriques pour l'automobile, NEST, Tours 26-27 mai 2009
+9)	C. Goupil Générateurs thermoélectriques pour l'automobile, NEST, Tours 26-27 mai 2009
 
-9)	C. Goupil Thermoélectrorécup : matériaux pour la récuparation d'énergie thermique, Colloque " Energie " du PIE, Novembre 2009, Nantes
+10)	C. Goupil Thermoélectrorécup : matériaux pour la récuparation d'énergie thermique, Colloque " Energie " du PIE, Novembre 2009, Nantes
 
-10)	C. Goupil Otogeht : Optimisation technologique d'oxyde thermoélectriques pour application hautes températures, Colloque " Energie " du PIE, Novembre 2009, Nantes
+11)	C. Goupil Otogeht : Optimisation technologique d'oxyde thermoélectriques pour application hautes températures, Colloque " Energie " du PIE, Novembre 2009, Nantes
 
-11)	C. Goupil, A. Pautrat, Ch. Simon, P.G. Kealey, E.M. Forgan, S. Lee, S.T. Johnson, G. Lazard, B. Plaçais, Y. Simon, P. Mathieu, R . Cubitt, Ch. Dewhurst. Small Angle Neutron Scattering and vortex lattice dynamical phase diagram. 9ème Journées de la diffusion neutronique 24-26 mai 2000, Colleville sur-mer
+12)	C. Goupil, A. Pautrat, Ch. Simon, P.G. Kealey, E.M. Forgan, S. Lee, S.T. Johnson, G. Lazard, B. Plaçais, Y. Simon, P. Mathieu, R . Cubitt, Ch. Dewhurst. Small Angle Neutron Scattering and vortex lattice dynamical phase diagram. 9ème Journées de la diffusion neutronique 24-26 mai 2000, Colleville sur-mer
 
-12)	Pautrat, C. Goupil, Ch. Simon, P.G. Kealey, E.M. Forgan, S. Lee, R . Cubitt. Etude de la mise en ordre dynamique du réseau de vortex par diffraction de neutrons aux petits angles. 9ème Journées de la diffusion neutronique 24-26 mai 2000, Colleville sur-mer
+13)	Pautrat, C. Goupil, Ch. Simon, P.G. Kealey, E.M. Forgan, S. Lee, R . Cubitt. Etude de la mise en ordre dynamique du réseau de vortex par diffraction de neutrons aux petits angles. 9ème Journées de la diffusion neutronique 24-26 mai 2000, Colleville sur-mer
 
-13)	C. Goupil, A. Pautrat, Ch. Simon, Vortex et courants critiques. Sixièmes Journées d'Aussois, Association Française du Froid, 16-19 Mai 2000
+14)	C. Goupil, A. Pautrat, Ch. Simon, Vortex et courants critiques. Sixièmes Journées d'Aussois, Association Française du Froid, 16-19 Mai 2000
 
-14)	C. Goupil, V. Civita, G. Imbert, Plasma RIE etching induced damage in bipolar process : Structure and Topography Effect. 1st European Symposium on Plasma Process Induced Damage, octobre 1999, Toulouse
+15)	C. Goupil, V. Civita, G. Imbert, Plasma RIE etching induced damage in bipolar process : Structure and Topography Effect. 1st European Symposium on Plasma Process Induced Damage, octobre 1999, Toulouse
 
-15)	Ch. Simon, A. Pautrat, C. Goupil, N. Lutke-Entrup, B. Placais, P. Mathieu, Y. Simon, A. Rykov, S. Tajima, Evidence for vortex surface pinning by surface irregularities in untwinned YBaCuO crystals. Colloque Franco Américain Chicago (1999)
+16)	Ch. Simon, A. Pautrat, C. Goupil, N. Lutke-Entrup, B. Placais, P. Mathieu, Y. Simon, A. Rykov, S. Tajima, Evidence for vortex surface pinning by surface irregularities in untwinned YBaCuO crystals. Colloque Franco Américain Chicago (1999)
 
-16)	C. Goupil, A. Ruyter, V. Hardy, Ch. Simon. Ancrage des vortex et dissipation plastique dans les supraconducteurs à haute Tc. GDR supraconducteurs, octobre 1997, Tours
+17)	C. Goupil, A. Ruyter, V. Hardy, Ch. Simon. Ancrage des vortex et dissipation plastique dans les supraconducteurs à haute Tc. GDR supraconducteurs, octobre 1997, Tours
 
-17)	F. Warmont, V. Hardy, A. Ruyter, C. Goupil, G. Villard, J. Provost, Ch. Simon, Mesures de resistivite résolues angulairement sur des monocristaux supraconducteurs à base de Thallium. GDR supraconducteurs, juin 1997, Gif/Yvette
+18)	F. Warmont, V. Hardy, A. Ruyter, C. Goupil, G. Villard, J. Provost, Ch. Simon, Mesures de resistivite résolues angulairement sur des monocristaux supraconducteurs à base de Thallium. GDR supraconducteurs, juin 1997, Gif/Yvette
 
-18)	S. Alaimo, D. Turgis, C. Goupil et H. Murray, Réalisation d'un dispositif faible coût pour l'analyse de l'émission proche infrarouge de composants à semi-conducteurs. Troisièmes Journées pédagogiques CNFM, décembre 96, St Malo
+19)	S. Alaimo, D. Turgis, C. Goupil et H. Murray, Réalisation d'un dispositif faible coût pour l'analyse de l'émission proche infrarouge de composants à semi-conducteurs. Troisièmes Journées pédagogiques CNFM, décembre 96, St Malo
 
-19)	Smina, J.C Soret, A Ruyter, V. Ta Phuoc, B. Martinie, J. Leconte, Ch. Gasser, C. Goupil, Ch. Simon. Dimensionalité et fusion du réseau de vortex dans le composé Tl2Ba2CaCu2O7. GDR supraconducteur , `Théorie, Vortex et applications', 20-22 mai 1996, Caen
+20)	Smina, J.C Soret, A Ruyter, V. Ta Phuoc, B. Martinie, J. Leconte, Ch. Gasser, C. Goupil, Ch. Simon. Dimensionalité et fusion du réseau de vortex dans le composé Tl2Ba2CaCu2O7. GDR supraconducteur , `Théorie, Vortex et applications', 20-22 mai 1996, Caen
 
-20)	J.C Soret, L. Amor, A. Smina, B. Martinie, A. Ruyter, J. Leconte, Ch. Gasser, C. Goupil, Ch. Simon. Kosterlitz-Thouless dans le composé Tl2212 en couche mince. GDR supraconducteur , `nouveaux matériaux et mesures des paramètres physiques fondamentaux', 23-25 octobre 1995, Abbaye Royale de Fontevraud
+21)	J.C Soret, L. Amor, A. Smina, B. Martinie, A. Ruyter, J. Leconte, Ch. Gasser, C. Goupil, Ch. Simon. Kosterlitz-Thouless dans le composé Tl2212 en couche mince. GDR supraconducteur , `nouveaux matériaux et mesures des paramètres physiques fondamentaux', 23-25 octobre 1995, Abbaye Royale de Fontevraud
 
-21)	Ruyter, V. Hardy, C. Goupil, J. Provost, D. Groult, Ch. Simon. Magnetic flux line transituion in Bi-2212 with columnar defects. GDR supraconducteur , `élaboration de matériaux et dynamique des vortex', 1994, Roscof
+22)	Ruyter, V. Hardy, C. Goupil, J. Provost, D. Groult, Ch. Simon. Magnetic flux line transituion in Bi-2212 with columnar defects. GDR supraconducteur , `élaboration de matériaux et dynamique des vortex', 1994, Roscof
 
-22)	J.C Soret, L. Amor, B. Martinie, J. Leconte, C. Goupil, V. Hardy, J. Provost, A. Ruyter, Ch. Simon. Magnetoresistance in Bi-2212 single crystal. GDR supraconducteur , `élaboration de matériaux et dynamique des vortex', 1994, Roscof
+23)	J.C Soret, L. Amor, B. Martinie, J. Leconte, C. Goupil, V. Hardy, J. Provost, A. Ruyter, Ch. Simon. Magnetoresistance in Bi-2212 single crystal. GDR supraconducteur , `élaboration de matériaux et dynamique des vortex', 1994, Roscof
 
-23)	C. Goupil, J.F. Hamet, J. Provost, B. Blanc-Guillon, M. Hervieu, Ch. Simon, B. Raveau, S. Bouffard, Vortex pinning in Y-123 thin films Troisièmes journées d'études de la SEE, novembre 1993, Caen
+24)	C. Goupil, J.F. Hamet, J. Provost, B. Blanc-Guillon, M. Hervieu, Ch. Simon, B. Raveau, S. Bouffard, Vortex pinning in Y-123 thin films Troisièmes journées d'études de la SEE, novembre 1993, Caen
 
 ### Séminaires <a name="seminaires"></a>
 
