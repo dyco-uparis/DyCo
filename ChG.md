@@ -419,15 +419,15 @@ Liste classée des publications (celles-ci ne doivent pas être jointes)
 
 ## Publications <a name="publications"></a>
 
-94. H. Benisty and C. Goupil, Configuration barrier towards parity-time symmetry in randomly connected mesoscopic sets on a graph, Eur. Phys. J. B (2020) 93: 192
+-1. H. Benisty and C. Goupil, Configuration barrier towards parity-time symmetry in randomly connected mesoscopic sets on a graph, Eur. Phys. J. B (2020) 93: 192
 https://doi.org/10.1140/epjb/e2020-10219-x
 
 
-93.	H. Jie, M. Salatino, A. Traini, C. Chaumont, F. Boussaha, C Goupil, M. Piat, Proximity-Coupled Al/Au Bilayer Kinetic Inductance Detectors, J Low Temp Phys (2020) doi:10.1007/s10909-019-02313-4
+0.	H. Jie, M. Salatino, A. Traini, C. Chaumont, F. Boussaha, C Goupil, M. Piat, Proximity-Coupled Al/Au Bilayer Kinetic Inductance Detectors, J Low Temp Phys (2020) doi:10.1007/s10909-019-02313-4
 
-92.	C. Goupil, E. Herbert Adapted or Adaptable: How to Manage Entropy Production? Entropy 2020, 22(1), 29
+1.	C. Goupil, E. Herbert Adapted or Adaptable: How to Manage Entropy Production? Entropy 2020, 22(1), 29
 
-91.	C. Goupil, H. Ouerdane, E. Herbert, Cl. Goupil and Y. D'Angelo. Thermodynamics of metabolic energy conversion under muscle load.. New J. Phys.21 023021 (2019)
+2.	C. Goupil, H. Ouerdane, E. Herbert, Cl. Goupil and Y. D'Angelo. Thermodynamics of metabolic energy conversion under muscle load.. New J. Phys.21 023021 (2019)
 
 90.	E. Thiébaut, F. Pesty, C. Goupil, G. Guegan, P. Lecoeur, Non-linear impedance spectroscopy for complete thermoelectric characterization: Beyond the zT estimation. Journal of Applied Physics 124 (23), 235106 (2018)
 
