@@ -96,7 +96,7 @@ Membre de 17 jury de thèse, membre de 3 jury d’HDR.
 
 47 CICL
 
-1 Direction d’ouvrage, 6 Chapitre d’ouvrage
+2 Directions d’ouvrage, 6 Chapitre d’ouvrage
 
 23 Conférences Nationales
 
@@ -299,10 +299,12 @@ Dans cet article nous avons poursuivi le développement théorique des machines 
 
 ##	Diffusion et rayonnement 
 
-activités éditoriales (expertises, responsabilités de collections...)
+ Activités éditoriales (expertises, responsabilités de collections...)
  Editeur invité du Journal Entropy
  
  Referee pour les journaux, Phys Rev, EPL, JAP, Entropy. 
+ 
+ 
  
  
 
@@ -317,6 +319,9 @@ HDR  Michel Dubois. De l’interaction évolutive de la technique et de l’huma
 ## Diffusion du savoir (vulgarisation), responsabilités et activités au sein des sociétés savantes ou associations
 
 [Membre du bureau du Campus de la Transition Ecologique](https://campus-transition.org/le-projet/lequipe/)
+[Codirection de l'ouvrage "Manuel de la grande transition](https://campus-transition.org/le-manuel-de-la-grande-transition/)
+[Corédaction du catalogue de l'exposition Biomimétisme de la cité de Sciences (octobre 2020)](http://www.cite-sciences.fr/fr/au-programme/expos-permanentes/les-expositions/bio-inspiree/a-lire/)
+
 
 
 
