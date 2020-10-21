@@ -92,7 +92,7 @@ Membre de 17 jury de thèse, membre de 3 jury d’HDR.
 
 ## Production scientifique : 
 
-93 RICL
+94 RICL
 
 47 CICL
 
@@ -419,7 +419,7 @@ Liste classée des publications (celles-ci ne doivent pas être jointes)
 
 ## Publications <a name="publications"></a>
 
-H. Benisty and C. Goupil, Configuration barrier towards parity-time symmetry in randomly connected mesoscopic sets on a graph, Eur. Phys. J. B (2020) 93: 192
+94. H. Benisty and C. Goupil, Configuration barrier towards parity-time symmetry in randomly connected mesoscopic sets on a graph, Eur. Phys. J. B (2020) 93: 192
 https://doi.org/10.1140/epjb/e2020-10219-x
 
 
