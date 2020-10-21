@@ -433,29 +433,29 @@ https://doi.org/10.1140/epjb/e2020-10219-x
 
 0.	J Ramousse, C Goupil, Chart for Thermoelectric Systems Operation Based on a Ternary Diagram for Bithermal Systems, Entropy 20 (9), 666, (2018)
 
-88.	AE Risseh, HP Nee, C Goupil, Electrical power conditioning system for thermoelectric waste heat recovery in commercial vehicles, IEEE transactions on transportation electrification 4 (2), 548-562 6 (2018)
+0.	AE Risseh, HP Nee, C Goupil, Electrical power conditioning system for thermoelectric waste heat recovery in commercial vehicles, IEEE transactions on transportation electrification 4 (2), 548-562 6 (2018)
 
-87.	E Herbert, C Morize, A Louis-Napoléon, C Goupil, P Jop, Y D'angelo,Buoyancy-driven destabilization of an immersed granular bed  Journal of Fluid Mechanics 843, 778-809 (2018)
+0.	E Herbert, C Morize, A Louis-Napoléon, C Goupil, P Jop, Y D'angelo,Buoyancy-driven destabilization of an immersed granular bed  Journal of Fluid Mechanics 843, 778-809 (2018)
 
-86.	Thiébaut E., Goupil C., Pesty F., D'Angelo Y., Guegan G., Lecoeur, P. Maximization of the thermoelectric cooling of a graded Peltier device by analytical heat-equation resolution. Physical Review Applied, 8(6), 064003. (2017)
+0.	Thiébaut E., Goupil C., Pesty F., D'Angelo Y., Guegan G., Lecoeur, P. Maximization of the thermoelectric cooling of a graded Peltier device by analytical heat-equation resolution. Physical Review Applied, 8(6), 064003. (2017)
 
-85.	Social patterns of energy usage: An international comparison R Patino, C Goupil, Energy Procedia 142, 2655-2660 (2017)
+0.	Social patterns of energy usage: An international comparison R Patino, C Goupil, Energy Procedia 142, 2655-2660 (2017)
 
-84.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecoeur, True nature of the Curzon-Ahlborn efficiency, Phys. Rev. E 96, 022119 (2017)
+0.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecoeur, True nature of the Curzon-Ahlborn efficiency, Phys. Rev. E 96, 022119 (2017)
 
-83.	C. Goupil, H. Ouerdane, E. Herbert, G. Benenti, Y. D'Angelo, and Ph. Lecoeur, Closed-loop approach to thermodynamics Phys. Rev. E 94, 032136 (2016) 
+0.	C. Goupil, H. Ouerdane, E. Herbert, G. Benenti, Y. D'Angelo, and Ph. Lecoeur, Closed-loop approach to thermodynamics Phys. Rev. E 94, 032136 (2016) 
 
-82.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecoeur A note on the electrochemical nature of the thermoelectric power Eur. Phys. J. Plus 131: 76 (Highlights from European journals) (2016) 
+0.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecoeur A note on the electrochemical nature of the thermoelectric power Eur. Phys. J. Plus 131: 76 (Highlights from European journals) (2016) 
 
-81.	Y. Apertet, C. Goupil. On the fundamental aspect of the first Kelvin's relation in thermoelectricity. International Journal of Thermal Sciences 104, 225-227 (2016)
+0.	Y. Apertet, C. Goupil. On the fundamental aspect of the first Kelvin's relation in thermoelectricity. International Journal of Thermal Sciences 104, 225-227 (2016)
 
-80.	A Abbout, H Ouerdane, C Goupil, Statistical analysis of the figure of merit of a two-level thermoelectric system: a random matrix approach, Journal of the physical society of Japan 85, 094704 (2016)
+0.	A Abbout, H Ouerdane, C Goupil, Statistical analysis of the figure of merit of a two-level thermoelectric system: a random matrix approach, Journal of the physical society of Japan 85, 094704 (2016)
 
-79.	G. Benenti, H. Ouerdane, C.Goupil. The thermoelectric working fluid: Thermodynamics and transport. Comptes Rendus Physique 17 (10), 1072-1083.
+0.	G. Benenti, H. Ouerdane, C.Goupil. The thermoelectric working fluid: Thermodynamics and transport. Comptes Rendus Physique 17 (10), 1072-1083.
 
-16.	Y. Apertet, H. Ouerdane, C. Goupil, Ph. Lecoeur Equivalent parameters for series thermoelectrics Energy Conversion and Management, 93, 15, 160-165, (2015)
+0.	Y. Apertet, H. Ouerdane, C. Goupil, Ph. Lecoeur Equivalent parameters for series thermoelectrics Energy Conversion and Management, 93, 15, 160-165, (2015)
 
-78.	H. Ouerdane, Y. Apertet, C. Goupil, and Ph. Lecoeur Continuity and boundary conditions in thermodynamics: From Carnot's efficiency to efficiencies at maximum power Eur. Phys. J. Special Topics 224, 839-864 (2015)
+0.	H. Ouerdane, Y. Apertet, C. Goupil, and Ph. Lecoeur Continuity and boundary conditions in thermodynamics: From Carnot's efficiency to efficiencies at maximum power Eur. Phys. J. Special Topics 224, 839-864 (2015)
 
 77.	H. Ouerdane, A. A. Varlamov, A. V. Kavokin, C. Goupil, and C. B. Vining Enhanced thermoelectric coupling near electronic phase transition: the rôle of fluctuation Cooper pairs Physical Review B 91, 100501 (R) (2015)
 
