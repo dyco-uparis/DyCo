@@ -319,7 +319,9 @@ HDR  Michel Dubois. De l’interaction évolutive de la technique et de l’huma
 ## Diffusion du savoir (vulgarisation), responsabilités et activités au sein des sociétés savantes ou associations
 
 [Membre du bureau du Campus de la Transition Ecologique](https://campus-transition.org/le-projet/lequipe/)
+
 [Codirection de l'ouvrage "Manuel de la grande transition](https://campus-transition.org/le-manuel-de-la-grande-transition/)
+
 [Corédaction du catalogue de l'exposition Biomimétisme de la cité de Sciences (octobre 2020)](http://www.cite-sciences.fr/fr/au-programme/expos-permanentes/les-expositions/bio-inspiree/a-lire/)
 
 
