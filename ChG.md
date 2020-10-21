@@ -418,341 +418,342 @@ Membre du comité de direction du PIE CNRS (2009-2011)
 Liste classée des publications (celles-ci ne doivent pas être jointes)
 
 ## Publications <a name="publications"></a>
-1.	H. Jie, M. Salatino, A. Traini, C. Chaumont, F. Boussaha, C Goupil, M. Piat, Proximity-Coupled Al/Au Bilayer Kinetic Inductance Detectors, J Low Temp Phys (2020) doi:10.1007/s10909-019-02313-4
 
-2.	C. Goupil, E. Herbert Adapted or Adaptable: How to Manage Entropy Production? Entropy 2020, 22(1), 29
+H. Benisty and C. Goupil, Configuration barrier towards parity-time symmetry in randomly connected mesoscopic sets on a graph, Eur. Phys. J. B (2020) 93: 192
+https://doi.org/10.1140/epjb/e2020-10219-x
 
-3.	C. Goupil, H. Ouerdane, E. Herbert, Cl. Goupil and Y. D'Angelo. Thermodynamics of metabolic energy conversion under muscle load.. New J. Phys.21 023021 (2019)
 
-4.	E. Thiébaut, F. Pesty, C. Goupil, G. Guegan, P. Lecoeur, Non-linear impedance spectroscopy for complete thermoelectric characterization: Beyond the zT estimation. Journal of Applied Physics 124 (23), 235106 (2018)
+93.	H. Jie, M. Salatino, A. Traini, C. Chaumont, F. Boussaha, C Goupil, M. Piat, Proximity-Coupled Al/Au Bilayer Kinetic Inductance Detectors, J Low Temp Phys (2020) doi:10.1007/s10909-019-02313-4
 
-5.	J Ramousse, C Goupil, Chart for Thermoelectric Systems Operation Based on a Ternary Diagram for Bithermal Systems, Entropy 20 (9), 666, (2018)
+92.	C. Goupil, E. Herbert Adapted or Adaptable: How to Manage Entropy Production? Entropy 2020, 22(1), 29
 
-6.	AE Risseh, HP Nee, C Goupil, Electrical power conditioning system for thermoelectric waste heat recovery in commercial vehicles, IEEE transactions on transportation electrification 4 (2), 548-562 6 (2018)
+91.	C. Goupil, H. Ouerdane, E. Herbert, Cl. Goupil and Y. D'Angelo. Thermodynamics of metabolic energy conversion under muscle load.. New J. Phys.21 023021 (2019)
 
-7.	E Herbert, C Morize, A Louis-Napoléon, C Goupil, P Jop, Y D'angelo,Buoyancy-driven destabilization of an immersed granular bed  Journal of Fluid Mechanics 843, 778-809 (2018)
+90.	E. Thiébaut, F. Pesty, C. Goupil, G. Guegan, P. Lecoeur, Non-linear impedance spectroscopy for complete thermoelectric characterization: Beyond the zT estimation. Journal of Applied Physics 124 (23), 235106 (2018)
 
-8.	Thiébaut E., Goupil C., Pesty F., D'Angelo Y., Guegan G., Lecoeur, P. Maximization of the thermoelectric cooling of a graded Peltier device by analytical heat-equation resolution. Physical Review Applied, 8(6), 064003. (2017)
+89.	J Ramousse, C Goupil, Chart for Thermoelectric Systems Operation Based on a Ternary Diagram for Bithermal Systems, Entropy 20 (9), 666, (2018)
 
-9.	Social patterns of energy usage: An international comparison R Patino, C Goupil, Energy Procedia 142, 2655-2660 (2017)
+88.	AE Risseh, HP Nee, C Goupil, Electrical power conditioning system for thermoelectric waste heat recovery in commercial vehicles, IEEE transactions on transportation electrification 4 (2), 548-562 6 (2018)
 
-10.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecoeur, True nature of the Curzon-Ahlborn efficiency, Phys. Rev. E 96, 022119 (2017)
+87.	E Herbert, C Morize, A Louis-Napoléon, C Goupil, P Jop, Y D'angelo,Buoyancy-driven destabilization of an immersed granular bed  Journal of Fluid Mechanics 843, 778-809 (2018)
 
-11.	C. Goupil, H. Ouerdane, E. Herbert, G. Benenti, Y. D'Angelo, and Ph. Lecoeur, Closed-loop approach to thermodynamics Phys. Rev. E 94, 032136 (2016) 
+86.	Thiébaut E., Goupil C., Pesty F., D'Angelo Y., Guegan G., Lecoeur, P. Maximization of the thermoelectric cooling of a graded Peltier device by analytical heat-equation resolution. Physical Review Applied, 8(6), 064003. (2017)
 
-12.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecoeur A note on the electrochemical nature of the thermoelectric power Eur. Phys. J. Plus 131: 76 (Highlights from European journals) (2016) 
+85.	Social patterns of energy usage: An international comparison R Patino, C Goupil, Energy Procedia 142, 2655-2660 (2017)
 
-13.	Y. Apertet, C. Goupil. On the fundamental aspect of the first Kelvin's relation in thermoelectricity. International Journal of Thermal Sciences 104, 225-227 (2016)
+84.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecoeur, True nature of the Curzon-Ahlborn efficiency, Phys. Rev. E 96, 022119 (2017)
 
-14.	A Abbout, H Ouerdane, C Goupil, Statistical analysis of the figure of merit of a two-level thermoelectric system: a random matrix approach, Journal of the physical society of Japan 85, 094704 (2016)
+83.	C. Goupil, H. Ouerdane, E. Herbert, G. Benenti, Y. D'Angelo, and Ph. Lecoeur, Closed-loop approach to thermodynamics Phys. Rev. E 94, 032136 (2016) 
 
-15.	G. Benenti, H. Ouerdane, C.Goupil. The thermoelectric working fluid: Thermodynamics and transport. Comptes Rendus Physique 17 (10), 1072-1083.
+82.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecoeur A note on the electrochemical nature of the thermoelectric power Eur. Phys. J. Plus 131: 76 (Highlights from European journals) (2016) 
+
+81.	Y. Apertet, C. Goupil. On the fundamental aspect of the first Kelvin's relation in thermoelectricity. International Journal of Thermal Sciences 104, 225-227 (2016)
+
+80.	A Abbout, H Ouerdane, C Goupil, Statistical analysis of the figure of merit of a two-level thermoelectric system: a random matrix approach, Journal of the physical society of Japan 85, 094704 (2016)
+
+79.	G. Benenti, H. Ouerdane, C.Goupil. The thermoelectric working fluid: Thermodynamics and transport. Comptes Rendus Physique 17 (10), 1072-1083.
 
 16.	Y. Apertet, H. Ouerdane, C. Goupil, Ph. Lecoeur Equivalent parameters for series thermoelectrics Energy Conversion and Management, 93, 15, 160-165, (2015)
 
-17.	H. Ouerdane, Y. Apertet, C. Goupil, and Ph. Lecoeur Continuity and boundary conditions in thermodynamics: From Carnot's efficiency to efficiencies at maximum power Eur. Phys. J. Special Topics 224, 839-864 (2015)
+78.	H. Ouerdane, Y. Apertet, C. Goupil, and Ph. Lecoeur Continuity and boundary conditions in thermodynamics: From Carnot's efficiency to efficiencies at maximum power Eur. Phys. J. Special Topics 224, 839-864 (2015)
 
-18.	H. Ouerdane, A. A. Varlamov, A. V. Kavokin, C. Goupil, and C. B. Vining Enhanced thermoelectric coupling near electronic phase transition: the rôle of fluctuation Cooper pairs Physical Review B 91, 100501 (R) (2015)
+77.	H. Ouerdane, A. A. Varlamov, A. V. Kavokin, C. Goupil, and C. B. Vining Enhanced thermoelectric coupling near electronic phase transition: the rôle of fluctuation Cooper pairs Physical Review B 91, 100501 (R) (2015)
 
-19.	J.G. Stockholm, C. Goupil, P. Maussion and H. Ouerdane
+76.	J.G. Stockholm, C. Goupil, P. Maussion and H. Ouerdane
 Transient Thermoelectric Generator: An Active Load Story
 Journal of Electronic Materials, 44, 6, (2015)
 
-20.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecœur
+75.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecœur
 Influence of thermal environment on optimal working conditions of thermoelectric generators 
 J. Appl. Phys. 116, 144901 (2014)
 
-21.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecœur
+74.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecœur
 Revisiting Feynman's ratchet with thermoelectric transport theory
 Physical Review E vol. 90, 012113 (2014)
 
-22.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecœur
+73.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecœur
 On the distinction between maximum power and maximum efficiency working conditions for thermoelectric generators 
 Journal of Applied Physics 116, 144901 (2014)
 
-23.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecœur
+72.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecœur
 Comment on "Effective thermal conductivity in thermoelectric materials" 
 Journal of Applied Physics 115, 126101 (2014)
 
-24.	Y. Thimont, Q. Lognoné, C. Goupil, F. Gascoin, E. Guilmeau
+71.	Y. Thimont, Q. Lognoné, C. Goupil, F. Gascoin, E. Guilmeau
 Design of Apparatus for Ni/Mg   Si and Ni/MnSi    Contact Resistance Determination for Thermoelectric Legs Journal of Electronic Materials vol. 43 , 2023-2028 (2014 )
 
-25.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecœur
+70.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecœur
 From local force-flux relationships to internal dissipations and their impact on heat engine performance: The illustrative case of a thermoelectric generator
 Physical Review E vol. 88, 022137 (2013)
 
-26.	Y. Apertet, H. Ouerdane, O. Glavatskaya, and Ph. Lecœur
+69.	Y. Apertet, H. Ouerdane, O. Glavatskaya, and Ph. Lecœur
 Comment on "Optimal working conditions for thermoelectric generators with realistic thermal coupling" by Apertet Y. et al. Reply
 Europhysics Letters vol. 101, 68008 (2013)
 
-27.	Wolfgang Seifert, G. Jeffrey Snyder, Eric Toberer, Christophe Goupil, Knud Zabrocki, Eckhard Müller
+68.	Wolfgang Seifert, G. Jeffrey Snyder, Eric Toberer, Christophe Goupil, Knud Zabrocki, Eckhard Müller
 The self-compatibility effect in graded thermoelectric cooler elements 
 Physica Status Solidi (a) vol. 210, pages 1407--1417 (2013)
 
-28.	A. Abbout, H. Ouerdane, and C. Goupil
+67.	A. Abbout, H. Ouerdane, and C. Goupil
 Mesoscopic thermoelectric transport near zero transmission energies 
 Physical Review B vol. 87, 155410 (2013)
 
-29.	Y. Apertet, H. Ouerdane, A. Michot, C. Goupil, and Ph. Lecœur
+66.	Y. Apertet, H. Ouerdane, A. Michot, C. Goupil, and Ph. Lecœur
 On the efficiency at maximum cooling power 
 Europhysics Letters vol. 103, 40001 (2013)
 
-30.	G. Fraisse, J. Ramousse, D. Sgorlon, et C. Goupil
+65.	G. Fraisse, J. Ramousse, D. Sgorlon, et C. Goupil
 Comparison of different modeling approaches for thermoelectric elements 
 Energy Conversion and Management vol. 65, 351-356 (2013)
 
-31.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecœur
+64.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecœur
 Efficiency at maximum power of thermally coupled heat engines
 Physical Review E vol. 85, 041144 (2012)
 
-32.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecœur
+63.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecœur
 Irreversibilities and efficiency at maximum power of heat engines: The illustrative case of a thermoelectric generator 
 Physical Review E vol. 85, 031116 (2012)
 
-33.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecœur
+62.	Y. Apertet, H. Ouerdane, C. Goupil, and Ph. Lecœur
 Thermoelectric internal current loops inside inhomogeneous systems
 Physical Review B vol. 85, 033201 (2012)
 
-34.	M. Lazard, C. Goupil, G. Fraisse, H. Sherrer
+61.	M. Lazard, C. Goupil, G. Fraisse, H. Sherrer
 Thermoelectric quadrupole of a leg to model transient state
 Journal of Power and Energy vol. 226, 277-282 (2012)
 
-35.	Y. Apertet, H. Ouerdane, O. Glavatskaya, C. Goupil and Ph. Lecœur
+60.	Y. Apertet, H. Ouerdane, O. Glavatskaya, C. Goupil and Ph. Lecœur
 Optimal working conditions for thermoelectric generators with realistic thermal coupling 
 Europhysics Letters vol. 97, 28001 (2012)
 
-36.	C. Goupil, W. Seifert,K. Zabrocki, E. Müller and G. Jeffrey Snyder
+59.	C. Goupil, W. Seifert,K. Zabrocki, E. Müller and G. Jeffrey Snyder
 Thermodynamics of Thermoelectric Phenomena and Applications
 Entropy vol. 13, 1481-1517 (2011)
 Best Paper Award 2015 (http://www.mdpi.com/1099-4300/17/2/882)
 
-37.	W. Seifert, V. Pluschke, C. Goupil, K. Zabrocki, E. Müller and G.J. Snyder
+58.	W. Seifert, V. Pluschke, C. Goupil, K. Zabrocki, E. Müller and G.J. Snyder
 Maximum performance in self-compatible thermoelectric elements
 Journal of Materials Resarch vol. 26 1933-1939 (2011)
 
-38.	M. Lossec, B. Multon, H. Ben Ahmed and C. Goupil
+57.	M. Lossec, B. Multon, H. Ben Ahmed and C. Goupil
 Thermoelectric generator placed on the human body: system modeling and energy conversion improvements
 European Physical Journal-Applied Physics vol. 52 11103 (2010)
 
-39.	G. Fraisse, M. Lazard, C. Goupil, J.Y. Serrat
+56.	G. Fraisse, M. Lazard, C. Goupil, J.Y. Serrat
 Study of a thermoelement's behaviour through a modelling based on electrical analogy 
 International Journal of Heat and Mass Transfer vol. 53 3503-3512 (2010)
 
-40.	S. Lemonnier, E. Guilmeau, C. Goupil, R. Funahashi, J.G. Noudem
+55.	S. Lemonnier, E. Guilmeau, C. Goupil, R. Funahashi, J.G. Noudem
 Thermoelectric properties of layered     compounds (RE = Ce, Nd, Sm, Eu, Gd, Dy) Ceramics International vol. 36 887-891 (2010)
 
-41.	C. Goupil
-Thermodynamics of the thermoelectric potential Journal of Applied Physic vol. 106 104907 (2009)
+54.	C. Goupil, Thermodynamics of the thermoelectric potential Journal of Applied Physic vol. 106 104907 (2009)
 
-42.	S. Lemonnier, C. Goupil, J. Noudem and E. Guilmeau
+53.	S. Lemonnier, C. Goupil, J. Noudem and E. Guilmeau
 Four-leg     unileg thermoelectric device
 Journal of Applied Physics vol. 104 014505 (2008)
 
-43.	J.G. Noudem, S. Lemonnier, M. Prevel, E.S. Reddy, E. Guilmeau, C. Goupil
+52.	J.G. Noudem, S. Lemonnier, M. Prevel, E.S. Reddy, E. Guilmeau, C. Goupil
 Thermoelectric ceramics for generators
 Journal of The European Ceramic Society vol. 28 41-48 (2008)
 
-44.	M. Prevel, E. S. Reddy, O. Perez, W. Kobayashi, I. Terasaki, C. Goupil and J. G. Noudem
+51.	M. Prevel, E. S. Reddy, O. Perez, W. Kobayashi, I. Terasaki, C. Goupil and J. G. Noudem
 Thermoelectric properties of sintered and textured Nd-substituted     ceramics
 Japanese Journal of Applied Physics vol. 46 6533-6538 (2007)
 
-45.	J.G. Noudem, S. Lemonnier, M. Prevel, E. S. Reddy, E. Guilmeau and C. Goupil
+50.	J.G. Noudem, S. Lemonnier, M. Prevel, E. S. Reddy, E. Guilmeau and C. Goupil
 Functional Ceramic-development thermoelectric oxides for generator
 Innovation in Ceramics Science and Engineering vol. 352 245-250 (2007)
 
-46.	A. Pautrat, Ch. Simon, C. Goupil, P. Mathieu, A. Brulet, C. D. Dewhurst, A. I. Rykov
+49.	A. Pautrat, Ch. Simon, C. Goupil, P. Mathieu, A. Brulet, C. D. Dewhurst, A. I. Rykov
 Persistence of an ordered flux line lattice above the second peak in    
 Physical Review B vol. 75, 224512 (2007)
 
-47.	S. Hebert, D. Flahaut, C. Martin, S. Lemonnier, J. Noudem, C. Goupil, A. Maignan, J. Hejtmanek
+48.	S. Hebert, D. Flahaut, C. Martin, S. Lemonnier, J. Noudem, C. Goupil, A. Maignan, J. Hejtmanek
 Thermoelectric properties of perovskites: Sign change of the Seebeck coefficient and high temperature properties
 Progress in Solid State Chemistry vol. 35 457-467 (2007)
 
-48.	E.S. Reddy,J.G. Noudem, C. Goupil
+47.	E.S. Reddy,J.G. Noudem, C. Goupil
 Open porous foam oxide thermoelectric elements for hot gases and liquid environments
 Energy Conversion and Management vol. 48 1251-1254 (2007)
 
-49.	J. Scola, A. Pautrat, C. Goupil, C. Simon
+46.	J. Scola, A. Pautrat, C. Goupil, C. Simon
 Experimental study of the correlation length of critical-current fluctuations in the presence of surface disorder: Probing vortex long-range interactions
 Physical Review B vol. 73 (2) , 024508 (2006)
 
-50.	D. Flahaut, C. Goupil, S. Hébert, S. Lemonnier, J. Noudem, A. Maignan and R. Funahashi
+45.	D. Flahaut, C. Goupil, S. Hébert, S. Lemonnier, J. Noudem, A. Maignan and R. Funahashi
 Thermolectric performances of perovskite transition-metal oxides at high temperature
 Transactions of the Materials Research Society of Japan 3 371-374 (2006)
 
-51.	X. Gay, B. Hintze, E. Erben, H. Bernhardt, SP Kudelka, C. Goupil, B. Mercey. Capacitors for sub 70nm DT DRAM technology and Beyond. ECS Transactions 1 (5), 145-152 (2006) 
+44.	X. Gay, B. Hintze, E. Erben, H. Bernhardt, SP Kudelka, C. Goupil, B. Mercey. Capacitors for sub 70nm DT DRAM technology and Beyond. ECS Transactions 1 (5), 145-152 (2006) 
 
-52.	E. S. Reddy, J. G. Noudem, S. Hebert and C Goupil
+43.	E. S. Reddy, J. G. Noudem, S. Hebert and C Goupil
 Fabrication and properties of four-leg oxide thermoelectric modules
 J. Phys. D : Appl. Phys. 38 3751--3755 (2005)
 
-53.	J. Scola, A. Pautrat, C. Goupil, Ch Simon, B. Domengès and C. Villard
+42.	J. Scola, A. Pautrat, C. Goupil, Ch Simon, B. Domengès and C. Villard
 New insight into the fluctuations of the moving vortex lattice : Non-Gaussian noise and Lévy flights
 Fluctuations and Noise Letter vol. 6, 287 (2006)
 
-54.	Ch. Simon, A. Pautrat, C. Goupil, J. Scola, P. Mathieu, A. Brulet, A. Ruyter, M.J. Higgins, S. Battacharya and D. Plessis
+41.	Ch. Simon, A. Pautrat, C. Goupil, J. Scola, P. Mathieu, A. Brulet, A. Ruyter, M.J. Higgins, S. Battacharya and D. Plessis
 Why pinning by surface irregularities can explain the peak effect in transport properties and neutron diffraction results in NbSe2 and Bi-2212 crystals?
 Pramana-Journal of Physics vol. 66 83-97 (2006)
 
-55.	J. Scola, A. Pautrat, C. Goupil, L. Méchin, V. Hardy, Ch. Simon
+40.	J. Scola, A. Pautrat, C. Goupil, L. Méchin, V. Hardy, Ch. Simon
 Voltage noise and surface current fluctuations in the superconducting surface sheath
 Physical Review B vol. 72, 012507 (2005)
 
-56.	A. Pautrat, J. Scola, Ch. Simon, P. Mathieu, A. Brulet, C. Goupil, M.J. Higgins, S. Battacharya
+39.	A. Pautrat, J. Scola, Ch. Simon, P. Mathieu, A. Brulet, C. Goupil, M.J. Higgins, S. Battacharya
 Metastable states of a flux-line lattice studied by transport and small-angle neutron scattering
 Physical Review B vol. 71, 064517 (2005)
 
-57.	J. Scola, A. Pautrat, C. Goupil, Ch. Simon
+38.	J. Scola, A. Pautrat, C. Goupil, Ch. Simon
 Longitudinal and transverse noise in a moving vortex lattice
 Physical Review B vol. 71, 104507 (2005)
 
-58.	A. Pautrat, Ch. Simon, J. Scola, C. Goupil, A. Ruyter, L. Ammor, P. Thopart and D. Plessis
+37.	A. Pautrat, Ch. Simon, J. Scola, C. Goupil, A. Ruyter, L. Ammor, P. Thopart and D. Plessis
 On voltage-current characteristics and critical current in Bi-2212
 Eur. Phys. J. B (EPJB) vol. 43, 39-45 (2005)
 
-59.	A. Pautrat, C. Goupil, Ch. Simon, B. Andrewjewski, A.I. Rykov, S. Tajima
+36.	A. Pautrat, C. Goupil, Ch. Simon, B. Andrewjewski, A.I. Rykov, S. Tajima
 The vortex depinning transition in untwined YBaCuO using complex impedance measurements
 Physica C-Superconductivity and its Applications vol. 408 577-578 (2004)
 
-60.	C. Simon, A. Pautrat, G. Poullain and C. Goupil
+35.	C. Simon, A. Pautrat, G. Poullain and C. Goupil
 Influence of twin boundaries on the flux-line-lattice structure in YBa2Cu3O7-delta : A small-angle neutron scattering
 Physical Review B vol. 70, 024502 (2004)
 
-61.	A. Pautrat, J. Scola, C. Goupil and Ch Simon
+34.	A. Pautrat, J. Scola, C. Goupil and Ch Simon
 Quantitative analysis of the critical current due to vortex pinning by surface corrugation
 Physical Review B vol. 69, 224504 (2004)
 
-62.	O Crepel, R Desplats, Y Bouttement, C. Goupil, Ph. Descamps
+33.	O Crepel, R Desplats, Y Bouttement, C. Goupil, Ph. Descamps
 Magnetic emission mapping for passive integrated components characterisation
 Microelectronics Reliability vol. 43 1809-1814 (2003)
 
-63.	A. Pautrat, A. Daignere, C. Goupil, Ch. Simon, B. Andrzejewski, A.I. Rykov, S. Tajima
+32.	A. Pautrat, A. Daignere, C. Goupil, Ch. Simon, B. Andrzejewski, A.I. Rykov, S. Tajima
 Electrodynamics of the vortex lattice in untwinned YBaCuO by complex impedance measurements
 The European Physical Journal B - Condensed Matter - Vol. 33 279-284 (2003)
 
-64.	A. Pautrat, C. Goupil, and Ch. Simon, B. Plaais and P. Mathieu
+31.	A. Pautrat, C. Goupil, and Ch. Simon, B. Plaais and P. Mathieu
 Comment on "Collapse of the vortex-lattice inductance and shear modulus at the melting transition in untwinned YBa2Cu3O7"
 Physical Review B vol. 67, 146501 (2003)
 
-65.	A. Pautrat, C. Goupil, Ch. Simon, D. Charalambous, E. M. Forgan, G. Lazard, P. Mathieu, and A. Brûlet
+30.	A. Pautrat, C. Goupil, Ch. Simon, D. Charalambous, E. M. Forgan, G. Lazard, P. Mathieu, and A. Brûlet
 Distribution of transport current in a type-II superconductor studied by small-angle neutron scattering
 Physical Review Letters vol. 90, 087002 (2003)
 
-66.	F. Beaudoin, P. Perdu, R. Desplats, L.D. de Morais, O. Crepel, C. Goupil and G. Haller
+29.	F. Beaudoin, P. Perdu, R. Desplats, L.D. de Morais, O. Crepel, C. Goupil and G. Haller
 Backside hot spot detection using Liquid Crystal Microscopy
 Microelectronics Reliability vol. 42 1741-1746 (2002)
 
-67.	O. Crepel, C. Goupil, B. Domenges
+28.	O. Crepel, C. Goupil, B. Domenges
 Magnetic field measurements for non destructive failure analysis
 Microelectronics Reliability vol. 42 1763-1766 (2002)
 
-68.	D. Charalambous, P. G. Kealey, E. M. Forgan, T. M. Riseman, M. W. Long, C. Goupil, R. Khasanov, D. Fort, P. J. C. King, S. L. Lee, and F. Ogrin
+27.	D. Charalambous, P. G. Kealey, E. M. Forgan, T. M. Riseman, M. W. Long, C. Goupil, R. Khasanov, D. Fort, P. J. C. King, S. L. Lee, and F. Ogrin
 Vortex motion in type-II superconductors probed by muon spin rotation and small-angle neutron scattering
 Physical Review B vol. 66, 054506 (2002)
 
-69.	V. Garnier, C. Goupil and G. Desgardin
+26.	V. Garnier, C. Goupil and G. Desgardin
 Section area and self-field dependence of critical current density in homogeneous bulk textured Bi-2223
 Superconductor Science and Technology vol. 14 717-721(2001)
 
-70.	D. Thopart, C. Goupil, C. Simon
+25.	D. Thopart, C. Goupil, C. Simon
 Experimental evidence of the decoupling line in     single crystals by resistivity measurements 
 Physical Review B vol. 63, 184504 (2001)
 
-71.	A. Pautrat, C. Goupil, Ch. Simon, N. Lukte-Entrup, B. Plaçais, P. Mathieu
+24.	A. Pautrat, C. Goupil, Ch. Simon, N. Lukte-Entrup, B. Plaçais, P. Mathieu
 Evidence for vortex surface pinning in YBa2Cu3O7-delta from the frequency dependence of the complex penetration depth
 Physical Review B vol. 63, 054503 (2001)
 
-72.	C. Goupil, A. Pautrat, C. Simon, P.G. Kealey, E.M. Forgan, S.L. Lee, S.T. Johnson, G. Lazard, B. Plaçais, Y. Simon, P. Mathieu, R. Cubitt, Ch. Dewhurst
+23.	C. Goupil, A. Pautrat, C. Simon, P.G. Kealey, E.M. Forgan, S.L. Lee, S.T. Johnson, G. Lazard, B. Plaçais, Y. Simon, P. Mathieu, R. Cubitt, Ch. Dewhurst
 Small angle neutron scattering and vortex lattice dynamical phase diagram
 Physica C vol. 341 999-1002 (2000)
 
-73.	A. Pautrat, C. Goupil, Ch Simon
+22.	A. Pautrat, C. Goupil, Ch Simon
 Vortex pinning in untwinned YBCO
 Physica C vol. 341 1059-1060 (2000)
 
-74.	D. Thopart, C. Goupil, Ch. Simon
+21.	D. Thopart, C. Goupil, Ch. Simon
 Experimental evidence of the decoupling line in Bi 2212 single crystal by electronic transport measurements
 Physica C vol. 341 1311-1312 (2000)
 
-75.	N. Lütke-Entrup, B. Plaçais, P. Mathieu, Y. Simon, A. Pautrat, C. Goupil, C. Simon, A. Rykov, S. Tajima
+20.	N. Lütke-Entrup, B. Plaçais, P. Mathieu, Y. Simon, A. Pautrat, C. Goupil, C. Simon, A. Rykov, S. Tajima
 High-frequency linear AC response of a pinned vortex lattice
 Physica B vol. 284 719-720 (2000)
 
-76.	C. Simon, A. Pautrat, C. Goupil, N. Lutke-Entrup, B. Plaçais, Y. Simon, P. Mathieu, A. Rykov, S. Tajima
+19.	C. Simon, A. Pautrat, C. Goupil, N. Lutke-Entrup, B. Plaçais, Y. Simon, P. Mathieu, A. Rykov, S. Tajima
 Evidence for vortex pinning by surface irregularities in untwinned YBaCuO crystals
 Physica C vol. 332 61-65 (2000)
 
-77.	S.L. Lee, P.G. Kealey, E.M. Forgan, S.H. Lloyd, T.M. Riseman, D.McK. Paul, S.T. Johnson, Ch. Simon, C. Goupil, A. Pautrat, R. Cubitt, P. Schleger, C. Dewhurst, C.M. Aegerter, C. Ager
+18.	S.L. Lee, P.G. Kealey, E.M. Forgan, S.H. Lloyd, T.M. Riseman, D.McK. Paul, S.T. Johnson, Ch. Simon, C. Goupil, A. Pautrat, R. Cubitt, P. Schleger, C. Dewhurst, C.M. Aegerter, C. Ager
 Small-angle scattering from the vortex lattice in high-T-c and other superconductors
 Physica B vol. 276 752-755 (2000)
 
-78.	C. Goupil. F. Warmont, M. Hervieu, J.F. Hamet, Ch. Simon
+17.	C. Goupil. F. Warmont, M. Hervieu, J.F. Hamet, Ch. Simon
 Magnetoresistance and plastic dissipation in twinned     samples
 Physical Review B vol. 60, 1418-1424 (1999)
 
-79.	V. Hardy, S. Hébert, C. Goupil, Ch. Simon, J. Provost, M. Hervieu, and P. Lejay
+16.	V. Hardy, S. Hébert, C. Goupil, Ch. Simon, J. Provost, M. Hervieu, and P. Lejay
 Vortex pinning by splayed columnar defects in YBa2Cu3O7: Influence of large crossing angles
 Physical Review B vol. 59, 8455-8458 (1999)
 
-80.	F. Warmont, C. Goupil, V. Hardy, and Ch. Simon
+15.	F. Warmont, C. Goupil, V. Hardy, and Ch. Simon
 Anisotropy dependence of half-loop-mediated vortex motion in thallium-based superconductors studied by magnetoresistivity
 Physical Review B vol. 58, 132-134 (1998)
 
-81.	C. Prouteau, F. Warmont, C. Goupil, J.F. Hamet, Ch. Simon
+14.	C. Prouteau, F. Warmont, C. Goupil, J.F. Hamet, Ch. Simon
 Angular dependence of the resistivity of YBa2Cu3O7 superconducting a-axis oriented thin films
 Physica C vol. 288 243-248 (1997)
 
-82.	F. Warmont, V. Hardy, A. Ruyter, C. Goupil, G. Villard, J. Provost, Ch. Simon
+13.	F. Warmont, V. Hardy, A. Ruyter, C. Goupil, G. Villard, J. Provost, Ch. Simon
 Angle-resolved resistivity measurements in a Bi-2212 single crystal with inclined columnar defects
 Physica C vol. 282 2319-2320 (1997)
 
-83.	T Aouaroun, V Hardy, Ch Goupil, F Warmont, G Villard and Ch Simon
+12.	T Aouaroun, V Hardy, Ch Goupil, F Warmont, G Villard and Ch Simon
 Anisotropic resistivity measurements by a multi-terminal transport method
 Supercond. Sci. Technol. vol. 10 572-575 (1997)
 
-84.	C. Goupil, A. Ruyter, V. Hardy, Ch. Simon
+11.	C. Goupil, A. Ruyter, V. Hardy, Ch. Simon
 Flux line pinning and transport measurements in a Bi2212 crystal in the presence of columnar defects
 Physica C vol. 278 23-30 (1997)
 
-85.	F. Warmont, V. Hardy, C. Goupil, Ch. Simon, J. Provost, A. Ruyter
+10.	F. Warmont, V. Hardy, C. Goupil, Ch. Simon, J. Provost, A. Ruyter
 Angle-resolved transport measurements in a Bi-2212 crystal with inclined columnar defects: Study of the directional effects
 Physica C vol. 277 61-69 (1997)
 
-86.	J. C. Soret, L. Ammor, A. Smina, B. Martinie, A. Ruyter, J. Lecomte, Ch. Gasser, C. Goupil and Ch Simon
+9.	J. C. Soret, L. Ammor, A. Smina, B. Martinie, A. Ruyter, J. Lecomte, Ch. Gasser, C. Goupil and Ch Simon
 Kosterlitz-Thouless behaviour in     granular thin films
 Journal of Physics-Condensed Matter vol. 8 11193-11204 (1996)
 
-87.	C. Goupil, T. Aouaroun, D. Thopart, J. F. Hamet, and Ch. Simon
+8.	C. Goupil, T. Aouaroun, D. Thopart, J. F. Hamet, and Ch. Simon
 One-dimensional Brownian-motion model for transport measurements in high-temperature superconductors
 Physical Review B vol. 54, 15525-15529 (1996)
 
-88.	Ch Simon, J. Provost, D. Groult, V. Hardy, A. Wahl, C. Goupil, A. Ruyter
+7.	Ch Simon, J. Provost, D. Groult, V. Hardy, A. Wahl, C. Goupil, A. Ruyter
 Vortex pinning and columnar defects in superconducting oxides
 Nuclear Instruments and Methods in Physics Research Section B Vol. 107 384-392 (1996)
 
-89.	C. Goupil, A. Ruyter, J. Provost, T. Aouaroun and Ch. Simon
+6.	C. Goupil, A. Ruyter, J. Provost, T. Aouaroun and Ch. Simon
 Vortex Dynamics Studied Over a Wide Range of Time Scale in Bi-2212 Crystals
 Journal de Physique III vol. 5 1481-1490 (1995)
 
-90.	A. Ruyter, V. Hardy, C. Goupil, J. Provost, D. Groult, Ch. Simon
+4.	A. Ruyter, V. Hardy, C. Goupil, J. Provost, D. Groult, Ch. Simon
 Magnetic flux lattice transition in Bi2212 crystals with columnar defects
 Physica C vol. 235 2663-2664 (1994)
 
-91.	C. Goupil, J.F. Hamet, J. Provost, B. Blanc-Guilhon, Ch. Simon, S. Bouffard, B. Raveau
+3.	C. Goupil, J.F. Hamet, J. Provost, B. Blanc-Guilhon, Ch. Simon, S. Bouffard, B. Raveau
 Critical current in YBaCuO thin films
 Journal de Physique III vol. 4 2213-2223 (1994)
 
-92.	V. Hardy, A. Maignan, C. Goupil, J. Provost, C. Simon and C. Martin
+2.	V. Hardy, A. Maignan, C. Goupil, J. Provost, C. Simon and C. Martin
  Anisotropic superconducting properties of a Tl-2223 single crystal studied by transport measurements
 Supercond. Sci. Technol. vol. 7 126-132 (1994)
 
-93.	J.C. Soret, L. Ammor, B. Martinie, C. Goupil, V. Hardy, J. Provost, A. Ruyter, Ch. Simon
+1.	J.C. Soret, L. Ammor, B. Martinie, C. Goupil, V. Hardy, J. Provost, A. Ruyter, Ch. Simon
  Magnetoresistance in Bi-2212 single crystal
 Physica C vol. 220 2663-2664 (1994)
 
-Articles soumis
-
-1)	H. Benisty and C. Goupil, Graph parity-time symmetry from randomly connected mesoscopic sets soumis à Phys. Rev. E.
 
 
 ## Ouvrages <a name="ouvrages"></a>
