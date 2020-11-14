@@ -3,7 +3,8 @@ layout: post
 title: 'Thermodynamics of animal locomotion'
 ---
 
-This paper is a foundation of thermodynamics of animal locomotion. It builds on previous paper that discussed the *metabolic behaviour* ([here](_posts/2019-02-01-Thermodynamics-of-metabolic-energy-conversion-under-muscle-load)) of living system and the notion of *adaptability* for living organism ([here](_posts/2020-01-01-Adapted-or-Adaptable.md))
+This paper is a foundation of thermodynamics of animal locomotion. It builds on previous paper that discussed the *metabolic behaviour* ([here](_posts/2019-02-01-Thermodynamics-of-metabolic-energy-conversion-under-muscle-load)) of living system and the notion of *adaptability* for living organism ([here](/2020/01/01/Adapted-or-Adaptable/))
+
 
 
 ### Author
