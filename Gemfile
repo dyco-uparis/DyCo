@@ -11,3 +11,5 @@ gem "jekyll-feed", "~> 0.9"
 gem "jemoji", "~> 0.9"
 gem "jekyll-theme-slate"
 gem "jekyll-gist"
+gem "kramdown", ">= 2.3.0"
+
