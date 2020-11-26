@@ -13,8 +13,7 @@ This paper is a foundation of thermodynamics of animal locomotion. It builds on 
 
 ### Download
 
-The paper was accepted on November 2020 in Phys. Rev. Lett.. For the moment, it can be found on
-[ArXiv](https://arxiv.org/abs/2004.02661)
+The paper was accepted on November 2020 in Phys. Rev. Lett.. For the moment, it can be found on Phys. Rev. Lett. [website](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.228102)
 
 ### Abstract
 
