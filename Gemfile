@@ -13,4 +13,4 @@ gem "jekyll-theme-slate"
 gem "jekyll-gist"
 gem "kramdown", ">= 2.3.1"
 gem "nokogiri", ">= 1.11.4"
-
+gem "rexml", ">= 3.2.5"
