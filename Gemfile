@@ -12,4 +12,5 @@ gem "jemoji", "~> 0.9"
 gem "jekyll-theme-slate"
 gem "jekyll-gist"
 gem "kramdown", ">= 2.3.0"
+gem "nokogiri", ">= 1.11.4"
 
