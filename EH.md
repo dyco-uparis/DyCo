@@ -5,7 +5,7 @@ csl: ieee.csl
 bibliography: doc_eh/herbert.bib
 ---
 
-Contact *eric.herbet@univ-paris-diderot.fr*
+Contact *eric.herbert@u-paris.fr*
 
 ### Contenu
 - [Présentation](#presentation)
@@ -28,6 +28,7 @@ J'ai rejoint l'université Paris Diderot en 2013 comme enseignant chercheur au s
 ### Dernières Publications <a name="publis"></a>
 On trouvera sur [cette page](/hidden_EH) la liste complète des publications
 
+1. E. Herbert, H. Ouerdane, Ph. Lecoeur, V. Bels, C. Goupil , Thermodynamics of animal locomotion, accepted in <b>Phys Rev Lett.</b>, Nov. 2020, see https://arxiv.org/abs/2004.02661
 1. Dikec, J., A. Olivier, C. Bobée, Y. D’Angelo, R. Catellier, P. David, F. Filaine, et al. « Hyphal Network Whole Field Imaging Allows for Accurate Estimation of Anastomosis Rates and Branching Dynamics of the Filamentous Fungus Podospora Anserina ». Scientific Reports 10, nᵒ 1 (21 février 2020): 1‑16. https://doi.org/10.1038/s41598-020-57808-y.
 1. Ch. Goupil and É. Herbert Adapted or Adaptable: How to Manage Entropy Production ?  Entropy 2020, 22(1), 29; https://doi.org/10.3390/e22010029
 1. Christophe Goupil, Henni Ouerdane, Eric Herbert, Clémence Goupil, and Yves D’Angelo.
@@ -40,10 +41,6 @@ Fungal Genetics and Biology, 116:1–13, July 2018.
 4. Eric Herbert, Cyprien Morize, Aurélie Louis-Napoléon, Christophe Goupil, Pierre Jop, and
 Yves D’Angelo. Buoyancy-driven destabilization of an immersed granular bed. Journal of
 Fluid Mechanics, 843:778–809, May 2018.
-5. C. Morize, E. Herbert, and A. Sauret. Resuspension threshold of a granular bed by localized
-heating. Physical Review E, 96(3):032903, September 2017.
-6. C. Goupil, H. Ouerdane, E. Herbert, G. Benenti, Y. D’Angelo, and Ph. Lecoeur. Closed-loop
-approach to thermodynamics. Physical Review E, 94(3):032136, September 2016.
 
 
 
