@@ -341,6 +341,9 @@ HDR  Michel Dubois. De l’interaction évolutive de la technique et de l’huma
 
 [Biomimétisme des usages de l’énergie](https://www.youtube.com/watch?v=n1uetGexTdo)
 
+[Système Terre-Soleil et flux de matières](https://u-paris.fr/centre-politiques-terre/%C3%A9v%C3%A8nement/cycle-de-seminaires-du-centre-des-politiques-de-la-terre/)
+
+
 ## Organisation colloques, conférences, journées d'étude
 
 Co-organisateur de la session Ecole des Houches, avril 2012, CEA-CNRS :  Le soleil dans tous ses états
