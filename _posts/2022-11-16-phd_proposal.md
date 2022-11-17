@@ -18,7 +18,7 @@ optimisation constrained by resource management**
 ------------------------------------------------------------------------
 
 
-| ![imageNJP](/images/morphotype_cave.png) ![imageNJP](/images/morphotype_surface.png)|
+| ![imageNJP](/images/morphotype_cave.png) ! | [imageNJP](/images/morphotype_surface.png)|
 |:--:|
 |Two morphotypes of the same species, *Astyanax mexicanus*. On the left the blind and depigmented cave morphotype, on the right the surface morphotype. |
 
