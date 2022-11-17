@@ -4,13 +4,15 @@ title: 'Master Internship and PhD Proposal'
 ---
 
 
-Power Production in living systems: a biomimetic model of
+**Power Production in living systems: a biomimetic model of
 optimisation constrained by resource management**
 
 ------------------------------------------------------------------------
 
---- LIED --- *Université de Paris, 35 rue H. Brion, 75013 Paris*
+LIED ---
+*Université Paris Cité, 35 rue H. Brion, 75013 Paris*
 
+contacts:
 *eric.herbert@u-paris.fr* ,
 *christophe.goupil@u-paris.fr* ,
 *patrick.laurenti@u-paris.fr*
