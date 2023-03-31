@@ -14,7 +14,10 @@ title: Publications
 
 <ol reversed>
 
-<li> E. Herbert, H. Ouerdane, Ph. Lecoeur, V. Bels, C. Goupil , Thermodynamics of animal locomotion, accepted in <b>Phys Rev Lett.</b>, Nov. 2020, see https://arxiv.org/abs/2004.02661
+<li> Ledoux, Clara, Florence Chapeland-Leclerc, Gwenaël Ruprich-Robert, Cécilia Bobée, Christophe Lalanne, Éric Herbert, et Pascal David. « Prediction and Experimental Evidence of the Optimisation of the Angular Branching Process in the Thallus Growth of Podospora Anserina ». <b>Scientific Reports</b> 12, (2022): 12351. https://doi.org/10.1038/s41598-022-16245-9.
+</li>
+ 
+<li> E. Herbert, H. Ouerdane, Ph. Lecoeur, V. Bels, C. Goupil , « Thermodynamics of Animal Locomotion ». <b>Physical Review Letters</b> 125, (2020): 228102. https://doi.org/10.1103/PhysRevLett.125.228102.
 </li>
 
 <li> Dikec, J., A. Olivier, C. Bobée, Y. D’Angelo, R. Catellier, P. David, F. Filaine, et al. « Hyphal Network Whole Field Imaging Allows for Accurate Estimation of Anastomosis Rates and Branching Dynamics of the Filamentous Fungus Podospora Anserina ». <b>Scientific Reports</b> 10, nᵒ 1 (21 février 2020): 1‑16. https://doi.org/10.1038/s41598-020-57808-y. </li>
