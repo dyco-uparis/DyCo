@@ -14,6 +14,18 @@ title: Publications
 
 <ol reversed>
 
+ <li>
+Dupas, Marie-Cécile, Sophie Parison, Vincent Noel, Petros Chatzimpiros, and Éric Herbert. “Variable Renewable Energy Penetration Impact on Productivity: A Case Study of Poultry Farming.” PLOS ONE 18, no. 10 (October 2, 2023): e0286242. https://doi.org/10.1371/journal.pone.0286242.
+</li>
+
+<li>
+Herbert, Éric, Gaël Giraud, Aurélie Louis-Napoléon, and Christophe Goupil. “Macroeconomic Dynamics in a Finite World Based on Thermodynamic Potential.” Scientific Reports 13, no. 1 (October 21, 2023): 18020. https://doi.org/10.1038/s41598-023-44699-y.
+</li>
+
+<li>
+Ledoux, Clara, Florence Chapeland-Leclerc, Gwenaël Ruprich-Robert, Cécilia Bobée, Christophe Lalanne, Éric Herbert, and Pascal David. “Prediction and Experimental Evidence of Different Growth Phases of the Podospora Anserina Hyphal Network.” Scientific Reports 13, no. 1 (May 25, 2023): 8501. https://doi.org/10.1038/s41598-023-35327-w.
+</li>
+
 <li> Ledoux, Clara, Florence Chapeland-Leclerc, Gwenaël Ruprich-Robert, Cécilia Bobée, Christophe Lalanne, Éric Herbert, et Pascal David. « Prediction and Experimental Evidence of the Optimisation of the Angular Branching Process in the Thallus Growth of Podospora Anserina ». <b>Scientific Reports</b> 12, (2022): 12351. https://doi.org/10.1038/s41598-022-16245-9.
 </li>
  
