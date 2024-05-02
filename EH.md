@@ -9,43 +9,22 @@ Contact *eric.herbert@u-paris.fr*
 
 ### Contenu
 - [Présentation](#presentation)
-- [Recherche](#recherche)
-    - [Thermodynamique](#thermo)
-        - [Systèmes vivants](#livingsystems)
+- [Thermodynamique](#thermo)
+	- [Systèmes vivants](#livingsystems)
         - [Économie](#eco)
-    - [Croissance réseau fongique](#thalle)
-    - [Impact des énergies de flux sur la production agricole](#poulets)
-    - [Panache granulaire](#panache)
-- [Étudiants](#etudiants)
-
-
+- [Croissance réseau fongique](#thalle)
+- [Impact des énergies de flux sur la production agricole](#poulets)
+- [Panache granulaire](#panache)
 
 ## Présentation succincte <a name="presentation"></a>
-
 J'ai rejoint l'université Paris Diderot en 2013 comme enseignant chercheur au sein du [LIED](http://www.lied-pieri.univ-paris-diderot.fr/), laboratoire qui vise à apporter des réponses interdisciplinaires à la question sociale majeure de la transition énergétique. Ma contribution est celle d'un physicien, environné de sciences humaines et de biologistes. On trouvera une présentation de nos activités de recherches actuelles [ici](#recherche).
 
 
 ### Dernières Publications <a name="publis"></a>
 On trouvera sur [cette page](/hidden_EH) la liste complète des publications
 
-1. E. Herbert, H. Ouerdane, Ph. Lecoeur, V. Bels, C. Goupil , Thermodynamics of animal locomotion, accepted in <b>Phys Rev Lett.</b>, Nov. 2020, see https://arxiv.org/abs/2004.02661
-1. Dikec, J., A. Olivier, C. Bobée, Y. D’Angelo, R. Catellier, P. David, F. Filaine, et al. « Hyphal Network Whole Field Imaging Allows for Accurate Estimation of Anastomosis Rates and Branching Dynamics of the Filamentous Fungus Podospora Anserina ». Scientific Reports 10, nᵒ 1 (21 février 2020): 1‑16. https://doi.org/10.1038/s41598-020-57808-y.
-1. Ch. Goupil and É. Herbert Adapted or Adaptable: How to Manage Entropy Production ?  Entropy 2020, 22(1), 29; https://doi.org/10.3390/e22010029
-1. Christophe Goupil, Henni Ouerdane, Eric Herbert, Clémence Goupil, and Yves D’Angelo.
-Thermodynamics of metabolic energy conversion under muscle load. New Journal of Physics,
-21(2):023021, February 2019.
-3. Ning Xie, Gwenaël Ruprich-Robert, Philippe Silar, Eric Herbert, Roselyne Ferrari, and Flo-
-rence Chapeland-Leclerc. Characterization of three multicopper oxidases in the filamentous
-fungus Podospora anserina: A new role of an ABR1-like protein in fungal development?
-Fungal Genetics and Biology, 116:1–13, July 2018.
-4. Eric Herbert, Cyprien Morize, Aurélie Louis-Napoléon, Christophe Goupil, Pierre Jop, and
-Yves D’Angelo. Buoyancy-driven destabilization of an immersed granular bed. Journal of
-Fluid Mechanics, 843:778–809, May 2018.
 
 
-
-
-## Recherches <a name="recherche"></a>
 Actuellement mes recherches sont essentiellement axées sur la notion d'optimisation énergétique entendu comme la capacité à moduler volontairement un système pour maximiser un usage désiré de l'énergie. Pour cela l'approche physique est celle de la thermodynamique à temps fini, appliquée à aux machines à conversion de l'énergie généralisées. L'application y est articulée dans les systèmes vivants ou les structures adaptatives humaines, comme les structures économiques.
 
 
@@ -84,6 +63,7 @@ Nous voulons à présent généraliser cette approche à un organisme complet po
 | *Force développée en fonction de la vitesse de contraction pour deux types de muscle. En noir le soleus, pauvre en fibre rapide et en rouge l'EDL riche en fibre rapide. On constate que l'écart au cas idéal, relation linéaire entre force et vitesse, est signifcativement amplifié dans le cas du soleus, marquant sa différence de nature avec l'EDL.*| *Cout en Énergie (COE) pour effectuer un travail à l'intensité $$I_2$$. Dans le cas d'un déplacement, il s'agit d'une énergie par unité de longueur parcourue. En vert le flux de déchet qui est utilisé. On observe un point de fonctionnement optimal pour minimiser ce flux.*|
 
 > Publications reliées
+1. E. Herbert, H. Ouerdane, Ph. Lecoeur, V. Bels, C. Goupil , « Thermodynamics of Animal Locomotion ». <b>Physical Review Letters</b> 125, (2020): 228102. https://doi.org/10.1103/PhysRevLett.125.228102.
 1. [Ch. Goupil and É. Herbert Adapted or Adaptable: How to Manage Entropy Production ?  Entropy 2020, 22(1), 29; https://doi.org/10.3390/e22010029](/2020/01/01/Adapted-or-Adaptable/)
 1. [Christophe Goupil, Henni Ouerdane, Eric Herbert, Clémence Goupil, and Yves D’Angelo.
 Thermodynamics of metabolic energy conversion under muscle load. New Journal of Physics,
@@ -145,7 +125,4 @@ heating. Physical Review E, 96(3):032903, September 2017.
 
 
 
-## Étudiants <a name="etudiants"></a>
 
-Actuellement en thèse
-1. Clara Ledoux, sept. 2019, *Dynamique de croissance du champignon filamenteux P. anserina*
