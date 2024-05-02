@@ -4,13 +4,12 @@ title: ANR NEMATIC
 ---
 
 
-|:--:| 
-| <b>Colloque NEMATIC 4 et 5 juin 2024<b> |
-|:--:|
+# Colloque NEMATIC
+
+À l'occasion de la mi-parcours de l'ANR NEMATIC, nous organisons un colloque sur deux jours, les 4 et 5 juin 2024, sur le campus Paris rive gauche de l'université Paris Cité (Paris 13). Les exposés ont lieu salle 326 du batiment Lamarck (35 rue H. Brion), les déjeuners dans le restaurant Buffon (15 rue H. Brion).
 
 # Programme
 
-À l'occasion l'ANR NEMATIC, nous organisons un colloque sur deux jours, sur le campus Paris rive gauche de l'unversité Paris Cité (Paris 13). Les exposés ont lieu Salle 326 du batiment Lamarck (35 rue H. Brion), les déjeuners dans le restaurant Buffon (15 rue H. Brion).
 
 |       | 4 juin            | 5juin                 |
 |-------|-------------------|-----------------------|
@@ -35,7 +34,7 @@ title: ANR NEMATIC
 *NEMATIC, bilan experimental et perspectives*
 
 **Arnaud Lehner**, Univ. Rouen, GlucoMEv, 10h45  
-*composition, remodelage et imagerie des parois au cours de la croissance cellulaire.*  
+*Composition, remodelage et imagerie des parois au cours de la croissance cellulaire.*  
 La croissance des cellules entourées d'une matrice extracellulaire, couramment appelée paroi, nécessite un constant remodelage de la structure de la paroi pour que la cellule s'adapte répondent aux aux signaux cellulaire qui guident la croissance ainsi qu'aux contraintes biotiques et abiotiques qui l'entoure. La composition et la structure de la paroi influent directement sur les propriétés mécaniques et les cellules en croissance, il est donc essentiel d'être capable de localiser les polymères pariétaux pour mieux comprendre leurs rôles respectifs au cours de la croissance. je propose de présenter brièvement la paroi primaire végétale ainsi que les techniques d'imagerie dont nous disposons à ce jour et celle qui sont en cours de développement, en particulier les techniques de marquage métabolique, qui permettent de suivre le dépôt des polymères au cours de la croissance.
 
 **Nicolas Fricker**, XXXX, 11h30  
@@ -53,12 +52,12 @@ Motivated by improving mortality tables from human demography databases, we inve
 ## Mercredi 5 juin
 
 **Thibault Chassereau**, LIED, UPC, 10h  
-*identification complète de la structure spatio-temporelle du mycélium de Podospora anserina.*  
+*Identification complète de la structure spatio-temporelle du mycélium de Podospora anserina.*  
 A partir d’une spore micrométrique unique, le champignon filamenteux Podospora anserina arrive à générer un réseau dense et hautement interconnecté d’hyphes de taille millimétrique en seulement quelques heures. A l’aide de séries d’images en lumière blanche capturant l’entièreté du réseau au cours de sa croissance nous verrons dans cette présentation comment nous pouvons reconstruire les dynamiques de croissance du réseau en gardant à la fois l’information locale du suivi de chaque apex et l’information globale de la connectivité des branches entre elles.
 Nous nous intéresserons ensuite à la distinction entre les hyphes d’origine apicale et celles d’origine latérale. Cette distinction basée uniquement sur l’origine de la branche et indépendant de l’opérateur a pourtant un impact sur l’ensemble de son développement. Nous verrons comment les différences spatiale, temporelle et dynamique entre les deux natures de branches peuvent expliquer les différentes phases caractéristiques de la densité du réseau (exploration/densification).
 
 **Frederic Guinand**, Univ. du Havre, LITIS, 10h45  
-*graphes dynamiques et réseaux réels*  
+*Graphes dynamiques et réseaux réels*  
 Depuis des décennies la communauté scientifique travaille à la modélisation des réseaux, qu'il s'agisse de réseaux biologiques, de réseaux de transports, de télécommunications ou sociaux.
  Parmi les innombrables recherches qui ont été menées, une majorité s'est orientée vers les graphes, formalisme idéal pour décrire de tels objets. La notion très prolifique des réseaux complexes (Complex Networks) en est une magnifique illustration.   
  Toutefois, nombreux sont les réseaux dont la structure change au cours du temps.
