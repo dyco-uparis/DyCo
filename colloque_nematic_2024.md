@@ -8,17 +8,17 @@ title: ANR NEMATIC
 # Programme
 
 
-|       | 4 juin            | 5juin                 |
+|       | 4 juin            | 5 juin                |
 |-------|-------------------|-----------------------|
 | 9h30  | accueil café      | accueil café          |
-| 10h   | Éric Herbert      | Thibault Chassereau   |
+| 10h   | É. Herbert, F. Chappeland-Leclerc      | Thibault Chassereau   |
 | 10h45 | Arnaud Lehner     | Frederic Guinand      |
 | 11h30 | Nicolas Fricker   | Annemick Cornelissen  |
 | 13h   | déjeuner          | déjeuner              |
 | 14h30 | café poster       | café poster           |
 | 15h   | Marc Hoffmann     | Étienne Couturier     |
 | 15h45 | Sebastian Baudelet| Loic Bethencourt      |
-| 16h30 | futur de l'ANR    |                       |
+| 16h30 | futur du projet   |                       |
 | 17h30 | fin               | fin                   |
 | 19h   | diner             |                       |
 
@@ -27,7 +27,7 @@ title: ANR NEMATIC
 # Titres et résumés des exposés
 ## Mardi 4 juin
 
-**Éric Herbert**, UPC, LIED,10h  
+**Éric Herbert et Florence Chappeland-Leclerc**, UPC, LIED,10h  
 *NEMATIC, bilan experimental et perspectives*
 
 **Arnaud Lehner**, Univ. Rouen, GlucoMEv, 10h45  
@@ -63,8 +63,12 @@ Depuis des décennies la communauté scientifique travaille à la modélisation 
  Si certaines métriques utilisées pour les graphes statiques  restent opérantes, éventuellement sous la forme de séries temporelles, elles peinent à rendre pleinement compte de la dynamique de la topologie du graphe.  Deux métriques nouvellement proposées, le dynamicScore et la sustainability, ont pour ambition de combler ce manque.  Leur principe seront présentés et illustrés sur quelques exemples de réseaux ainsi que sur un générateur de graphes dynamiques. 
 
 **Annemick Cornelissen**, Laboratoire MSC, Université Paris Cité, 11h30  
-*Titre à ajouter*
+*Morphogenesis of the gastrovascular canal network in scyphomedusae: Variability and possible mechanisms*  
+Scyphomedusae are free swimming jellyfish which are part of the phylum Cnidaria, the sister group to all animals with bilateral symmetry. Scyphomedusae possess a gastrovascular system with a canal network distributing nutrients and oxygen to the tissues in the subumbrella. A large diversity of canal networks exists with highly reticulated networks in Rhizostoma pulmo and purely branching networks in Cyanea capillata. The canal network of Aurelia jellyfish has a sparse reticulated network. By day to day macroscopic observations we studied the dynamics of the network formation in juvenile Aurelia jellyfish and model it numerically and theoretically.
 
+At the circular canal at the rim of jellyfish umbrella instabilities occur as canal sprouts, which grow toward the center of the jellies and reconnect to already existing radial canals. These reconnections have a bias to reconnect to the younger side radial canal. However, even in clones there exist a variability towards which canal the reconnections occur. We show that in Aurelia both the hydrodynamic effects, such as pressure in the canals, and elastic effects, such as deformation of the jellyfish body during swimming, amplifying the direction toward which the canal sprouts grow. Similar to the morphogenic instability idea of Turing (1952), the canal network pattern is not strictly regulated, but rather grow from an instability, keeping trace of noise, and then self-organizes, guided by physical rules.
+
+We suggest that these morphogenic instabilities also play a role in the diverse patterns of canal networks in Rhizostoma pulmo and purely branching networks in Cyanea capillata. 
 **Étienne couturier**, Laboratoire MSC, Université Paris Cité, 15h  
 *Lokhart’s law a quantitative predictive tool ?* 
 Unwatered plants become flabby because the internal pressure of plant cells coined turgor strongly contributes to their mechanical strength. A tight regulation of water potential gradient is necessary to maintain turgor during the growth. In some cases, turgor also plays a regulative role on the plant growth rate: in case of drought, the loss of turgor is one of the first signal stopping plant growth. The water potential gradient pattern complexity in plant tissues makes in general the relationship between turgor and growth rate complicated; nonetheless in the simplest case of single cells (giant characean internode, pollen tube, root hair …), the growth rate is linear with turgor above a turgor threshold. This formal analogy between complex fluid and cell wall growth, coined Lockhart’s law, has generated a vast theoretical literature aiming to understand its microscopical origin; in comparison, experimental studies are much scarce and mainly concentrated on the 1D elongation of cylindrical organs. The aim of our project is to develop simple theoretical models and to design experiments to test the generality and the robustness of Lockhart’s law with two experimental models (Zea mais roots and giant characean internodal cells). The first part of the talk will be devoted to challenge the Lockhart’s model in describing the interaction between a growing plant and an obstacle. We will present a model coupling osmoticum production and Lockhart’s law quantitatively linking the obstacle stiffness and the slow-down of the growth as well as experiments on maize roots to test the model. The second part of the talk will present an experiment which aims to test if Lockhart’s law can be generalized in 2D. Among the possible 2D  generalization the one which fits the best our preliminary data has the same pressure threshold in both directions. 
