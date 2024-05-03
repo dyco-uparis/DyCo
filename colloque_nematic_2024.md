@@ -43,8 +43,8 @@ Fungal hyphae growth represents a complex biological phenomenon vital for unders
 Motivated by improving mortality tables from human demography databases, we investigate statistical inference of a stochastic age-evolving density of a population alimented by time inhomogeneous mortality and fertility. This generic model may serve as a representative model for population dynamics structured by age. As the size of the population grows, the observation gets closer to the solution of the Von Foerster Mc Kendrick equation. The difficulty lies in controlling simultaneously the stochastic approximation to the limiting PDE in a suitable sense together with an appropriate parametrisation of the anisotropic solution. This enables us to revisit the artefact of cohort effects in mortality tables.
 
 **Sebastian Baudelet**, LJAD, Université Côte d’Azur, 15h45  
-*Titre à ajouter*
-
+*Modeling Apical branching via polarisome dynamics*  
+Filamentous fungi grow via elongated cells called hyphae, which extend through vesicle exocytosis at their tips, organized by a structure called the Spitzenkörper. Apical branching, where a branch divides into two during growth, and lateral branching, where new branches emerge from existing ones, are crucial for shaping the network. We focus on apical branching, considering cell polarity (controlled by proteins like the Polarisome) and cyclic growth regulated by calcium pulses. Polarisome clustering indicates growth direction, while calcium pulses influence actin dynamics and exocytosis, crucial for branching. Our model suggests that if two large Polarisome clusters are present at the end of a calcium pulse interval, an apical branching event occurs. We hypothesize Polarisome clusters move only at the tip and can merge. Existing models suggest diffusion-based movement and cluster-filament interactions. Our objective is to derive a concise formula approximating the probability of encountering two sufficiently large clusters, facilitating scalability across several calcium pulses events, without extensive simulations.  
 
 ## Mercredi 5 juin
 
