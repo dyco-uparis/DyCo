@@ -5,6 +5,8 @@ title: Colloque ANR NEMATIC
 
 À l'occasion de la mi-parcours de l'ANR NEMATIC, nous organisons un colloque sur la thématique des réseaux branchants et croissants sur deux jours, les 4 et 5 juin 2024, sur le campus Paris rive gauche de l'université Paris Cité (Paris 13). Les exposés ont lieu salle 326 du batiment Lamarck (35 rue H. Brion), les déjeuners dans le restaurant Buffon (15 rue H. Brion).
 
+Nous nous retrouverons le 4 juin pour diner à 19h au café Dupont, 84 avenue de France.
+
 # Programme
 
 
@@ -22,7 +24,7 @@ title: Colloque ANR NEMATIC
 | 17h30 | fin               | fin                   |
 | 19h   | diner             |                       |
 
-
+En plus des exposés, des posters peuvent être installés dans la salle. Merci de privilégier le format A0 et l'orientation verticale (portrait). Nous pouvons prendre en charge l'impression, pour cela envoyer un mail aux organisateurs.
 
 # Titres et résumés des exposés
 ## Mardi 4 juin
