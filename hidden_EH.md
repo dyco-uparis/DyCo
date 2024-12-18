@@ -15,11 +15,11 @@ title: Publications
 <ol reversed>
 
 <li>
-Herbert, Éric, Gaël Giraud, Aurélie Louis-Napoléon, and Christophe Goupil. “Macroeconomic Dynamics in a Finite World Based on Thermodynamic Potential.” Scientific Reports 13, no. 1 (October 21, 2023): 18020. https://doi.org/10.1038/s41598-023-44699-y.
+Ledoux, Clara, Cécilia Bobée, Éva Cabet, Pascal David, Frédéric Filaine, Sabrina Hachimi, Christophe Lalanne, Gwenaël Ruprich-Robert, Éric Herbert, and Florence Chapeland-Leclerc. “Characterization of Spatio-Temporal Dynamics of the Constrained Network of the Filamentous Fungus Podospora Anserina Using a Geomatics-Based Approach.” PLOS ONE 19, no. 2 (February 6, 2024): e0297816. https://doi.org/10.1371/journal.pone.0297816.
 </li>
 
 <li>
-Ledoux, Clara, Cécilia Bobée, Éva Cabet, Pascal David, Frédéric Filaine, Sabrina Hachimi, Christophe Lalanne, Gwenaël Ruprich-Robert, Éric Herbert, and Florence Chapeland-Leclerc. “Characterization of Spatio-Temporal Dynamics of the Constrained Network of the Filamentous Fungus Podospora Anserina Using a Geomatics-Based Approach.” PLOS ONE 19, no. 2 (February 6, 2024): e0297816. https://doi.org/10.1371/journal.pone.0297816.
+Herbert, Éric, Gaël Giraud, Aurélie Louis-Napoléon, and Christophe Goupil. “Macroeconomic Dynamics in a Finite World Based on Thermodynamic Potential.” Scientific Reports 13, no. 1 (October 21, 2023): 18020. https://doi.org/10.1038/s41598-023-44699-y.
 </li>
 
  <li>
