@@ -22,9 +22,9 @@ contacts:
 *eric.herbert@u-paris.fr* , *christophe.goupil@u-paris.fr*
 
 In this internship, we are interested in characterizing the relationship of force *vs* velocity response of the muscle, as described by the well-known phenomenological equation of Hill [Hill, 1938; Hill, 1970], established almost a century ago:  
-\[ F(v) = \frac{c}{v+b} - a \]  
+$$ F(v) = \frac{c}{v+b} - a $$
 
-The typical convex shape of \( F(v) \), due to its hyperbolic expression, and the small number of adjustable parameters have led to its success in recovering experimental contraction data accumulated since then.  
+The typical convex shape of $$ F(v) $$, due to its hyperbolic expression, and the small number of adjustable parameters have led to its success in recovering experimental contraction data accumulated since then.  
 
 But this description lacks a solid physical basis. Based on a description of an energy conversion machine, we were able to regain this expression where each of the parameters \( a \), \( b \), and \( c \) correspond to quantities that are thermodynamically founded and experimentally accessible. These involve a threshold current \( I_T \), the isometric force \( F_{iso} \), and the feedback resistance \( R_{fb} \) at the origin of the non-linearity. This description is valid both at the scale of the muscle and at that of the whole organism, as has been observed using data on oxygen respiration in horses [Herbert, 2020].  
 
@@ -34,11 +34,12 @@ The work involves describing muscle extension and formalizing these descriptions
 
 ---
 
-![Fit of contraction velocity measurements and extension](images/data_vredenbergt.txt.png)  
+<img src="images/data_vredenbergt.txt.png" alt="Fit of contraction velocity measurements and extension" style="width:100%; height:auto;">
+
 **Figure 1**: Fit of contraction velocity measurements and extension based on Vredenbergt data (\( \textbf{+} \)) with the proposed model (solid black line) and with Hill's model including dissipation in parameter \( a \) (dashed blue line) and without dissipation (dashed red line).
 
 
-
+------------------------------------------------------------------------
 
 ## Energy Modeling of Socio-Technical Structures
 
@@ -52,6 +53,7 @@ In a second phase, and based on the established energy balances, we propose to f
 [ref. 1] https://www.sankey-diagrams.com/global-energy-flows-2018-2050-dnvgl/
 [ref. 2] https://doi.org/10.1371/journal.pone.0286242
 
+------------------------------------------------------------------------
 
 ## Growth Dynamics of _Podospora anserina_ Thallus
 
