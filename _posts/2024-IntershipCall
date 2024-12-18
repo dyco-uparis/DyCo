@@ -34,7 +34,7 @@ The work involves describing muscle extension and formalizing these descriptions
 
 ---
 
-![Fit of contraction velocity measurements and extension](figures/data_vredenbergt.txt.png)  
+![Fit of contraction velocity measurements and extension](images/data_vredenbergt.txt.png)  
 **Figure 1**: Fit of contraction velocity measurements and extension based on Vredenbergt data (\( \textbf{+} \)) with the proposed model (solid black line) and with Hill's model including dissipation in parameter \( a \) (dashed blue line) and without dissipation (dashed red line).
 
 
@@ -77,5 +77,5 @@ An experimental study could be envisaged to detect mergers in the network.
 
 ---
 
-![Fungal Network](./ReseauFongique/a_thalle_time_color.png)
+![Fungal Network](./images/a_thalle_time_color.png)
 
