@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2025 Internship Proposals'
+title: '2025: Internship Proposals'
 ---
 
 
