@@ -1,20 +1,19 @@
 ---
 layout: post
-title: '2025 Proposals'
+title: '2025 Internship Proposals'
 ---
 
 
+
+
+------------------------------------------------------------------------
+
 **Internship proposals for 2025**
 
-------------------------------------------------------------------------
-
-LIED ---
-*Université Paris Cité, 35 rue H. Brion, 75013 Paris*
+We look for intership students on the following thematics. 
 
 ------------------------------------------------------------------------
 
-
-We look for intership students on the following thematics:
 
 ## Integrated modelling of muscle contraction and extension
 
@@ -26,9 +25,9 @@ $$ F(v) = \frac{c}{v+b} - a $$
 
 The typical convex shape of $$ F(v) $$, due to its hyperbolic expression, and the small number of adjustable parameters have led to its success in recovering experimental contraction data accumulated since then.  
 
-But this description lacks a solid physical basis. Based on a description of an energy conversion machine, we were able to regain this expression where each of the parameters \( a \), \( b \), and \( c \) correspond to quantities that are thermodynamically founded and experimentally accessible. These involve a threshold current \( I_T \), the isometric force \( F_{iso} \), and the feedback resistance \( R_{fb} \) at the origin of the non-linearity. This description is valid both at the scale of the muscle and at that of the whole organism, as has been observed using data on oxygen respiration in horses [Herbert, 2020].  
+But this description lacks a solid physical basis. Based on a description of an energy conversion machine, we were able to regain this expression where each of the parameters $$ a $$, $$ b $$, and $$ c $$ correspond to quantities that are thermodynamically founded and experimentally accessible. These involve a threshold current $$ I_T $$, the isometric force $$ F_{iso} $$, and the feedback resistance $$ R_{fb} $$ at the origin of the non-linearity. This description is valid both at the scale of the muscle and at that of the whole organism, as has been observed using data on oxygen respiration in horses [Herbert, 2020].  
 
-In the literature, studies looking at muscle contraction are frequent, but there is rarely a widening of the measurement range beyond \( F_{iso} \), i.e., exploring both muscle contraction and extension. Interestingly, however, Hill's equation diverges when \( v = -b \), clearly indicating that this equation is not valid in the \( v < 0 \) range. The description proposed in [Goupil, 2019] allows extension and contraction to be considered in the same framework. One working hypothesis is to make the feedback intensity depend on the deviation from zero speed. An example of a fit to experimental data is shown in Figure 1.  
+In the literature, studies looking at muscle contraction are frequent, but there is rarely a widening of the measurement range beyond $$ F_{iso} $$, i.e., exploring both muscle contraction and extension. Interestingly, however, Hill's equation diverges when $$ v = -b $$, clearly indicating that this equation is not valid in the $$ v < 0 $$ range. The description proposed in [Goupil, 2019] allows extension and contraction to be considered in the same framework. One working hypothesis is to make the feedback intensity depend on the deviation from zero speed. An example of a fit to experimental data is shown in Figure 1.  
 
 The work involves describing muscle extension and formalizing these descriptions so that they can be integrated into a model of the muscle as an energy conversion machine. We then derive the fundamental thermodynamic parameters that enable us to reconstruct the generalized Hill parameters, including extension with contraction. The work includes a literature review to explore the models proposed to describe the extension, as well as the establishment of an experimental dataset to test the models. A taste for modeling and thermodynamics is required. Experience of working with the Python language is preferable.  
 
@@ -36,7 +35,7 @@ The work involves describing muscle extension and formalizing these descriptions
 
 <img src="images/data_vredenbergt.txt.png" alt="Fit of contraction velocity measurements and extension" style="width:100%; height:auto;">
 
-**Figure 1**: Fit of contraction velocity measurements and extension based on Vredenbergt data (\( \textbf{+} \)) with the proposed model (solid black line) and with Hill's model including dissipation in parameter \( a \) (dashed blue line) and without dissipation (dashed red line).
+**Figure 1**: Fit of contraction velocity measurements and extension based on Vredenbergt data ($$ \textbf{+} $$) with the proposed model (solid black line) and with Hill's model including dissipation in parameter $$ a $$ (dashed blue line) and without dissipation (dashed red line).
 
 
 ------------------------------------------------------------------------
