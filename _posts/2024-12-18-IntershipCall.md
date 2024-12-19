@@ -74,8 +74,6 @@ Hyphal tip expansion is a highly polarized process, based upon secretory vesicle
 Initial work has made it possible to acquire a collection of growth images and to reconstruct the network in the form of a dynamic graph. Building on this work, the internship will focus on characterizing the network and its dynamics. At a local level, with interactions such as avoidance and attraction of hyphae/apex structures. At the global level, the spatial distribution of the material and the impact of hyphal overlap and fusion on the resilience of the network.  
 An experimental study could be envisaged to detect mergers in the network.
 
----
-
 - Ledoux, *et al.* (2022). *Prediction and Experimental Evidence of the Optimisation of the Angular Branching Process...*. [Scientific Reports](https://doi.org/10.1038/s41598-022-16245-9).  
 - Ledoux, *et al.* (2023). *Prediction and Experimental Evidence of Different Growth Phases...*. [Scientific Reports](https://doi.org/10.1038/s41598-023-35327-w).  
 - Chassereau, *et al.* (2024). *Full Identification of a Growing and Branching Network's Spatio-Temporal Structures*. [arXiv, 2407.06824](https://doi.org/10.48550/arXiv.2407.06824). Accepted in *Biophysical Journal*.
