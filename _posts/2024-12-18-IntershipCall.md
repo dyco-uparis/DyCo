@@ -52,7 +52,8 @@ The quantification of the embodied energy in objects and structures is typically
 In this work, we propose to focus on the embodied energy and power of structures using a top-down approach, starting from macroscopic consumption data to analyze the uses and renewal dynamics of structures. This top-down strategy relies on globally available energy balances over time [i.e., ref. 1], enabling analysis at the scale of the global socio-technical system. In this approach, and as a first approximation, the embodied energy of structures can be considered as the interannual sum of the inflow into the industrial sector, combined with a decay function to account for infrastructure wear and the resource investment needed for their renewal. This study can be conducted using published data from the recent past and can be leveraged to discuss energy transition scenarios.
 
 In a second phase, and based on the established energy balances, we propose to focus on the competition between infrastructure use and production. Some uses are flexible and allow for storage when not in use, for example, a car that can charge at night, while other uses (e.g., a factory) are highly constrained, operating 24/7 and requiring a continuous, fully controllable energy source. To model these dynamics, we propose to construct a usage rate and mobilized power for each use, deriving the characteristics of an energy system compatible with the intermittency of renewable sources and the associated storage needs. This analysis will lead to the development of scenarios inspired by some recent work by the team [ref. 2].
-[ref. 1] https://www.sankey-diagrams.com/global-energy-flows-2018-2050-dnvgl/
+
+[ref. 1] https://www.sankey-diagrams.com/global-energy-flows-2018-2050-dnvgl/  
 [ref. 2] https://doi.org/10.1371/journal.pone.0286242
 
 ------------------------------------------------------------------------
