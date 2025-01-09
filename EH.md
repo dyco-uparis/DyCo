@@ -19,13 +19,28 @@ Contact *eric.herbert@u-paris.fr*
 ## Présentation succincte <a name="presentation"></a>
 J'ai rejoint l'université Paris Diderot en 2013 comme enseignant chercheur au sein du [LIED](http://www.lied-pieri.univ-paris-diderot.fr/), laboratoire qui vise à apporter des réponses interdisciplinaires à la question sociale majeure de la transition énergétique. Ma contribution est celle d'un physicien, environné de sciences humaines et de biologistes. On trouvera une présentation de nos activités de recherches actuelles [ici](#recherche).
 
-
 ### Dernières Publications <a name="publis"></a>
 On trouvera sur [cette page](/hidden_EH) la liste complète des publications
 
-
-
 Actuellement mes recherches sont essentiellement axées sur la notion d'optimisation énergétique entendu comme la capacité à moduler volontairement un système pour maximiser un usage désiré de l'énergie. Pour cela l'approche physique est celle de la thermodynamique à temps fini, appliquée à aux machines à conversion de l'énergie généralisées. L'application y est articulée dans les systèmes vivants ou les structures adaptatives humaines, comme les structures économiques.
+
+
+## Brief Overview <a name="presentation"></a>
+I joined Paris Diderot University in 2013 as a researcher and lecturer within the [LIED](http://www.lied-pieri.univ-paris-diderot.fr/), a laboratory dedicated to providing interdisciplinary solutions to the major social challenge of energy transition. My contribution comes as a physicist, working alongside experts in the humanities and biology. You can find an overview of our current research activities [here](#recherche).
+
+### Latest Publications <a name="publis"></a>
+The complete list of publications can be found on [this page](/hidden_EH).
+
+Currently, my research is primarily focused on the concept of energy optimization, understood as the ability to deliberately modulate a system to maximize a desired use of energy. From a physics perspective, this is approached through finite-time thermodynamics, applied to generalized energy conversion systems. The application is explored in living systems or adaptive human structures, such as economic frameworks.
+
+
+
+
+
+
+
+
+
 
 
 ### Thermodynamique <a name="thermo"></a>
