@@ -8,13 +8,6 @@ bibliography: doc_eh/herbert.bib
 Contact *eric.herbert@u-paris.fr*
 
 
-## Présentation succincte <a name="presentation"></a>
-J'ai rejoint l'université Paris Diderot en 2013 comme enseignant chercheur au sein du [LIED](http://www.lied-pieri.univ-paris-diderot.fr/), laboratoire qui vise à apporter des réponses interdisciplinaires à la question sociale majeure de la transition énergétique. Ma contribution est celle d'un physicien, environné de sciences humaines et de biologistes. On trouvera une présentation de nos activités de recherches actuelles [ici](#recherche).
-
-### Dernières Publications <a name="publis"></a>
-On trouvera sur [cette page](/hidden_EH) la liste complète des publications
-
-Actuellement mes recherches sont essentiellement axées sur la notion d'optimisation énergétique entendu comme la capacité à moduler volontairement un système pour maximiser un usage désiré de l'énergie. Pour cela l'approche physique est celle de la thermodynamique à temps fini, appliquée à aux machines à conversion de l'énergie généralisées. L'application y est articulée dans les systèmes vivants ou les structures adaptatives humaines, comme les structures économiques.
 
 
 ## Brief Overview <a name="presentation"></a>
@@ -30,7 +23,13 @@ Following the ANR grant NEMATIC, we organize a colloquium [in 2024](/colloque_ne
 
 
 
+## Présentation succincte <a name="presentation"></a>
+J'ai rejoint l'université Paris Diderot en 2013 comme enseignant chercheur au sein du [LIED](http://www.lied-pieri.univ-paris-diderot.fr/), laboratoire qui vise à apporter des réponses interdisciplinaires à la question sociale majeure de la transition énergétique. Ma contribution est celle d'un physicien, environné de sciences humaines et de biologistes. On trouvera une présentation de nos activités de recherches actuelles [ici](#recherche).
 
+### Dernières Publications <a name="publis"></a>
+On trouvera sur [cette page](/hidden_EH) la liste complète des publications
+
+Actuellement mes recherches sont essentiellement axées sur la notion d'optimisation énergétique entendu comme la capacité à moduler volontairement un système pour maximiser un usage désiré de l'énergie. Pour cela l'approche physique est celle de la thermodynamique à temps fini, appliquée à aux machines à conversion de l'énergie généralisées. L'application y est articulée dans les systèmes vivants ou les structures adaptatives humaines, comme les structures économiques.
 
 ### Contenu
 - [Présentation](#presentation)
