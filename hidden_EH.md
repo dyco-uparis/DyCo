@@ -15,6 +15,10 @@ title: Publications
 <ol reversed>
 
 <li>
+Thibault Chassereau, Florence Chapeland-Leclerc, Éric Herbert, Full identification of a growing and branching network’s spatio-temporal structures, Biophysical Journal, 2024 https://doi.org/10.1016/j.bpj.2024.12.002
+</li>
+
+<li>
 Ledoux, Clara, Cécilia Bobée, Éva Cabet, Pascal David, Frédéric Filaine, Sabrina Hachimi, Christophe Lalanne, Gwenaël Ruprich-Robert, Éric Herbert, and Florence Chapeland-Leclerc. “Characterization of Spatio-Temporal Dynamics of the Constrained Network of the Filamentous Fungus Podospora Anserina Using a Geomatics-Based Approach.” PLOS ONE 19, no. 2 (February 6, 2024): e0297816. https://doi.org/10.1371/journal.pone.0297816.
 </li>
 
@@ -24,10 +28,6 @@ Herbert, Éric, Gaël Giraud, Aurélie Louis-Napoléon, and Christophe Goupil. �
 
  <li>
 Dupas, Marie-Cécile, Sophie Parison, Vincent Noel, Petros Chatzimpiros, and Éric Herbert. “Variable Renewable Energy Penetration Impact on Productivity: A Case Study of Poultry Farming.” PLOS ONE 18, no. 10 (October 2, 2023): e0286242. https://doi.org/10.1371/journal.pone.0286242.
-</li>
-
-<li>
-Herbert, Éric, Gaël Giraud, Aurélie Louis-Napoléon, and Christophe Goupil. “Macroeconomic Dynamics in a Finite World Based on Thermodynamic Potential.” Scientific Reports 13, no. 1 (October 21, 2023): 18020. https://doi.org/10.1038/s41598-023-44699-y.
 </li>
 
 <li>
