@@ -21,7 +21,8 @@ The conference will take place over two days, on 26 and 27 June 2025, on the Par
 
 In addition to the presentations, posters can be displayed in the room. Please use A0 format and vertical orientation (portrait). We can take care of the printing. Please send an email to the organisers.
 
-![*Podospora anserina* thallus growth]()
+![*Podospora anserina* thallus growth](/images/Datation_M2WT_210909.jpg){: width="600px"}
+
 
 # Title and Abstracts
 ## Thursday 26 June 
