@@ -16,12 +16,12 @@ This  workshop aims at gathering international scientists that are involved in t
 
 The workshop is organized by Corentions Bisot, Thibault Chassereau and [Éric Herbert](mailto:eric.herbert@u-paris.fr).
 
-The workshop will take place over two days, on **26 and 27 June 2025**, on the Paris rive gauche campus of the **Université Paris Cité** (Paris 13). Presentations will take place in room 326 of the Lamarck building, 35 rue Hélène Brion, nearest  metro station  *Bibliothèque de France*,line 14.
+The workshop will take place over two days, on **26 and 27 June 2025**, on the Paris rive gauche campus of the **Université Paris Cité** (Paris 13). Presentations will take place in room 326 of the Lamarck building, 35 rue Hélène Brion, nearest  metro station  *Bibliothèque de France*, metro line 14.
 
 
 # Program
 
-In addition to the presentations, posters can be displayed in the room. Please use A0 format and vertical orientation (portrait). We can take care of the printing. Please send an email to the organisers.
+In addition to the presentations, posters can be displayed in the room. Please use A0 format and vertical (portrait) orientation. We can take care of the printing. Please send an email to the organisers.
 
 |       | 26 June            | 27 June              |
 |-------|-------------------|-----------------------|
