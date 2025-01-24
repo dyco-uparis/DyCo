@@ -29,7 +29,7 @@ In addition to the presentations, posters can be displayed in the room. Please u
 | 17h30 | fin               | fin                   |
 
 
-# Title and Abstracts
+# Titles and Abstracts
 ## Thursday 26 June 
 To be added
 ## Friday 27 June
