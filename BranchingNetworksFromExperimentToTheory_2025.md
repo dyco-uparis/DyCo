@@ -11,7 +11,7 @@ This  workshop aims at gathering international scientists that are involved in t
 
 The conference will take place over two days, on 26 and 27 June 2025, on the Paris rive gauche campus of the Université Paris Cité (Paris 13). Presentations will take place in room 326 of the Lamarck building (35 rue H. Brion).
 
-# Programme
+# Program
 
 |       | 26 June            | 27 June              |
 |-------|-------------------|-----------------------|
@@ -20,6 +20,11 @@ The conference will take place over two days, on 26 and 27 June 2025, on the Par
 | 19h   | diner             |                       |
 
 In addition to the presentations, posters can be displayed in the room. Please use A0 format and vertical orientation (portrait). We can take care of the printing. Please send an email to the organisers.
-# Titres et résumés des exposés
+
+![*Podospora anserina* thallus growth]()
+
+# Title and Abstracts
 ## Thursday 26 June 
+To be added
 ## Friday 27 June
+To be added
