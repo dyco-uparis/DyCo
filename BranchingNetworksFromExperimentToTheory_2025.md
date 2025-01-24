@@ -21,13 +21,13 @@ The workshop will take place over two days, on **26 and 27 June 2025**, on the P
 
 # Program
 
+In addition to the presentations, posters can be displayed in the room. Please use A0 format and vertical orientation (portrait). We can take care of the printing. Please send an email to the organisers.
+
 |       | 26 June            | 27 June              |
 |-------|-------------------|-----------------------|
 | 9h30  | Coffee reception  | Coffee reception      |
 | 17h30 | fin               | fin                   |
-| 19h   | diner             |                       |
 
-In addition to the presentations, posters can be displayed in the room. Please use A0 format and vertical orientation (portrait). We can take care of the printing. Please send an email to the organisers.
 
 # Title and Abstracts
 ## Thursday 26 June 
