@@ -19,7 +19,7 @@ The complete list of publications can be found on [this page](/hidden_EH).
 Currently, my research is primarily focused on the concept of energy optimization, understood as the ability to deliberately modulate a system to maximize a desired use of energy. From a physics perspective, this is approached through finite-time thermodynamics, applied to generalized energy conversion systems. The application is explored in living systems or adaptive human structures, such as economic frameworks.
 
 ### NEMATIC
-Following the ANR grant NEMATIC, we organize a colloquium [in 2024](/colloque_nematic_2024)
+Following the ANR grant NEMATIC, a colloquium has been organized [in 2024](/colloque_nematic_2024)
 
 
 
