@@ -18,9 +18,14 @@ The complete list of publications can be found on [this page](/hidden_EH).
 
 Currently, my research is primarily focused on the concept of energy optimization, understood as the ability to deliberately modulate a system to maximize a desired use of energy. From a physics perspective, this is approached through finite-time thermodynamics, applied to generalized energy conversion systems. The application is explored in living systems or adaptive human structures, such as economic frameworks.
 
+## Colloquium
+
 ### NEMATIC
 Following the ANR grant NEMATIC, a colloquium has been organized [in 2024](/colloque_nematic_2024)
 
+### Branching networks: From experiment to theory
+[Paris, 2025](/BranchingNetworksFromExperimentToTheory_2025)  
+Biological or other physical networks can emerge from the growth of a population of growing apex by a combination of filament extension, orientation, branching and annihilation. High spatial and temporal resolution timelapses of such dynamics are currently being acquired by multiple teams across the world. These allow to track at the same time the behaviour of individual apex and the whole network formation.
 
 
 ## Présentation succincte <a name="presentation"></a>
