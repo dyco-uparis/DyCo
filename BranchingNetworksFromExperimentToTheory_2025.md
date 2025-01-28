@@ -3,7 +3,7 @@ layout: page
 title: Colloquium 
 ---
 
-# Branching networks From experiment to theory
+# Branching networks: From experiment to theory
 
 ![*Podospora anserina* thallus growth](/images/Datation_M2WT_210909.jpg){: width="600px"}
 
