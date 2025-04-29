@@ -50,8 +50,6 @@ In addition to the presentations, posters can be displayed in the room. Please u
 |    15h    |    Jeanne Abitbol       |    Maxime Lucas         |
 |    15h30  |    Matthieu Platre      |    John Casey           |
 |    16h    |    Discussion           |    Discussion           |
-|    16h30  |    Discussion           |    Discussion           |
-|    17h    |    Discussion           |    Discussion           |
 |    17h30  |    Poster & drinks      |    Poster & drinks      |
 
 
