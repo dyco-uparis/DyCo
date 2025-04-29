@@ -23,17 +23,36 @@ The workshop will take place over two days, on **26 and 27 June 2025**, on the P
 
 # Program
 
-Program will be added by the end of april. In the meantime, if you whish to talk or want to propose poster, please contact us !
+**Day 1**  will be kicked off by discovering different experimental system and watching living (and maybe non living) systems grow : mosses, fungi, but also networked organs. How is this data acquired? How is it processed? In the afternoon we'll have our first set of group discussions as well as a "hands-on data" session. The question for the group discussion is still open and your ideas are most welcome. A potential question could be to explore commonalities and differences in morphogenesis among various systems, and how these might relate to functional similarities or differences. For the "hands-on data" session the idea was to let people with different analysis methods try them on each others' dataset, share ideas, practical problems etc...
 
+<!--
+The first day will be concluded by a lecture by Marc Barthelemy highlighting critical insights from spatial network theory, particularly relevant since all systems studied belong to this category. His talk will provide a strong theoretical foundation for subsequent discussions.
+-->
 
-<!---
+In **day 2**, we'll indeed slowly move from timelapse datasets to theory and models. The day will open with a presentation by Stephane Douady on "ways", an underlying structure of spatial networks that inherits important informations about its growth. We'll then learn about different examples where network timelapses can be used to extract key growth parameters that are also important ecological traits. The afternoon will be started with a lecture on the modelling of branching networks. This will be followed by talks of modelers using similar frameworks to ask functional or optimality questions in network growth.
+We already have an exciting program lined up. However, if you have collaborators or students whose work aligns closely with the themes of the workshop and who may wish to participate, please let us know. We may still accommodate additional talks or poster presentations.
+
+Program will be updated with titles and abstracts.
 
 In addition to the presentations, posters can be displayed in the room. Please use A0 format and vertical (portrait) orientation. We can take care of the printing. Please send an email to the organisers.
 
-|       | 26 June            | 27 June              |
-|-------|-------------------|-----------------------|
-| 9h30  | Coffee reception  | Coffee reception      |
-| 17h30 | fin               | fin                   |
+|           |    26th June            |    27th June            |
+|-----------|-------------------------|-------------------------|
+|    9h     |   Coffee reception      |    Coffee reception     |
+|    9h30   |    Mark Fricker + Tom   |    Stéphane Douady      |
+|    10h15  |    Loai Gandeel         |    Stanislaw            |
+|    10h45  |    Pause                |    Pause                |
+|    11h15  |    Carlos Aguilar       |    Thibault Chassereau  |
+|    11h45  |    Allon Weiner         |    Lena Kuwata          |
+|    12h15  |    Annemiek Cornelissen |                         |
+|    12h45  |    Lunch                |    Lunch                |
+|    14h15  |    Marc Barthelemy      |    Edouard Hannezo      |
+|    15h    |    Jeanne Abitbol       |    Maxime Lucas         |
+|    15h30  |    Matthieu Platre      |    John Casey           |
+|    16h    |    Discussion           |    Discussion           |
+|    16h30  |    Discussion           |    Discussion           |
+|    17h    |    Discussion           |    Discussion           |
+|    17h30  |    Poster & drinks      |    Poster & drinks      |
 
 
 # Titles and Abstracts
@@ -41,4 +60,10 @@ In addition to the presentations, posters can be displayed in the room. Please u
 To be added
 ## Friday 27 June
 To be added
+
+
+
+<!---
+
+comment
 -->
