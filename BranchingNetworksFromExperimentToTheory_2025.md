@@ -44,7 +44,7 @@ In addition to the presentations, posters can be displayed in the room. Please u
 |    10h45  |    Pause                |    Pause                |
 |    11h15  |    Carlos Aguilar       |    Thibault Chassereau  |
 |    11h45  |    Allon Weiner         |    Lena Kuwata          |
-|    12h15  |    Annemiek Cornelissen |                         |
+|    12h15  |    Annemiek Cornelissen |   Rishabh Sharma        |
 |    12h45  |    Lunch                |    Lunch                |
 |    14h15  |    Marc Barthelemy      |    Edouard Hannezo      |
 |    15h    |    Jeanne Abitbol       |    Maxime Lucas         |
