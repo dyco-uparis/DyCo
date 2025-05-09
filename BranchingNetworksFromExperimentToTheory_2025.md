@@ -39,7 +39,7 @@ In addition to the presentations, posters can be displayed in the room. Please u
 |           |    26th June            |    27th June            |
 |-----------|-------------------------|-------------------------|
 |    9h     |   Coffee reception      |    Coffee reception     |
-|    9h30   |   Mark Fricker with Tom Shimizu        |    Stéphane Douady      |
+|    9h30   |   Mark Fricker and Tom Shimizu        |    Stéphane Douady      |
 |    10h15  |    Loai Gandeel         |    Stanislaw Żukowski   |
 |    10h45  |    Pause                |    Pause                |
 |    11h15  |    Carlos Aguilar       |    Thibault Chassereau  |
