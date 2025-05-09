@@ -23,14 +23,20 @@ The workshop will take place over two days, on **26 and 27 June 2025**, on the P
 
 # Program
 
-**Day 1**  will be kicked off by discovering different experimental system and watching living (and maybe non living) systems grow : mosses, fungi, but also networked organs. How is this data acquired? How is it processed? In the afternoon we'll have our first set of group discussions as well as a "hands-on data" session. The question for the group discussion is still open and your ideas are most welcome. A potential question could be to explore commonalities and differences in morphogenesis among various systems, and how these might relate to functional similarities or differences. For the "hands-on data" session the idea was to let people with different analysis methods try them on each others' dataset, share ideas, practical problems etc...
+
+**Day 1** will be kicked off by **Tom Shimizu** and **Mark Fricker** giving an introductory duo talk presenting the history  of the study of growing networks in biology and the latest advancement in high throughput data acquisition. We will continue by discovering different experimental system and watching living (and maybe non living) systems grow : mosses, fungi, but also networked organs. How is this data acquired? How is it processed? The afternoon will start with a presentation by Marc Barthelemy on spatial network, the specific class of network that all our data belongs to. What general properties to these networks have? What can be considered a trait of a network and what is simply a consequence of spatial embedding? A first dive into theory.
+
+In **day 2**, we’ll indeed slowly move from timelapse datasets to theory and models. The day will open with a presentation by **Stephane Douady** on “ways”, an underlying structure of spatial networks that inherits important informations about their growth. We’ll then learn about different examples where network timelapses can be used to extract key growth parameters that are also important ecological traits. The afternoon will be started by **Edouard Hannezo** presenting a general class of branching models that reproduces the dynamics of various systems. This will be followed by two presentations presenting variations around these models to answer ecologically relevant questions.
 
 <!--
+**Day 1**  will be kicked off by discovering different experimental system and watching living (and maybe non living) systems grow : mosses, fungi, but also networked organs. How is this data acquired? How is it processed? In the afternoon we'll have our first set of group discussions as well as a "hands-on data" session. The question for the group discussion is still open and your ideas are most welcome. A potential question could be to explore commonalities and differences in morphogenesis among various systems, and how these might relate to functional similarities or differences. For the "hands-on data" session the idea was to let people with different analysis methods try them on each others' dataset, share ideas, practical problems etc...
+
+
 The first day will be concluded by a lecture by Marc Barthelemy highlighting critical insights from spatial network theory, particularly relevant since all systems studied belong to this category. His talk will provide a strong theoretical foundation for subsequent discussions.
--->
 
 In **day 2**, we'll indeed slowly move from timelapse datasets to theory and models. The day will open with a presentation by Stephane Douady on "ways", an underlying structure of spatial networks that inherits important informations about its growth. We'll then learn about different examples where network timelapses can be used to extract key growth parameters that are also important ecological traits. The afternoon will be started with a lecture on the modelling of branching networks. This will be followed by talks of modelers using similar frameworks to ask functional or optimality questions in network growth.
 We already have an exciting program lined up. However, if you have collaborators or students whose work aligns closely with the themes of the workshop and who may wish to participate, please let us know. We may still accommodate additional talks or poster presentations.
+-->
 
 Program will be updated with titles and abstracts.
 
