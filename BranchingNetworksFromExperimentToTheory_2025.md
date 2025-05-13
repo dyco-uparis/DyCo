@@ -78,27 +78,28 @@ Phenotypic plasticity—the ability of a genotype to alter its phenotype in resp
 ### llon Weiner 	-- Centre d’Immunologie et des Maladies Infectieuses (Cimi), Inserm, Sorbonne University
 **Invasion of epithelial layers by the fungal pathogen Candida albicans studied by live cell imaging and volum electron microscopy**
 
-### Annemiek Cornelissen -- 
+### Annemiek Cornelissen -- 
 To be added
 
 
-### Marc Barthelemy 	--- 
+### Marc Barthelemy 	--- 
 To be added
 
 ### Jeanne Abitbol 	-- CNRS, ENS de Lyon, RDP
 **Branching morphogenesis in moss filaments**
 
 ### Matthieu Platre 	
-To be added
+**Study of the adaptative value of the root system architecture cost-performance tradeoff using Pareto optimality framework**
 
-**Quantifying the impact of different forms of stress on fungal growth**
+The root system is a critical organ to ensure the anchoring, water and nutrients uptake, and photo-assimilates transport, necessary for plant survival. To maintain these functions when exposed to environmental cues the root system altered its 3-dimensional organization in space, defined as the root system architecture (RSA)1. Depending on the environmental changes, one single genotype displays a variety of RSA to adapt accordingly, highlighting its plasticity. Therefore, the RSA plasticity is a key determinant driving plant survival and adaptation. In the context of climate change, the understanding of RSA plasticity is therefore crucial to uncover plant adaptation. The architectural plasticity can be assessed by changes of morphological (e.g. length), geometrical (e.g. depth), dynamical (e.g. growth rate), and topological descriptors. During the last half century, tremendous efforts were made to study those first three aspects due to their relatively easy assessment. Nonetheless, the analysis of RSA topology which consists of studying the efficiency and functions of a transport network remained underexplored notably by the requirements of computational analysis integrating several traits. In this talk, I will reveal how the efficiency of two root system functions, cost (growth) and performance (transport), limit the RSA plasticity finding a cost-performance tradeoff by a modeling approach based on Pareto optimality. Then, I will address how the climate change conditions that impact the root system functions decreasing water and nutrients accessibilities and promoting photo assimilates production modify the cost-performance tradeoff. Finally, I will present the experimental approaches to test the adaptative value of the root system architecture cost-performance tradeoff.
+
 
 ## Friday 27 June
 
-### Stéphane Douady -- UPC MSC 
+### Stéphane Douady -- UPC MSC 
 To be added 
 
-### Stanislaw Żukowski -- 
+### Stanislaw Żukowski -- Faculty of Physics, University of Warsaw
 To be added
 
 ### Thibault Chassereau -- UPC LIED 
@@ -110,8 +111,10 @@ To be added
 Using a stochastic growth-fragmentation process to model the growth of the mycelial network, we obtain explicit expressions for certain descriptors of fungal growth, which we can then use to infer growth parameters and quantify the impact of various forms of stress. This inference method uses the empirical distribution in length of terminal segments (portions of filament lying between an apex and a branching point) in the mycelium at some large time T and the growth rate of the total number of nodes to estimate the apical and lateral branching rates and the elongation speed. To assess the robustness of these estimates, we compare them to estimates obtained by tracking the dynamics of individual apexes in time and we also compare the experimental data to simulated data from the stochastic model using the estimated parameters. 
 
 
-### Rishabh Sharma --
-To be added
+### Rishabh Sharma -- Faculty of Physics, University of Warsaw
+**Influence of rock structure on the morphology of wormhole network**
+
+Dissolution is a highly non-linear process in which the interplay of flow, transport, and reaction leads to the emergence of reaction-infiltration instabilities. In dissolving rocks at certain flow conditions, these instabilities give rise to the formation of a network of competing channels known as dissolution channels or wormholes. The wormholes compete for the available flow, with the winning wormhole attracting a larger flow and solute concentration, screening the rest of the network and forming a highly permeable conduit through the rock. In this study, we investigate how the rock structure, such as packed layers of low porosity, can influence the shape of evolving dissolution channels. We analyze the shape of experimentally formed wormhole networks in two different types of limestone using geometric measures that account for tortuosity and branching. These measures indicate that wormholes formed perpendicular to the packed layers are more tortuous and contain more branches compared to those formed along the packed layer in higher porosity regions. We verify these observations by analyzing the pore architecture of the respective samples, obtained from microtomography scans
 
 ### Edouard Hannenzo -- ISTA Austria
 
