@@ -62,7 +62,7 @@ In addition to the presentations, posters can be displayed in the room. Please u
 # Titles and Abstracts
 ## Thursday 26 June 
 
-### Mark Fricker and Tom Shimizu 	-- 
+### Mark Fricker and Tom Shimizu 	-- 
 To be added
 
 
@@ -97,7 +97,7 @@ The root system is a critical organ to ensure the anchoring, water and nutrients
 ## Friday 27 June
 
 ### Stéphane Douady -- MSC Université Paris Cité
-To be added 
+**Ways in networks** 
 
 ### Stanislaw Żukowski -- Faculty of Physics, University of Warsaw
 To be added
