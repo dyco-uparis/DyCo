@@ -62,11 +62,10 @@ In addition to the presentations, posters can be displayed in the room. Please u
 # Titles and Abstracts
 ## Thursday 26 June 
 
-### Mark Fricker and Tom Shimizu 	-- 
+### Mark Fricker and Tom Shimizu -- resp. Department of Plant Sciences University of Oxford and Amolf
 To be added
 
-
-### Loai Gandeel 	
+### Loai Gandeel 	-- 
 To be added
 
 
@@ -79,16 +78,15 @@ Phenotypic plasticity—the ability of a genotype to alter its phenotype in resp
 **Invasion of epithelial layers by the fungal pathogen Candida albicans studied by live cell imaging and volum electron microscopy**
 
 ### Annemiek Cornelissen -- MSC Université Paris Cité
-To be added
+**morphogenesis of branching vascular networks**
 
-
-### Marc Barthelemy 	--- 
+### Marc Barthelemy 	--- Institut de Physique théorique, IPhT, Orsay
 To be added
 
 ### Jeanne Abitbol 	-- CNRS, ENS de Lyon, RDP
 **Branching morphogenesis in moss filaments**
 
-### Matthieu Platre 	-- Institute for Plant Sciences of Montpellierz
+### Matthieu Platre 	-- Institute for Plant Sciences of Montpellier
 **Study of the adaptative value of the root system architecture cost-performance tradeoff using Pareto optimality framework**
 
 The root system is a critical organ to ensure the anchoring, water and nutrients uptake, and photo-assimilates transport, necessary for plant survival. To maintain these functions when exposed to environmental cues the root system altered its 3-dimensional organization in space, defined as the root system architecture (RSA)1. Depending on the environmental changes, one single genotype displays a variety of RSA to adapt accordingly, highlighting its plasticity. Therefore, the RSA plasticity is a key determinant driving plant survival and adaptation. In the context of climate change, the understanding of RSA plasticity is therefore crucial to uncover plant adaptation. The architectural plasticity can be assessed by changes of morphological (e.g. length), geometrical (e.g. depth), dynamical (e.g. growth rate), and topological descriptors. During the last half century, tremendous efforts were made to study those first three aspects due to their relatively easy assessment. Nonetheless, the analysis of RSA topology which consists of studying the efficiency and functions of a transport network remained underexplored notably by the requirements of computational analysis integrating several traits. In this talk, I will reveal how the efficiency of two root system functions, cost (growth) and performance (transport), limit the RSA plasticity finding a cost-performance tradeoff by a modeling approach based on Pareto optimality. Then, I will address how the climate change conditions that impact the root system functions decreasing water and nutrients accessibilities and promoting photo assimilates production modify the cost-performance tradeoff. Finally, I will present the experimental approaches to test the adaptative value of the root system architecture cost-performance tradeoff.
@@ -103,7 +101,7 @@ The root system is a critical organ to ensure the anchoring, water and nutrients
 To be added
 
 ### Thibault Chassereau -- LIED Université Paris Cité
-To be added
+**Full identification of a growing and branching network’s spatio-temporal structures**
 
 ### Lena Kuwata -- Université Paris Cité MAP5
 **Quantifying the impact of different forms of stress on fungal growth**
