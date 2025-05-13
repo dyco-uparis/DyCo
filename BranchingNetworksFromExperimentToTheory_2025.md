@@ -62,12 +62,17 @@ In addition to the presentations, posters can be displayed in the room. Please u
 # Titles and Abstracts
 ## Thursday 26 June 
 To be added
+
 ## Friday 27 June
-To be added
 
+### Edouard Hannenzo -- ISTA Austria
 
+**Stochastic models of multicellular branching morphogenesis**
+
+Branching morphogenesis is a prototypical example of complex three-dimensional organ sculpting, required in multiple developmental settings to maximize the area of exchange surfaces. It requires, in particular, the coordinated growth of different cell types together with complex patterning to lead to robust macroscopic outputs. In recent years, novel multiscale quantitative biology approaches, together with biophysical modelling, have begun to shed new light of this topic. I will discuss some of these recent developments, highlighting the generic design principles that can be abstracted across different branched organs, as well as the implications for the broader fields of stem cell, developmental and systems biology.
+
+ 
 
 <!---
-
 comment
 -->
