@@ -70,7 +70,7 @@ To be added
 To be added
 
 
-### Carlos Aguilar 	-- University of Jyväskylä![image](https://github.com/user-attachments/assets/f9cb2578-ac23-4e7f-97ab-ddadadd8ad14)
+### Carlos Aguilar 	-- University of Jyväskylä
 **Testing the extreme plastic mycelium hypothesis: Does grazing induce developmental plasticity in saprotrophic fungi?**
 
 Phenotypic plasticity—the ability of a genotype to alter its phenotype in response to environmental changes—can play a crucial role in maximizing fitness in fluctuating environments. However, plasticity comes at a cost, as the energy required to transform a phenotype imposes limits on its extent. While limits to plasticity are well-documented in many organisms, they are not well understood in modular organisms like filamentous fungi. Fungi have highly flexible morphologies, allowing individual organisms to adjust their phenotype in response to local environmental conditions. This flexibility has led to speculation that fungi exhibit "extreme phenotypic plasticity," making them an interesting system for studying plasticity mechanisms. To test this idea, we analyzed the grazer-induced morphological plasticity of four cord-forming fungal species exposed to different soil microfauna with varying feeding behaviors, using a phenotypic trajectory analysis framework. We hypothesized that grazing would drive convergence towards a common "grazing-resistant phenotype" across species, due to the extreme flexibility of fungal mycelia. Alternatively, we proposed that species would follow unique developmental trajectories in response to grazers, reflecting species-specific plasticity limits. Our results showed that fungal species accounted for most of the morphological variation, with grazers having only a small but significant effect. Moreover, we did not observe convergence towards a common grazing-resistant phenotype; instead, each species followed distinct developmental pathways within species-specific limits, which varied widely. Some species altered up to 30% of their phenotype in response to grazers, while others showed as little as 1% variation. These findings suggest a more nuanced view of fungal plasticity, where morphological plasticity might not be the most effective response to grazing pressure. We speculate that the observed differences in plasticity limits may correlate with the complexity of cord formation in different species. These constraints on fungal morphological plasticity offer new insights into how fungi adapt to dynamic ecological conditions and underscore the need to explore alternative phenotypic responses to environmental pressures. Our study highlights the need to refine plasticity theories, particularly for organisms with complex, modular structures like fungi.
@@ -78,8 +78,12 @@ Phenotypic plasticity—the ability of a genotype to alter its phenotype in resp
 ### llon Weiner 	-- Centre d’Immunologie et des Maladies Infectieuses (Cimi), Inserm, Sorbonne University
 **Invasion of epithelial layers by the fungal pathogen Candida albicans studied by live cell imaging and volum electron microscopy**
 
-Annemiek Cornelissen 	
-Marc Barthelemy 	
+### Annemiek Cornelissen -- 
+To be added
+
+
+### Marc Barthelemy 	--- 
+To be added
 
 ### Jeanne Abitbol 	-- CNRS, ENS de Lyon, RDP
 **Branching morphogenesis in moss filaments**
@@ -101,7 +105,7 @@ To be added
 To be added
 
 ### Lena Kuwata --
-**Quantifying the impact of different forms of stress on fungal growth![image](https://github.com/user-attachments/assets/202c14f3-a1b5-41be-9bf9-784de0264595)**
+**Quantifying the impact of different forms of stress on fungal growth**
 
 Using a stochastic growth-fragmentation process to model the growth of the mycelial network, we obtain explicit expressions for certain descriptors of fungal growth, which we can then use to infer growth parameters and quantify the impact of various forms of stress. This inference method uses the empirical distribution in length of terminal segments (portions of filament lying between an apex and a branching point) in the mycelium at some large time T and the growth rate of the total number of nodes to estimate the apical and lateral branching rates and the elongation speed. To assess the robustness of these estimates, we compare them to estimates obtained by tracking the dynamics of individual apexes in time and we also compare the experimental data to simulated data from the stochastic model using the estimated parameters. 
 
