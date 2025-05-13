@@ -65,7 +65,7 @@ In addition to the presentations, posters can be displayed in the room. Please u
 ### Mark Fricker and Tom Shimizu -- resp. Department of Plant Sciences University of Oxford and Amolf
 To be added
 
-### Loai Gandeel 	-- 
+### Loai Gandeel 	-- INRAE
 To be added
 
 
