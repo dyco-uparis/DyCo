@@ -5,7 +5,7 @@ title: Colloquium Branching networks
 
 # From experiment to theory
 
-![*Podospora anserina* thallus growth](/images/Colloque-BranchingNetworks-OKweb.jpg){: width="400px"}
+![*Podospora anserina* thallus growth](/images/Colloque-BranchingNetworks-OKweb.jpg){: width="500px"}
 
  Biological or other physical networks can emerge from the growth of a population of growing apex by a combination of filament extension, orientation, branching and annihilation. High spatial and temporal resolution timelapses of such dynamics are currently being acquired by multiple teams across the world. These allow to track at the same time the behaviour of individual apex and the whole network formation.
  
