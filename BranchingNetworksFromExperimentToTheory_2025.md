@@ -134,7 +134,11 @@ Dissolution is a highly non-linear process in which the interplay of flow, trans
 Branching morphogenesis is a prototypical example of complex three-dimensional organ sculpting, required in multiple developmental settings to maximize the area of exchange surfaces. It requires, in particular, the coordinated growth of different cell types together with complex patterning to lead to robust macroscopic outputs. In recent years, novel multiscale quantitative biology approaches, together with biophysical modelling, have begun to shed new light of this topic. I will discuss some of these recent developments, highlighting the generic design principles that can be abstracted across different branched organs, as well as the implications for the broader fields of stem cell, developmental and systems biology.
 
 ### Maxime Lucas -- Nuamure institute for complex systems
-**Modeles of growing fungi**
+**Growth and structure of underground fungal networks**
+
+Arbuscular mycorrhizal fungi (AMFs) form symbiotic relationships with the roots of most terrestrial plants, playing a crucial role in nutrient exchange and ecosystem stability. In these organisms, network structure directly impacts functions such as transport efficiency, spatial exploration, and robustness. Yet, network formation is constrained by finite resources, forcing trade-offs between competing functional goals. Some species evolve structures optimized for exploration, others for resilience or efficiency. To investigate these trade-offs, we introduce a minimal spatial model of AMF network growth, based on just three local rules: hyphal growth, branching, and fusion (anastomosis). Despite its simplicity, the model generates a wide range of morphologies and reveals general principles applicable to other biological and artificial systems that self-organize through decentralized, resource-limited dynamics.
+
+
 
 ### John Casey -- Lawrence Livermore National Laboratory
 
