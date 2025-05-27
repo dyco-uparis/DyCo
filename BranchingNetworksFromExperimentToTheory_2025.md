@@ -88,7 +88,14 @@ Nat Commun 13, 3781 (2022)
 **morphogenesis of branching vascular networks**
 
 ### Marc Barthelemy 	--- Institut de Physique théorique, IPhT, Orsay
-To be added
+**titre: Structure and evolution of spatial networks**
+
+Many systems — from cities, transportation systems to veination patterns in leaves — can be represented as
+networks embedded in physical space, known as spatial networks. These networks are central to a wide
+range of disciplines, including physics, geography, epidemiology, urban planning, and biology. Understanding
+how they are structured and how they evolve over time is key to studying many complex processes.
+In this talk, I will provide an overview of major insights gained in recent years and highlight some of the
+main open challenges and promising directions for future research.
 
 ### Jeanne Abitbol 	-- CNRS, ENS de Lyon, RDP
 **Branching morphogenesis in moss filaments**
