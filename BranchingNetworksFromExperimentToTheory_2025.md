@@ -123,6 +123,9 @@ To be added
 ### Thibault Chassereau -- LIED Université Paris Cité
 **Full identification of a growing and branching network’s spatio-temporal structures**
 
+Experimentally monitoring the kinematics of branching network growth is a tricky task, given the complexity of the structures generated in three dimensions. One option is to drive the network in such a way as to obtain two-dimensional growth, enabling a collection of independent images to be obtained. The density of the network generates ambiguous structures, such as overlaps and meetings, which hinder the reconstruction of the chronology of connections. In this talk, we propose a general method for global network reconstruction. Each network connection is defined by a unique label, enabling it to be tracked in time and space. In this work, we distinguish between lateral and apical branches on the one hand, and extremities on the other. Finally, we reconstruct the network after identifying and eliminating overlaps. This method is then applied to the model filamentous fungus Podospora anserina to reconstruct its growing thallus. We derive criteria for differentiating between apical and lateral branches. We find that the outer ring is favorably composed of apical branches, while densification within the network comes from lateral branches. From this, we derive the specific dynamics of each of the two types. Finally, in the absence of any latency phase during growth initiation, we can reconstruct a time based on the equality of apical and lateral branching collections. This makes it possible to directly compare the growth dynamics of different thalli.
+
+
 ### Lena Kuwata -- Université Paris Cité MAP5
 **Quantifying the impact of different forms of stress on fungal growth**
 
