@@ -115,7 +115,8 @@ The root system is a critical organ to ensure the anchoring, water and nutrients
 
 ## Friday 27 June
 
-### Stéphane Douady -- MSC Université Paris Cité
+### Stéphane Douady
+MSC Université Paris Cité
 **Ways in networks** 
 
 ### Stanislaw Żukowski -- Faculty of Physics, University of Warsaw
