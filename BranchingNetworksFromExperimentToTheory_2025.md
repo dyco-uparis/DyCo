@@ -44,21 +44,21 @@ Program will be updated with titles and abstracts.
 
 In addition to the presentations, posters can be displayed in the room. Please use A0 format and vertical (portrait) orientation. We can take care of the printing. Please send an email to the organisers.
 
-|           |    26th June            |    27th June            |
-|-----------|-------------------------|-------------------------|
-|    9h     |   Coffee reception      |    Coffee reception     |
-|    9h30   |   [Mark Fricker and Tom Shimizu](#Mark-Fricker-and-Tom-Shimizu)        |    [Stéphane Douady](#Stéphane-Douady)      |
-|    10h15  |    [Loai Gandeel](#Loai-Gandeel)         |    Stanislaw Żukowski   |
-|    10h45  |    Pause                |    Pause                |
-|    11h15  |    [Carlos Aguilar](#Carlos-Aguilar)       |    Thibault Chassereau  |
-|    11h45  |    [Allon Weiner](#Allon-Weiner)         |    Lena Kuwata          |
-|    12h15  |    [Annemiek Cornelissen](#Annemiek-Cornelissen) |   Rishabh Sharma        |
-|    12h45  |    Lunch                |    Lunch                |
-|    14h15  |    [Marc Barthelemy](#Marc-Barthelemy)      |    Edouard Hannezo      |
-|    15h    |    [Jeanne Abitbol](#Jeanne-Abitbol)       |    Maxime Lucas         |
-|    15h30  |    [Matthieu Platre](#Matthieu-Platre)      |    John Casey           |
-|    16h    |    Discussion           |    Discussion           |
-|    17h30  |    Poster & drinks      |    Poster & drinks      |
+|           |    26th June                                                           |    27th June                                      |
+|-----------|------------------------------------------------------------------------|---------------------------------------------------|
+|    9h     |   Coffee reception                                                     |    Coffee reception                               |
+|    9h30   |   [Mark Fricker and Tom Shimizu](#Mark-Fricker-and-Tom-Shimizu)        |    [Stéphane Douady](#Stéphane-Douady)            |
+|    10h15  |    [Loai Gandeel](#Loai-Gandeel)                                       |    [Stanislaw Żukowski](#Stanislaw-Żukowski)      |
+|    10h45  |    Pause                                                               |    Pause                                          |
+|    11h15  |    [Carlos Aguilar](#Carlos-Aguilar)                                   |    [Thibault Chassereau](#Thibault-Chassereau)    |
+|    11h45  |    [Allon Weiner](#Allon-Weiner)                                       |    [Lena Kuwata](#Lena-Kuwata)                    |
+|    12h15  |    [Annemiek Cornelissen](#Annemiek-Cornelissen)                       |   [Rishabh Sharma](#Rishabh-Sharma)               |
+|    12h45  |    Lunch                                                               |    Lunch                                          |
+|    14h15  |    [Marc Barthelemy](#Marc-Barthelemy)                                 |    [Edouard Hannezo](#Edouard-Hannezo)            |
+|    15h    |    [Jeanne Abitbol](#Jeanne-Abitbol)                                   |   [Maxime Lucas](#Maxime-Lucas)                   |
+|    15h30  |    [Matthieu Platre](#Matthieu-Platre)                                 |    [John Casey](#John-Casey)                      |
+|    16h    |    Discussion                                                          |    Discussion                                     |
+|    17h30  |    Poster & drinks                                                     |    Poster & drinks                                |
 
 
 
@@ -127,41 +127,46 @@ The root system is a critical organ to ensure the anchoring, water and nutrients
 MSC Université Paris Cité
 **Ways in networks** 
 
-### Stanislaw Żukowski -- Faculty of Physics, University of Warsaw
+### Stanislaw Żukowski
+Faculty of Physics, University of Warsaw  
 To be added
 
-### Thibault Chassereau -- LIED Université Paris Cité
+### Thibault Chassereau 
+LIED Université Paris Cité  
 **Full identification of a growing and branching network’s spatio-temporal structures**
 
 Experimentally monitoring the kinematics of branching network growth is a tricky task, given the complexity of the structures generated in three dimensions. One option is to drive the network in such a way as to obtain two-dimensional growth, enabling a collection of independent images to be obtained. The density of the network generates ambiguous structures, such as overlaps and meetings, which hinder the reconstruction of the chronology of connections. In this talk, we propose a general method for global network reconstruction. Each network connection is defined by a unique label, enabling it to be tracked in time and space. In this work, we distinguish between lateral and apical branches on the one hand, and extremities on the other. Finally, we reconstruct the network after identifying and eliminating overlaps. This method is then applied to the model filamentous fungus Podospora anserina to reconstruct its growing thallus. We derive criteria for differentiating between apical and lateral branches. We find that the outer ring is favorably composed of apical branches, while densification within the network comes from lateral branches. From this, we derive the specific dynamics of each of the two types. Finally, in the absence of any latency phase during growth initiation, we can reconstruct a time based on the equality of apical and lateral branching collections. This makes it possible to directly compare the growth dynamics of different thalli.
 
 
-### Lena Kuwata -- Université Paris Cité MAP5
+### Lena Kuwata
+Université Paris Cité MAP5  
 **Quantifying the impact of different forms of stress on fungal growth**
 
 Using a stochastic growth-fragmentation process to model the growth of the mycelial network, we obtain explicit expressions for certain descriptors of fungal growth, which we can then use to infer growth parameters and quantify the impact of various forms of stress. This inference method uses the empirical distribution in length of terminal segments (portions of filament lying between an apex and a branching point) in the mycelium at some large time T and the growth rate of the total number of nodes to estimate the apical and lateral branching rates and the elongation speed. To assess the robustness of these estimates, we compare them to estimates obtained by tracking the dynamics of individual apexes in time and we also compare the experimental data to simulated data from the stochastic model using the estimated parameters. 
 
 
-### Rishabh Sharma -- Faculty of Physics, University of Warsaw
+### Rishabh Sharma
+Faculty of Physics, University of Warsaw  
 **Influence of rock structure on the morphology of wormhole network**
 
 Dissolution is a highly non-linear process in which the interplay of flow, transport, and reaction leads to the emergence of reaction-infiltration instabilities. In dissolving rocks at certain flow conditions, these instabilities give rise to the formation of a network of competing channels known as dissolution channels or wormholes. The wormholes compete for the available flow, with the winning wormhole attracting a larger flow and solute concentration, screening the rest of the network and forming a highly permeable conduit through the rock. In this study, we investigate how the rock structure, such as packed layers of low porosity, can influence the shape of evolving dissolution channels. We analyze the shape of experimentally formed wormhole networks in two different types of limestone using geometric measures that account for tortuosity and branching. These measures indicate that wormholes formed perpendicular to the packed layers are more tortuous and contain more branches compared to those formed along the packed layer in higher porosity regions. We verify these observations by analyzing the pore architecture of the respective samples, obtained from microtomography scans
 
-### Edouard Hannenzo -- ISTA Austria
-
+### Edouard Hannenzo
+ISTA Austria  
 **Stochastic models of multicellular branching morphogenesis**
 
 Branching morphogenesis is a prototypical example of complex three-dimensional organ sculpting, required in multiple developmental settings to maximize the area of exchange surfaces. It requires, in particular, the coordinated growth of different cell types together with complex patterning to lead to robust macroscopic outputs. In recent years, novel multiscale quantitative biology approaches, together with biophysical modelling, have begun to shed new light of this topic. I will discuss some of these recent developments, highlighting the generic design principles that can be abstracted across different branched organs, as well as the implications for the broader fields of stem cell, developmental and systems biology.
 
-### Maxime Lucas -- Nuamure institute for complex systems
+### Maxime Lucas
+Nuamure institute for complex systems  
 **Growth and structure of underground fungal networks**
 
 Arbuscular mycorrhizal fungi (AMFs) form symbiotic relationships with the roots of most terrestrial plants, playing a crucial role in nutrient exchange and ecosystem stability. In these organisms, network structure directly impacts functions such as transport efficiency, spatial exploration, and robustness. Yet, network formation is constrained by finite resources, forcing trade-offs between competing functional goals. Some species evolve structures optimized for exploration, others for resilience or efficiency. To investigate these trade-offs, we introduce a minimal spatial model of AMF network growth, based on just three local rules: hyphal growth, branching, and fusion (anastomosis). Despite its simplicity, the model generates a wide range of morphologies and reveals general principles applicable to other biological and artificial systems that self-organize through decentralized, resource-limited dynamics.
 
 
 
-### John Casey -- Lawrence Livermore National Laboratory
-
+### John Casey
+Lawrence Livermore National Laboratory  
 **Simulation of hyphal network growth and transport**
 
 Bioenergy crops like switchgrass benefit from their associations with mycorrhizal fungi, filamentous branching colonies that retrieve nutrients and water from the surrounding soil in exchange for plant carbon, though the partnership is dependent on the environmental context and the particular species pairing. Through imaging of arbuscular mycorrhizal fungi (AMF) colony growth, we have observed diverse morphologies among a collection of species. We are interested in how hyphal network architecture and dynamics might influence the plant-fungi resource economy, and whether we might predict which species pairs would thrive in a particular environment. We developed the Plant-Hyphosphere Resource Economy Emulator (PHREE) to simulate the growth of hyphal colonies and their nutrient return-on-carbon-investment with plants under different environmental conditions. By parameterizing simulations with high-resolution imaging, we are able to re-capture the morphology and growth of several AMF species and identify environmental optima for plant fitness. I will discuss the model design, preliminary results and identify some areas for improvement. 
