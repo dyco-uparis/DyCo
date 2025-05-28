@@ -47,16 +47,16 @@ In addition to the presentations, posters can be displayed in the room. Please u
 |           |    26th June            |    27th June            |
 |-----------|-------------------------|-------------------------|
 |    9h     |   Coffee reception      |    Coffee reception     |
-|    9h30   |   Mark Fricker and Tom Shimizu        |    [Stéphane Douady](#Stéphane-Douady)      |
+|    9h30   |   [Mark Fricker and Tom Shimizu](#Mark-Fricker-and-Tom-Shimizu)        |    [Stéphane Douady](#Stéphane-Douady)      |
 |    10h15  |    [Loai Gandeel](#Loai-Gandeel)         |    Stanislaw Żukowski   |
 |    10h45  |    Pause                |    Pause                |
 |    11h15  |    [Carlos Aguilar](#Carlos-Aguilar)       |    Thibault Chassereau  |
 |    11h45  |    [Allon Weiner](#Allon-Weiner)         |    Lena Kuwata          |
-|    12h15  |    Annemiek Cornelissen |   Rishabh Sharma        |
+|    12h15  |    [Annemiek Cornelissen](#Annemiek-Cornelissen) |   Rishabh Sharma        |
 |    12h45  |    Lunch                |    Lunch                |
-|    14h15  |    Marc Barthelemy      |    Edouard Hannezo      |
-|    15h    |    Jeanne Abitbol       |    Maxime Lucas         |
-|    15h30  |    Matthieu Platre      |    John Casey           |
+|    14h15  |    [Marc Barthelemy](#Marc-Barthelemy)      |    Edouard Hannezo      |
+|    15h    |    [Jeanne Abitbol](#Jeanne-Abitbol)       |    Maxime Lucas         |
+|    15h30  |    [Matthieu Platre](#Matthieu-Platre)      |    John Casey           |
 |    16h    |    Discussion           |    Discussion           |
 |    17h30  |    Poster & drinks      |    Poster & drinks      |
 
@@ -65,7 +65,8 @@ In addition to the presentations, posters can be displayed in the room. Please u
 # Titles and Abstracts
 ## Thursday 26 June 
 
-### Mark Fricker and Tom Shimizu -- resp. Department of Plant Sciences University of Oxford and Amolf
+### Mark Fricker and Tom Shimizu
+resp. Department of Plant Sciences University of Oxford and Amolf  
 To be added
 
 ### Loai Gandeel 
@@ -88,10 +89,12 @@ The opportunistic fungal pathogen Candida albicans is normally commensal, residi
 Lachat, J., et al. Trans-cellular tunnels induced by the fungal pathogen Candida albicans facilitate invasion through successive epithelial cells without host damage. 
 Nat Commun 13, 3781 (2022)
 
-### Annemiek Cornelissen -- MSC Université Paris Cité
+### Annemiek Cornelissen 
+MSC Université Paris Cité  
 **morphogenesis of branching vascular networks**
 
-### Marc Barthelemy 	--- Institut de Physique théorique, IPhT, Orsay
+### Marc Barthelemy
+Institut de Physique théorique, IPhT, Orsay  
 **titre: Structure and evolution of spatial networks**
 
 Many systems — from cities, transportation systems to veination patterns in leaves — can be represented as
@@ -101,7 +104,8 @@ how they are structured and how they evolve over time is key to studying many co
 In this talk, I will provide an overview of major insights gained in recent years and highlight some of the
 main open challenges and promising directions for future research.
 
-### Jeanne Abitbol 	-- CNRS, ENS de Lyon, RDP
+### Jeanne Abitbol
+CNRS, ENS de Lyon, RDP  
 **Branching morphogenesis in moss filaments**
 
 Branching forms are ubiquitous in nature and evolved repeatedly in the eukaryotic kingdom. In the evolution of plant body plans, the innovation of branching in filaments was likely a key step prior to the innovation of three-dimensional leafy shoots. In the life cycle of mosses, the first tissue that develops from spore germination are tip-growing, branched filaments. Using Physcomitrium patens as a model species, several molecular actors regulating branching morphogenesis in filaments have been identified. However, the mechanisms governing patterning at the macroscopic scale remain unclear. 
@@ -110,7 +114,8 @@ Based on our observations, we propose that branching morphogenesis in P. patens 
 Such simple macroscopic models can also provide a unifying theoretical framework to compare macroscopic rules driving development in different species, and identify the design principles driving branching morphogenesis in filamentous organisms across kingdoms.
 
 
-### Matthieu Platre 	-- Institute for Plant Sciences of Montpellier
+### Matthieu Platre 	
+Institute for Plant Sciences of Montpellier  
 **Study of the adaptative value of the root system architecture cost-performance tradeoff using Pareto optimality framework**
 
 The root system is a critical organ to ensure the anchoring, water and nutrients uptake, and photo-assimilates transport, necessary for plant survival. To maintain these functions when exposed to environmental cues the root system altered its 3-dimensional organization in space, defined as the root system architecture (RSA)1. Depending on the environmental changes, one single genotype displays a variety of RSA to adapt accordingly, highlighting its plasticity. Therefore, the RSA plasticity is a key determinant driving plant survival and adaptation. In the context of climate change, the understanding of RSA plasticity is therefore crucial to uncover plant adaptation. The architectural plasticity can be assessed by changes of morphological (e.g. length), geometrical (e.g. depth), dynamical (e.g. growth rate), and topological descriptors. During the last half century, tremendous efforts were made to study those first three aspects due to their relatively easy assessment. Nonetheless, the analysis of RSA topology which consists of studying the efficiency and functions of a transport network remained underexplored notably by the requirements of computational analysis integrating several traits. In this talk, I will reveal how the efficiency of two root system functions, cost (growth) and performance (transport), limit the RSA plasticity finding a cost-performance tradeoff by a modeling approach based on Pareto optimality. Then, I will address how the climate change conditions that impact the root system functions decreasing water and nutrients accessibilities and promoting photo assimilates production modify the cost-performance tradeoff. Finally, I will present the experimental approaches to test the adaptative value of the root system architecture cost-performance tradeoff.
