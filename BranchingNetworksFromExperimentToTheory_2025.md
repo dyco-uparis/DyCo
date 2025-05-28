@@ -48,10 +48,10 @@ In addition to the presentations, posters can be displayed in the room. Please u
 |-----------|-------------------------|-------------------------|
 |    9h     |   Coffee reception      |    Coffee reception     |
 |    9h30   |   Mark Fricker and Tom Shimizu        |    [Stéphane Douady](#Stéphane-Douady)      |
-|    10h15  |    Loai Gandeel         |    Stanislaw Żukowski   |
+|    10h15  |    [Loai Gandeel](#Loai-Gandeel)         |    Stanislaw Żukowski   |
 |    10h45  |    Pause                |    Pause                |
-|    11h15  |    Carlos Aguilar       |    Thibault Chassereau  |
-|    11h45  |    Allon Weiner         |    Lena Kuwata          |
+|    11h15  |    [Carlos Aguilar](#Carlos-Aguilar)       |    Thibault Chassereau  |
+|    11h45  |    [Allon Weiner](#Allon-Weiner)         |    Lena Kuwata          |
 |    12h15  |    Annemiek Cornelissen |   Rishabh Sharma        |
 |    12h45  |    Lunch                |    Lunch                |
 |    14h15  |    Marc Barthelemy      |    Edouard Hannezo      |
@@ -68,16 +68,19 @@ In addition to the presentations, posters can be displayed in the room. Please u
 ### Mark Fricker and Tom Shimizu -- resp. Department of Plant Sciences University of Oxford and Amolf
 To be added
 
-### Loai Gandeel 	-- INRAE
+### Loai Gandeel 
+INRAE  
 To be added
 
 
-### Carlos Aguilar 	-- University of Jyväskylä
+### Carlos Aguilar 	
+University of Jyväskylä  
 **Testing the extreme plastic mycelium hypothesis: Does grazing induce developmental plasticity in saprotrophic fungi?**
 
 Phenotypic plasticity—the ability of a genotype to alter its phenotype in response to environmental changes—can play a crucial role in maximizing fitness in fluctuating environments. However, plasticity comes at a cost, as the energy required to transform a phenotype imposes limits on its extent. While limits to plasticity are well-documented in many organisms, they are not well understood in modular organisms like filamentous fungi. Fungi have highly flexible morphologies, allowing individual organisms to adjust their phenotype in response to local environmental conditions. This flexibility has led to speculation that fungi exhibit "extreme phenotypic plasticity," making them an interesting system for studying plasticity mechanisms. To test this idea, we analyzed the grazer-induced morphological plasticity of four cord-forming fungal species exposed to different soil microfauna with varying feeding behaviors, using a phenotypic trajectory analysis framework. We hypothesized that grazing would drive convergence towards a common "grazing-resistant phenotype" across species, due to the extreme flexibility of fungal mycelia. Alternatively, we proposed that species would follow unique developmental trajectories in response to grazers, reflecting species-specific plasticity limits. Our results showed that fungal species accounted for most of the morphological variation, with grazers having only a small but significant effect. Moreover, we did not observe convergence towards a common grazing-resistant phenotype; instead, each species followed distinct developmental pathways within species-specific limits, which varied widely. Some species altered up to 30% of their phenotype in response to grazers, while others showed as little as 1% variation. These findings suggest a more nuanced view of fungal plasticity, where morphological plasticity might not be the most effective response to grazing pressure. We speculate that the observed differences in plasticity limits may correlate with the complexity of cord formation in different species. These constraints on fungal morphological plasticity offer new insights into how fungi adapt to dynamic ecological conditions and underscore the need to explore alternative phenotypic responses to environmental pressures. Our study highlights the need to refine plasticity theories, particularly for organisms with complex, modular structures like fungi.
 
-### Allon Weiner 	-- Centre d’Immunologie et des Maladies Infectieuses (Cimi), Inserm, Sorbonne University
+### Allon Weiner 	
+Centre d’Immunologie et des Maladies Infectieuses (Cimi), Inserm, Sorbonne University  
 **Invasion of epithelial layers by the fungal pathogen Candida albicans studied by live cell imaging and volum electron microscopy**
 
 The opportunistic fungal pathogen Candida albicans is normally commensal, residing in the mucosa of most healthy individuals. In susceptible hosts, its filamentous hyphal form can invade epithelial layers leading to superficial or severe systemic infection. We study the mechanisms of epithelial invasion and host damage in vitro using live cell imaging combined with real-time damage-sensitive reporters and three-dimensional volume electron microscopy.  We recently showed that C. albicans can invade successive epithelial cells without membrane breaching by inducing the formation of multi-layered host-membrane derived trans-cellular tunnels. 
