@@ -21,7 +21,7 @@ The workshop is organized by [Corentin Bisot](mailto:C.Bisot@amolf.nl) (AMOLF), 
 Scientific comitee is composed of [Corentin Bisot](mailto:C.Bisot@amolf.nl) (AMOLF), [Thibault Chassereau](mailto:thibault.chassereau@u-paris.fr) (LIED), [Éric Herbert](mailto:eric.herbert@u-paris.fr) (LIED) and [Annemiek Cornelissen](mailto:annemiek.cornelissen@u-paris.fr) (MSC) and [Amandine Veber](eric.herbert@u-paris.fr)
 
 
-## When and where ?
+## When and where ?
 
 1. The workshop will take place over two days, on **26 and 27 June 2025**, on the Paris rive gauche campus of the **Université Paris Cité** (Paris 13). 
 2. Presentations will take place in room 322 of the [Lamarck building](https://master.math.u-paris.fr/informations/acces/), 35 rue Hélène Brion, nearest  metro station  *Bibliothèque de France*, metro line 14.
