@@ -55,7 +55,7 @@ In addition to the presentations, posters can be displayed in the room. Please u
 |    12h15  |    [Annemiek Cornelissen](#Annemiek-Cornelissen)                       |   [Rishabh Sharma](#Rishabh-Sharma)               |
 |    12h45  |    Lunch                                                               |    Lunch                                          |
 |    14h15  |    [Marc Barthelemy](#Marc-Barthelemy)                                 |    [Edouard Hannezo](#Edouard-Hannezo)            |
-|    15h    |    [Jeanne Abitbol](#Jeanne-Abitbol)                                   |   [Maxime Lucas](#Maxime-Lucas)                   |
+|    15h    |    [Jeanne Abitbol-Spangaro](#Jeanne-Abitbol-Spangaro)                 |   [Maxime Lucas](#Maxime-Lucas)                   |
 |    15h30  |    [Matthieu Platre](#Matthieu-Platre)                                 |    [John Casey](#John-Casey)                      |
 |    16h    |    Discussion                                                          |    Discussion                                     |
 |    17h30  |    Poster & drinks                                                     |    Poster & drinks                                |
@@ -104,7 +104,7 @@ how they are structured and how they evolve over time is key to studying many co
 In this talk, I will provide an overview of major insights gained in recent years and highlight some of the
 main open challenges and promising directions for future research.
 
-### Jeanne Abitbol
+### Jeanne Abitbol-Spangaro
 CNRS, ENS de Lyon, RDP  
 **Branching morphogenesis in moss filaments**
 
