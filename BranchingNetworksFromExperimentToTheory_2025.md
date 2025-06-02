@@ -48,7 +48,7 @@ In addition to the presentations, posters can be displayed in the room. Please u
 |-----------|------------------------------------------------------------------------|---------------------------------------------------|
 |    9h     |   Coffee reception                                                     |    Coffee reception                               |
 |    9h30   |   [Mark Fricker and Tom Shimizu](#Mark-Fricker-and-Tom-Shimizu)        |    [Stéphane Douady](#Stéphane-Douady)            |
-|    10h15  |    [Loai Gandeel](#Loai-Gandeel)                                       |    [Stanislaw Żukowski](#Stanislaw-Żukowski)      |
+|    10h15  |    [Loai Gandeel](#loai-gandeel)                                       |    [Stanislaw Żukowski](#Stanislaw-Żukowski)      |
 |    10h45  |    Pause                                                               |    Pause                                          |
 |    11h15  |    [Carlos Aguilar](#Carlos-Aguilar)                                   |    [Thibault Chassereau](#Thibault-Chassereau)    |
 |    11h45  |    [Allon Weiner](#Allon-Weiner)                                       |    [Lena Kuwata](#Lena-Kuwata)                    |
