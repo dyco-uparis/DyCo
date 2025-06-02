@@ -60,7 +60,7 @@ In addition to the presentations, posters can be displayed in the room. Please u
 |    11h15  |    [Carlos Aguilar](#carlos-aguilar)                                   |    [Thibault Chassereau](#thibault-chassereau)    |
 |    11h45  |    [Allon Weiner](#allon-weiner)                                       |    [Lena Kuwata](#lena-kuwata)                    |
 |    12h15  |    [Annemiek Cornelissen](#annemiek-cornelissen)                       |   [Rishabh Sharma](#rishabh-sharma)               |
-|    12h45  |    [lunch](#when-and-where)                                            |    [lunch](#when-and-where)                        |
+|    12h45  |    [lunch](#when-and-where)                                            |    [lunch](#when-and-where)                       |
 |    14h15  |    [Marc Barthelemy](#marc-barthelemy)                                 |    [Edouard Hannezo](#edouard-hannezo)            |
 |    15h    |    [Jeanne Abitbol-Spangaro](#jeanne-abitbol-spangaro)                 |   [Maxime Lucas](#maxime-lucas)                   |
 |    15h30  |    [Matthieu Platre](#matthieu-platre)                                 |    [John Casey](#john-casey)                      |
