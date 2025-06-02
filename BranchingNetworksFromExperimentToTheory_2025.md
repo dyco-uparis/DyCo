@@ -55,7 +55,7 @@ In addition to the presentations, posters can be displayed in the room. Please u
 |-----------|------------------------------------------------------------------------|---------------------------------------------------|
 |    9h     |   Coffee reception                                                     |    Coffee reception                               |
 |    9h30   |   [Mark Fricker and Tom Shimizu](#mark-fricker-and-tom-shimizu)        |    [Stéphane Douady](#stéphane-douady)            |
-|    10h15  |    [Loai Gandeel](#loai-gandeel)                                       |    [Stanislaw Żukowski](#stanislaw-żukowski)      |
+|    10h15  |    [Romain Fernandez and Loaï Gandeel](#romain-fernandez-and-loaï-gandeel)|    [Stanislaw Żukowski](#stanislaw-żukowski)      |
 |    10h45  |    Pause                                                               |    Pause                                          |
 |    11h15  |    [Carlos Aguilar](#carlos-aguilar)                                   |    [Thibault Chassereau](#thibault-chassereau)    |
 |    11h45  |    [Allon Weiner](#allon-weiner)                                       |    [Lena Kuwata](#lena-kuwata)                    |
@@ -78,9 +78,13 @@ To be added
 
 [Back to Schedule](#at-a-glance)
 
-### Loai Gandeel 
-INRAE  
-To be added
+### Romain Fernandez and Loaï Gandeel
+resp. CIRAD & INRIA  
+**RootSystemTracker: Automatic Spatio-temporal Reconstruction of Root Architectures**
+
+Root system architecture (RSA) determines plants' ability to acquire water and nutrients, thereby shaping their ability to thrive in heterogeneous and fluctuating environments. Non-destructive phenotyping platforms enable researchers to track the RSA of the same plants over time. Accurate automated analysis of root architectures from time-series 2D image data remains challenging due to frequent root crossings and the combinatorial complexity associated with (2D + t) reconstruction. The diversity of acquisition setups further intensifies this challenge, ranging from high-throughput controlled conditions (e.g., Petri dishes and rhizotubes) to more realistic environments, such as mixed cropping systems in field rhizotrons.  
+The open-source software RootSystemTracker (Fernandez et al., 2022) proposes a comprehensive pipeline that combines spatio-temporal segmentation and automated topological tracking. This pipeline leverages a global optimization algorithm that incorporates explicit biological assumptions into a cost function, effectively addressing the complex task of root tracking over time. Successfully validated on Arabidopsis thaliana grown in Petri dishes, the pipeline demonstrates excellent performance on standard root traits (R² = 0.996 for primary root length, and 0.923 for secondary roots) and dynamic traits (R² = 0.938 for root elongation).  
+Initiated in late 2024, the RootSystemTracker project (PEPR Agroécologie et Numérique) aims to extend these phenotyping tools to more varied contexts, ultimately supporting variety selection tailored to agroecological practices and contributing to more resilient and sustainable agricultural systems. An international consortium of seven laboratories, each with different experimental setups, compiled spatio-temporal (2D+t) datasets. A data challenge will be launched to encourage innovation in the automated reconstruction of RSA and to benchmark automatic phenotyping tools for segmentation and architecture reconstruction.
 
 [Back to Schedule](#at-a-glance)
 
