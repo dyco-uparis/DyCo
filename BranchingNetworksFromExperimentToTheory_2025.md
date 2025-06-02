@@ -44,11 +44,13 @@ Program will be updated with titles and abstracts.
 
 In addition to the presentations, posters can be displayed in the room. Please use A0 format and vertical (portrait) orientation. We can take care of the printing. Please send an email to the organisers.
 
+## At a glance
+
 |           |    26th June                                                           |    27th June                                      |
 |-----------|------------------------------------------------------------------------|---------------------------------------------------|
 |    9h     |   Coffee reception                                                     |    Coffee reception                               |
 |    9h30   |   [Mark Fricker and Tom Shimizu](#mark-fricker-and-tom-shimizu)        |    [Stéphane Douady](#stéphane-douady)            |
-|    10h15  |    [Loai Gandeel](#loai-gandeel)                                       |    [Stanislaw Żukowski](#stanislaw-zukowski)      |
+|    10h15  |    [Loai Gandeel](#loai-gandeel)                                       |    [Stanislaw Żukowski](#stanislaw-żukowski)      |
 |    10h45  |    Pause                                                               |    Pause                                          |
 |    11h15  |    [Carlos Aguilar](#carlos-aguilar)                                   |    [Thibault Chassereau](#thibault-chassereau)    |
 |    11h45  |    [Allon Weiner](#allon-weiner)                                       |    [Lena Kuwata](#lena-kuwata)                    |
@@ -69,16 +71,21 @@ In addition to the presentations, posters can be displayed in the room. Please u
 resp. Department of Plant Sciences University of Oxford and Amolf  
 To be added
 
+[Back to Progam](#at-a-glance)
+
 ### Loai Gandeel 
 INRAE  
 To be added
 
+[Back to Progam](#at-a-glance)
 
 ### Carlos Aguilar 	
 University of Jyväskylä  
 **Testing the extreme plastic mycelium hypothesis: Does grazing induce developmental plasticity in saprotrophic fungi?**
 
 Phenotypic plasticity—the ability of a genotype to alter its phenotype in response to environmental changes—can play a crucial role in maximizing fitness in fluctuating environments. However, plasticity comes at a cost, as the energy required to transform a phenotype imposes limits on its extent. While limits to plasticity are well-documented in many organisms, they are not well understood in modular organisms like filamentous fungi. Fungi have highly flexible morphologies, allowing individual organisms to adjust their phenotype in response to local environmental conditions. This flexibility has led to speculation that fungi exhibit "extreme phenotypic plasticity," making them an interesting system for studying plasticity mechanisms. To test this idea, we analyzed the grazer-induced morphological plasticity of four cord-forming fungal species exposed to different soil microfauna with varying feeding behaviors, using a phenotypic trajectory analysis framework. We hypothesized that grazing would drive convergence towards a common "grazing-resistant phenotype" across species, due to the extreme flexibility of fungal mycelia. Alternatively, we proposed that species would follow unique developmental trajectories in response to grazers, reflecting species-specific plasticity limits. Our results showed that fungal species accounted for most of the morphological variation, with grazers having only a small but significant effect. Moreover, we did not observe convergence towards a common grazing-resistant phenotype; instead, each species followed distinct developmental pathways within species-specific limits, which varied widely. Some species altered up to 30% of their phenotype in response to grazers, while others showed as little as 1% variation. These findings suggest a more nuanced view of fungal plasticity, where morphological plasticity might not be the most effective response to grazing pressure. We speculate that the observed differences in plasticity limits may correlate with the complexity of cord formation in different species. These constraints on fungal morphological plasticity offer new insights into how fungi adapt to dynamic ecological conditions and underscore the need to explore alternative phenotypic responses to environmental pressures. Our study highlights the need to refine plasticity theories, particularly for organisms with complex, modular structures like fungi.
+
+[Back to Progam](#at-a-glance)
 
 ### Allon Weiner 	
 Centre d’Immunologie et des Maladies Infectieuses (Cimi), Inserm, Sorbonne University  
@@ -89,9 +96,13 @@ The opportunistic fungal pathogen Candida albicans is normally commensal, residi
 Lachat, J., et al. Trans-cellular tunnels induced by the fungal pathogen Candida albicans facilitate invasion through successive epithelial cells without host damage. 
 Nat Commun 13, 3781 (2022)
 
+[Back to Progam](#at-a-glance)
+
 ### Annemiek Cornelissen 
 MSC Université Paris Cité  
 **morphogenesis of branching vascular networks**
+
+[Back to Progam](#at-a-glance)
 
 ### Marc Barthelemy
 Institut de Physique théorique, IPhT, Orsay  
@@ -104,6 +115,8 @@ how they are structured and how they evolve over time is key to studying many co
 In this talk, I will provide an overview of major insights gained in recent years and highlight some of the
 main open challenges and promising directions for future research.
 
+[Back to Progam](#at-a-glance)
+
 ### Jeanne Abitbol-Spangaro
 CNRS, ENS de Lyon, RDP  
 **Branching morphogenesis in moss filaments**
@@ -113,6 +126,7 @@ To address this gap, we developed a pipeline to acquire high-resolution 3D image
 Based on our observations, we propose that branching morphogenesis in P. patens filaments can be modeled using a simple probabilistic approach, in which subapical cells have a defined probability of producing a side-branch between each apical cell division. Additional rules can be integrated to account for specific observations, such as the absence of side-branch in the first subapical cells, or potential lateral inhibition mechanisms. This simple macroscopic model provides a cellular framework for future work investigating the role of underlying molecular mechanisms. 
 Such simple macroscopic models can also provide a unifying theoretical framework to compare macroscopic rules driving development in different species, and identify the design principles driving branching morphogenesis in filamentous organisms across kingdoms.
 
+[Back to Progam](#at-a-glance)
 
 ### Matthieu Platre 	
 Institute for Plant Sciences of Montpellier  
@@ -120,6 +134,7 @@ Institute for Plant Sciences of Montpellier
 
 The root system is a critical organ to ensure the anchoring, water and nutrients uptake, and photo-assimilates transport, necessary for plant survival. To maintain these functions when exposed to environmental cues the root system altered its 3-dimensional organization in space, defined as the root system architecture (RSA)1. Depending on the environmental changes, one single genotype displays a variety of RSA to adapt accordingly, highlighting its plasticity. Therefore, the RSA plasticity is a key determinant driving plant survival and adaptation. In the context of climate change, the understanding of RSA plasticity is therefore crucial to uncover plant adaptation. The architectural plasticity can be assessed by changes of morphological (e.g. length), geometrical (e.g. depth), dynamical (e.g. growth rate), and topological descriptors. During the last half century, tremendous efforts were made to study those first three aspects due to their relatively easy assessment. Nonetheless, the analysis of RSA topology which consists of studying the efficiency and functions of a transport network remained underexplored notably by the requirements of computational analysis integrating several traits. In this talk, I will reveal how the efficiency of two root system functions, cost (growth) and performance (transport), limit the RSA plasticity finding a cost-performance tradeoff by a modeling approach based on Pareto optimality. Then, I will address how the climate change conditions that impact the root system functions decreasing water and nutrients accessibilities and promoting photo assimilates production modify the cost-performance tradeoff. Finally, I will present the experimental approaches to test the adaptative value of the root system architecture cost-performance tradeoff.
 
+[Back to Progam](#at-a-glance)
 
 ## Friday 27 June
 
