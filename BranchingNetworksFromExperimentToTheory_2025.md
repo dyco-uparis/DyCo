@@ -44,7 +44,7 @@ Program will be updated with titles and abstracts.
 
 In addition to the presentations, posters can be displayed in the room. Please use A0 format and vertical (portrait) orientation. We can take care of the printing. Please send an email to the organisers.
 
-## At a glance
+## At a glance
 
 |           |    26th June                                                           |    27th June                                      |
 |-----------|------------------------------------------------------------------------|---------------------------------------------------|
