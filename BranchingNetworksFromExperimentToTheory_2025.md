@@ -47,16 +47,16 @@ In addition to the presentations, posters can be displayed in the room. Please u
 |           |    26th June                                                           |    27th June                                      |
 |-----------|------------------------------------------------------------------------|---------------------------------------------------|
 |    9h     |   Coffee reception                                                     |    Coffee reception                               |
-|    9h30   |   [Mark Fricker and Tom Shimizu](#Mark-Fricker-and-Tom-Shimizu)        |    [Stéphane Douady](#Stéphane-Douady)            |
-|    10h15  |    [Loai Gandeel](#loai-gandeel)                                       |    [Stanislaw Żukowski](#Stanislaw-Żukowski)      |
+|    9h30   |   [Mark Fricker and Tom Shimizu](#mark-fricker-and-tom-shimizu)        |    [Stéphane Douady](#stéphane-douady)            |
+|    10h15  |    [Loai Gandeel](#loai-gandeel)                                       |    [Stanislaw Żukowski](#stanislaw-zukowski)      |
 |    10h45  |    Pause                                                               |    Pause                                          |
-|    11h15  |    [Carlos Aguilar](#Carlos-Aguilar)                                   |    [Thibault Chassereau](#Thibault-Chassereau)    |
-|    11h45  |    [Allon Weiner](#Allon-Weiner)                                       |    [Lena Kuwata](#Lena-Kuwata)                    |
-|    12h15  |    [Annemiek Cornelissen](#Annemiek-Cornelissen)                       |   [Rishabh Sharma](#Rishabh-Sharma)               |
+|    11h15  |    [Carlos Aguilar](#carlos-aguilar)                                   |    [Thibault Chassereau](#thibault-chassereau)    |
+|    11h45  |    [Allon Weiner](#allon-weiner)                                       |    [Lena Kuwata](#lena-kuwata)                    |
+|    12h15  |    [Annemiek Cornelissen](#annemiek-cornelissen)                       |   [Rishabh Sharma](#rishabh-sharma)               |
 |    12h45  |    Lunch                                                               |    Lunch                                          |
-|    14h15  |    [Marc Barthelemy](#Marc-Barthelemy)                                 |    [Edouard Hannezo](#Edouard-Hannezo)            |
-|    15h    |    [Jeanne Abitbol-Spangaro](#Jeanne-Abitbol-Spangaro)                 |   [Maxime Lucas](#Maxime-Lucas)                   |
-|    15h30  |    [Matthieu Platre](#Matthieu-Platre)                                 |    [John Casey](#John-Casey)                      |
+|    14h15  |    [Marc Barthelemy](#marc-barthelemy)                                 |    [Edouard Hannezo](#edouard-hannezo)            |
+|    15h    |    [Jeanne Abitbol-Spangaro](#jeanne-abitbol-spangaro)                 |   [Maxime Lucas](#maxime-lucas)                   |
+|    15h30  |    [Matthieu Platre](#matthieu-platre)                                 |    [John Casey](#john-casey)                      |
 |    16h    |    Discussion                                                          |    Discussion                                     |
 |    17h30  |    Poster & drinks                                                     |    Poster & drinks                                |
 
