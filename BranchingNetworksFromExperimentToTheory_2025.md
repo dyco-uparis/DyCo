@@ -25,7 +25,9 @@ Scientific comitee is composed of [Corentin Bisot](mailto:C.Bisot@amolf.nl) (AMO
 
 1. The workshop will take place over two days, on **26 and 27 June 2025**, on the Paris rive gauche campus of the **Université Paris Cité** (Paris 13). 
 2. Presentations will take place in room 322 of the [Lamarck building](https://master.math.u-paris.fr/informations/acces/), 35 rue Hélène Brion, nearest  metro station  *Bibliothèque de France*, metro line 14.
-3. Lunch in the same street 17 rue Hélène Brion.
+3. Lunch on the 26th in the same street 17 rue Hélène Brion.
+4. Dinner on the 26th, restaurant [Nomade]()
+5. Lunch on the 27th, restaurant Paris Milan [11 rue Elsa Morante](https://www.restaurantparismilan.fr/)
 
 
 # Program
@@ -74,7 +76,7 @@ In addition to the presentations, posters can be displayed in the room. Please u
 
 ### Mark Fricker and Tom Shimizu
 resp. Department of Plant Sciences University of Oxford and Amolf  
-To be added
+**A biologist branches into physics ... and a physicist loops back!**
 
 [Back to Schedule](#at-a-glance)
 
