@@ -28,7 +28,7 @@ The colloquium is funded thanks to the PEPR [math-vives](https://www.maths-vives
 1. The workshop will take place over two days, on **26 and 27 June 2025**, on the Paris rive gauche campus of the **Université Paris Cité** (Paris 13). 
 2. Presentations will take place in room 322 of the [Lamarck building](https://master.math.u-paris.fr/informations/acces/), 35 rue Hélène Brion, nearest  metro station  *Bibliothèque de France*, metro line 14.
 3. Lunch on the 26th in the same street 17 rue Hélène Brion.
-4. Dinner on the 26th, restaurant [Nomade]()
+4. Dinner on the 26th (19h), restaurant [Nomade](https://maps.app.goo.gl/YdP19j9wJuhRWYsr9) on the banks of the Seine, just before pont Bercy
 5. Lunch on the 27th, restaurant Paris Milan [11 rue Elsa Morante](https://www.restaurantparismilan.fr/)
 
 
