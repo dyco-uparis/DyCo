@@ -70,6 +70,7 @@ In addition to the presentations, posters can be displayed in the room. Please u
 |    15h30  |    [Matthieu Platre](#matthieu-platre)                                 |    [John Casey](#john-casey)                      |
 |    16h    |    Discussion                                                          |    Discussion                                     |
 |    17h30  |    Poster & drinks                                                     |    Poster & drinks                                |
+|    19h00  |    [Dinner](#when-and-where)                                                          |                                                   |
 
 
 
