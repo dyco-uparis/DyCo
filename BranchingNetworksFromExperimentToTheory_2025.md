@@ -197,7 +197,7 @@ Branching morphogenesis is a prototypical example of complex three-dimensional o
 [Back to Schedule](#at-a-glance)
 
 ### Maxime Lucas
-Nuamure institute for complex systems  
+Namur institute for complex systems, Belgium  
 **Growth and structure of underground fungal networks**
 
 Arbuscular mycorrhizal fungi (AMFs) form symbiotic relationships with the roots of most terrestrial plants, playing a crucial role in nutrient exchange and ecosystem stability. In these organisms, network structure directly impacts functions such as transport efficiency, spatial exploration, and robustness. Yet, network formation is constrained by finite resources, forcing trade-offs between competing functional goals. Some species evolve structures optimized for exploration, others for resilience or efficiency. To investigate these trade-offs, we introduce a minimal spatial model of AMF network growth, based on just three local rules: hyphal growth, branching, and fusion (anastomosis). Despite its simplicity, the model generates a wide range of morphologies and reveals general principles applicable to other biological and artificial systems that self-organize through decentralized, resource-limited dynamics.
