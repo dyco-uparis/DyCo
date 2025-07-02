@@ -18,7 +18,7 @@ This  workshop aims at gathering international scientists that are involved in t
 
 The workshop is organized by [Corentin Bisot](mailto:C.Bisot@amolf.nl) (AMOLF), [Thibault Chassereau](mailto:thibault.chassereau@gmail.com) (LIED), [Éric Herbert](mailto:eric.herbert@u-paris.fr) (LIED) and [Annemiek Cornelissen](mailto:annemiek.cornelissen@u-paris.fr) (MSC).
 
-Scientific comitee is composed of [Corentin Bisot](mailto:C.Bisot@amolf.nl) (AMOLF), [Thibault Chassereau](mailto:thibault.chassereau@u-paris.fr) (LIED), [Éric Herbert](mailto:eric.herbert@u-paris.fr) (LIED) and [Annemiek Cornelissen](mailto:annemiek.cornelissen@u-paris.fr) (MSC) and [Amandine Veber](eric.herbert@u-paris.fr)
+Scientific comitee is composed of [Corentin Bisot](mailto:C.Bisot@amolf.nl) (AMOLF), [Thibault Chassereau](mailto:thibault.chassereau@gmail.com) (LIED), [Éric Herbert](mailto:eric.herbert@u-paris.fr) (LIED) and [Annemiek Cornelissen](mailto:annemiek.cornelissen@u-paris.fr) (MSC) and [Amandine Veber](eric.herbert@u-paris.fr)
 
 The colloquium is funded thanks to the PEPR [math-vives](https://www.maths-vives.fr/), laboratory [LIED](https://liedlab.net/), laboratory [MSC](https://msc.u-paris.fr/), the NEMATIC project (ANR-21-CE40010-01) for funding and we warmly thanks la Licence Sciences de la Terre for welcoming us into their premises.
 
