@@ -160,7 +160,7 @@ MSC Université Paris Cité
 
 ### Stanislaw Żukowski
 Faculty of Physics, University of Warsaw  
-To be added
+Many ramified, network-like patterns in nature, such as river networks or blood vessels, form as a result of unstable growth of moving boundaries in an external diffusive field. Here, we pose the inverse problem for the network growth—can the growth dynamics be inferred from the analysis of the final pattern? We show that by evolving the network backward in time one can not only reconstruct the growth rules but also get an insight into the conditions under which branch splitting occurs. Determining the growth rules from a single snapshot in time is particularly important for growth processes so slow that they cannot be directly observed, such as growth of river networks and deltas or cave passages. We apply this approach to analyze the growth of a real river network in Vermont, USA. We determine its growth rule and argue that branch splitting events are triggered by an increase in the tip growth velocity.
 
 [Back to Schedule](#at-a-glance)
 
