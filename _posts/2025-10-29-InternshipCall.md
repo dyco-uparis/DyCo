@@ -18,7 +18,7 @@ Based on reconstructed data of thallus growth in a filamentous fungus, this proj
 
 |hyphal interactions|
 | :---: |
-| ![hyphal interactions](images/fig1_interactions.jpg) |
+| ![hyphal interactions](images/fig1_Interactions.jpg) |
 
 
 
