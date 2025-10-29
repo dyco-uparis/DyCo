@@ -13,12 +13,17 @@ Ce projet bénéficie du financement d'une IDEX de l'université et est organis�
 
 ### Doctorants 
 1. Clara Ledoux, soutenance le 28 mars 2023    
-Caractérisation multi-échelle de la dynamique de croissance d'un réseau fongique : étude du champignon filamenteux Podospora anserina. Microbiologie et Parasitologie. Université Paris Cité, 2023. Français. ⟨NNT : 2023UNIP5018⟩. ⟨tel-04295508⟩  
+*Caractérisation multi-échelle de la dynamique de croissance d'un réseau fongique : étude du champignon filamenteux Podospora anserina. Microbiologie et Parasitologie*. Université Paris Cité, 2023. Français. ⟨NNT : 2023UNIP5018⟩. ⟨tel-04295508⟩  
 On pourra trouver son manuscript de thèse sur [HAL](https://hal.science/tel-04295508v1).
-2. Thibault Chassereau, soutenance prévue en 2024
+2. Thibault Chassereau, soutenance le 4 novembre 2024 
+*Du local au global : croissance d'un réseau fongique branchant*. Microbiologie et Parasitologie. Université Paris Cité, 2024. Français. ⟨NNT : 2024UNIP5145⟩. ⟨tel-05019811⟩. [Manuscript](https://hal.science/tel-05019811v1)
 
-### Colloque
-Nous organisons les 4 et 5 juin 2024, à l'occasion du mi-parcours de l'ANR NEMATIC un colloque dédié aux réseaux croissants et branchants. Le programme est disponible sur la page du [colloque](/colloque_nematic_2024).
+
+
+### Colloques
+1. 4 et 5 juin 2024, à l'occasion du mi-parcours de l'ANR NEMATIC un colloque dédié aux réseaux croissants et branchants. Le programme est disponible sur la page du [colloque](/colloque_nematic_2024).
+2. [Branching networks: From experiment to theory](/BranchingNetworksFromExperimentToTheory_2025)  
+Biological or other physical networks can emerge from the growth of a population of growing apex by a combination of filament extension, orientation, branching and annihilation. High spatial and temporal resolution timelapses of such dynamics are currently being acquired by multiple teams across the world. These allow to track at the same time the behaviour of individual apex and the whole network formation.
 
 ### Publications
 > Publications de l'équipe
@@ -26,6 +31,8 @@ Nous organisons les 4 et 5 juin 2024, à l'occasion du mi-parcours de l'ANR NEMA
 2. Ledoux, Clara, Florence Chapeland-Leclerc, Gwenaël Ruprich-Robert, Cécilia Bobée, Christophe Lalanne, Éric Herbert, et Pascal David. « Prediction and Experimental Evidence of Different Growth Phases of the Podospora Anserina Hyphal Network ». Scientific Reports 13, nᵒ 1 (25 mai 2023): 8501. https://doi.org/10.1038/s41598-023-35327-w.
 3. « Prediction and Experimental Evidence of the Optimisation of the Angular Branching Process in the Thallus Growth of Podospora Anserina ». Scientific Reports 12, nᵒ 1 (19 juillet 2022): 12351. https://doi.org/10.1038/s41598-022-16245-9.
 4. Ledoux, Clara, Cécilia Bobée, Éva Cabet, Pascal David, Frédéric Filaine, Sabrina Hachimi, Christophe Lalanne, Gwenaël Ruprich-Robert, Éric Herbert, et Florence Chapeland-Leclerc. « Characterization of Spatio-Temporal Dynamics of the Constrained Network of the Filamentous Fungus Podospora Anserina Using a Geomatics-Based Approach ». PLOS ONE 19, nᵒ 2 (6 février 2024): e0297816. https://doi.org/10.1371/journal.pone.0297816.
+5. Chassereau, T.; Chapeland-Leclerc, F.; Herbert, É. Full Identification of a Growing and Branching Network’s Spatio-Temporal Structures. Biophysical Journal 2025, 124 (2), 284–296. https://doi.org/10.1016/j.bpj.2024.12.002.
+
 
 > Publications du projet
 1. Catellier, Rémi, Yves D’Angelo, et Cristiano Ricci. « A mean-field approach to self-interacting networks, convergence and regularity ». Mathematical Models and Methods in Applied Sciences 31, nᵒ 13 (novembre 2021): 2597‑2641. https://doi.org/10.1142/S0218202521500573.
