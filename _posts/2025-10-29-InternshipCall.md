@@ -3,6 +3,7 @@ layout: post
 title: '2026: Internship Proposals'
 ---
 
+
 ------------------------------------------------------------------------
 
 We are always looking for motivated students. Don't hesitate to [contact us](eric.herbert@u-paris.fr)
