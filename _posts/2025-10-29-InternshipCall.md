@@ -16,7 +16,11 @@ Apex–Hypha Interaction.
 The growth of filamentous fungal hyphae is polarized. In the vicinity of a pre-existing hypha, the growing tip exhibits either avoidance or attraction behavior. 
 Based on reconstructed data of thallus growth in a filamentous fungus, this project aims to characterize the nature and dynamics of these interactions.
 
-![hyphal interactions](images/fig1_interactions.jpg)
+|hyphal interactions|
+| :---: |
+| ![hyphal interactions](images/fig1_interactions.jpg) |
+
+
 
 # Out-of-Equilibrium Thermodynamics
 
@@ -30,7 +34,7 @@ We propose to extend this framework in two main directions:
 2. At the organismal level, energy fluxes during exertion can be assessed through measurements of mechanical power output and oxygen consumption. Using a swim tunnel available in the laboratory, we plan to compare two subpopulations of the small piranha Astyanax mexicanus, which display markedly distinct phenotypes: one active and fast, the other calm and slow. The objective is to characterize and compare their physiologies in light of derived thermodynamic observables.
 
 | Astyanax mexicanus surface morphotype      | Astyanax mexicanus cave morphotype |
-| :---        |    :----:   |
+| :---:        |    :----:   |
 | ![Astyanax mexicanus](images/morphotype_surface.png "Astyanax mexicanus surface morphotype")      | ![Astyanax mexicanus](images/morphotype_cave.png "Astyanax mexicanus cave morphotype")       |
 
 
