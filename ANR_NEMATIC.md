@@ -76,5 +76,5 @@ We organized two colloquium related to the project
 
 # PhD thesis <a name="thesis"></a>
 1. Clara Ledoux, soutenue en 2023, [Caractérisation multi-échelle de la dynamique de croissance d’un réseau fongique : étude du champignon filamenteux *Podospora anserina*]()
-2. Thibault Chassereau,soutenue en 2024,[Du local au global: croissane d'une réseau fongique branchant](https://hal.science/tel-05019811v1)
+2. Thibault Chassereau,soutenue en 2024, [Du local au global: croissance d'une réseau fongique branchant](https://hal.science/tel-05019811v1)
 3. Lena Kuwata, soutenue en 2026, Modélisation de la croissance d'un réseau organisé : le cas des champignons filamenteux
