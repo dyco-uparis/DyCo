@@ -3,13 +3,14 @@ layout: page
 title: ANR_NEMATIC
 ---
 
-| ![imageclosedloop](/images/ooh.png){: width="600px"}                                          |
+![imageclosedloop](/images/ooh.png){: width="600px"}
 
 # Content
 
 - [Project](#project)
 - [Conferences](#colloques)
 - [Publications](#pubs)
+- [PhD thesis](#thesis)
 
 
 # Project <a name="project"></a>
@@ -68,5 +69,7 @@ We organized two colloquium related to the project
 6. Ledoux, C.; Bobée, C.; Cabet, É.; David, P.; Filaine, F.; Hachimi, S.; Lalanne, C.; Ruprich-Robert, G.; Herbert, É.; Chapeland-Leclerc, F. Characterization of Spatio-Temporal Dynamics of the Constrained Network of the Filamentous Fungus Podospora Anserina Using a Geomatics-Based Approach. PLOS ONE 2024, 19 (2), e0297816. https://doi.org/10.1371/journal.pone.0297816.
 7. Chassereau, T.; Chapeland-Leclerc, F.; Herbert, É. Full Identification of a Growing and Branching Network’s Spatio-Temporal Structures. Biophysical Journal 2025, 124 (2), 284–296. https://doi.org/10.1016/j.bpj.2024.12.002.
 
-
+# PhD thesis <a name="thesis"></a>
+1. Clara Ledoux, soutenue en 2023, [Caractérisation multi-échelle de la dynamique de croissance d’un réseau fongique : étude du champignon filamenteux *Podospora anserina*]()
+2. Thibault Chassereau,soutenue en 2024,[Du local au global: croissane d'une réseau fongique branchant](https://hal.science/tel-05019811v1)
 
