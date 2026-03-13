@@ -4,7 +4,6 @@ title: ANR_NEMATIC
 ---
 
 | ![imageclosedloop](/images/ooh.png){: width="600px"}                                          |
-|:--:|
 
 # Content
 
