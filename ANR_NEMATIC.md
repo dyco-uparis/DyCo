@@ -3,7 +3,7 @@ layout: page
 title: ANR_NEMATIC
 ---
 
-| ![imageclosedloop](/images/KC_shadock.png){: width="600px"}                                          |
+| ![imageclosedloop](/images/ooh.png){: width="600px"}                                          |
 |:--:|
 
 # Content
@@ -55,16 +55,11 @@ for studying the development of filamentous fungi, or even more general living s
 
 
 # Colloques <a name="colloques"></a>
-
+We organized two colloquium related to the project 
+1. [NEMATIC (2024)](/colloque_nematic_2024)
+2. [Branching Networks (2025)](/BranchingNetworksFromExperimentToTheory_2025)
 
 # Publications <a name="pubs"></a>
-
-
-
-
-
-L'approche thermodynamique nodale est développée au laboratoire dans le cadre de la thermodynmique à temps fini. On trouvera plus de détails sur [cette page](/FTT). Nous nous intéressons plus spécifiquement aux machines à conversion de l'énergie comme systèmes formel idéal. Nous décrivons cette machine comme la capacité à transformer de l'énergie diluée (par exemple la chaleur) en énergie concentrée (le travail) via un processus intrinsequement dissipatif.
-La question scientifiques est celle des points de fonctionnement réellement accessibles par la machine. En effet une machine n'est jamais directement en contact avec une ressource, par exemple les températures $T_{+}$ et $$T_-$$, mais via des résistances de couplages. Ces résistances ont pour effet de moduler la différence de température réellement accessible et de dépendre du point de fonctionnement. Ainsi, la machine apparait comme un système à la dynamique riche, pouvant même sous certaines conditions faire apparaitre des spontanément de oscillations.
 
 
 
