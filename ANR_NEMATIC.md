@@ -72,9 +72,11 @@ We organized two colloquium related to the project
 ##  To be published
 1.  Lena Kuwata, Thibault Chassereau, Florence Chapeland-Leclerc, Pascal David, Eric Herbert, Gwenaël Ruprich-Robert, Milica Tomašević, Amandine Véber, Quantifying the impact of different forms of stress on fungal growth: an inference method based on high-resolution pictures of the mycelial network https://hal.science/hal-05149818v2
 2. Thibault Chassereau, Florence Chapeland-Leclerc, Eric Herbert, Direct Evidence of Apex-Hypha Interactions During Vegetative Growth of Fungal Thallus via Comprehensive Network and Trajectory Extraction, https://arxiv.org/abs/2507.06280
+3. Sebastian Baudelet, Claire Guerrier. A simple formula for the coalescence dynamics in the case of a linear kernel, with application to branching in filamentous fungi. 2025. ⟨hal-05322999⟩ https://hal.science/hal-05322999v1
 
 
 # PhD thesis <a name="thesis"></a>
 1. Clara Ledoux, soutenue en 2023, [Caractérisation multi-échelle de la dynamique de croissance d’un réseau fongique : étude du champignon filamenteux *Podospora anserina*]()
 2. Thibault Chassereau,soutenue en 2024, [Du local au global: croissance d'une réseau fongique branchant](https://hal.science/tel-05019811v1)
 3. Lena Kuwata, soutenue en 2026, Modélisation de la croissance d'un réseau organisé : le cas des champignons filamenteux
+4. Nicolas fricker, soutenance prévue en 2026  
