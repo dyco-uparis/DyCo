@@ -54,7 +54,8 @@ a filamentous fungus adapts to a competitive environment, it represents a conven
 for studying the development of filamentous fungi, or even more general living systems networks.
 
 # Videos <a name="videos"></a>
-Some videos are available on youtube:
+Growth of *Podosora anserina* from a single ascospore on a cellophane sheet. The fungus can access to the nutrients diffusing through the pores of the cellophane sheet. Hyphae typical diameter is 7 micrometer. The lighting of the plate is obtained by transmission through the culture medium. The camera is above the sample. the Image covers 1.09x1.74mm2. Duration between two frames is 18 minutes.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CsrLAOFjRZI?si=WTWORwflz3jIDGQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3xO6ZaSSdAI?si=dCLCki75QNaiNEaT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
