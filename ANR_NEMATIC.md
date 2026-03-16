@@ -75,6 +75,7 @@ We organized two colloquium related to the project
 5. Ledoux, C.; Chapeland-Leclerc, F.; Ruprich-Robert, G.; Bobée, C.; Lalanne, C.; Herbert, É.; David, P. [Prediction and Experimental Evidence of Different Growth Phases of the Podospora Anserina Hyphal Network](https://doi.org/10.1038/s41598-023-35327-w). Sci Rep 2023, 13 (1), 8501. 
 6. Ledoux, C.; Bobée, C.; Cabet, É.; David, P.; Filaine, F.; Hachimi, S.; Lalanne, C.; Ruprich-Robert, G.; Herbert, É.; Chapeland-Leclerc, F. [Characterization of Spatio-Temporal Dynamics of the Constrained Network of the Filamentous Fungus Podospora Anserina Using a Geomatics-Based Approach](https://doi.org/10.1371/journal.pone.0297816). PLOS ONE 2024, 19 (2), e0297816.
 7. Chassereau, T.; Chapeland-Leclerc, F.; Herbert, É. [Full Identification of a Growing and Branching Network’s Spatio-Temporal Structures](https://doi.org/10.1016/j.bpj.2024.12.002). Biophysical Journal 2025, 124 (2), 284–296.
+8. Béthencourt, L., Catellier, R., & Tanré, E. (2025). [Brownian Particles Controlled by Their Occupation Measure](https://epubs.siam.org/doi/full/10.1137/24M1656220). SIAM J. Control Optim.
 
 ##  To be published
 1.  Lena Kuwata, Thibault Chassereau, Florence Chapeland-Leclerc, Pascal David, Eric Herbert, Gwenaël Ruprich-Robert, Milica Tomašević, Amandine Véber, Quantifying the impact of different forms of stress on fungal growth: an inference method based on high-resolution pictures of the mycelial network https://hal.science/hal-05149818v2
@@ -83,7 +84,8 @@ We organized two colloquium related to the project
 
 
 # PhD thesis <a name="thesis"></a>
-1. Clara Ledoux, soutenue en 2023, [Caractérisation multi-échelle de la dynamique de croissance d’un réseau fongique : étude du champignon filamenteux *Podospora anserina*]()
+1. Clara Ledoux, soutenue en 2023, [Caractérisation multi-échelle de la dynamique de croissance d’un réseau fongique : étude du champignon filamenteux *Podospora anserina*](https://theses.hal.science/tel-04295508v1)
 2. Thibault Chassereau,soutenue en 2024, [Du local au global: croissance d'une réseau fongique branchant](https://hal.science/tel-05019811v1)
-3. Lena Kuwata, soutenue en 2026, Modélisation de la croissance d'un réseau organisé : le cas des champignons filamenteux
-4. Nicolas fricker, soutenance prévue en 2026  
+3. 	Sebastian Baudelet-Aponte Garcia, soutenue en 2025, [Modélisation multi-échelle du branchement dans les réseaux mycéliens](https://theses.hal.science/tel-05517187)
+4. Lena Kuwata, soutenue en 2026, Modélisation de la croissance d'un réseau organisé : le cas des champignons filamenteux
+5. Nicolas Fricker, soutenance prévue en 2026  
