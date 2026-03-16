@@ -61,7 +61,7 @@ Growth of *Podosora anserina* from a single ascospore on a cellophane sheet. The
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3xO6ZaSSdAI?si=dCLCki75QNaiNEaT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-# colloquium <a name="colloques"></a>
+# Colloquium <a name="colloques"></a>
 We organized two colloquium related to the project 
 1. [NEMATIC (2024)](/colloque_nematic_2024)
 2. [Branching Networks (2025)](/BranchingNetworksFromExperimentToTheory_2025)
