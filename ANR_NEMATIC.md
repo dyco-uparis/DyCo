@@ -87,5 +87,5 @@ We organized two colloquium related to the project
 1. Clara Ledoux, LIED, Université paris Cité, soutenue en 2023, [Caractérisation multi-échelle de la dynamique de croissance d’un réseau fongique : étude du champignon filamenteux *Podospora anserina*](https://theses.hal.science/tel-04295508v1)
 2. Thibault Chassereau, LIED, Université paris Cité, soutenue en 2024, [Du local au global: croissance d'une réseau fongique branchant](https://hal.science/tel-05019811v1)
 3. 	Sebastian Baudelet-Aponte Garcia, LJAD, Université Cote d'Azur, soutenue en 2025, [Modélisation multi-échelle du branchement dans les réseaux mycéliens](https://theses.hal.science/tel-05517187)
-4. Lena Kuwata, MAP5, Université Paris Cité, soutenue en 2026, Modélisation de la croissance d'un réseau organisé : le cas des champignons filamenteux
+4. Lena Kuwata, MAP5, Université Paris Cité, soutenue en 2025, Modélisation de la croissance d'un réseau organisé : le cas des champignons filamenteux
 5. Nicolas Fricker, LJAD, Université Cote d'Azur, soutenance prévue en 2026  
