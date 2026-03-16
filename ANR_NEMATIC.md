@@ -8,6 +8,7 @@ title: ANR_NEMATIC
 # Content
 
 - [Project](#project)
+- [Videos](#videos)
 - [Conferences](#colloques)
 - [Publications](#pubs)
 - [PhD thesis](#thesis)
@@ -52,9 +53,14 @@ fungus Podospora anserina. Beyond the fundamental interest of better understandi
 a filamentous fungus adapts to a competitive environment, it represents a convenient lab-scale model
 for studying the development of filamentous fungi, or even more general living systems networks.
 
+# Videos <a name="videos"></a>
+Some videos are available on youtube:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CsrLAOFjRZI?si=WTWORwflz3jIDGQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3xO6ZaSSdAI?si=dCLCki75QNaiNEaT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-# Colloques <a name="colloques"></a>
+# colloquium <a name="colloques"></a>
 We organized two colloquium related to the project 
 1. [NEMATIC (2024)](/colloque_nematic_2024)
 2. [Branching Networks (2025)](/BranchingNetworksFromExperimentToTheory_2025)
