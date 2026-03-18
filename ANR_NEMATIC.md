@@ -6,7 +6,7 @@ title: ANR_NEMATIC
 
 <div style="display: flex; justify-content: space-between;">
   <img src="/images/ooh.png" alt="Description image 1" width="45%" />
-  <img src="/images/exampleFig3B.png" alt="Description image 2" width="45%" />
+  <img src="/images/Fig3B.png" alt="Description image 2" width="45%" />
 </div>
 
 
