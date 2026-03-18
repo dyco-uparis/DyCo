@@ -3,7 +3,14 @@ layout: page
 title: ANR_NEMATIC
 ---
 
-![imageclosedloop](/images/ooh.png){: width="600px"}
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="/images/ooh.png" alt="Description image 1" width="45%" />
+  <img src="/images/Fig3B.png" alt="Description image 2" width="45%" />
+</div>
+
+
+<!-- ![imageclosedloop](/images/ooh.png){: width="600px"} -->
 
 # Content
 
