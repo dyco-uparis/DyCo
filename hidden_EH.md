@@ -16,7 +16,7 @@ title: Publications
 
 
 <li>
-Nicolas, T., Goupil, C., Herbert, E., & Ball, J. (2026). The Challenge for Adiabatically Heated FRC Based D- He Fusion. J. Fusion Energy, 45(1), 24. doi: 10.1007/s10894-026-00565-z
+Nicolas, T., Goupil, C., Herbert, E., & Ball, J. (2026). The Challenge for Adiabatically Heated FRC Based D- He Fusion. J. Fusion Energy, 45(1), 24. https://doi.org/10.1007/s10894-026-00565-z
 </li>
 
 <li>
