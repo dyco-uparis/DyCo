@@ -14,6 +14,11 @@ title: Publications
 
 <ol reversed>
 
+
+<li>
+Nicolas, T., Goupil, C., Herbert, E., & Ball, J. (2026). The Challenge for Adiabatically Heated FRC Based D- He Fusion. J. Fusion Energy, 45(1), 24. doi: 10.1007/s10894-026-00565-z
+</li>
+
 <li>
 Thibault Chassereau, Florence Chapeland-Leclerc, Éric Herbert, Full identification of a growing and branching network’s spatio-temporal structures, Biophysical Journal, 2024 https://doi.org/10.1016/j.bpj.2024.12.002
 </li>
