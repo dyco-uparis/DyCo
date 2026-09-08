@@ -7,9 +7,10 @@ title: ANR_NEMATIC
 <div style="display: flex; justify-content: space-between;">
   <img src="/images/ooh.png" alt="Description image 1" width="45%" />
   <img src="/images/Fig3B.png" alt="Description image 2" width="45%" />
+</div>
+<div style="text-align: center; margin-top: 10px;">
   <img src="/images/rsos.2026.13.issue-08.cover.gif" alt="Description image 2" width="45%" />
 </div>
-
 
 <!-- ![imageclosedloop](/images/ooh.png){: width="600px"} -->
 
