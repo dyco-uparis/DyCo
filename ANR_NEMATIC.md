@@ -7,6 +7,7 @@ title: ANR_NEMATIC
 <div style="display: flex; justify-content: space-between;">
   <img src="/images/ooh.png" alt="Description image 1" width="45%" />
   <img src="/images/Fig3B.png" alt="Description image 2" width="45%" />
+  <img src="/images/RSOS_cover.gif" alt="Description image 2" width="45%" />
 </div>
 
 
@@ -87,11 +88,11 @@ We organized two colloquium related to the project
 6. Ledoux, C.; Bobée, C.; Cabet, É.; David, P.; Filaine, F.; Hachimi, S.; Lalanne, C.; Ruprich-Robert, G.; Herbert, É.; Chapeland-Leclerc, F. [Characterization of Spatio-Temporal Dynamics of the Constrained Network of the Filamentous Fungus Podospora Anserina Using a Geomatics-Based Approach](https://doi.org/10.1371/journal.pone.0297816). PLOS ONE 2024, 19 (2), e0297816.
 7. Chassereau, T.; Chapeland-Leclerc, F.; Herbert, É. [Full Identification of a Growing and Branching Network’s Spatio-Temporal Structures](https://doi.org/10.1016/j.bpj.2024.12.002). Biophysical Journal 2025, 124 (2), 284–296.
 8. Béthencourt, L., Catellier, R., & Tanré, E. (2025). [Brownian Particles Controlled by Their Occupation Measure](https://epubs.siam.org/doi/full/10.1137/24M1656220). SIAM J. Control Optim.
+9. Thibault Chassereau, Florence Chapeland-Leclerc, Eric Herbert, (2026) [Direct Evidence of Apex-Hypha Interactions During Vegetative Growth of Fungal Thallus via Comprehensive Network and Trajectory Extraction](https://royalsocietypublishing.org/rsos/article/13/9/260671/483168/Direct-evidence-of-apex-hypha-interactions-during). R. Soc. Open Sci.
 
 ##  To be published
 1.  Lena Kuwata, Thibault Chassereau, Florence Chapeland-Leclerc, Pascal David, Eric Herbert, Gwenaël Ruprich-Robert, Milica Tomašević, Amandine Véber, Quantifying the impact of different forms of stress on fungal growth: an inference method based on high-resolution pictures of the mycelial network https://hal.science/hal-05149818v2
-2. Thibault Chassereau, Florence Chapeland-Leclerc, Eric Herbert, Direct Evidence of Apex-Hypha Interactions During Vegetative Growth of Fungal Thallus via Comprehensive Network and Trajectory Extraction, https://arxiv.org/abs/2507.06280
-3. Sebastian Baudelet, Claire Guerrier. A simple formula for the coalescence dynamics in the case of a linear kernel, with application to branching in filamentous fungi. 2025. ⟨hal-05322999⟩ https://hal.science/hal-05322999v1
+2. Sebastian Baudelet, Claire Guerrier. A simple formula for the coalescence dynamics in the case of a linear kernel, with application to branching in filamentous fungi. 2025. ⟨hal-05322999⟩ https://hal.science/hal-05322999v1
 
 
 # PhD thesis <a name="thesis"></a>
