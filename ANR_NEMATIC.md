@@ -7,7 +7,7 @@ title: ANR_NEMATIC
 <div style="display: flex; justify-content: space-between;">
   <img src="/images/ooh.png" alt="Description image 1" width="45%" />
   <img src="/images/Fig3B.png" alt="Description image 2" width="45%" />
-  <img src="/images/RSOS_cover.gif" alt="Description image 2" width="45%" />
+  <img src="/images/rsos.2026.13.issue-08.cover.gif" alt="Description image 2" width="45%" />
 </div>
 
 
