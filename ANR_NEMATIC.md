@@ -90,10 +90,10 @@ We organized two colloquium related to the project
 7. Chassereau, T.; Chapeland-Leclerc, F.; Herbert, É. [Full Identification of a Growing and Branching Network’s Spatio-Temporal Structures](https://doi.org/10.1016/j.bpj.2024.12.002). Biophysical Journal 2025, 124 (2), 284–296.
 8. Béthencourt, L., Catellier, R., & Tanré, E. (2025). [Brownian Particles Controlled by Their Occupation Measure](https://epubs.siam.org/doi/full/10.1137/24M1656220). SIAM J. Control Optim.
 9. Thibault Chassereau, Florence Chapeland-Leclerc, Eric Herbert, (2026) [Direct Evidence of Apex-Hypha Interactions During Vegetative Growth of Fungal Thallus via Comprehensive Network and Trajectory Extraction](https://royalsocietypublishing.org/rsos/article/13/9/260671/483168/Direct-evidence-of-apex-hypha-interactions-during). R. Soc. Open Sci.
+10. Kuwata, L., Chassereau, T., Chapeland-Leclerc, F., David, P., Herbert, E., Ruprich-Robert, G., ...Véber, A. (2026). [Quantifying the impact of different forms of stress on fungal growth: An inference method based on high-resolution pictures of the mycelial network](https://www.sciencedirect.com/science/article/pii/S004058092600050X?via%3Dihub). Theor. Popul. Biol. doi: 10.1016/j.tpb.2026.08.002
 
 ##  To be published
-1.  Lena Kuwata, Thibault Chassereau, Florence Chapeland-Leclerc, Pascal David, Eric Herbert, Gwenaël Ruprich-Robert, Milica Tomašević, Amandine Véber, Quantifying the impact of different forms of stress on fungal growth: an inference method based on high-resolution pictures of the mycelial network https://hal.science/hal-05149818v2
-2. Sebastian Baudelet, Claire Guerrier. A simple formula for the coalescence dynamics in the case of a linear kernel, with application to branching in filamentous fungi. 2025. ⟨hal-05322999⟩ https://hal.science/hal-05322999v1
+1. Sebastian Baudelet, Claire Guerrier. A simple formula for the coalescence dynamics in the case of a linear kernel, with application to branching in filamentous fungi. 2025. ⟨hal-05322999⟩ https://hal.science/hal-05322999v1
 
 
 # PhD thesis <a name="thesis"></a>
