@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '25 novembre 2026: Colloque rupture de stock'
+title: '25 novembre 2026: Colloque'
 ---
 
 
@@ -41,28 +41,28 @@ Nous espérons vous voir nombreuses et nombreux à cet événement !
 | Horaire | Séquence |
 |---|---|
 | 08h45 | ☕ Accueil café |
-| 09h10 | Introduction et présentation de la journée, *Maximilien Cazayous* |
+| 09h10 | Introduction et présentation de la journée, *Maximilien Cazayous* (Doyen de la faculté des sciences Université Paris Cité)|
 
 ### ☀️ Matin : contraintes
 
 | Horaire | Intervenant·e | Sujet |
 |---|---|---|
-| 09h25 | **Patrick Brocorens** (ASPO France) | Prospectives de disponibilité et rapports de force des acteurs des gisements |
-| | **Florian Vidal** (École de guerre) | Contraintes géopolitiques : le retour des empires |
-| | **Éric Herbert & Petros Chatzimpiros** (LIED, UPCité) | Transition énergétique : au-delà du mix primaire |
-| | **Nadia Maïzi** (Mines Paris, CMA) | Contraintes des modélisations |
+| 09h25 | **Patrick Brocorens** (chimiste, ASPO France) | Sous la surface des chiffres : anatomie de l'épuisement des hydrocarbures |
+| | **Florian Vidal** (politiste, École de guerre) | Contraintes géopolitiques : le retour des empires |
+| | **Éric Herbert & Petros Chatzimpiros** (LIED, UPCité) | Chapitre 1 de Rupture de Stock : transition |
+| | **Nadia Maïzi** (ingénieure mathématicienne, Mines Paris, CMA) | Contraintes des modélisations |
 | 11h00 | | Pause |
-| 11h20 | **Ludo Torbey & Stéphane Lambert** ([Osons causer](https://lnkd.in/eWTNd8W7)) | Table ronde |
+| 11h20 |  Table ronde | animée par **Ludo Torbey** ([Osons causer](https://lnkd.in/eWTNd8W7)) |
 | 12h30 | | 🍽️ Déjeuner buffet sur place |
 
 ### 🌇 Après-midi : prospective
 
 | Horaire | Intervenant·e | Sujet |
 |---|---|---|
-| 14h00 | **Gilles Ramstein** (CEA, LSCE) | Une transition sous contrainte climatique |
-| | **Yanis Chaigneau** (Min. Transition) | Stratégies pour gouverner la transition |
-| | **Gaël Giraud** (CNRS, LIED) | Une trajectoire net zéro soutenable pour la France |
-| | **Cyprien Drommi, Joseph Le Bihan, Thomas Lapi** | Transition vers le flux sans à-coups : industrielle et agricole |
+| 14h00 | **Gilles Ramstein** (paleoclimatologue, CEA, LSCE) | Une transition sous contrainte climatique |
+| | **Yanis Chaigneau** (Ministère de la transition) | Stratégies pour gouverner la transition |
+| | **Gaël Giraud** (économiste CNRS, LIED) | Une trajectoire net zéro soutenable pour la France et l'Europe|
+| | **Cyprien Drommi, Joseph Le Bihan, Thomas Lapi** | Chapitre 2-4 de Rupture de Stock : prospective |
 | 15h30 | | Pause |
-| 15h50 | **Marina Julienne** (Journal du CNRS) | Table ronde |
+| 15h50 | Table ronde | animée par **Marina Julienne** (Journal du CNRS) | 
 | 17h00 | | Conclusion |
