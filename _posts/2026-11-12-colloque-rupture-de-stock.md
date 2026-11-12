@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '25 novembre 2026: Colloque'
+title: 'Colloque du 25 novembre 2026'
 ---
 
 
@@ -41,28 +41,28 @@ Nous espérons vous voir nombreuses et nombreux à cet événement !
 | Horaire | Séquence |
 |---|---|
 | 08h45 | ☕ Accueil café |
-| 09h10 | Introduction et présentation de la journée, *Maximilien Cazayous* (Doyen de la faculté des sciences Université Paris Cité)|
+| 09h10 | Introduction et présentation de la journée, **Maximilien Cazayous** (Doyen de la faculté des sciences, Université Paris Cité)|
 
 ### ☀️ Matin : contraintes
 
-| Horaire | Intervenant·e | Sujet |
+| Horaire | Intervention de | Sujet |
 |---|---|---|
 | 09h25 | **Patrick Brocorens** (chimiste, ASPO France) | Sous la surface des chiffres : anatomie de l'épuisement des hydrocarbures |
 | | **Florian Vidal** (politiste, École de guerre) | Contraintes géopolitiques : le retour des empires |
 | | **Éric Herbert & Petros Chatzimpiros** (LIED, UPCité) | Chapitre 1 de Rupture de Stock : transition |
 | | **Nadia Maïzi** (ingénieure mathématicienne, Mines Paris, CMA) | Contraintes des modélisations |
 | 11h00 | | Pause |
-| 11h20 |  Table ronde | animée par **Ludo Torbey** ([Osons causer](https://lnkd.in/eWTNd8W7)) |
+| 11h20 |   | Table ronde animée par **Ludo Torbey** ([Osons causer](https://lnkd.in/eWTNd8W7)) |
 | 12h30 | | 🍽️ Déjeuner buffet sur place |
 
 ### 🌇 Après-midi : prospective
 
-| Horaire | Intervenant·e | Sujet |
+| Horaire | Intervention de | Sujet |
 |---|---|---|
 | 14h00 | **Gilles Ramstein** (paleoclimatologue, CEA, LSCE) | Une transition sous contrainte climatique |
 | | **Yanis Chaigneau** (Ministère de la transition) | Stratégies pour gouverner la transition |
 | | **Gaël Giraud** (économiste CNRS, LIED) | Une trajectoire net zéro soutenable pour la France et l'Europe|
 | | **Cyprien Drommi, Joseph Le Bihan, Thomas Lapi** | Chapitre 2-4 de Rupture de Stock : prospective |
 | 15h30 | | Pause |
-| 15h50 | Table ronde | animée par **Marina Julienne** (Journal du CNRS) | 
+| 15h50 |  | Table ronde animée par **Marina Julienne** (Journal du CNRS) | 
 | 17h00 | | Conclusion |
