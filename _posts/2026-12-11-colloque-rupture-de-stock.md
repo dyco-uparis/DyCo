@@ -6,7 +6,7 @@ title: '25 novembre 2026: Colloque rupture de stock'
 
 # Rupture de Stock : comprendre le cadre du défi énergétique
 
-![*Podospora anserina* thallus growth](/images/Colloque-RuptureDeStock-OKweb){: width="500px"}
+![*Rupture de stock](/images/Colloque-RuptureDeStock-OKweb){: width="500px"}
 
 
 Entre **technosolutionnistes qui nient le problème** et **effondristes fatalistes qui nient la solution**, la problématique de la transition énergétique demeure masquée.
